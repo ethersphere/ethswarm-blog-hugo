@@ -1,0 +1,104 @@
+<div class="sticky flex justify-between top-4 sm:block sm:space-y-12">
+  <div class="hidden sm:block">
+    <h3 class="mb-4 text-lg font-bold leading-[21px] text-gray-500">
+      Jump to:
+    </h3>
+
+    {{ .TableOfContents }}
+  </div>
+
+  <div>
+    <h3 class="mb-4 text-lg font-bold leading-[21px] text-gray-500">
+      Published in:
+    </h3>
+    {{ $category := index (.Param "categories") 0 }}
+
+    {{ partial "partials/category.html" $category }}
+  </div>
+
+  <div>
+    <h3 class="mb-4 text-lg font-bold leading-[21px] text-gray-500">
+      Share to:
+    </h3>
+    <ul class="flex space-x-3">
+      <li x-data="{ url: window.location.href, show: false }">
+        <button
+          class="relative text-gray-500 duration-150 hover:text-gray-900"
+          x-on:click="window.navigator.clipboard.writeText(url);show = true;setTimeout(() => show = false, 2000)"
+        >
+          <span
+            x-cloak
+            x-transition
+            x-show="show"
+            class="absolute left-0 w-32 text-left text-gray-500 -bottom-8"
+            >Link copied!</span
+          >
+          <svg
+            class="w-6 h-6"
+            viewBox="0 0 24 24"
+            fill="none"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M12 1a11 11 0 1 0 0 22 11 11 0 0 0 0-22Z"
+              fill="currentColor"
+            />
+            <path
+              d="M11.3 12.7c-1-1-1-2.55 0-3.55l1.4-1.4c1-1 2.55-1 3.55 0s1 2.55 0 3.55L15 12.5"
+              stroke="#fff"
+              stroke-width="1.3"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            />
+            <path
+              d="M12.7 11.3c1 1 1 2.55 0 3.55l-1.4 1.4c-1 1-2.55 1-3.55 0s-1-2.55 0-3.55L9 11.5"
+              stroke="#fff"
+              stroke-width="1.3"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            />
+          </svg>
+        </button>
+      </li>
+      <li
+        x-data="{ url: `https://twitter.com/intent/tweet?url=${encodeURIComponent(window.location.href)}` }"
+      >
+        <a
+          x-bind:href="url"
+          class="text-gray-500 duration-150 hover:text-gray-900"
+        >
+          <svg
+            class="w-6 h-6"
+            viewBox="0 0 24 24"
+            fill="none"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M23.14 5.13c-.84.38-1.67.65-2.6.75a4.94 4.94 0 0 0 2.04-2.5c-.93.55-1.86.92-2.88 1.1A4.5 4.5 0 0 0 16.36 3a4.55 4.55 0 0 0-4.54 4.55c0 .37 0 .74.09 1.02a12.81 12.81 0 0 1-9.47-4.83 4.19 4.19 0 0 0-.64 2.32c0 1.58.83 2.97 2.04 3.8-.75 0-1.49-.18-2.04-.55v.1a4.5 4.5 0 0 0 3.61 4.45c-.37.09-.74.18-1.2.18-.28 0-.56 0-.84-.1a4.4 4.4 0 0 0 4.27 3.16 9.28 9.28 0 0 1-5.66 1.95c-.37 0-.74 0-1.11-.1A12.99 12.99 0 0 0 7.83 21c8.44 0 12.99-6.96 12.99-12.99v-.56a11 11 0 0 0 2.32-2.32Z"
+              fill="currentColor"
+            />
+          </svg>
+        </a>
+      </li>
+      <li
+        x-data="{ url: `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(window.location.href)}` }"
+      >
+        <a
+          x-bind:href="url"
+          class="text-gray-500 duration-150 hover:text-gray-900"
+        >
+          <svg
+            class="w-6 h-6"
+            viewBox="0 0 24 24"
+            fill="none"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M21.17 2H2.83c-.5 0-.83.33-.83.83v18.34c0 .5.33.83.83.83h18.34c.5 0 .83-.33.83-.83V2.83c0-.5-.33-.83-.83-.83ZM7.92 19.08H5V9.5h3v9.58h-.08ZM6.42 8.17c-.92 0-1.75-.75-1.75-1.75 0-.92.75-1.75 1.75-1.75.91 0 1.75.75 1.75 1.75s-.75 1.75-1.75 1.75Zm12.66 10.91h-3v-4.66c0-1.09 0-2.5-1.5-2.5-1.58 0-1.75 1.16-1.75 2.41v4.75h-3V9.5h2.84v1.33c.41-.75 1.33-1.5 2.83-1.5 3 0 3.58 2 3.58 4.59v5.16Z"
+              fill="currentColor"
+            /></svg
+        ></a>
+      </li>
+    </ul>
+  </div>
+</div>

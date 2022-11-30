@@ -1,0 +1,125 @@
+{{ $featured := slice }}
+
+{{ $featured_blog := .Param "featured_blog" }}
+{{ $featured_page := .Param "featured" }}
+
+{{ $featured_sec_first_blog := .Param "featured_secondary_first_blog" }}
+{{ $featured_sec_second_blog := .Param "featured_secondary_second_blog" }}
+{{ $featured_sec_first_page := .Param "featured_secondary_first" }}
+{{ $featured_sec_second_page := .Param "featured_secondary_second" }}
+
+
+<div class="sm:mb-22 mb-14">
+  <div class="mx-auto sm:space-y-22 max-w-7xl">
+    {{ range site.Home.AllTranslations }}
+      {{ if eq $featured_blog .Site.Language.Lang }}
+        {{ with .Site.GetPage $featured_page }}
+          {{ $featured = $featured | append . }}
+          {{ partial "partials/articles/featured.html" . }}
+        {{ end }}
+      {{ end }}
+
+      {{ if eq $featured_sec_first_blog .Site.Language.Lang }}
+        {{ with .Site.GetPage $featured_sec_first_page }}
+          {{ $featured = $featured | append . }}
+        {{ end }}
+      {{ end }}
+
+      {{ if eq $featured_sec_second_blog .Site.Language.Lang }}
+        {{ with .Site.GetPage $featured_sec_second_page }}
+          {{ $featured = $featured | append . }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+
+
+    <div class="grid grid-cols-1 mx-4 gap-14 sm:mx-6 sm:hidden sm:grid-cols-12">
+      {{ range $featured.Reverse }}
+        {{ partial "partials/articles/default.html" . }}
+      {{ end }}
+    </div>
+  </div>
+</div>
+
+{{ $pages := slice }}
+
+{{ range site.Home.AllTranslations }}
+  {{ $pages = $pages | union .Site.RegularPages }}
+{{ end }}
+
+{{ $pages = (where $pages "Type" "posts").ByDate.Reverse }}
+
+{{ $development := where $pages "Params.categories" "intersect" (slice "Development") }}
+
+{{ $other := $pages | complement $development $featured }}
+
+
+<div class="sm:mb-22 mb-14">
+  <div class="mx-4 sm:mx-6">
+    <div class="mx-auto sm:space-y-22 max-w-7xl">
+      <!-- 4 Posts -->
+      <div class="sm:gap-7.5 grid grid-cols-1 gap-14 sm:grid-cols-12">
+        <!-- Fetch pages that are not in featured -->
+
+        {{ range first 4 $other }}
+          {{ partial "partials/articles/default.html" . }}
+        {{ end }}
+      </div>
+
+      <!-- 2 Posts -->
+      <div class="sm:gap-7.5 grid grid-cols-1 gap-14 sm:grid-cols-12">
+        {{ range site.Home.AllTranslations }}
+          {{ if eq $featured_sec_first_blog .Site.Language.Lang }}
+            {{ with .Site.GetPage $featured_sec_first_page }}
+              {{ partial "partials/articles/large.html" . }}
+            {{ end }}
+          {{ end }}
+
+          {{ if eq $featured_sec_second_blog .Site.Language.Lang }}
+            {{ with .Site.GetPage $featured_sec_second_page }}
+              {{ partial "partials/articles/large.html" . }}
+            {{ end }}
+          {{ end }}
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Development updates -->
+<section class="bg-swarm-blue sm:py-22 py-14">
+  <div class="mx-4 sm:mx-6">
+    <div class="mx-auto max-w-7xl">
+      <h2
+        class="text-[32px] font-bold leading-[1.25] tracking-[-0.02em] text-gray-900"
+      >
+        Swarm
+        <a
+          href="/c/development"
+          class="text-gray-900 underline duration-150 hover:text-opacity-70"
+          >Development</a
+        >
+        updates
+      </h2>
+
+      <div class="sm:gap-7.5 mt-12 grid grid-cols-1 gap-14 sm:grid-cols-12">
+        {{ range first 4 $development }}
+          {{ partial "partials/articles/text.html" . }}
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="mx-4 sm:mx-6">
+  <section class="mx-auto sm:mt-22 mt-14 max-w-7xl">
+    <!-- 8 Posts -->
+    <div class="gap-x-7.5 gap-y-22 grid grid-cols-1 sm:grid-cols-12">
+      {{ range first 8 (after 4 $other) }}
+        {{ partial
+          "partials/articles/default.html" .
+        }}
+      {{ end }}
+    </div>
+  </section>
+</div>

@@ -1,0 +1,13 @@
+{{ $lang := .Site.Language.Lang }}
+
+{{ if eq $lang "foundation" }}
+  bg-swarm-blue
+{{ else if eq $lang "hive" }}
+  bg-swarm-yellow
+{{ else if eq $lang "fds" }}
+  bg-swarm-green
+{{ else if eq $lang "wam" }}
+  bg-swarm-purple
+{{ else }}
+  bg-swarm-gray
+{{ end }}

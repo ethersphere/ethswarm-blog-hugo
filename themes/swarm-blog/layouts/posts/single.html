@@ -1,0 +1,81 @@
+{{ define "header" }}
+  <header class="bg-swarm-gray">
+    {{- partial "header.html" . -}}
+  </header>
+{{ end }}
+
+{{ define "main" }}
+  <div class="mx-4 sm:mx-6" data-pagefind-body>
+    <div class="space-y-7.5 md:space-y-22 mx-auto max-w-7xl">
+      <div class="gap-7.5 grid grid-cols-1 sm:grid-cols-12">
+        <div class="col-span-3 text-sm font-medium text-gray-500">
+          {{ .Date.Format "January 2, 2006" }}
+        </div>
+        <div class="col-span-8 lg:col-span-6">
+          <span class="text-sm font-medium text-gray-500">
+            {{ partial "partials/tag.html" . }}
+          </span>
+          <h1
+            class="mt-6 text-4xl font-bold tracking-[-2px] text-gray-900 md:text-[53px] md:leading-[60px]"
+          >
+            {{ .Title }}
+          </h1>
+        </div>
+      </div>
+
+      {{ with .Params.banner }}
+        <div class="mt-7.5 md:mt-22">
+          <img
+            src="{{ . | relURL }}"
+            alt=""
+            class="object-cover w-full aspect-video"
+          />
+        </div>
+      {{ end }}
+
+
+      <div class="gap-7.5 mt-22 grid grid-cols-1 sm:grid-cols-12">
+        <aside class="relative sm:col-span-3" data-pagefind-ignore>
+          {{ partial "partials/aside.html" . }}
+        </aside>
+        <article class="sm:col-span-8 lg:col-span-6">
+          <div class="content">
+            {{ .Content }}
+          </div>
+
+          {{ with .Params.references_and_footnotes }}
+            <div
+              class="mt-7.5 bg-gray-90 footnotes p-8 text-xs leading-normal md:mt-16"
+            >
+              <h3 class="font-bold">References and footnotes</h3>
+              <ol class="mt-[18px] space-y-[18px] pl-0">
+                {{ range . }}
+                  <li>{{ . }}</li>
+                {{ end }}
+              </ol>
+            </div>
+          {{ end }}
+
+          {{ partial "partials/social.html" . }}
+        </article>
+
+        <div class="mt-7.5 md:mt-22 sm:col-span-12" data-pagefind-ignore>
+          {{ $related := .Site.RegularPages.Related . | first 4 }}
+
+
+          <h2 class="text-[32px] leading-[40px] tracking-[-2%] text-gray-900">
+            Read more…
+          </h2>
+
+          <div
+            class="md:gap-7.5 mt-7.5 grid grid-cols-1 gap-10 sm:grid-cols-12 md:mt-16"
+          >
+            {{ range $related }}
+              {{ partial "partials/articles/default.html" . }}
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+{{ end }}

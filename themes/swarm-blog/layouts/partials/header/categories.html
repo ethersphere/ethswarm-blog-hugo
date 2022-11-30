@@ -1,0 +1,33 @@
+{{ $term := .Page.Data.Term }}
+
+
+<div
+  class="flex space-y-[2px] space-x-[2px] overflow-x-scroll py-[28px] text-sm font-medium leading-4 text-gray-900 md:flex-wrap md:overflow-auto"
+>
+  <a
+    {{ if $term }}
+      class="px-3 py-2 mt-[2px] transition duration-150 hover:bg-gray-900
+      hover:text-gray-100"
+    {{ else }}
+      class="px-3 py-2 mt-[2px] text-gray-100 transition duration-150
+      bg-gray-900"
+    {{ end }}
+    href="{{ "/" | relLangURL }}"
+  >
+    All
+  </a>
+
+  {{ range $key, $value := .Site.Taxonomies.categories }}
+
+    <a
+      {{ if eq $term ($key | humanize) }}
+        class="px-3 py-2 text-gray-100 transition duration-150 bg-gray-900"
+      {{ else }}
+        class="px-3 py-2 transition duration-150 hover:bg-gray-900 hover:text-gray-100"
+      {{ end }}
+      href="{{ "/c/" | relLangURL }}{{ $key | urlize }}"
+    >
+      {{ $key | humanize }}
+    </a>
+  {{ end }}
+</div>

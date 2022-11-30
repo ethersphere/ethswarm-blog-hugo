@@ -1,0 +1,54 @@
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="content-language" content="en" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  {{/* Title */}}
+  {{ if .IsHome -}}
+    <title>{{ .Site.Title | emojify }}</title>
+    <meta name="title" content="{{ .Site.Title | emojify }}" />
+  {{- else -}}
+    <title>{{ .Title | emojify }} &middot; {{ .Site.Title | emojify }}</title>
+    <meta
+      name="title"
+      content="{{ .Title | emojify }} &middot; {{ .Site.Title | emojify }}"
+    />
+  {{- end }}
+  {{/* Metadata */}}
+  {{ with .Site.Params.description -}}
+    <meta name="description" content="{{ . }}" />
+  {{- end }}
+
+
+  <link rel="canonical" href="{{ .Permalink }}" />
+  {{ range .AlternativeOutputFormats -}}
+    {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .RelPermalink ($.Site.Title | emojify) | safeHTML }}
+  {{ end -}}
+  {{/* Asset bundles */}}
+  {{ $assets := newScratch }}
+  {{ $cssMain := resources.Get "css/compiled/main.css" }}
+  {{ $assets.Add "css" (slice $cssMain) }}
+  {{ $cssCustom := resources.Get "css/custom.css" }}
+  {{ if $cssCustom }}
+    {{ $assets.Add "css" (slice $cssCustom) }}
+  {{ end }}
+  {{ $bundleCSS := $assets.Get "css" | resources.Concat "css/main.bundle.css" | resources.Minify | resources.Fingerprint "sha512" }}
+  <link
+    type="text/css"
+    rel="stylesheet"
+    href="{{ $bundleCSS.RelPermalink }}"
+    integrity="{{ $bundleCSS.Data.Integrity }}"
+  />
+
+  {{/* Alpine.js */}}
+  <script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
+
+  {{/* Icons */}}
+  <link rel="icon" href="/favicon.png" />
+
+  {{/* Social */}}
+  {{ template "_internal/opengraph.html" . }}
+  {{ template "_internal/twitter_cards.html" . }}
+  {{/* Analytics */}}
+  {{ partialCached "analytics.html" .Site }}
+</head>

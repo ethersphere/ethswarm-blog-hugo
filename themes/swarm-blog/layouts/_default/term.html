@@ -1,0 +1,45 @@
+{{ define "header" }}
+  <header class="{{ partial "partials/color.html" . }}">
+    {{- partial "header.html" . -}}
+  </header>
+
+  {{ $description := "" }}
+
+  {{ with .Site.GetPage "/" }}
+    {{ $description = .Description }}
+  {{ end }}
+
+  {{ .Scratch.Set "description" $description }}
+  {{ partial "partials/header/subheader.html" . }}
+{{ end }}
+
+{{ define "main" }}
+  {{ $lang := .Site.Language.Lang }}
+  {{ $pages := slice }}
+  {{/* If site language is english, fetch from all languages */}}
+  {{ if eq $lang "en" }}
+    {{ range site.Home.AllTranslations }}
+      {{ $pages = $pages | union .Site.RegularPages }}
+    {{ end }}
+  {{ else }}
+    {{ $pages = $pages | union .Site.RegularPages }}
+  {{ end }}
+
+  {{ $pages = (where $pages "Type" "posts").ByDate.Reverse }}
+  {{ $term := .Page.Data.Term }}
+
+  {{ $pages = where $pages "Params.categories" "intersect" (slice $term) }}
+  <section>
+    <div class="mx-4 sm:mx-6">
+      <div class="mx-auto space-y-22 max-w-7xl">
+        <div
+          class="sm:gap-y-22 sm:gap-x-7.5 grid grid-cols-1 gap-14 sm:grid-cols-12"
+        >
+          {{ range $pages }}
+            {{ partial "partials/articles/default.html" . }}
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </section>
+{{ end }}

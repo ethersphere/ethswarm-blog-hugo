@@ -1,0 +1,14 @@
+# Swarm Blog theme for Hugo
+
+name = "swarm-blog"
+license = "MIT"
+licenselink = "https://github.com/"
+description = "Swarm blogging theme"
+
+homepage = "https://github.com/"
+
+tags = ["blog", "minimal", "responsive", "tailwind", "swarm"]
+
+[author]
+  name = "Martin K"
+  homepage = "https://github.com/martink635"

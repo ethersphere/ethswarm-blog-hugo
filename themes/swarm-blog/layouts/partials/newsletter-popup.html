@@ -1,0 +1,122 @@
+<div class="">
+  <div
+    x-cloak
+    x-show="showModal"
+    x-transition.opacity
+    class="fixed inset-0 w-full h-full overflow-auto bg-white/90 backdrop-blur-sm"
+  ></div>
+  <div
+    x-cloak
+    x-show="showModal"
+    x-transition
+    class="fixed inset-0 z-50 flex items-center justify-center w-full h-full"
+  >
+    <button
+      class="absolute text-gray-500 duration-100 top-4 right-4 hover:text-gray-900 md:top-6 md:right-6"
+    >
+      <span class="sr-only">Close popup</span>
+      <svg
+        width="48"
+        height="48"
+        viewBox="0 0 48 48"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M39.4 8.6C38.6 7.8 37.4 7.8 36.6 8.6L24 21.2L11.4 8.6C10.6 7.8 9.4 7.8 8.6 8.6C7.8 9.4 7.8 10.6 8.6 11.4L21.2 24L8.6 36.6C7.8 37.4 7.8 38.6 8.6 39.4C9 39.8 9.4 40 10 40C10.6 40 11 39.8 11.4 39.4L24 26.8L36.6 39.4C37 39.8 37.6 40 38 40C38.4 40 39 39.8 39.4 39.4C40.2 38.6 40.2 37.4 39.4 36.6L26.8 24L39.4 11.4C40.2 10.6 40.2 9.4 39.4 8.6Z"
+          fill="currentColor"
+        />
+      </svg>
+    </button>
+    <div
+      class="relative max-w-2xl mx-auto text-lg"
+      x-on:click.away="showModal = false"
+    >
+      <form
+        class="flex flex-col px-6 md:flex-row"
+        autocomplete="false"
+        role="form"
+        method="post"
+        action="https://mautic.int.ethswarm.org/form/submit?formId=4"
+        id="mauticform_websitenewslettersubscription"
+        data-mautic-form="websitenewslettersubscription"
+        enctype="multipart/form-data"
+      >
+        <label class="sr-only" for="mauticform[email_address]">Email</label>
+        <input
+          x-ref="input"
+          id="mauticform_input_websitenewslettersubscription_email_address"
+          name="mauticform[email_address]"
+          type="email"
+          placeholder="Enter your email address"
+          class="flex-grow bg-gray-500 px-4 leading-[3rem] text-white outline-none placeholder:text-white md:mr-6"
+          required
+        />
+
+        <input
+          type="hidden"
+          name="mauticform[formId]"
+          id="mauticform_websitenewslettersubscription_id"
+          value="4"
+        />
+        <input
+          type="hidden"
+          name="mauticform[return]"
+          id="mauticform_websitenewslettersubscription_return"
+          value=""
+        />
+        <input
+          type="hidden"
+          name="mauticform[formName]"
+          id="mauticform_websitenewslettersubscription_name"
+          value="websitenewslettersubscription"
+        />
+        <input
+          name="mauticform[gdpr_accepted]"
+          id="mauticform_radiogrp_radio_gdpr_accepted_Yes0"
+          type="hidden"
+          value="1"
+        />
+        <input
+          name="mauticform[i_consent_to_gathering_an]"
+          id="mauticform_radiogrp_radio_i_consent_to_gathering_an_Yes0"
+          type="hidden"
+          value="1"
+        />
+
+        <button
+          name="mauticform[submit]"
+          id="mauticform_input_websitenewslettersubscription_submit"
+          value=""
+          type="submit"
+          class="mt-4 flex items-center self-center bg-gray-500 px-4 font-semibold uppercase leading-[3rem] tracking-wider text-white duration-100 hover:bg-gray-900 md:mt-0"
+        >
+          <span>Subscribe</span>
+          <svg
+            class="flex-shrink-0 ml-4"
+            width="8"
+            height="14"
+            viewBox="0 0 8 14"
+            fill="none"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M1.69764 13.5L0 11.8024L4.80236 7L0 2.19764L1.69764 0.5L7.34882 6.15118C7.81825 6.62061 7.81825 7.37939 7.34882 7.84882L1.69764 13.5Z"
+              fill="currentColor"
+            />
+          </svg>
+        </button>
+      </form>
+
+      <div
+        class="px-6 mt-8 text-sm leading-6 text-gray-500 md:mr-8 md:text-base"
+      >
+        <p>
+          By clicking on Subscribe you consent to usage of your given e-mail
+          address for receiving communication and news about the Swarm project
+          and news. Data will be controlled and processed by Swarm Foundation.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>

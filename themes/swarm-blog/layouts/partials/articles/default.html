@@ -1,0 +1,33 @@
+<div class="sm:col-span-6 lg:col-span-3">
+  <a href="/{{ substr .RelPermalink 1 }}" class="group">
+    {{ with .Params.banner }}
+      <img
+        src="{{ . | relURL }}"
+        alt=""
+        class="object-cover w-full aspect-video"
+      />
+    {{ else }}
+      <img src="/default.png" alt="" class="object-cover w-full aspect-video" />
+    {{ end }}
+
+
+    <h3
+      class="line-clamp-2 mt-5 text-2xl font-bold leading-[1.25] tracking-[-0.02em] group-hover:underline"
+    >
+      {{ .Title }}
+    </h3>
+    <div class="mt-3 mr-8 text-gray-500">
+      <p class="line-clamp-3">{{ .Description }}</p>
+    </div>
+  </a>
+  <div class="flex items-center mt-4 space-x-3 text-xs text-gray-500">
+    <span>{{ .Date.Format "Jan 2" }}</span>
+
+    {{ partial "partials/tag.html" . }}
+
+    {{ if isset .Params "categories" }}
+      {{ $category := index (.Param "categories") 0 }}
+      {{ partial "partials/category.html" $category }}
+    {{ end }}
+  </div>
+</div>

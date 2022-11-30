@@ -1,0 +1,17 @@
+{{ $pages := .Site.RegularPages }}
+{{ $pages = (where $pages "Type" "posts").ByDate.Reverse }}
+
+
+<div class="mx-4 sm:mx-6">
+  <div class="mx-auto space-y-22 max-w-7xl">
+    <div
+      class="sm:gap-x-7.5 sm:gap-y-22 grid grid-cols-1 gap-14 sm:grid-cols-12"
+    >
+      {{ range $pages }}
+        {{ partial
+          "partials/articles/default.html" .
+        }}
+      {{ end }}
+    </div>
+  </div>
+</div>

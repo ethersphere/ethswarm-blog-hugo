@@ -1,0 +1,18 @@
+{{ define "header" }}
+  <header class="bg-swarm-gray">
+    {{- partial "header.html" . -}}
+  </header>
+{{ end }}
+
+{{ define "main" }}
+  <div class="max-w-xl px-6 mx-auto">
+    <h1 class="mb-3 font-extrabold text-8xl">404</h1>
+    <p class="mt-8 mb-12 text-neutral-400 dark:text-neutral-500">Error 404</p>
+    <div class="prose dark:prose-invert">
+      <p>
+        Page does not exist. Try using the search function or go back
+        <a href="/">home</a>.
+      </p>
+    </div>
+  </div>
+{{ end }}

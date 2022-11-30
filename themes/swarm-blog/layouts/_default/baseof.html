@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  {{- partial "head.html" . -}}
+  <body
+    class="antialiased scroll-smooth"
+    x-data="{ showModal: false }"
+    x-on:keydown.window.escape="showModal = false"
+  >
+    {{ block "header" . }}{{ end }}
+
+
+    <main
+      class="sm:py-22 min-h-[calc(100vh-616px)] py-14 md:min-h-[calc(100vh-380px)]"
+    >
+      {{ block "main" . }}{{ end }}
+    </main>
+
+    {{- partial "footer.html" . -}}
+
+    {{ partial "partials/newsletter-popup.html" . }}
+  </body>
+</html>

@@ -1,0 +1,39 @@
+<figure class="pt-4 pb-2" x-data="{ open: false }">
+  <div
+    class="fixed inset-0 w-full h-full duration-75 bg-black"
+    :class="open ? 'opacity-75' : 'pointer-events-none opacity-0'"
+    @click="open = false"
+  ></div>
+  <img
+    src="{{ .Get "src" }}"
+    alt="{{ with .Get "alt" }}
+      {{ . }}
+    {{ else }}
+      {{ .Get "caption" | markdownify| plainify }}
+    {{ end }}"
+    class="duration-75"
+    :class="open ? 'fixed inset-0 w-full h-full object-contain' : 'w-auto h-auto'"
+    @click="open = false"
+  />
+
+  <figcaption class="flex items-start space-x-4 text-xs text-gray-400">
+    <span class="flex-grow pt-[5px]">
+      {{- .Get "caption" | markdownify -}}
+    </span>
+    <button class="flex-shrink-0 px-1 py-2 group" @click="open = true">
+      <svg
+        class="w-3 h-3 duration-200 ease-in-out group-hover:scale-125"
+        viewBox="0 0 12 12"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M5.5 1.5h5v5M1.5 5.5v5h5"
+          stroke="currentColor"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+      </svg>
+    </button>
+  </figcaption>
+</figure>
