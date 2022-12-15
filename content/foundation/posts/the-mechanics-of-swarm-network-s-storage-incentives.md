@@ -3,7 +3,6 @@ banner = "/uploads/incentives.png"
 categories = []
 date = 2022-11-22T23:00:00Z
 description = "An economically self-sustaining mechanism to gather storage operators."
-draft = true
 references_and_footnotes = []
 title = "The Mechanics of Swarm network’s Storage Incentives"
 
