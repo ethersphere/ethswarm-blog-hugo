@@ -33,7 +33,7 @@ In the Swarm network, content is uploaded and downloaded in small (at most 4 kB)
 
 When uploading a chunk, the uploader needs to sign each chunk together with the batch ID and some other metadata using the private key. This signature and the metadata together are called “postage stamps”, because of the analogy with mail. Postage stamps are evidence of payment affixed to the content to be stored. Upon completing the on-chain transaction of purchasing a batch, the batch balance is equal to the amount that was paid.
 
-![](https://miro.medium.com/max/700/0*ujKVylZepWTPgYSO =700x149)
+![](/uploads/stamp_batch.png)
 
 Postage stamps are the unit for payments, gathered in a batch
 
