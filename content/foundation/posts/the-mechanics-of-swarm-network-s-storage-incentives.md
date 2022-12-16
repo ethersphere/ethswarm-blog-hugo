@@ -105,5 +105,5 @@ We will continue this series with the mechanics of the rent oracle. Subscribe to
 * Discussions about Swarm can be found on[ Reddit](https://www.reddit.com/r/ethswarm/).
 * All tech support and other channels have moved to[ Discord](https://discord.gg/wdghaQsGq5)!
 * Please feel free to reach out via info@ethswarm.org
-* Join the newsletter![ Subscribe here](https://www.ethswarm.org/newsletter.html).
+* Join the newsletter! [**Subscribe here**](https://www.ethswarm.org/newsletter.html).
 * Subscribe to the[ Swarm Foundation YouTube channel](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos).
