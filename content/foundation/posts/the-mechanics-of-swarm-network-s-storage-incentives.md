@@ -1,6 +1,6 @@
 +++
 banner = "/uploads/incentives.png"
-categories = ["Updates"]
+categories = ["Development Updates"]
 date = 2022-11-22T23:00:00Z
 description = "An economically self-sustaining mechanism to gather storage operators."
 references_and_footnotes = []
