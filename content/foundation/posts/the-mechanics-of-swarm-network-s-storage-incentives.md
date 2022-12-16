@@ -7,8 +7,6 @@ references_and_footnotes = []
 title = "The Mechanics of Swarm network’s Storage Incentives"
 
 +++
-# **The Mechanics of Swarm network’s Storage Incentives**
-
 _An economically self-sustaining mechanism to gather storage operators._
 
 ![](https://miro.medium.com/max/700/0*Oi9v5eNYw8OSQRkz =700x467)
