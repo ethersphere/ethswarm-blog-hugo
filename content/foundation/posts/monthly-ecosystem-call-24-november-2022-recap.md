@@ -3,6 +3,7 @@ banner = "/uploads/storage-incentives-ama.png"
 categories = ["Events"]
 date = 2022-11-28T04:00:00Z
 description = "End of the month is here, and as is now the habit, last Thursday was reserved for the Monthly Ecosystem Call"
+draft = true
 references_and_footnotes = []
 title = "Monthly Ecosystem Call, 24 November 2022 — Recap"
 
