@@ -2,8 +2,7 @@
 banner = "/uploads/onwards-swarm.webp"
 categories = ["Events"]
 date = 2022-06-10T04:00:00Z
-description = ""
-draft = true
+description = "Join us on the summer solstice, 21 June 2022 at 16:00 CET and share the excitement as we gather to announce a special release"
 references_and_footnotes = []
 title = "Onwards, Swarm — 21 June!"
 
