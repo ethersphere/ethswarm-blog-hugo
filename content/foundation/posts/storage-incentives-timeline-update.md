@@ -1,6 +1,6 @@
 +++
 banner = ""
-categories = ["Development updates"]
+categories = ["Development Updates"]
 date = 2022-11-20T23:00:00Z
 description = "The upgrade of the Swarm network storage incentives, which began on 13 September, is now in full swing. Both, Phase 2 and 3 of the upgrade, are currently undergoing extensive testing: Phase 2 on the public testnet and Phase 3 on a closed testnet."
 references_and_footnotes = []
