@@ -3,7 +3,6 @@ banner = "/uploads/winter-solstice.webp"
 categories = ["Events"]
 date = 2022-12-14T04:00:00Z
 description = "On 21 December, let’s venture forth together and explore the universe of possibilities enabled by Swarm and its emerging ecosystem."
-draft = true
 references_and_footnotes = []
 title = "Swarm Odyssey 2023"
 
