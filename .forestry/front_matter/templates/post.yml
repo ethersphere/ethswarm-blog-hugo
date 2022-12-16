@@ -47,4 +47,5 @@ fields:
   description: If inserted, the references and footnotes will be displayed at the
     bottom of the Article.
 pages:
+- content/foundation/posts/swarm-odyssey-2023.md
 - content/foundation/posts/the-mechanics-of-swarm-network-s-storage-incentives.md
