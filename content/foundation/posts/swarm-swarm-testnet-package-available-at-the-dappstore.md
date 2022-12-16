@@ -1,5 +1,5 @@
 +++
-banner = ""
+banner = "/uploads/mfw1.png"
 categories = ["Tutorials"]
 date = 2022-10-19T22:00:00Z
 description = "NOTE: This blog post is geared towards running a bee full node. If you are wanting ONLY TO ACCESS / UPLOAD unstoppable content from/to Swarm, checkout Swarm Desktop."
@@ -66,17 +66,17 @@ Swarm is the technology (much as Ethereum is a technology, but one can use diffe
 * **Full node mode** — must be set to `true` or `false`. This determines whether or not `bee` will store data for the network. To bee a good citizen and share the love, leave this set to `true`. This will nominally consume up to 60GB of disk space.
 * **Storage data mountpoint** — for advanced users; recommended to leave at default.
 
-![Optional parameters (Screenshot 1/2)](https://miro.medium.com/max/1400/1*_SDKSJgxvpqfpre5iVnONQ.png "Optional parameters (Screenshot 1/2)")
+![Optional parameters (Screenshot 1/2)](https://miro.medium.com/max/1400/1*_SDKSJgxvpqfpre5iVnONQ.png "Optional parameters (Screenshot 1/2)")   _Optional parameters (Screenshot 1/2)_
 
-![Optional parameters (Screenshot 2/2)](https://miro.medium.com/max/1400/1*iQJ7AvMwlIMGCtZzb3bXBQ.png "Optional parameters (Screenshot 2/2)")
+![Optional parameters (Screenshot 2/2)](https://miro.medium.com/max/1400/1*iQJ7AvMwlIMGCtZzb3bXBQ.png "Optional parameters (Screenshot 2/2)")_Optional parameters (Screenshot 2/2)_
 
 * **Step 3**: Agree to the disclaimer. Because this package is published by an entity other than Dappnode, you are required to explicitly agree to the ‘_Unverified Package disclaimer’_.
 
-![Agree to the ‘Unverified Package Disclaimer’](https://miro.medium.com/max/1400/1*-7LSUnYBXdx_UhUL4hfkYw.png "Agree to the ‘Unverified Package Disclaimer’")
+![Agree to the ‘Unverified Package Disclaimer’](https://miro.medium.com/max/1400/1*-7LSUnYBXdx_UhUL4hfkYw.png "Agree to the ‘Unverified Package Disclaimer’")_Agree to the ‘Unverified Package Disclaimer’_
 
 * **Step 4**: Follow the ‘Getting started’ in order to have the `bee` node fully operational.
 
-![Follow the ‘Getting started’](https://miro.medium.com/max/1400/1*E9fW2Od5z36vbw5tiU3ifg.png "Follow the ‘Getting started’")
+![Follow the ‘Getting started’](https://miro.medium.com/max/1400/1*E9fW2Od5z36vbw5tiU3ifg.png "Follow the ‘Getting started’")_Follow the ‘Getting started’_
 
 **Step 5**: Fund your node so that it may participate in the active storage and forwarding of data within the Swarm. Get your node’s Gnosis Chain address (referred to in the [logs](http://my.dappnode/#/packages/swarm.public.dappnode.eth/logs) as _‘using ethereum address’_.
 
@@ -84,12 +84,12 @@ Swarm is the technology (much as Ethereum is a technology, but one can use diffe
 * Approximately 0.1 `xDAI` which will be used by the node to pay for gas fees when deploying the chequebook and cashing any subsequent cheques received (or for initiating stamp purchases etc).
 * The amount of `xBZZ` specified in the [‘Initial Chequebook Deposit’](http://my.dappnode/#/packages/swarm.public.dappnode.eth/config) configuration option from Step 2.
 
-![](https://miro.medium.com/max/1400/1*0F8Z2Eb5w3NbtGlw-mGVwg.png)Logs that contain the node’s Gnosis Chain address (referred to as ‘ethereum address’).
+![](https://miro.medium.com/max/1400/1*0F8Z2Eb5w3NbtGlw-mGVwg.png)_Logs that contain the node’s Gnosis Chain address (referred to as ‘ethereum address’)._
 
 * **Step 6**: Confirm the node is operational. You can do this by using the packaged [Bee Dashboard](http://dashboard.swarm.public.dappnode/) (direct link) or you can access this through the “UI” link on the [Swarm package ‘Info’ page](http://my.dappnode/#/packages/swarm.public.dappnode.eth/info).
 * If your node is working correctly, you should see something similar to the below screenshot:
 
-![Fully functional swarm dashboard.](https://miro.medium.com/max/1400/1*ajxsxwFWbE-bow9qv9jLzA.png "Fully functional swarm dashboard.")
+![Fully functional swarm dashboard.](https://miro.medium.com/max/1400/1*ajxsxwFWbE-bow9qv9jLzA.png "Fully functional swarm dashboard.")_Fully functional swarm dashboard._
 
 # Enjoy unstoppable content 🎉
 
