@@ -2,7 +2,7 @@
 banner = "/uploads/storage-incentives-ama.png"
 categories = []
 date = 2022-10-07T04:00:00Z
-description = ""
+description = "The September Monthly Ecosystem Call was dedicated to storage incentives — their upgrade roadmap, specific launch dates and their different features, such as the price oracle."
 references_and_footnotes = []
 title = "Monthly Ecosystem Call, 29 September 2022 — Recap"
 
