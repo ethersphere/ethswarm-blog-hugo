@@ -3,11 +3,12 @@ banner = "/uploads/storage-incentives-ama.png"
 categories = ["Events"]
 date = 2022-11-28T04:00:00Z
 description = "End of the month is here, and as is now the habit, last Thursday was reserved for the Monthly Ecosystem Call"
-draft = true
 references_and_footnotes = []
 title = "Monthly Ecosystem Call, 24 November 2022 — Recap"
 
 +++
+![](/uploads/storage-incentives-ama.png)
+
 End of the month is here, and as is now the habit, last Thursday was reserved for the Monthly Ecosystem Call. The initial part of the call was dedicated to the latest updates regarding the Swarm network and [its ongoing upgrade](https://medium.com/ethereum-swarm/towards-the-world-computer-the-swarm-network-upgrade-has-started-cfba1ed68330).
 
 During the upgrade, [two sets of issues were identified during the public testing of Phase 2](https://medium.com/ethereum-swarm/storage-incentives-timeline-update-26ab959d8ca3):
