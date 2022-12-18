@@ -47,6 +47,7 @@ fields:
   description: If inserted, the references and footnotes will be displayed at the
     bottom of the Article.
 pages:
+- content/foundation/posts/announcing-the-swarm-foundation-technical-milestones.md
 - content/foundation/posts/development-update-december-2021-january-2022.md
 - content/foundation/posts/monthly-development-update-april-2022.md
 - content/foundation/posts/monthly-development-update-august-2022.md
