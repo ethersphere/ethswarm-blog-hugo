@@ -47,6 +47,7 @@ fields:
   description: If inserted, the references and footnotes will be displayed at the
     bottom of the Article.
 pages:
+- content/foundation/posts/monthly-development-update-november-2022.md
 - content/foundation/posts/monthly-ecosystem-call-24-november-2022-recap.md
 - content/foundation/posts/monthly-ecosystem-call-27-october-2022-recap.md
 - content/foundation/posts/monthly-ecosystem-call-28-july-2022-recap.md
