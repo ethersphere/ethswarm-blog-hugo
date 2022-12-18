@@ -1,6 +1,6 @@
 +++
 banner = "/uploads/run-a-node1.png"
-categories = ["Tutorials", "Desktop app"]
+categories = ["Tutorials"]
 date = 2022-10-24T22:00:00Z
 description = "In this informative workshop recorded during Devcon VI, Bee product lead Attila Gazsó takes the audience through the process of setting up light and full Bee node. "
 references_and_footnotes = []
