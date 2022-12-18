@@ -1,6 +1,6 @@
 +++
 banner = ""
-categories = []
+categories = ["Updates"]
 date = 2022-05-12T04:00:00Z
 description = "Based on this, in Q1 of 2022, efforts were dedicated to creating a fluid and easy user experience when setting up a Bee node on the majority of operating systems."
 references_and_footnotes = []
@@ -77,8 +77,7 @@ This new capability will also increase the economic sustainability of the networ
 
 More information will be available in the following weeks so tune in to Swarm’s channels and never miss out on any of the latest updates.
 
-#   
-Join Swarm’s community
+# Join Swarm’s community
 
 * **Follow community news on** [**Twitter**](https://twitter.com/ethswarmhive)**, and development news** [**here**](https://twitter.com/ethswarm)**.**
 * **Discussions about Swarm can be found on** [**Reddit**](https://www.reddit.com/r/ethswarm/)**.**
