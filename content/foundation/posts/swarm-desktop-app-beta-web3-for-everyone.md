@@ -1,6 +1,6 @@
 +++
 banner = "/uploads/desktopap.png"
-categories = ["Development Updates", "Desktop app"]
+categories = ["Development Updates"]
 date = 2021-06-20T22:00:00Z
 description = "The Swarm Foundation unveiled the beta version of the Swarm Desktop App (Beta). Its goal is to take the best from Web2 and replace the complex experience of Web3 with a familiar one. The app is intended for the tech enthusiasts who want to try something different and for those who are just entering the crypto space."
 references_and_footnotes = []
