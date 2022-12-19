@@ -9,7 +9,7 @@ title = "Deep Dive: Dapplets"
 +++
 Dapplets is an Augmented Web Infrastructure built specifically for decentralised Apps, aka dapplets. Through augmentation, it will be possible to curate information from different sources to embed over popular platforms without any censorship.
 
-![](https://miro.medium.com/max/700/0*MtATTjUugR1bALlc =700x530)
+![](/uploads/dapplets.png)
 
 Web content and the progression of social media over the last decade has grown rapidly and changed the way ordinary people digest information. When the internet gave rise to this new way of receiving content it was becoming ever more apparent that through censorship the platforms themselves were in control of what was seen, heard or created. A monopoly of content ownership that directly held user attention and influenced user opinion.
 
@@ -25,7 +25,7 @@ The aim for the dapplet is to simply enhance the information that would otherwis
 
 An example of how this would look can be seen in the image below:
 
-![](https://miro.medium.com/max/700/0*ivBWbSn3nBCWQ_Q1 =700x338)
+![](/uploads/dp1.png)
 
 Two Dapplets in Use Today!
 
@@ -33,11 +33,11 @@ Two working dapplets that have been developed recently focus on working with inf
 
 The SwarmDownloader dapplet allows any user to quickly upload any YouTube video to Swarm’s decentralised storage. The dapplet adds an “Upload to Swarm“ button to the YouTube interface which sends the video to the Swarm cloud, making this video permanently available to anyone.
 
-![](https://miro.medium.com/max/574/0*3dc2J-I8bMgRDmpF =574x494)
+![](/uploads/dp2.png)
 
 The SwarmSearch dapplet embeds links to videos shown in YouTube or Google search results that have been held on Swarm’s decentralised storage. This is a good example of where the UX is enhanced with independent information tied together by the browser (UX layer in the user’s control).
 
-![](https://miro.medium.com/max/680/0*u52OEZgtHSDgfKWM =680x522)
+![](/uploads/dp3.png)
 
 The Technology Behind Dapplets
 
