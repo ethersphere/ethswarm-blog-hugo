@@ -1,6 +1,6 @@
 +++
 banner = ""
-categories = ["Tutorial "]
+categories = ["Tutorials "]
 date = 2021-12-09T04:00:00Z
 description = "The Swarm Bee team is excited to announce that an initial version of the Restricted API feature is available and ready for experimentation!"
 references_and_footnotes = []
