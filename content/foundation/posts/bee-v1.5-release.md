@@ -1,6 +1,6 @@
 +++
 banner = ""
-categories = ["Updates"]
+categories = ["Development Updates"]
 date = 2022-04-07T04:00:00Z
 description = "The Bee team is happy to announce the latest release v1.5 This release comes with significant changes to how the Bee nodes store data locally."
 references_and_footnotes = []
