@@ -1,6 +1,6 @@
 +++
 banner = ""
-categories = ["Updates"]
+categories = ["Development Updates"]
 date = 2022-05-17T04:00:00Z
 description = "This latest release is an accumulation of a lot of work done in the last couple of months by the team. We’ve improved and refactored substantial amount of components and areas of the codebase as well as fixed a few critical bugs"
 references_and_footnotes = []
