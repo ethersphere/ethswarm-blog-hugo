@@ -1,6 +1,6 @@
 +++
 banner = ""
-categories = ["Updates"]
+categories = []
 date = 2022-05-12T04:00:00Z
 description = "Based on this, in Q1 of 2022, efforts were dedicated to creating a fluid and easy user experience when setting up a Bee node on the majority of operating systems."
 references_and_footnotes = []
