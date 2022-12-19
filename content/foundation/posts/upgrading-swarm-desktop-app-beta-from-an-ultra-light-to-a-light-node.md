@@ -1,6 +1,6 @@
 +++
 banner = "/uploads/desktopap.png"
-categories = []
+categories = ["tutorials"]
 date = 2021-06-20T22:00:00Z
 description = "Go to the official Swarm Desktop webpage and download the installer. Run it and wait for the process to finish. Everything should be automatic and the node should set up by itself. A successful installation is indicated by the green status icon in the bottom left-hand side corner."
 references_and_footnotes = []
