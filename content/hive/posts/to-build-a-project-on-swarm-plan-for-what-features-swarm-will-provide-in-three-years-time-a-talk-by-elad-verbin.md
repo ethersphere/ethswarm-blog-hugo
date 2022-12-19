@@ -9,7 +9,7 @@ title = "To build a project on Swarm, plan for what features Swarm will provide 
 +++
 ## **“The most powerful force is social collaboration and Swarm will empower thousands of developers to create a rich ecosystem to supercharge our lives.”**
 
-![](https://miro.medium.com/max/700/1*iLY9Bw5hm0n34nM6TS9dKA.png =700x395)
+![](/uploads/eladv.webp)
 
 **_TL;DR:_**
 
@@ -31,7 +31,7 @@ Take smartphones for example. Elad’s thought experiment goes like this. It’s
 
 How about Swarm, then? Well, in 2021 it’s not much beyond a chunk store with some additional features. So, what will it look like in 2024? A whole lot different. **It will become a world database, that anyone can access from anywhere, and a generally unstoppable machine powered by microtransactions; fully decentralised, censorship-resistant, with native smart contract integration and an excellent service level agreement**because the content will be served from your vicinity.
 
-![Figure 1. How to build a startup on Swarm](https://miro.medium.com/max/700/0*TKO4xeNA06VX95Ho "Figure 1. How to build a startup on Swarm" =700x387)
+![](/uploads/elad1.png)
 
 Figure 1. How to build a startup on Swarm
 
@@ -43,7 +43,8 @@ How to do that, how to build for something that doesn’t exist yet? As the sche
 
 As examples, he gives Twitter and AirBnB. Both were built with mobile-first in mind, but they both have a website as well.
 
-![Figure 2. Development strategy takeaways](https://miro.medium.com/max/700/0*hMhs1pQKkxkvnCvo "Figure 2. Development strategy takeaways" =700x397)  
+![](/uploads/elad2.png)
+
 Figure 2. Development strategy takeaways
 
 Incentives, a small change with big effects
@@ -58,12 +59,15 @@ This radically transforms how developers build software and is what makes Elad c
 
 He then goes on to suggest how a developer’s life could look in 2030 if Swarm wins.
 
-![Figure 3. A day in the life of a 2030 web3 developer](https://miro.medium.com/max/700/0*UFeJ9dJ4F1sKgee3 "Figure 3. A day in the life of a 2030 web3 developer" =700x414)  
+![](/uploads/elad3.png)
+
 **All developers would develop features separately from each other.** As Elad points out, this is possible because they would never have to raise any funding for hosting. The users are paying the hosting fees. _“If the number of users of Dana’s features rises overnight from 100 to 100,000,000, she doesn’t need to pay for it. The users pay for the hosting and Dana gets a chunk of the network fees. Her only costs are the coffee and the internet connection,”_ he explains.
 
 On the other side are the end users. Right now, their lives are based on cloud services that don’t talk to each other. And companies jealousy protect their data since that is where they make their money.
 
-![Figure 4. A day in the life of a 2030 web3 user](https://miro.medium.com/max/700/1*-mJ_2pkZV0sjD3ToCf-L0Q.png "Figure 4. A day in the life of a 2030 web3 user" =700x394)Figure 4. A day in the life of a 2030 web3 user
+![](/uploads/elad4.png)
+
+Figure 4. A day in the life of a 2030 web3 user
 
 Moving to a model where the developer doesn’t have to pay for hosting changes everything. Entire digital lives will now be based upon an open ecosystem. **The end user will get a modular experience** because systems are interoperable and moving apps will be as easy as installing a plugin into a browser. You will be able to pick and choose how your software looks.There will also be a lot of competition and moving data will be frictionless.
 
@@ -79,7 +83,9 @@ He sees platforms as gigantic siloed systems in part built from code stolen from
 
 But according to him, we have a model for an efficient structure for the internet of the future — the structure of TCP/IP or, as he puts it, _“a beautiful system of layers”_. _“When I think of Swarm, I think of TCP/IP. It was built correctly. It was defined and then optimised. It is a perfect abstraction of achieving the thing that you need to achieve. For TCP/IP, it was to get packets from one side of the internet to another in a robust way. And for Swarm, it is to allow you to retrieve chunks in a robust way,”_ he explains.
 
-![Figure 5. Swarm is basic level infrastructure](https://miro.medium.com/max/700/0*YIfgozDYpaNRLLjZ "Figure 5. Swarm is basic level infrastructure" =700x372)Figure 5. Swarm is basic level infrastructure
+![](/uploads/elad5.png)
+
+Figure 5. Swarm is basic level infrastructure
 
 _“Swarm is a level zero infrastructure and many, many optimisations are on the way in the coming years.”_ An optimised Swarm will bring about a world database that will provide sophisticated queries, not just simple file retrieval. _“A database is really what you want to build applications on,”_ he believes.
 
@@ -100,5 +106,5 @@ You can find Elad Verbin’s talk in full at [**Swarm’s YouTube channel**](htt
 * Discussions about Swarm can be found on[ **Reddit**](https://www.reddit.com/r/ethswarm/).
 * All tech support and other channels have moved to [**Discord**](https://discord.gg/wdghaQsGq5)!
 * Please feel free to reach out via **info@ethswarm.org**
-* Swarm up your inbox with the monthly newsletter![ **Subscribe here**](https://www.ethswarm.org/newsletter.html).
+* Swarm up your inbox with the monthly newsletter![ ](https://www.ethswarm.org/newsletter.html).
 * Subscribe to [**Swarm’s YouTube channel**](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos).
