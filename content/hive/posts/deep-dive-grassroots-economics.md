@@ -3,7 +3,6 @@ banner = "/uploads/grassroots.webp"
 categories = ["Grants"]
 date = 2021-11-04T23:00:00Z
 description = "Community Inclusion Currencies to Reignite Economic Activity"
-draft = true
 references_and_footnotes = []
 title = "Deep Dive: Grassroots Economics"
 
