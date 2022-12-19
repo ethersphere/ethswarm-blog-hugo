@@ -13,7 +13,7 @@ Without money moving throughout these ecosystems, you will often find Person A w
 
 [Grassroots Economics](https://www.grassrootseconomics.org/) is a non-profit foundation that has been seeking to empower marginalised communities to take charge of their own livelihoods and economic future since 2010. By introducing an age-old model of exchange that was long forgotten despite its known success, credit obligations or, put simply, IOU vouchers turn stagnant, non-fungible debt into something that is tradeable and fungible. Grassroots refers to this as Community Inclusion Currencies (CICs).
 
-![Will Ruddick in Kenya](https://miro.medium.com/max/700/1*-pKRjbj-kGFB12VqZiIAQQ.jpeg "Will Ruddick in Kenya" =700x700)
+![](https://miro.medium.com/max/700/1*-pKRjbj-kGFB12VqZiIAQQ.jpeg =700x700)
 
 ## How Grassroots Economics was Incepted
 
@@ -51,7 +51,6 @@ _“I imagine this will be a useful tool for anyone wanting to gradually integra
 
 Grassroots Economics will soon be deploying a new custodial key management system that allows communities to create their own CIC via smart contracts on an EVM blockchain. By creating their own CIC, they are creating a credit against their future production that will be circulated internally and externally in the community. The CIC smart contract stores the information about the token issuer and determines the expiration rate, while their USSD interface enables users to access their blockchain wallet and transfer tokens. By using liquidity pools, these CICs can be connected to each other. For a deeper understanding of how this can work, please [read this article](https://www.grassrootseconomics.org/post/static-vs-bonded-liquidity-pools-for-cics). Besides CICs being redeemable for goods and services, they can also be used to support or buy data products or verified claims such as carbon offsets or Sustainable Development Impacts from the community creating them.
 
-  
 ![](https://miro.medium.com/max/700/0*ApWW8xvkfdv6_JGZ =700x393)Conclusion
 
 As each week passes, Grassroots Economics is edging ever closer to realising their goal of empowering those in need to engage in economic activity without intermediation or third-party dependencies. In the coming months, their new code will be launched to facilitate the connection of their many systems held in isolation via their own side-chains such as connecting village tokens to the Ethereum network. There is clearly a need for something like Community Inclusion Currencies as the research speaks for itself. Grassroots Economics has pioneered a solution around something with immense infrastructure design challenges but is moving forward with over 50,000 active users and still growing.
@@ -64,5 +63,5 @@ _Disclaimer: The Deep Dive blog posts are an informative overview of some of the
 * Discussions about Swarm can be found on[ **Reddit**](https://www.reddit.com/r/ethswarm/).
 * All tech support and other channels have moved to [**Discord**](https://discord.gg/wdghaQsGq5)!
 * Please feel free to reach out via **info@ethswarm.org**
-* Swarm up your inbox with the monthly newsletter![ **Subscribe here**](https://www.ethswarm.org/newsletter.html).
+* Swarm up your inbox with the monthly newsletter![ ](https://www.ethswarm.org/newsletter.html).
 * Subscribe to [**Swarm’s YouTube channel**](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos).
