@@ -48,6 +48,7 @@ fields:
     bottom of the Article.
 pages:
 - content/foundation/posts/announcing-the-swarm-foundation-technical-milestones.md
+- content/foundation/posts/bee-v1.2.0-release.md
 - content/foundation/posts/bee-v1.3.0-release.md
 - content/foundation/posts/bee-v1.4.0-release.md
 - content/foundation/posts/bee-v1.5-release.md
