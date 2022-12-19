@@ -1,6 +1,6 @@
 +++
 banner = ""
-categories = ["Tutorial "]
+categories = ["Tutorials "]
 date = 2021-06-30T04:00:00Z
 description = "With the launch of its mainnet, Swarm has reached what is probably the most important milestone in its existence. The Ethereum mainnet, however, is very expensive for the sort of transactions Swarm Bee generates. So Swarm has opted to use xDAI as a scaling solution."
 references_and_footnotes = []
