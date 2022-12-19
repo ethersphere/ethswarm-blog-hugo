@@ -1,19 +1,19 @@
 +++
 banner = ""
-categories = []
+categories = ["Development Update"]
 date = 2022-09-04T22:00:00Z
 description = "In August, the spotlight was on the upcoming storage incentives rollout. The Bee and JS Track have been working closely with the Research Track to get everything ready for the rollout. This includes updating the Bee client and the Swarm Desktop (Beta) dApp. "
 references_and_footnotes = []
 title = "Monthly Development Update — August 2022"
 
 +++
-In August, the spotlight was on the upcoming storage incentives rollout. The Bee and JS Track have been working closely with the Research Track to get everything ready for the rollout. This includes updating the Bee client and the Swarm Desktop (Beta) dApp. The research team is also setting up tasks and finalising the necessary work before phases 2 and 3 of storage incentives are activated in October. 
+In August, the spotlight was on the upcoming storage incentives rollout. The Bee and JS Track have been working closely with the Research Track to get everything ready for the rollout. This includes updating the Bee client and the Swarm Desktop (Beta) dApp. The research team is also setting up tasks and finalising the necessary work before phases 2 and 3 of storage incentives are activated in October.
 
 A lot of work has been done on the Fair Data Protocol as well, with the team introducing breaking changes to FDP Storage, submitting Blossom to Google Play Store for review and releasing a new library called BeeSon. You can also take FDP Create account for a spin on the Görli testnet.
 
 On the ecosystem side, the Ecosystem Track held another Monthly Ecosystem Call, this time on storage incentives, and went to mingle at EthWarsaw. The Grants Track saw three new grantees meet the milestone, and Etherna, a grant recipient of the Swarm Foundation, had a successful Devcon DIP proposal.
 
-Check out the ongoing bounties and the upcoming events at the end of the blog.
+Check out the ongoing bounties and the upcoming events at the end of the blog. 
 
 # **Bee Track**
 
