@@ -1,6 +1,6 @@
 +++
 banner = "/uploads/hive1.png"
-categories = []
+categories = ["Ecosystem"]
 date = 2022-03-13T23:00:00Z
 description = "The text below is a recap of Viktor Tron’s talk from the We Are Millions Hackathon (WAM) and Festival. "
 references_and_footnotes = []
