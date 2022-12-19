@@ -7,7 +7,7 @@ references_and_footnotes = []
 title = "Monthly Development Update — August 2022"
 
 +++
-In August, the spotlight was on the upcoming storage incentives rollout. The Bee and JS Track have been working closely with the Research Track to get everything ready for the rollout. This includes updating the Bee client and the Swarm Desktop (Beta) dApp. The research team is also setting up tasks and finalising the necessary work before phases 2 and 3 of storage incentives are activated in October.
+In August, the spotlight was on the upcoming storage incentives rollout. The Bee and JS Track have been working closely with the Research Track to get everything ready for the rollout. This includes updating the Bee client and the Swarm Desktop (Beta) dApp. The research team is also setting up tasks and finalising the necessary work before phases 2 and 3 of storage incentives are activated in October. 
 
 A lot of work has been done on the Fair Data Protocol as well, with the team introducing breaking changes to FDP Storage, submitting Blossom to Google Play Store for review and releasing a new library called BeeSon. You can also take FDP Create account for a spin on the Görli testnet.
 
@@ -36,15 +36,15 @@ Currently working on:
 
 # **Fair Data Protocol**
 
-[**Identity Anchored Address Space**](https://github.com/fairDataSociety/FIPs/blob/master/text/0013-iaas.md) Fair Data Protocol Improvement Proposal (FIP) has been merged and is in active state.   
+[**Identity Anchored Address Space**](https://github.com/fairDataSociety/FIPs/blob/master/text/0013-iaas.md) Fair Data Protocol Improvement Proposal (FIP) has been merged and is in active state.  
 It defines technical details and requirements for having a Fair Data Society (FDS) account and introduces the term Identity Anchored Address Space (IAAS) to explain this consideration in detail.
 
-[**FDP Create Account**](https://github.com/fairDataSociety/fdp-create-account) is available for registering FDS accounts and testing on Görli testnet as a [web application](https://create.dev.fairdatasociety.org/#/register).   
+[**FDP Create Account**](https://github.com/fairDataSociety/fdp-create-account) is available for registering FDS accounts and testing on Görli testnet as a [web application](https://create.dev.fairdatasociety.org/#/register).  
 Users are able to create FDS accounts without any additional dependency (e.g. Blossom). The FDS accounts are “portable”, allowing users to log in from any other device and access their personal storage.
 
 [**FDP Storage**](https://github.com/fairDataSociety/fdp-storage) **Released v0.5.1** (and v0.5.0)
 
-* **Breaking change** was introduced to allow for the use of the library with Bee Public Gateways that do not expose their debug API endpoint.   
+* **Breaking change** was introduced to allow for the use of the library with Bee Public Gateways that do not expose their debug API endpoint.  
   On FDP Storage initialization Bee debug API endpoint does not need to be defined anymore, instead a postage stamp ID has to be passed in order to be able to upload.
 * Exposed used smart contract addresses on [FDP Play](https://github.com/fairDataSociety/fdp-play) and Görli.
 * [Raised the pod name limit from 25 to 64](https://github.com/fairDataSociety/fdp-storage/issues/138), to allow coupling between dApps and the PODs they are using.
@@ -118,4 +118,4 @@ Users are able to create FDS accounts without any additional dependency (e.g. Bl
 * Swarm Ecosystem and News[ **Twitter**](https://twitter.com/ethswarmhive).
 * Discussions about Swarm on[ **/r/ethswarm**](https://www.reddit.com/r/ethswarm) and[ **/r/ethereum**](https://www.reddit.com/r/ethereum) subreddits.
 * Please feel free to reach out via **info@ethswarm.org**
-* Swarm up your inbox with our newsletter![ **Subscribe here**](https://www.ethswarm.org/newsletter.html).
+* Swarm up your inbox with our newsletter![ ](https://www.ethswarm.org/newsletter.html).
