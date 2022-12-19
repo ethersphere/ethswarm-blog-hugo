@@ -17,7 +17,7 @@ Our best bet, according to him, is to increase productivity and lower entry barr
 
 He continued by explaining what constitutes global and free data markets. In his opinion, the digital footprint of economic interaction is data exchange.
 
-[0*EDwAo8ducGjgqW4b](https://miro.medium.com/max/555/0*EDwAo8ducGjgqW4b "0*EDwAo8ducGjgqW4b")
+![](/uploads/hive1.png)
 
 In order to make decentralised Ubers and Airbnbs, different aspects of data exchange need to work. If we can increase the efficiency of the data exchange, we can improve the efficiency of global markets and increase prosperity, he believes. Data exchange is crucial in supporting economic activities
 
@@ -34,7 +34,7 @@ These data exchanges are based on the four “i”s:
 * Incentivisation is crucial for these data-exchanging systems to remain self-sustaining by balancing the supply and demand side of the equation.
 * Impartiality provides an unbiased infrastructure.
 
-[0*uwxOULoCzRwOWrC8](https://miro.medium.com/max/700/0*uwxOULoCzRwOWrC8 "0*uwxOULoCzRwOWrC8")
+![](/uploads/vik2.png)
 
 According to Viktor, we can expect a gradual transition to Web3 in certain dimensions of the economy, such as **finance**, **media** and in **supplying goods and services**. This trend is already visible in, for example, finance with the rise of the DeFi sector. Developers should consider these sectors when developing new software and think about what should be done first (for example, develop a decentralised Dropbox first before moving on to Facebook).
 
