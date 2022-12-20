@@ -22,7 +22,7 @@ Through such an autonomous Web information would flow freely, while control of t
 
 To elaborate on this vision, Ethereum’s founders also came up with the analogy of a world computer. The analogy encompasses a “holy trinity”, in which **Ethereum plays the role of the CPU and Whisper is the signalling and messaging protocol**. The third part of the “holy trinity”, **Swarm**, **would take the place of the world computer’s hard drive**.
 
-![](https://miro.medium.com/max/1400/1*WaSwjvOokPYGaxLP4pNBNA.jpeg =700x466)
+![](/uploads/storing1.webp)
 
 Viktor Trón (first from left, below) and Daniel Nagy (fourth from left, up) among the initial Ethereum team
 
@@ -56,7 +56,7 @@ All of the above and more shows that people around the world are getting real be
 
 So, this answers the question of whether the idea of the world computer itself is obsolete. What about the relevance of the analogy of a computer made up of several parts? To answer this, we first need to understand how the world computer works.
 
-![](https://miro.medium.com/max/1400/1*oINHs75Ju4oL6W9HsnxdIQ.jpeg =700x468)
+![](/uploads/storing2.jpeg)
 
 In essence, the world computer works just like any other computer. **It processes software commands and instructions.** The difference from a regular computer is twofold. The first is that with Ethereum’s world computer **computation happens on a global scale**. Thousands of individual computers running Ethereum clients (so-called nodes) connect to each other to create a network, which executes commands.
 
@@ -86,4 +86,13 @@ According to him, once it is feature-complete, Swarm will be directly usable for
 
 **Swarm is the missing piece that will make the world computer a truly decentralised and unstoppable machine. Just as it was meant to be from the very start.**
 
-![](https://miro.medium.com/max/1400/1*2D1lsB63m3EGJo0A1hk96A.png =700x183)
+![](/uploads/storing3.png)
+
+## Join Swarm’s community
+
+* Follow community news on[ **this Twitter**](https://twitter.com/ethswarmhive), and development news[ **here**](https://twitter.com/ethswarm).
+* Discussions about Swarm can be found on[ **Reddit**](https://www.reddit.com/r/ethswarm/).
+* All tech support and other channels have moved to[ **Discord**](https://discord.gg/wdghaQsGq5)!
+* Please feel free to reach out via **info@ethswarm.org**
+* Swarm up your inbox with the monthly newsletter![ **Subscribe here**](https://www.ethswarm.org/newsletter.html).
+* Subscribe to[ **Swarm’s YouTube channel**](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos).
