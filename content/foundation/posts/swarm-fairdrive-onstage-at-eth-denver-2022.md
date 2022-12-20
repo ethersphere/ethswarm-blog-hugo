@@ -1,6 +1,6 @@
 +++
 banner = "/uploads/ethdenver.webp"
-categories = ["Events"]
+categories = ["Events", "Ecosystem"]
 date = 2022-02-22T04:00:00Z
 description = "On Friday, 18 February 2022, Angela Vitzthum, the Product Owner for Fairdrive, took the Wave stage at ETH Denver to introduce the audience to Swarm and more specifically to Fairdrive."
 references_and_footnotes = []
