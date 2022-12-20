@@ -1,6 +1,6 @@
 +++
 banner = "/uploads/mm.png"
-categories = ["Tutorials "]
+categories = []
 date = 2022-07-12T04:00:00Z
 description = " This tutorial will explain how to bridge MakerDAO DAI from Ethereum Mainnet to Gnosis Chain, using the Gnosis Chain bridge."
 references_and_footnotes = []
