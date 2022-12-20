@@ -13,7 +13,7 @@ A lot of work has been done on the Fair Data Protocol as well, with the team int
 
 On the ecosystem side, the Ecosystem Track held another Monthly Ecosystem Call, this time on storage incentives, and went to mingle at EthWarsaw. The Grants Track saw three new grantees meet the milestone, and Etherna, a grant recipient of the Swarm Foundation, had a successful Devcon DIP proposal.
 
-Check out the ongoing bounties and the upcoming events at the end of the blog. 
+Check out the ongoing bounties and the upcoming events at the end of the blog.
 
 # **Bee Track**
 
@@ -113,9 +113,9 @@ Users are able to create FDS accounts without any additional dependency (e.g. Bl
 
 # Join Swarm’s community
 
-* The Swarm Foundation & Association teams are reachable on[ **Discord**](https://discord.gg/wdghaQsGq5).
-* Follow us on[ **Twitter**](https://twitter.com/ethswarm).
-* Swarm Ecosystem and News[ **Twitter**](https://twitter.com/ethswarmhive).
-* Discussions about Swarm on[ **/r/ethswarm**](https://www.reddit.com/r/ethswarm) and[ **/r/ethereum**](https://www.reddit.com/r/ethereum) subreddits.
-* Please feel free to reach out via **info@ethswarm.org**
-* Swarm up your inbox with our newsletter![ ](https://www.ethswarm.org/newsletter.html).
+* Follow community news on[ Twitter](https://twitter.com/ethswarmhive), and development news[ here](https://twitter.com/ethswarm).
+* Discussions about Swarm can be found on[ Reddit](https://www.reddit.com/r/ethswarm/).
+* All tech support and other channels have moved to[ Discord](https://discord.gg/wdghaQsGq5)!
+* Please feel free to reach out via [info@ethswarm.org](mailto:info@ethswarm.org)
+* Join the newsletter! [**Subscribe here**](https://www.ethswarm.org/newsletter.html).
+* Subscribe to the[ Swarm Foundation YouTube channel](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos).
