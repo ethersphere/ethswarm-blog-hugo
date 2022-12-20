@@ -17,7 +17,7 @@ Starting her presentation, she laid out the basics of Swarm and its long-term go
 
 As such, she added, Swarm needs to support a variety of user types and provide a different value for each of them. This encompasses everything from providing a smooth experience to end users to enabling communities to take further ownership of the protocol and its usages. All these user types come together to form the foundations of Swarm, Angela explained.
 
-![](https://miro.medium.com/max/1400/0*UZNMgizZl6Iy1OyA =700x267)
+![](/uploads/ethdenver.png)
 
 # Milestones so far…
 
@@ -25,7 +25,7 @@ She continued by describing [Swarm’s first developmental milestone](https://me
 
 The network supports file and folder upload/download as well, and you can use your own ENS domain or generated name as a sub-domain with a bzz.link. Websites and front-end apps on Swarm also work the same way as if they were served by a Web 2.0 content-hosting service. At the same time, feeds allow you to update the content on Swarm off-chain without incurring any on-chain costs.
 
-![](https://miro.medium.com/max/1040/0*TovMAaJ_HaaW5vb5 =520x450)
+![](/uploads/milestone-1.png)
 
 _Milestone 1 — what it means and what it gets us_
 
@@ -35,7 +35,7 @@ As Swarm moves toward Milestone 2, Angela continued, the goal is to optimise Bee
 
 This would work in two increments. In the first, the node would run as an ultra-light node that can only access and download content. For the second increment, where storing files on the network is also possible, a crypto onboarding process would be required to fund the node, she explained. According to her: _“Milestone 2 is directly aimed at simplifying the process so that it can be done in less than 30 minutes.”_
 
-![](https://miro.medium.com/max/864/0*_zFkEOWQQ46reqKY =432x400)
+![](/uploads/milestone-2.png)
 
 _Milestone 2 — what it means and what it gets us_
 
@@ -49,7 +49,7 @@ The other half of her presentation focused on Fairdrive, a community-driven init
 
 A lot of work has been done in the recent months, including code refactoring, feature optimisation and improved usability, Angela revealed.
 
-![](https://miro.medium.com/max/1400/0*pB2H1o6v3gxguj44 =700x263)
+![](/uploads/fairdrive-ui.png)
 
 _Fairdrive UI_
 
