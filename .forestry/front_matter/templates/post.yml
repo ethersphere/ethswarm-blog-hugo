@@ -47,6 +47,7 @@ fields:
   description: If inserted, the references and footnotes will be displayed at the
     bottom of the Article.
 pages:
+- content/foundation/posts/1-meanwhile-in-swarm.md
 - content/foundation/posts/announcing-the-swarm-foundation-technical-milestones.md
 - content/foundation/posts/bee-dashboard.md
 - content/foundation/posts/bee-js-beta-release-and-upcoming-roadmap.md
