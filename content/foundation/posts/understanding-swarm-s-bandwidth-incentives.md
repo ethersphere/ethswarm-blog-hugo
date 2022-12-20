@@ -63,12 +63,3 @@ In normal circumstances, however, such a risk should not materialise, because no
 # Fin
 
 I hope this blog post has helped you better understand why Swarm works the way it does. As mentioned in the beginning, this blog post is the start of a series in which I will highlight specific aspects of Swarm and provide context around why they work in the way they do. Swarm is an open-source project, where anyone is welcomed to be part and make the community, contribute in various permissionless ways and take ownership over the project. If, after reading this blog, you have questions or suggestions, you can discuss them in Swarm’s community-operated [Discord server](https://discord.gg/wdghaQsGq5). You can also find me there as @eknir.
-
-# Join Swarm’s community
-
-* Follow community news on[ Twitter](https://twitter.com/ethswarmhive), and development news[ here](https://twitter.com/ethswarm).
-* Discussions about Swarm can be found on[ Reddit](https://www.reddit.com/r/ethswarm/).
-* All tech support and other channels have moved to[ Discord](https://discord.gg/wdghaQsGq5)!
-* Please feel free to reach out via [info@ethswarm.org](mailto:info@ethswarm.org)
-* Join the newsletter! [**Subscribe here**](https://www.ethswarm.org/newsletter.html).
-* Subscribe to the[ Swarm Foundation YouTube channel](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos).
