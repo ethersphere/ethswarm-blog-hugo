@@ -13,8 +13,8 @@ _TL; DR: Swarm has released a new update to Bee: Swarm Live has increased stabil
 
 Swarm Live was launched on Tuesday, 24 November 2020. All the polished, new, and improved features were discussed in detail at the [Swarm Live online event](https://ethswarm.medium.com/swarm-live-event-programme-announcement-d71176c6e8cd), where the team presented not only what’s new, but also many other interesting topics, the Swarm incentives among them.
 
-[**Release notes and documentation**](https://github.com/ethersphere/bee/releases)**  
-**[**Re-watch the event on the Twitter live stream**](https://twitter.com/ethswarm/status/1331219946865532929)
+[**Release notes and documentation__](https://github.com/ethersphere/bee/releases)**  
+\**[**Re-watch the event on the Twitter live stream**](https://twitter.com/ethswarm/status/1331219946865532929)
 
 [![](https://miro.medium.com/max/1156/1*loZVZTpdC4I8ku2JHodseQ.png =578x418)](https://twitter.com/ethswarm/status/1331219946865532929)
 
@@ -43,3 +43,12 @@ To further boost our fast-growing ecosystem, the 3rd wave of Swarm grants was an
 Michelle briefly recapped the event and opened the floor to the audience, who had the Swarm team at their disposal for AMA-related topics.
 
 The entire event can be re-watched online via the Twitter [live streaming link](https://twitter.com/ethswarm/status/1331219946865532929).
+
+# Join Swarm’s community
+
+* Follow community news on[ Twitter](https://twitter.com/ethswarmhive), and development news[ here](https://twitter.com/ethswarm).
+* Discussions about Swarm can be found on[ Reddit](https://www.reddit.com/r/ethswarm/).
+* All tech support and other channels have moved to[ Discord](https://discord.gg/wdghaQsGq5)!
+* Please feel free to reach out via [info@ethswarm.org](mailto:info@ethswarm.org)
+* Join the newsletter! [**Subscribe here**](https://www.ethswarm.org/newsletter.html).
+* Subscribe to the[ Swarm Foundation YouTube channel](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos).
