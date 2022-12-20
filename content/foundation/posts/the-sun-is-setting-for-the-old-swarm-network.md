@@ -1,5 +1,5 @@
 +++
-banner = ""
+banner = "/uploads/sun.webp"
 categories = ["Development Updates"]
 date = 2020-12-04T04:00:00Z
 description = "By 25 January 2021, the cluster of nodes running the old Swarm network maintained by the Swarm team will be brought offline. As of this date, the proof of concept network is considered deprecated and the old Swarm codebase will no longer be maintained by the Swarm team. Those running services on the old testnet are encouraged to arrange for immediate migration to the new Bee client.\n\n"
