@@ -25,7 +25,7 @@ You can use different providers to create your RCP endpoint; this example uses G
 * Choose the + Create new API key option and name your API key.
 * When the API key is created click API Key Settings
 
-![](https://miro.medium.com/max/454/0*hdvxJQeKd6pGrWtY =454x327)
+![](/uploads/api.png)
 
 * **Press Generate Endpoint**
 * Choose:
@@ -34,25 +34,24 @@ You can use different providers to create your RCP endpoint; this example uses G
 * Network: Mainnet
 * Press Create
 
-![](https://miro.medium.com/max/592/0*tHi6thdTMuMNHWUB =592x698)
-
+  ![](/uploads/endpoint.png)
 * An RPC URL will be generated and it should look similar to the one in the picture below. Copy the RPC URL and go back to the Swarm Desktop app
 
-![](https://miro.medium.com/max/592/1*x_oeE8lUpP0DExrjs7agyw.png =592x698)
+![](/uploads/congrats.webp)
 
 # Setting the RPC endpoint in the Swarm Desktop app
 
 Select the Info tab on the left-hand side and click “Setup wallet”.
 
-![](https://miro.medium.com/max/700/0*qn27M_RdBoKLfklJ =700x355)
+![](/uploads/desktop.png)
 
 Paste the RPC URL you have created on Getblock. If you have created an RPC endpoint on the Gnosis chain before this procedure, you can use that one. Click the “Connect” button.
 
-![](https://miro.medium.com/max/700/0*-zil6ssbhBBkisGw =700x355)
+![](/uploads/1.png)
 
 Your node’s RPC endpoint is now set up.
 
-![](https://miro.medium.com/max/700/0*Pp05hQ3BtHWcsjqk =700x355)
+![](/uploads/2.png)
 
 Add funds to your node
 
@@ -170,12 +169,3 @@ Note: **Running a bee light node will not earn you any incentives**, since your 
 You can invite your friends and send them a gift code.
 
 Go to the “Account” tab → ”Invite to Swarm” → “Generate gift wallet”. This will generate a gift code that will subtract 1 xDAI and 5 BZZ from your node’s wallet. You can now help your friends to upgrade to a light node and freely use the Swarm network.
-
-# Join Swarm’s community
-
-* The Swarm Foundation & Association teams are reachable on[ **Discord**](https://discord.gg/wdghaQsGq5).
-* Follow us on[ **Twitter**](https://twitter.com/ethswarm).
-* Swarm Ecosystem and News[ **Twitter**](https://twitter.com/ethswarmhive).
-* Discussions about Swarm on[ **/r/ethswarm**](https://www.reddit.com/r/ethswarm) and[ **/r/ethereum**](https://www.reddit.com/r/ethereum) subreddits.
-* Please feel free to reach out via **info@ethswarm.org**
-* Swarm up your inbox with our newsletter!  [**Subscribe here**](https://www.ethswarm.org/newsletter.html)**.**
