@@ -1,6 +1,6 @@
 +++
 banner = ""
-categories = ["Updates"]
+categories = ["Development Updates"]
 date = 2021-06-02T04:00:00Z
 description = "The long-awaited Bee v0.6 release is here. With it, some really important changes have been made. Bee node operators must update their nodes if they want to stay part of the network and be able to continue to participate in the airdrop."
 references_and_footnotes = []

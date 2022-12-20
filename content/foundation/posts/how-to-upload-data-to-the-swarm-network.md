@@ -21,7 +21,7 @@ You can buy postage stamps on your node’s dashboard. There are two options:
 
 **Option 1**
 
-Select the Files tab on the left, then upload a file, folder or website.
+Select the Files tab on the left, then upload a file, folder or website. 
 
 ![](https://miro.medium.com/max/700/0*waLn_sBk5ZcD1BSm =700x355)
 
@@ -76,4 +76,4 @@ Have any questions or want additional information? Join the Swarm network commun
 * Swarm Ecosystem and News[ **Twitter**](https://twitter.com/ethswarmhive).
 * Discussions about Swarm on[ **/r/ethswarm**](https://www.reddit.com/r/ethswarm) and[ **/r/ethereum**](https://www.reddit.com/r/ethereum) subreddits.
 * Please feel free to reach out via **info@ethswarm.org**
-* Swarm up your inbox with our newsletter![ **Subscribe here**](https://www.ethswarm.org/newsletter.html).
+* Swarm up your inbox with our newsletter![ ](https://www.ethswarm.org/newsletter.html).

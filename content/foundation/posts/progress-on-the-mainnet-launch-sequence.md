@@ -1,6 +1,6 @@
 +++
 banner = ""
-categories = ["Updates"]
+categories = []
 date = 2020-06-12T16:00:00Z
 description = "The Swarm Mainnet Launch will be complete on June 21st.\n\n"
 references_and_footnotes = []

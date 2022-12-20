@@ -17,7 +17,7 @@ This issue is particularly acute for software at the bleeding edge, that softwar
 
 **NOTE: This blog post is geared towards running a** `bee` **full node. If you are wanting ONLY TO ACCESS / UPLOAD unstoppable content from/to Swarm, checkout** [**Swarm Desktop**](https://www.ethswarm.org/build/desktop)**.**
 
-# What is the world computer?
+# What is the world computer? 
 
 The “world computer” refers to a distributed, decentralised computer capable of:
 

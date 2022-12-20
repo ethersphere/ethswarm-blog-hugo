@@ -1,6 +1,6 @@
 +++
 banner = ""
-categories = ["Updates"]
+categories = []
 date = 2022-06-04T04:00:00Z
 description = "Swarm Foundation is proud to announce that the Bee mainnet soft launch will happen on 13 June 2021. And immediately following it, the BZZ public token sale is scheduled to happen on 14 June 2021 via CoinList."
 references_and_footnotes = []

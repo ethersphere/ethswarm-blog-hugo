@@ -92,13 +92,13 @@ Fill the fields with the following information and click “Save”:
 
 **Network name:** Gnosis
 
-**New RPC URL: **[https://rpc.gnosischain.com](https://rpc.gnosischain.com "https://rpc.gnosischain.com")
+\**New RPC URL: **[https://rpc.gnosischain.com](https://rpc.gnosischain.com "https://rpc.gnosischain.com")
 
 **Chain ID:** 0x64
 
 **Symbol:** xDai
 
-**Block Explorer URL: **[https://blockscout.com/xdai/mainnet](https://blockscout.com/xdai/mainnet "https://blockscout.com/xdai/mainnet")
+\**Block Explorer URL: **[https://blockscout.com/xdai/mainnet](https://blockscout.com/xdai/mainnet "https://blockscout.com/xdai/mainnet")
 
 Use the [xDAI Bridge](https://bridge.xdaichain.com/) to transfer the DAI in your Metamask from the Ethereum network to the Gnosis Chain. It may take a few minutes before they appear. From there you can transfer the xDAI to your node’s wallet funding address.
 
@@ -178,4 +178,4 @@ Go to the “Account” tab → ”Invite to Swarm” → “Generate gift walle
 * Swarm Ecosystem and News[ **Twitter**](https://twitter.com/ethswarmhive).
 * Discussions about Swarm on[ **/r/ethswarm**](https://www.reddit.com/r/ethswarm) and[ **/r/ethereum**](https://www.reddit.com/r/ethereum) subreddits.
 * Please feel free to reach out via **info@ethswarm.org**
-* Swarm up your inbox with our newsletter![ **Subscribe here**](https://www.ethswarm.org/newsletter.html).
+* Swarm up your inbox with our newsletter!  [**Subscribe here**](https://www.ethswarm.org/newsletter.html)**.**

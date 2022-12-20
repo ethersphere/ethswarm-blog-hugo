@@ -1,6 +1,6 @@
 +++
 banner = ""
-categories = ["Updates"]
+categories = []
 date = 2021-07-16T04:00:00Z
 description = "Swarm Foundation is happy to announce the next stage of the Airdrop: the selection of trusted nodes."
 references_and_footnotes = []

@@ -1,6 +1,6 @@
 +++
 banner = ""
-categories = ["Tutorial "]
+categories = ["Tutorials"]
 date = 2021-02-26T04:00:00Z
 description = "As we head towards the Swarm 1.0 release, we are working hard on expanding the network as much as possible. We are happy to see that the number of active Bee nodes is bigger day by day and the reality of a truly decentralized world computer is closer than ever."
 references_and_footnotes = []
