@@ -1,6 +1,6 @@
 +++
 banner = ""
-categories = ["Development Update"]
+categories = ["Development Updates"]
 date = 2022-09-04T22:00:00Z
 description = "In August, the spotlight was on the upcoming storage incentives rollout. The Bee and JS Track have been working closely with the Research Track to get everything ready for the rollout. This includes updating the Bee client and the Swarm Desktop (Beta) dApp. "
 references_and_footnotes = []
