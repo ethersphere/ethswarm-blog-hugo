@@ -9,8 +9,6 @@ title = "To build a project on Swarm, plan for what features Swarm will provide 
 +++
 ## **“The most powerful force is social collaboration and Swarm will empower thousands of developers to create a rich ecosystem to supercharge our lives.”**
 
-![](/uploads/eladv.webp)
-
 **_TL;DR:_**
 
 * _In 2024 Swarm will be a fully decentralised world database, an unstoppable machine powered by microtransactions._
@@ -31,7 +29,7 @@ Take smartphones for example. Elad’s thought experiment goes like this. It’s
 
 How about Swarm, then? Well, in 2021 it’s not much beyond a chunk store with some additional features. So, what will it look like in 2024? A whole lot different. **It will become a world database, that anyone can access from anywhere, and a generally unstoppable machine powered by microtransactions; fully decentralised, censorship-resistant, with native smart contract integration and an excellent service level agreement**because the content will be served from your vicinity.
 
-![](/uploads/elad1.png)
+![](/uploads/1-6.png)
 
 Figure 1. How to build a startup on Swarm
 
@@ -43,7 +41,7 @@ How to do that, how to build for something that doesn’t exist yet? As the sche
 
 As examples, he gives Twitter and AirBnB. Both were built with mobile-first in mind, but they both have a website as well.
 
-![](/uploads/elad2.png)
+![](/uploads/2-9.png)
 
 Figure 2. Development strategy takeaways
 
@@ -59,13 +57,13 @@ This radically transforms how developers build software and is what makes Elad c
 
 He then goes on to suggest how a developer’s life could look in 2030 if Swarm wins.
 
-![](/uploads/elad3.png)
+![](/uploads/3-6.png)
 
 **All developers would develop features separately from each other.** As Elad points out, this is possible because they would never have to raise any funding for hosting. The users are paying the hosting fees. _“If the number of users of Dana’s features rises overnight from 100 to 100,000,000, she doesn’t need to pay for it. The users pay for the hosting and Dana gets a chunk of the network fees. Her only costs are the coffee and the internet connection,”_ he explains.
 
 On the other side are the end users. Right now, their lives are based on cloud services that don’t talk to each other. And companies jealousy protect their data since that is where they make their money.
 
-![](/uploads/elad4.png)
+![](/uploads/4-1.webp)
 
 Figure 4. A day in the life of a 2030 web3 user
 
@@ -83,7 +81,7 @@ He sees platforms as gigantic siloed systems in part built from code stolen from
 
 But according to him, we have a model for an efficient structure for the internet of the future — the structure of TCP/IP or, as he puts it, _“a beautiful system of layers”_. _“When I think of Swarm, I think of TCP/IP. It was built correctly. It was defined and then optimised. It is a perfect abstraction of achieving the thing that you need to achieve. For TCP/IP, it was to get packets from one side of the internet to another in a robust way. And for Swarm, it is to allow you to retrieve chunks in a robust way,”_ he explains.
 
-![](/uploads/elad5.png)
+![](/uploads/5-5.png)
 
 Figure 5. Swarm is basic level infrastructure
 
@@ -99,12 +97,3 @@ You can find Elad Verbin’s talk in full at [**Swarm’s YouTube channel**](htt
 
 * You can watch the entire talk [**here**](https://www.youtube.com/watch?v=ywuoWpRAT88)**.**
 * Enjoy more interesting videos from [**Swarm’s Summer School ‘21**](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/playlists).
-
-## Join Swarm’s community
-
-* Follow community news on[ **this Twitter**](https://twitter.com/ethswarmhive), and development news[ **here**](https://twitter.com/ethswarm).
-* Discussions about Swarm can be found on[ **Reddit**](https://www.reddit.com/r/ethswarm/).
-* All tech support and other channels have moved to [**Discord**](https://discord.gg/wdghaQsGq5)!
-* Please feel free to reach out via **info@ethswarm.org**
-* Swarm up your inbox with the monthly newsletter![ ](https://www.ethswarm.org/newsletter.html).
-* Subscribe to [**Swarm’s YouTube channel**](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos).
