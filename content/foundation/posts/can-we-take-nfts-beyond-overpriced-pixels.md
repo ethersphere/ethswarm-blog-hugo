@@ -29,17 +29,13 @@ The belief that art is an indispensable and requisite part of any human societyâ
 
 To help encapsulate the ethos of We Are Millions, the Swarm Foundation has commissioned an up-and-coming Spanish artist **Teresa Rofer**. Her unique handmade work will be the graphical signpost exclusive to WAM.
 
-![](https://miro.medium.com/max/1138/1*_FF8zc-LjhOijLOh4_mNog.png =569x672)
-
-NFT #0041, that grants access to the event
+![](/uploads/1-6.webp)
 
 Each of the colourful planet-like spheres depicted in her graphic above is a one-off. When you use Resistance to create your avatar, a small fragment of this universe will become an essential part of your avatar, allowing you to own it as an NFT. As a gift, no hidden costs.
 
 These NFTs can be combined by simply layering them on top of each other to represent how different teams, people, and participants work together. A visual representation of the decentralised voices and people joining WAM.
 
-![](https://miro.medium.com/max/1260/1*4HDZGVgb-URNhicF4vVDQQ.png =630x370)
-
-A visual representation of dozens of NFTs combined
+![](/uploads/2-2.webp)
 
 # Save your work from obsolescence
 
@@ -48,12 +44,3 @@ As an added bonus, Resistance will enable you to upload your work in digital for
 Web3 technologies are opening up an interesting space for artists to discover alternative narratives and engage in seminal research. WAM offers the gateway to join others on this same path.
 
 The road is calling. [**Will you answer the call?**](https://www.wearemillions.online/)
-
-# Join Swarmâ€™s community
-
-* Follow community news on[ Twitter](https://twitter.com/ethswarmhive), and development news[ here](https://twitter.com/ethswarm).
-* Discussions about Swarm can be found on[ Reddit](https://www.reddit.com/r/ethswarm/).
-* All tech support and other channels have moved to[ Discord](https://discord.gg/wdghaQsGq5)!
-* Please feel free to reach out via [info@ethswarm.org](mailto:info@ethswarm.org)
-* Join the newsletter! [**Subscribe here**](https://www.ethswarm.org/newsletter.html).
-* Subscribe to the[ Swarm Foundation YouTube channel](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos).
