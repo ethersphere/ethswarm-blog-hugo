@@ -62,13 +62,3 @@ You can read the monthly development progress report in more detail below.
 ## **Ecosystem Track**
 
 Fair Data Society organized a two-day event called FDS Days. The purpose of the event was to educate the web3 community about topics related to the fair data economy and to provide video materials for educational purposes. [All the videos are uploaded to the Fair Data Society YouTube channel and you are invited to rewatch the talks if you missed the event.](https://www.youtube.com/watch?v=3-6Y-ybYu4g&list=PLM3tjfrjbdAlj--5jVvW9GohxdCjavHKi)
-
-##   
-Join Swarm’s community
-
-* **Follow community news on** [**Twitter**](https://twitter.com/ethswarmhive)**, and development news** [**here**](https://twitter.com/ethswarm)**.**
-* **Discussions about Swarm can be found on** [**Reddit**](https://www.reddit.com/r/ethswarm/)**.**
-* **All tech support and other channels have moved to** [**Discord**](https://discord.gg/wdghaQsGq5)**!**
-* **Please feel free to reach out via info@ethswarm.org**
-* **Join the newsletter!** [**Subscribe here**](https://www.ethswarm.org/newsletter.html)**.**
-* **Subscribe to the** [**Swarm Foundation YouTube channel**](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos)**.**
