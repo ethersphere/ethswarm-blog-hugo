@@ -7,8 +7,6 @@ references_and_footnotes = []
 title = "Monthly Ecosystem Call, 29 September 2022 — Recap"
 
 +++
-![](/uploads/storage-incentives-ama.png)
-
 The September Monthly Ecosystem Call was dedicated to storage incentives — their upgrade roadmap, specific launch dates and their different features, such as the price oracle.
 
 First to take the virtual stage was **Attila Gazsó**, who first gave a short recap of the past month. Attila explained that the last few months of development have been marked by a more intensive collaboration between the research and development teams. The first result of this is the new Bee client v1.8.0, which introduced some [breaking changes to the network](https://medium.com/ethereum-swarm/breaking-changes-are-coming-to-the-swarm-network-4b740adcdef0) and some hotfixes soon after. This was Phase 1.
@@ -78,12 +76,3 @@ The next Monthly Ecosystem Call will be on 27 October. You can look forward to:
 * Updated from World Ethical Data Forum (WEDF)
 * Nextcloud plugin demo
 * WAM 2.0 announcement
-
-# Join Swarm’s community
-
-* Follow community news on[ Twitter](https://twitter.com/ethswarmhive), and development news[ here](https://twitter.com/ethswarm).
-* Discussions about Swarm can be found on[ Reddit](https://www.reddit.com/r/ethswarm/).
-* All tech support and other channels have moved to[ Discord](https://discord.gg/wdghaQsGq5)!
-* Please feel free to reach out via [info@ethswarm.org](mailto:info@ethswarm.org)
-* Join the newsletter! [**Subscribe here**](https://www.ethswarm.org/newsletter.html).
-* Subscribe to the[ Swarm Foundation YouTube channel](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos).
