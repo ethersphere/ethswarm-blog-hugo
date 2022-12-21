@@ -28,12 +28,3 @@ _“The whole experience has been great,”_ recalls **Mirko Da Corte**, founder
 # More digital freedom in Web3
 
 Hosting the Devcon archive on the Swarm network is part of Swarm network’s mission to make Web3 more decentralised and censorship-resistant while [empowering digital freedom](https://ethswarmhive.medium.com/swarm-is-empowering-digital-freedom-at-devcon-live-blog-ca896524bc31). With this in mind, it also hosted a [**mirror version of the official Devcon agenda**](https://devconagenda.bzz.link/schedule/) to make the whole event a truly decentralised experience.
-
-# Join Swarm’s community
-
-* Follow community news on[ Twitter](https://twitter.com/ethswarmhive), and development news[ here](https://twitter.com/ethswarm).
-* Discussions about Swarm can be found on[ Reddit](https://www.reddit.com/r/ethswarm/).
-* All tech support and other channels have moved to[ Discord](https://discord.gg/wdghaQsGq5)!
-* Please feel free to reach out via [info@ethswarm.org](mailto:info@ethswarm.org)
-* Join the newsletter! [**Subscribe here**](https://www.ethswarm.org/newsletter.html).
-* Subscribe to the[ Swarm Foundation YouTube channel](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos).
