@@ -3,13 +3,10 @@ banner = "/uploads/storage-incentives-ama.png"
 categories = ["Events"]
 date = 2022-08-01T16:00:00Z
 description = "On 28 July 2022, the Swarm network Discord hosted the main Swarm network community event, the Monthly Ecosystem Call. The first to take the microphone was Bee Product Lead, Attila Gaszo."
-draft = true
 references_and_footnotes = []
 title = "Monthly Ecosystem Call, 28 July 2022 — Recap"
 
 +++
-![](/uploads/storage-incentives-ama.png)
-
 On 28 July 2022, the [Swarm network Discord](https://discord.com/channels/799027393297514537/816617743688007702) hosted the **main Swarm network community event, the Monthly Ecosystem Call**. The first to take the microphone was Bee Product Lead, **Attila Gaszo**. In his recap of last month’s work, he highlighted the release of [Swarm Desktop (Beta)](https://desktop.ethswarm.org/). Since its release on 21 June, the dApp has already received some major improvements.
 
 # The community helped make the Swarm Desktop better
@@ -51,12 +48,3 @@ They see no immediate danger of Ethereum losing its decentralisation. On the con
 # Next Monthly Ecosystem Call on 25 August
 
 The next Monthly Ecosystem Call will be on **25 August**, with a focus on the **Swarm Desktop (Beta)** and **Swarm network storage incentives.**
-
-# Join Swarm’s community
-
-* Follow community news on[ Twitter](https://twitter.com/ethswarmhive), and development news[ here](https://twitter.com/ethswarm).
-* Discussions about Swarm can be found on[ Reddit](https://www.reddit.com/r/ethswarm/).
-* All tech support and other channels have moved to[ Discord](https://discord.gg/wdghaQsGq5)!
-* Please feel free to reach out via [info@ethswarm.org](mailto:info@ethswarm.org)
-* Join the newsletter! [**Subscribe here**](https://www.ethswarm.org/newsletter.html).
-* Subscribe to the[ Swarm Foundation YouTube channel](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos).

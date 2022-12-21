@@ -7,7 +7,7 @@ references_and_footnotes = []
 title = "Upgrading Swarm Desktop App (Beta) from an ultra light to a light node"
 
 +++
-Installation
+## Installation
 
 Go to the official [**Swarm Desktop webpage**](https://desktop.ethswarm.org/) and download the installer. Run it and wait for the process to finish. Everything should be automatic and the node should set up by itself. A successful installation is indicated by the green status icon in the bottom left-hand side corner.
 
@@ -17,7 +17,7 @@ To upload data to the network you will need to upgrade your Bee node to light mo
 
 **_Note: All the steps described below are only relevant if you want to upgrade to the light mode._**
 
-# Creating an RPC endpoint
+## Creating an RPC endpoint
 
 You can use different providers to create your RCP endpoint; this example uses Getblock.
 
@@ -25,34 +25,33 @@ You can use different providers to create your RCP endpoint; this example uses G
 * Choose the + Create new API key option and name your API key.
 * When the API key is created click API Key Settings
 
-![](https://miro.medium.com/max/454/0*hdvxJQeKd6pGrWtY =454x327)
+![](/uploads/api.png)
 
 * **Press Generate Endpoint**
-* Choose:
-* Blockchain Gnosis Chain
+* Choose: Blockchain Gnosis Chain
 * API Interface JSON-RPC
 * Network: Mainnet
 * Press Create
 
-![](https://miro.medium.com/max/592/0*tHi6thdTMuMNHWUB =592x698)
+![](/uploads/endpoint.png)
 
 * An RPC URL will be generated and it should look similar to the one in the picture below. Copy the RPC URL and go back to the Swarm Desktop app
 
-![](https://miro.medium.com/max/592/1*x_oeE8lUpP0DExrjs7agyw.png =592x698)
+![](/uploads/congrats.webp)
 
 # Setting the RPC endpoint in the Swarm Desktop app
 
 Select the Info tab on the left-hand side and click “Setup wallet”.
 
-![](https://miro.medium.com/max/700/0*qn27M_RdBoKLfklJ =700x355)
+![](/uploads/1-1.png)
 
 Paste the RPC URL you have created on Getblock. If you have created an RPC endpoint on the Gnosis chain before this procedure, you can use that one. Click the “Connect” button.
 
-![](https://miro.medium.com/max/700/0*-zil6ssbhBBkisGw =700x355)
+![](/uploads/2-1.png)
 
 Your node’s RPC endpoint is now set up.
 
-![](https://miro.medium.com/max/700/0*Pp05hQ3BtHWcsjqk =700x355)
+![](/uploads/3.png)
 
 Add funds to your node
 
@@ -74,11 +73,11 @@ Once you have xDAI in your wallet you need to send them to your **node wallet’
 
 To swap the xDAI first click the “Proceed” button
 
-![](https://miro.medium.com/max/700/0*6y-Re68PafHXoqOu =700x355)
+![](/uploads/4.png)
 
 Choose the desired swapping amount and click the “Swap now” button.
 
-![](https://miro.medium.com/max/700/0*KDbBx-E0r5bvpSir =700x497)
+![](/uploads/4-1.png)
 
 ## Top-up using your existing crypto (DAI)
 
@@ -86,7 +85,7 @@ Use your existing DAI or buy them from an exchange and add them to your wallet. 
 
 Click on the network selection menu in the upper right-hand side corner and choose the “Add Network” option.
 
-![](https://miro.medium.com/max/596/0*bX3_V34SXKjetIIv =596x477)
+![](/uploads/6.png)
 
 Fill the fields with the following information and click “Save”:
 
@@ -106,19 +105,19 @@ When you have xDAI in your wallet go back to your node.
 
 Go to the “Info” tab and click “Setup wallet”
 
-![](https://miro.medium.com/max/700/0*vU3wTvSWZZBj1Qk_ =700x343)
+![](/uploads/7.png)
 
 Connect to the RPC endpoint.
 
-![](https://miro.medium.com/max/700/0*u2SjmG42Y78wWjKe =700x350)
+![](/uploads/8.png)
 
 Choose the “Use DAI” option
 
-![](https://miro.medium.com/max/700/0*H51fIZAEMWYVHkW4 =700x407)
+![](/uploads/9.png)
 
 Click on the address under the “Funding wallet address” to copy it. Now you have everything to send the funds from your Metamask to your node.
 
-![](https://miro.medium.com/max/700/0*PsaKc40XgwiTyENN =700x355)
+![](/uploads/10.png)
 
 **Send only minimal amounts at first to make sure all the addresses are correct and everything works as it should!**
 
@@ -130,15 +129,15 @@ If you have a gift code, you can redeem it to top-up your node:
 * Connect to the RPC endpoint
 * Choose the “Use a gift code” option
 
-![](https://miro.medium.com/max/700/0*mkf6faRls4D_4EM5 =700x355)
+![](/uploads/11.png)
 
 * Enter your gift code and click “Proceed”
 
-![](https://miro.medium.com/max/700/0*NQowm7SVVe1yeYwy =700x355)
+![](/uploads/12.png)
 
 * Click “Send all your funds to your node”
 
-![](https://miro.medium.com/max/700/0*bsFR6h8hMoXGvrXU =700x355)
+![](/uploads/13.png)
 
 Once your node is funded it will restart automatically.
 
@@ -170,12 +169,3 @@ Note: **Running a bee light node will not earn you any incentives**, since your 
 You can invite your friends and send them a gift code.
 
 Go to the “Account” tab → ”Invite to Swarm” → “Generate gift wallet”. This will generate a gift code that will subtract 1 xDAI and 5 BZZ from your node’s wallet. You can now help your friends to upgrade to a light node and freely use the Swarm network.
-
-# Join Swarm’s community
-
-* The Swarm Foundation & Association teams are reachable on[ **Discord**](https://discord.gg/wdghaQsGq5).
-* Follow us on[ **Twitter**](https://twitter.com/ethswarm).
-* Swarm Ecosystem and News[ **Twitter**](https://twitter.com/ethswarmhive).
-* Discussions about Swarm on[ **/r/ethswarm**](https://www.reddit.com/r/ethswarm) and[ **/r/ethereum**](https://www.reddit.com/r/ethereum) subreddits.
-* Please feel free to reach out via **info@ethswarm.org**
-* Swarm up your inbox with our newsletter!  [**Subscribe here**](https://www.ethswarm.org/newsletter.html)**.**

@@ -17,7 +17,7 @@ If you have any questions with regards to the timeline below, be sure to reach o
 
 # Airdrop timeline
 
-⚠️ All steps are time-sensitive and expire on said date, at 23:59 CET. Beware: if you miss a deadline, you won’t be able to proceed to the next step.
+All steps are time-sensitive and expire on said date, at 23:59 CET. Beware: if you miss a deadline, you won’t be able to proceed to the next step.
 
 **21 June 2021**
 
@@ -66,12 +66,3 @@ On 21 June, an online launch event will take place, to which you’re invited! R
 # Be careful out there
 
 Be aware that there are many fake BZZ circulating and lots of scams out there. Always do your own research and double check the contracts and markets you’re interacting with. Swarm Foundation does not have any representatives, neither global nor local. Swarm Foundation will only communicate via official channels that can be found on [www.ethswarm.org.](http://www.ethswarm.org./)
-
-# Join Swarm’s community
-
-* **Follow community news on** [**Twitter**](https://twitter.com/ethswarmhive)**, and development news** [**here**](https://twitter.com/ethswarm)**.**
-* **Discussions about Swarm can be found on** [**Reddit**](https://www.reddit.com/r/ethswarm/)**.**
-* **All tech support and other channels have moved to** [**Discord**](https://discord.gg/wdghaQsGq5)**!**
-* **Please feel free to reach out via info@ethswarm.org**
-* **Join the newsletter!** [**Subscribe here**](https://www.ethswarm.org/newsletter.html)**.**
-* **Subscribe to the** [**Swarm Foundation YouTube channel**](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos)**.**

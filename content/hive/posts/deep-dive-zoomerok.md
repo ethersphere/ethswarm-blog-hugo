@@ -9,8 +9,6 @@ title = "Deep Dive: Zoomerok"
 +++
 Empowering digital freedom by giving users full control over their data.
 
-![](/uploads/zoomerok.webp)
-
 As Swarm’s ecosystem expands and projects approach their release dates, the following post will introduce one of the grantee projects that is bringing the world closer to making a fair data economy a reality.
 
 ## What is Zoomerok?
@@ -48,11 +46,3 @@ Fellow readers! There will be another round of grants coming up in the next few 
 * Free and open source
 
 Be sure to follow us on [Twitter](https://twitter.com/ethswarmhive) and join our [Discord](https://discord.gg/mQ7xfgqu) to catch the latest announcements about Swarm grant updates and slot information.
-
-## Join Swarm’s community
-
-* Follow us on [**Twitter**](https://twitter.com/ethswarmhive).
-* Discussions about Swarm on [**Reddit**](https://www.reddit.com/r/ethswarm/).
-* The Swarm team is reachable on [Discord](https://discord.gg/wdghaQsGq5). **All tech support and other channels moved there. Please join us on** [**Discord**](https://discord.gg/wdghaQsGq5)**!**
-* Please feel free to reach out via [**info@ethswarm.org**](mailto:info@ethswarm.org)
-* Swarm up your inbox with our monthly newsletter! [**Subscribe here**](https://www.ethswarm.org/newsletter.html).

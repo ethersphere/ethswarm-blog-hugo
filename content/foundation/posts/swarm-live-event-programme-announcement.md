@@ -7,8 +7,6 @@ references_and_footnotes = []
 title = "Swarm Live Event — Programme Announcement"
 
 +++
-![](https://miro.medium.com/max/1400/1*1j_PDF0ENuBOBWHm0wlz4g.png =700x394)
-
 24 November 2020 is just around the corner and with it the fancy, new Swarm Live release. Increased performance, more stability, and nicely polished features are just a few of the qualities that prove that things are going in the right direction. Swarm Live is **the last official release before the final product release. It has all the high-level features in place.**
 
 All this and more will be discussed and presented by the team at the **Swarm Live (online) event,** happening the same day — **24 November 2020 at 14:00 CET**. [Please make sure you RSVP to register for the event.](https://swarm-gateways.net/bzz:/live.swarm.eth/)
@@ -28,12 +26,3 @@ This time it will be short & sweet. Two and a half hours packed with useful info
 * You will get an opportunity to make another Swarm grant application.
 
 Of course, there will be plenty of other exciting topics, too. You are invited to [RSVP for the event ](https://swarm-gateways.net/bzz:/live.swarm.eth/)and meet us live on 24 November 2020.
-
-# Join Swarm’s community
-
-* Follow community news on[ Twitter](https://twitter.com/ethswarmhive), and development news[ here](https://twitter.com/ethswarm).
-* Discussions about Swarm can be found on[ Reddit](https://www.reddit.com/r/ethswarm/).
-* All tech support and other channels have moved to[ Discord](https://discord.gg/wdghaQsGq5)!
-* Please feel free to reach out via [info@ethswarm.org](mailto:info@ethswarm.org)
-* Join the newsletter! [**Subscribe here**](https://www.ethswarm.org/newsletter.html).
-* Subscribe to the[ Swarm Foundation YouTube channel](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos).

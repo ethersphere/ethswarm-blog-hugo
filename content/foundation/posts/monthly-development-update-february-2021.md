@@ -76,12 +76,3 @@ Without further ado, dive into the detailed report of the team’s work below.
 1\.) A seven-day hackathon organized by [Fair Data Society](https://fairdatasociety.org/) resulted in new thin dApps on Swarm, using Fairdrive and FairOS libraries. In case you missed the event, you can [rewatch any of the topics on YouTube](https://www.youtube.com/watch?v=tHnASN9bUQI&list=PL6fQnFAjtuY-VdZ_5TNemX2gYc7eMfqhu).
 
 2\.) The hackathon open day was packed with presentations from Swarm grant recipients. It was amazing to see how far they have progressed. Feel free to rewatch the presentations on [YouTube](https://www.youtube.com/watch?v=LSNpdwmqXZE&list=PL6fQnFAjtuY-VdZ_5TNemX2gYc7eMfqhu&index=8).
-
-# Join Swarm’s community
-
-* **Follow community news on** [**Twitter**](https://twitter.com/ethswarmhive)**, and development news** [**here**](https://twitter.com/ethswarm)**.**
-* **Discussions about Swarm can be found on** [**Reddit**](https://www.reddit.com/r/ethswarm/)**.**
-* **All tech support and other channels have moved to** [**Discord**](https://discord.gg/wdghaQsGq5)**!**
-* **Please feel free to reach out via info@ethswarm.org**
-* **Join the newsletter!** [**Subscribe here**](https://www.ethswarm.org/newsletter.html)**.**
-* **Subscribe to the** [**Swarm Foundation YouTube channel**](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos)**.**

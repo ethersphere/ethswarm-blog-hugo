@@ -1,5 +1,5 @@
 +++
-banner = ""
+banner = "/uploads/1-2.webp"
 categories = ["Events"]
 date = 2020-12-01T16:00:00Z
 description = "Swarm Live was launched on Tuesday, 24 November 2020. All the polished, new, and improved features were discussed in detail at the Swarm Live online event, where the team presented not only what’s new, but also many other interesting topics, the Swarm incentives among them."
@@ -16,7 +16,7 @@ Swarm Live was launched on Tuesday, 24 November 2020. All the polished, new, and
 [**Release notes and documentation__](https://github.com/ethersphere/bee/releases)**  
 \**[**Re-watch the event on the Twitter live stream**](https://twitter.com/ethswarm/status/1331219946865532929)
 
-[![](https://miro.medium.com/max/1156/1*loZVZTpdC4I8ku2JHodseQ.png =578x418)](https://twitter.com/ethswarm/status/1331219946865532929)
+![](/uploads/1-2.webp)
 
 # Swarm Live Event Recap
 
@@ -43,12 +43,3 @@ To further boost our fast-growing ecosystem, the 3rd wave of Swarm grants was an
 Michelle briefly recapped the event and opened the floor to the audience, who had the Swarm team at their disposal for AMA-related topics.
 
 The entire event can be re-watched online via the Twitter [live streaming link](https://twitter.com/ethswarm/status/1331219946865532929).
-
-# Join Swarm’s community
-
-* Follow community news on[ Twitter](https://twitter.com/ethswarmhive), and development news[ here](https://twitter.com/ethswarm).
-* Discussions about Swarm can be found on[ Reddit](https://www.reddit.com/r/ethswarm/).
-* All tech support and other channels have moved to[ Discord](https://discord.gg/wdghaQsGq5)!
-* Please feel free to reach out via [info@ethswarm.org](mailto:info@ethswarm.org)
-* Join the newsletter! [**Subscribe here**](https://www.ethswarm.org/newsletter.html).
-* Subscribe to the[ Swarm Foundation YouTube channel](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos).

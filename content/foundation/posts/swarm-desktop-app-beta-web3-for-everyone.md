@@ -42,12 +42,3 @@ _Note: The funding process requires more familiarity with crypto onboarding (you
 Congratulations, you’re now part of the Swarm network. Enjoy all the benefits that come with using the Swarm network node, such as complete privacy of your files and actions, along with high-grade security and censorship-resistant capabilities. Welcome to Web3.
 
 **Become part of the Swarm community and let us know about your experience of running your first node.**
-
-# Join Swarm’s community
-
-* The Swarm Foundation & Association teams are reachable on[ **Discord**](https://discord.gg/wdghaQsGq5).
-* Follow us on[ **Twitter**](https://twitter.com/ethswarm).
-* Swarm Ecosystem and News[ **Twitter**](https://twitter.com/ethswarmhive).
-* Discussions about Swarm on[ **/r/ethswarm**](https://www.reddit.com/r/ethswarm) and[ **/r/ethereum**](https://www.reddit.com/r/ethereum) subreddits.
-* Please feel free to reach out via **info@ethswarm.org**
-* Swarm up your inbox with our newsletter![ **Subscribe here**](https://www.ethswarm.org/newsletter.html).

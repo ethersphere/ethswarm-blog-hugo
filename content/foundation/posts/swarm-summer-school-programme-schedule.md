@@ -59,7 +59,7 @@ In his talk he will discuss the newly arisen opportunities for ventures with the
 
 **16:00 CET — Workshop: Eknir: How to develop your tokenomics**
 
-_**IMPORTANT NOTICE** It is essential that you watch Eknir’s talk at the EthCC Paris Conference 2021 before the workshop. You can watch it here:_ [_https://www.youtube.com/watch?v=d2TX5AtBcQk&feature=youtu.be_](https://www.youtube.com/watch?v=d2TX5AtBcQk&feature=youtu.be "https://www.youtube.com/watch?v=d2TX5AtBcQk&feature=youtu.be")
+**_IMPORTANT NOTICE_** _It is essential that you watch Eknir’s talk at the EthCC Paris Conference 2021 before the workshop. You can watch it here:_ [_https://www.youtube.com/watch?v=d2TX5AtBcQk&feature=youtu.be_](https://www.youtube.com/watch?v=d2TX5AtBcQk&feature=youtu.be "https://www.youtube.com/watch?v=d2TX5AtBcQk&feature=youtu.be")
 
 [Eknir](https://twitter.com/EknirNL) is a former product owner and current researcher at Swarm. In this workshop, he will explain how incentives make or break a decentralised project. This is a deep dive, exclusive talk on the good, bad, and ugly of tokenomics. Use this opportunity to make your dApp work and discuss your ideas with Eknir and the rest of the attendees.
 
@@ -148,12 +148,3 @@ The actual start of this talk depends on the number of demos and presentations. 
 
 See you at the Swarm Summer School!  
 Swarm Team
-
-# Join Swarm’s community
-
-* Follow community news on[ Twitter](https://twitter.com/ethswarmhive), and development news[ here](https://twitter.com/ethswarm).
-* Discussions about Swarm can be found on[ Reddit](https://www.reddit.com/r/ethswarm/).
-* All tech support and other channels have moved to[ Discord](https://discord.gg/wdghaQsGq5)!
-* Please feel free to reach out via [info@ethswarm.org](mailto:info@ethswarm.org)
-* Join the newsletter! [**Subscribe here**](https://www.ethswarm.org/newsletter.html).
-* Subscribe to the[ Swarm Foundation YouTube channel](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos).

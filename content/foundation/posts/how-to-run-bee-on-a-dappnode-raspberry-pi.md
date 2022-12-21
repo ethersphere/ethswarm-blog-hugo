@@ -47,15 +47,15 @@ The first thing you need to do is to install DAppNode to your Raspberry Pi. This
 
 **Step 2.1** — You will need a VPN connection for remote access to DAppNode. After finishing the DAppNode installation, you will see a QR code with a link to the VPN.
 
-![](https://miro.medium.com/max/1400/0*NO93TjeCp2R0fKQ3 =700x485)
+![](/uploads/1-5.png)
 
 **Step 2.2:** Scan the QR code or just open the link in your browser and the DAppNode connection setup page should appear:
 
-![](https://miro.medium.com/max/1400/0*yZcS6xt8P7mMJD8Y =700x406)
+![](/uploads/2-6.png)
 
 **Step 2.3:** If your Raspberry Pi is in the same network as your computer, you will need to change the IP address in the link provided. To find out your Raspberry Pi’s IP address, execute the following terminal command: “ifconfig”. You should see this:
 
-![](https://miro.medium.com/max/1298/0*pyMr6AZJhWuaKCK1 =649x420)
+![](/uploads/3-3.png)
 
 **Step 2.4:** Now update your link with the right IP address
 
@@ -71,11 +71,11 @@ The first thing you need to do is to install DAppNode to your Raspberry Pi. This
 
 **Step 2.8:** Click on the Tunelblick icon and connect on VPN to DAppNode
 
-![](https://miro.medium.com/max/1400/0*O5GTgMFp_slBCcD3 =700x435)
+![](/uploads/4-4.png)
 
 **Step 2.9 (If your connection doesn’t work — part 1):** you may need to edit your .ovpn file. To do so, open your .ovpn file in a .txt editor and change the order of lines 6 and 7. Put the local network IP above the remote network IP.
 
-![](https://miro.medium.com/max/1238/0*7E0pv-gTOVnQefFw =619x171)
+![](/uploads/5-2.png)
 
 **Step 2.10 (If your connection doesn’t work — part 2):** Save the file and import it again as a new profile (before deleting the old profile).
 
@@ -89,23 +89,13 @@ The last step is very straightforward. Similar to the Google App Store or iTunes
 
 Your Bee node is now installed and running. However, there are still a few things you need to do to finish the process. You need to add some gBZZ to your ETH address. To add gBZZ to your ETH address follow this process:
 
-* 1) go to the bzzaar via the link as provided in your bee logs (DAppnode/Packages/Bee/Logs -> [https://bzz.ethswarm.org/?transaction=buy&amount=10&slippage=30&receiver=](https://bzz.ethswarm.org/?transaction=buy&amount=10&slippage=30&receiver= "https://bzz.ethswarm.org/?transaction=buy&amount=10&slippage=30&receiver=")<youraddress>)
-* 2) Connect the Bzzaar to your MetaMask wallet on the Goerli test chain (upper right)
-* 3) Use the get g-eth button on the bzzaar to get g-eth on your node and metamask account
-* 4) Press the Exchange button to mint gBzz into the node’s account
-* 5) Approve the transaction in your MetaMask
-* 6) Wait a bit and the node should be able to proceed.
+* Go to the bzzaar via the link as provided in your bee logs (DAppnode/Packages/Bee/Logs -> [https://bzz.ethswarm.org/?transaction=buy&amount=10&slippage=30&receiver=](https://bzz.ethswarm.org/?transaction=buy&amount=10&slippage=30&receiver= "https://bzz.ethswarm.org/?transaction=buy&amount=10&slippage=30&receiver=")<youraddress>)
+* Connect the Bzzaar to your MetaMask wallet on the Goerli test chain (upper right)
+* Use the get g-eth button on the bzzaar to get g-eth on your node and metamask account
+* Press the Exchange button to mint gBzz into the node’s account
+* Approve the transaction in your MetaMask
+* Wait a bit and the node should be able to proceed.
 
 This concludes your Bee node installation. Your node will now start connecting to other nodes and data will be saved to your Raspberry Pi. You can [check the balance of your gBZZ here](http://bee.dappnode:6060/chequebook/balance), and [your earned gBZZ cheques here](http://bee.dappnode:6060/chequebook/cheque).
 
 For more information on how to maintain your Bee node or help with installing please [visit the open office hours](https://medium.com/ethereum-swarm/swarm-open-hours-announcement-b1988fde8668) and get help directly from our dev team. You can also join the [Bee Support channel](https://discord.gg/ykCupZMuww) or the DAppNode Swarm Support channel on Discord.
-
-#   
-Join Swarm’s community
-
-* Follow community news on[ Twitter](https://twitter.com/ethswarmhive), and development news[ here](https://twitter.com/ethswarm).
-* Discussions about Swarm can be found on[ Reddit](https://www.reddit.com/r/ethswarm/).
-* All tech support and other channels have moved to[ Discord](https://discord.gg/wdghaQsGq5)!
-* Please feel free to reach out via [info@ethswarm.org](mailto:info@ethswarm.org)
-* Join the newsletter! [**Subscribe here**](https://www.ethswarm.org/newsletter.html).
-* Subscribe to the[ Swarm Foundation YouTube channel](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos).

@@ -30,12 +30,3 @@ Lothar Cerjak, Head of Institutional Services and Products at Bitcoin Suisse com
 # **About Bitcoin Suisse**
 
 Founded in 2013, Bitcoin Suisse is the Swiss crypto-finance and technology pioneer and market leader. Bitcoin Suisse has helped to shape the crypto and blockchain ecosystem in Switzerland and has been a driving force in the development of the ‘Crypto Valley’ and ‘Crypto Nation Switzerland’. As a regulated Swiss financial intermediary and undergoing licensing as a Swiss and Liechtenstein bank, Bitcoin Suisse offers prime brokerage, trading, custody, lending, staking and other crypto-financial services for private and institutional clients. Bitcoin Suisse has built a team of more than 200 highly qualified experts at its locations in Zug, Copenhagen, and Liechtenstein. For more information, visit: [bitcoinsuisse.com](http://www.bitcoinsuisse.com/)
-
-# Join Swarm’s community
-
-* **Follow community news on** [**Twitter**](https://twitter.com/ethswarmhive)**, and development news** [**here**](https://twitter.com/ethswarm)**.**
-* **Discussions about Swarm can be found on** [**Reddit**](https://www.reddit.com/r/ethswarm/)**.**
-* **All tech support and other channels have moved to** [**Discord**](https://discord.gg/wdghaQsGq5)**!**
-* **Please feel free to reach out via info@ethswarm.org**
-* **Join the newsletter!** [**Subscribe here**](https://www.ethswarm.org/newsletter.html)**.**
-* **Subscribe to the** [**Swarm Foundation YouTube channel**](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos)**.**

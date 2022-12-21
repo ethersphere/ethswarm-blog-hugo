@@ -51,7 +51,7 @@ Grant amount: DAI 10k (in BZZ)
 
 # MemeZzz
 
->the MemeZzz project was already part of the first grant wave, as well as the first to reach its milestone, a meme generator on Swarm ([https://github.com/igar1991/memez-swarm](https://github.com/igar1991/memez-swarm "https://github.com/igar1991/memez-swarm")). In the second stage of grants, based on the meme generator, the project continues its path into becoming an entertainment platform. The result is an entertainment platform where users can store, publish and view memes that are saved in Swarm and aligned with fair data society principles.
+> the MemeZzz project was already part of the first grant wave, as well as the first to reach its milestone, a meme generator on Swarm ([https://github.com/igar1991/memez-swarm](https://github.com/igar1991/memez-swarm "https://github.com/igar1991/memez-swarm")). In the second stage of grants, based on the meme generator, the project continues its path into becoming an entertainment platform. The result is an entertainment platform where users can store, publish and view memes that are saved in Swarm and aligned with fair data society principles.
 
 Grant amount: DAI 2900 (in BZZ)
 
@@ -114,12 +114,3 @@ Grant amount: DAI 8k (in BZZ)
 This is it for this batch of grants. If you feel like all these awesome projects flew in from the future to show us what awaits us, you are not the only one! Together with Swarm launching 1.0 and seeing the first projects and teams dreaming up new solutions, all this is giving us wings into 2021. Join us!
 
 The current grant call has been extended until 8 February, apply here: [https://swarmgrants.typeform.com/to/O3qL6VdO](https://swarmgrants.typeform.com/to/O3qL6VdO "https://swarmgrants.typeform.com/to/O3qL6VdO")
-
-# Join Swarm’s community
-
-* Follow community news on[ Twitter](https://twitter.com/ethswarmhive), and development news[ here](https://twitter.com/ethswarm).
-* Discussions about Swarm can be found on[ Reddit](https://www.reddit.com/r/ethswarm/).
-* All tech support and other channels have moved to[ Discord](https://discord.gg/wdghaQsGq5)!
-* Please feel free to reach out via [info@ethswarm.org](mailto:info@ethswarm.org)
-* Join the newsletter! [**Subscribe here**](https://www.ethswarm.org/newsletter.html).
-* Subscribe to the[ Swarm Foundation YouTube channel](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos).

@@ -76,12 +76,3 @@ After achieving the goals described above, **all efforts will be steered towards
 This new capability will also increase the economic sustainability of the network and enable any party to validate and understand the workings of the incentive system. The Research track’s work on this is already well underway with implementation as the next item on the agenda.
 
 More information will be available in the following weeks so tune in to Swarm’s channels and never miss out on any of the latest updates.
-
-# Join Swarm’s community
-
-* **Follow community news on** [**Twitter**](https://twitter.com/ethswarmhive)**, and development news** [**here**](https://twitter.com/ethswarm)**.**
-* **Discussions about Swarm can be found on** [**Reddit**](https://www.reddit.com/r/ethswarm/)**.**
-* **All tech support and other channels have moved to** [**Discord**](https://discord.gg/wdghaQsGq5)**!**
-* **Please feel free to reach out via info@ethswarm.org**
-* **Join the newsletter!** [**Subscribe here**](https://www.ethswarm.org/newsletter.html)**.**
-* **Subscribe to the** [**Swarm Foundation YouTube channel**](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos)**.**

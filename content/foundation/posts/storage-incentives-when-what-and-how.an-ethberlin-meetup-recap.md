@@ -7,8 +7,6 @@ references_and_footnotes = []
 title = "Storage incentives — when, what and how. An EthBerlin meetup recap."
 
 +++
-![](/uploads/ethberlin.jpeg)
-
 On 14 September 2022 the Swarm Foundation hosted a meetup titled “Storage incentives: The missing piece to make blockchains complete”. The event took place during EthBerlin at the famous c-base.
 
 Below is a recap of the event, which you can also [**watch on YouTube**](https://youtu.be/OH18D_PKo9U).
@@ -105,12 +103,3 @@ In this interactive demonstration and live testing, the public was prompted to s
 Costanza concluded her talk by sharing a personal vision of Wikipedia being run by a dedicated DAO and its entire production environment moving to the Swarm network.
 
 The talks were followed by a lively Q&A session which [**you can watch here**](https://youtu.be/OH18D_PKo9U?t=4516).
-
-# Join Swarm’s community
-
-* Follow community news on[ Twitter](https://twitter.com/ethswarmhive), and development news[ here](https://twitter.com/ethswarm).
-* Discussions about Swarm can be found on[ Reddit](https://www.reddit.com/r/ethswarm/).
-* All tech support and other channels have moved to[ Discord](https://discord.gg/wdghaQsGq5)!
-* Please feel free to reach out via [info@ethswarm.org](mailto:info@ethswarm.org)
-* Join the newsletter! [**Subscribe here**](https://www.ethswarm.org/newsletter.html).
-* Subscribe to the[ Swarm Foundation YouTube channel](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos).

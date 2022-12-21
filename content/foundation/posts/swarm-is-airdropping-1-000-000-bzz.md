@@ -76,12 +76,3 @@ You can run it on your computer too. Just check the [documentation links](https:
 # Struggling to install and run your Bee node? Let us help you out.
 
 We do realize that the UX of the installation process is not yet perfect (we will focus on that soon enough), so feel free to contact our tech support anytime. The best way to do that is to use our dedicated [Discord channel for Bee support](https://discord.gg/GU22h2utj6).
-
-# Join Swarm’s community
-
-* **Follow community news on** [**Twitter**](https://twitter.com/ethswarmhive)**, and development news** [**here**](https://twitter.com/ethswarm)**.**
-* **Discussions about Swarm can be found on** [**Reddit**](https://www.reddit.com/r/ethswarm/)**.**
-* **All tech support and other channels have moved to** [**Discord**](https://discord.gg/wdghaQsGq5)**!**
-* **Please feel free to reach out via info@ethswarm.org**
-* **Join the newsletter!** [**Subscribe here**](https://www.ethswarm.org/newsletter.html)**.**
-* **Subscribe to the** [**Swarm Foundation YouTube channel**](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos)**.**

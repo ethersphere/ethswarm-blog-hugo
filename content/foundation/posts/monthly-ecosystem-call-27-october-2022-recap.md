@@ -7,8 +7,6 @@ references_and_footnotes = []
 title = "Monthly Ecosystem Call, 27 October 2022 — Recap"
 
 +++
-![](/uploads/storage-incentives-ama.png)
-
 The October Monthly Ecosystem Call focused on the storage incentives upgrade (the progress so far) and Swarm network’s ecosystem.
 
 The October Monthly Ecosystem Call focused on the storage incentives upgrade (the progress so far) and Swarm network’s ecosystem.
@@ -96,12 +94,3 @@ A Bee node is fully integrated like any other storage, which allows for a seamle
 The last part of the call was reserved for the official [We Are Millions](https://www.wearemillions.online/) (WAM) Hackathon announcement. A new WAM is coming in March 2023, bringing together efforts to make a positive social impact. And as we wait, there are monthly [WAM Sessions](https://twitter.com/WAMillions) to make the time until then pass a little faster.
 
 But before that there will be another Swarm solstice event In December, where we’ll take a look at the current developments and reflect with our ecosystem on what’s being built and what Swarm can bring to society.
-
-# Join Swarm’s community
-
-* Follow community news on[ Twitter](https://twitter.com/ethswarmhive), and development news[ here](https://twitter.com/ethswarm).
-* Discussions about Swarm can be found on[ Reddit](https://www.reddit.com/r/ethswarm/).
-* All tech support and other channels have moved to[ Discord](https://discord.gg/wdghaQsGq5)!
-* Please feel free to reach out via [info@ethswarm.org](mailto:info@ethswarm.org)
-* Join the newsletter! [**Subscribe here**](https://www.ethswarm.org/newsletter.html).
-* Subscribe to the[ Swarm Foundation YouTube channel](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos).

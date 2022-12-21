@@ -17,29 +17,29 @@ At Swarm, we are striving to build just that. Good infrastructure. But this is a
 
 The Bee Dashboard is a web app that can help you set up your Bee node. It connects to your locally running node, checks the status of different API endpoints and offers troubleshooting.
 
-![](https://miro.medium.com/max/1400/1*YVAbLRlvl0VOQ2vALFORnQ.png =700x533)
+![](/uploads/1-7.webp)
 
 Bee Dashboard can help you to troubleshoot your Bee node
 
 Once your node is working, the status page will show information about your node such as the version of your Bee node, Ethereum Address or your PSS public key.
 
-![](https://miro.medium.com/max/1400/0*NXED1-ItI51SduCT =700x525)
+![](/uploads/2-8.png)
 
 Once your node is running properly, you can see details like your Ethereum address or PSS public key.
 
 This is all we asked for when we proposed the bounty. However, [matmertz25](https://github.com/matmertz25) did not stop there and built extra functionality like uploading and downloading files, exploring the peer connections or even managing the node accounting.
 
-![](https://miro.medium.com/max/1400/0*eUrMAQTtOVSc5TXS =700x525)
+![](/uploads/3-5.png)
 
 With Bee Dashboard you can upload and download files
 
-![](https://miro.medium.com/max/1400/0*HeBSsam2GC58LDip =700x525)
+![](/uploads/4-6.png)
 
 In the Peers tab you will see how is your node connected to the network
 
 The accounting feature is especially attractive for everyone participating in the [Rise of the Bee airdrop](https://medium.com/ethereum-swarm/swarm-is-airdropping-1-000-000-bzz-bd3b706918d3). You can now use a user interface to see your peer balances and cash out any outstanding cheques.
 
-![](https://miro.medium.com/max/1400/0*gIcG51IoxfRejzhS =700x525)
+![](/uploads/5-4.png)
 
 The Accounting page helps you manage the financial part of Bee. You can cashout your earnings from other peers
 
@@ -67,12 +67,3 @@ From the start, this has been a community project, built by community members an
 4. (soon) Do you speak a language we don’t? Help us translate the app.
 
 A big thank you to our contributors — [matmertz25](https://github.com/matmertz25), [centerorbit](https://github.com/centerorbit) and [tmm360](https://github.com/tmm360).
-
-# Join Swarm’s community
-
-* **Follow community news on** [**Twitter**](https://twitter.com/ethswarmhive)**, and development news** [**here**](https://twitter.com/ethswarm)**.**
-* **Discussions about Swarm can be found on** [**Reddit**](https://www.reddit.com/r/ethswarm/)**.**
-* **All tech support and other channels have moved to** [**Discord**](https://discord.gg/wdghaQsGq5)**!**
-* **Please feel free to reach out via info@ethswarm.org**
-* **Join the newsletter!** [**Subscribe here**](https://www.ethswarm.org/newsletter.html)**.**
-* **Subscribe to the** [**Swarm Foundation YouTube channel**](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos)**.**

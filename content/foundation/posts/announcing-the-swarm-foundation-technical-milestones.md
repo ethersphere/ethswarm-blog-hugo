@@ -42,12 +42,3 @@ Uploading and downloading bigger files and datasets is optimised.
 Time Estimate: To be confirmed
 
 More milestones will be added as the previous ones are achieved. Follow the progress on [progress.ethswarm.org](https://progress.ethswarm.org/) and join our Discord server and get all the latest announcements.
-
-# Join Swarm’s community
-
-* The Swarm team is reachable on [**Discord**](https://discord.gg/wdghaQsGq5).
-* Follow us on [**Twitter**](https://twitter.com/ethswarm).
-* Swarm Ecosystem and News [**Twitter**](https://twitter.com/ethswarmhive).
-* Discussions about Swarm on [**/r/ethswarm**](https://www.reddit.com/r/ethswarm) and [**/r/ethereum**](https://www.reddit.com/r/ethereum) subreddits.
-* Please feel free to reach out via **info@ethswarm.org**
-* Swarm up your inbox with our newsletter! [**Subscribe here**](https://www.ethswarm.org/newsletter.html).

@@ -1,14 +1,12 @@
 +++
 banner = "/uploads/swarm.webp"
-categories = []
+categories = ["Events"]
 date = 2021-01-25T04:00:00Z
 description = "Make sure you don’t miss the Liberate Data Week, a Fair Data Society organized event, that will run from 8–14 February 2021.\n\n"
 references_and_footnotes = []
 title = "Hackathon Guidelines, Rules, and Programme"
 
 +++
-![](https://miro.medium.com/max/1400/1*YToeL2gSnW_G13Fd0jdFMQ.png =700x298)
-
 Make sure you don’t miss the Liberate Data Week, a Fair Data Society organized event, that will run from 8–14 February 2021.
 
 # Liberate Data Week
@@ -131,37 +129,28 @@ Here is the agenda for the week. Please note that each day is dedicated to a spe
 
 ## Day 1 — Opening Event (8.2.2021)
 
-![](https://miro.medium.com/max/1202/1*odzkc0jSrTQvYvjDjhO0yQ.png =601x653)
+![](/uploads/1-5.webp)
 
 ## **Day 2 — dApp day (9.2.2021)**
 
-![](https://miro.medium.com/max/1264/1*5iXPooMEzLIgy2zC1pSwNg.png =632x382)
+![](/uploads/2-1.webp)
 
-## **Day 3 — Bee day (10.2.2021)**
+# **Day 3 — Bee day (10.2.2021)**
 
-![](https://miro.medium.com/max/1260/1*QXAsqM0B-RHj0MsxQQBZwA.png =630x667)
+![](/uploads/3-1.webp)
 
-## **Day 4 — Free press & publishing day (11.2.2021)**
+# **Day 4 — Free press & publishing day (11.2.2021)**
 
-![](https://miro.medium.com/max/1264/1*y9p5pH-iHKGmQ3Fg_TaXTg.png =632x385)
+![](/uploads/4.webp)
 
-## **Day 5 — Fairdata economy day (12.2.2021)**
+# **Day 5 — Fairdata economy day (12.2.2021)**
 
-![](https://miro.medium.com/max/1254/1*96SmeiRc_wJgwt0emX7CVg.png =627x428)
+![](/uploads/5.webp)
 
-## **Day 6 — Open day (13.2.2021)**
+# **Day 6 — Open day (13.2.2021)**
 
-![](https://miro.medium.com/max/1192/1*pDtqCLM8WIpWLFatJeoCiQ.png =596x760)
+![](/uploads/6.webp)
 
-## **Day 7 — Closing Event (14.2.2021)**
+# **Day 7 — Closing Event (14.2.2021)**
 
-![](https://miro.medium.com/max/1264/1*gOAuRnXN2NFRZdCcnd2dNw.png =632x396)
-
-# Join Swarm’s community
-
-* **Follow community news on** [**Twitter**](https://twitter.com/ethswarmhive)**, and development news** [**here**](https://twitter.com/ethswarm)**.**
-* **Discussions about Swarm can be found on** [**Reddit**](https://www.reddit.com/r/ethswarm/)**.**
-* **All tech support and other channels have moved to** [**Discord**](https://discord.gg/wdghaQsGq5)**!**
-* **Please feel free to reach out via info@ethswarm.org**
-* **Join the newsletter!** [**Subscribe here**](https://www.ethswarm.org/newsletter.html)**.**
-* **Subscribe to the** [**Swarm Foundation YouTube channel**](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos)**.**
+![](/uploads/7.webp)

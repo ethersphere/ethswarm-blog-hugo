@@ -46,12 +46,3 @@ Please make sure to keep yourself up-to-date through [Discord](https://discord.c
 * Kademlia buildups should now be faster due to prioritisation of previously connected peers and non-blocking attempts in topology buildups
 
 For a full PR-rundown, please consult [the v1.4.0 milestone](https://github.com/ethersphere/bee/milestone/9).
-
-# Join Swarm’s community
-
-* **Follow community news on** [**Twitter**](https://twitter.com/ethswarmhive)**, and development news** [**here**](https://twitter.com/ethswarm)**.**
-* **Discussions about Swarm can be found on** [**Reddit**](https://www.reddit.com/r/ethswarm/)**.**
-* **All tech support and other channels have moved to** [**Discord**](https://discord.gg/wdghaQsGq5)**!**
-* **Please feel free to reach out via info@ethswarm.org**
-* **Join the newsletter!** [**Subscribe here**](https://www.ethswarm.org/newsletter.html)**.**
-* **Subscribe to the** [**Swarm Foundation YouTube channel**](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos)**.**

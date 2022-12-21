@@ -7,8 +7,6 @@ references_and_footnotes = []
 title = "The Final Countdown — Announcing the 4th round of Swarm grant recipients"
 
 +++
-![](https://miro.medium.com/max/1400/1*X_Kq6EIKBx5FOAW9c5eMGQ.jpeg =700x225)
-
 As any other, the world computer needs three main components to function: CPU, software and storage. Ethereum’s smart contracts and dApps represent the processor and software of that world computer.
 
 On the other hand, Swarm’s mission was always to provide storage functionality and extend the Ethereum blockchain into a fully-fledged computational environment. After all, what good is a computer that can’t store and access data? Together, they form a world computer as envisioned from the start and which serves as the basis of Web3.
@@ -60,12 +58,3 @@ They aim to be the first online eLearning platform to train and educate eagers a
 Swarm’s ecosystem of projects is constantly growing. The organization is committed to decentralisation and with every successful new project building on top of Swarm, web 3 is closer to a fair data economy.
 
 Be part of the movement and create your own project on Swarm. Jumpstart it by applying for a Swarm grant. New grant slots will be announced at the upcoming November hackathon called “Into the metaverse”. Follow our social media channels for more information and don’t forget to register for the hackathon.
-
-# Join Swarm’s community
-
-* Follow community news on[ Twitter](https://twitter.com/ethswarmhive), and development news[ here](https://twitter.com/ethswarm).
-* Discussions about Swarm can be found on[ Reddit](https://www.reddit.com/r/ethswarm/).
-* All tech support and other channels have moved to[ Discord](https://discord.gg/wdghaQsGq5)!
-* Please feel free to reach out via [info@ethswarm.org](mailto:info@ethswarm.org)
-* Join the newsletter! [**Subscribe here**](https://www.ethswarm.org/newsletter.html).
-* Subscribe to the[ Swarm Foundation YouTube channel](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos).

@@ -52,12 +52,3 @@ For example, we have done some exploratory work regarding how gateways could be 
 We are also interested in doing further research in libp2p webrtc connections for a JS light node, compiling Bee Go code to WASM, and maybe even full node functionality in Javascript.
 
 If any of these sound interesting to you, don’t hesitate to contact us on our official [tech support channel on Discord](https://discord.gg/ykCupZMuww).
-
-# Join Swarm’s community
-
-* **Follow community news on** [**Twitter**](https://twitter.com/ethswarmhive)**, and development news** [**here**](https://twitter.com/ethswarm)**.**
-* **Discussions about Swarm can be found on** [**Reddit**](https://www.reddit.com/r/ethswarm/)**.**
-* **All tech support and other channels have moved to** [**Discord**](https://discord.gg/wdghaQsGq5)**!**
-* **Please feel free to reach out via info@ethswarm.org**
-* **Join the newsletter!** [**Subscribe here**](https://www.ethswarm.org/newsletter.html)**.**
-* **Subscribe to the** [**Swarm Foundation YouTube channel**](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos)**.**

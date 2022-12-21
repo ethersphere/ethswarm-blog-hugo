@@ -3,7 +3,6 @@ banner = ""
 categories = ["Events"]
 date = 2022-03-14T04:00:00Z
 description = "The text below is a recap of Viktor Tron’s talk from the We Are Millions Hackathon (WAM) and Festival. You can listen to the entire talk here."
-draft = true
 references_and_footnotes = []
 title = "Swarm as a platform for a self-sovereign digital society"
 
@@ -35,7 +34,6 @@ These data exchanges are based on the four “i”s:
 * Incentivisation is crucial for these data-exchanging systems to remain self-sustaining by balancing the supply and demand side of the equation.
 * Impartiality provides an unbiased infrastructure.
 
-  
 ![](/uploads/0_uwxouloczrwowrc8.png)
 
 According to Viktor, we can expect a gradual transition to Web3 in certain dimensions of the economy, such as **finance**, **media** and in **supplying goods and services**. This trend is already visible in, for example, finance with the rise of the DeFi sector. Developers should consider these sectors when developing new software and think about what should be done first (for example, develop a decentralised Dropbox first before moving on to Facebook).
@@ -47,13 +45,3 @@ He then briefly contextualised Swarm as part of Etherum’s world computer and �
 He followed with a quick overview of the open (re)source idea, that focuses on the complete agile application development cycle. In this regard, Swarm contrasts starkly with the web server farms, because the infrastructure that provides data storage also provides an application execution environment. It offers data exchange primitives, which can be combined to provide a strong feature offering.
 
 He rounded the talk off with how the planned incentives scheme will enable the Swarm network to provide a self-sustaining and auto-scaling environment.
-
-  
-Join Swarm’s community
-
-* Follow community news on[ Twitter](https://twitter.com/ethswarmhive), and development news[ here](https://twitter.com/ethswarm).
-* Discussions about Swarm can be found on[ Reddit](https://www.reddit.com/r/ethswarm/).
-* All tech support and other channels have moved to[ Discord](https://discord.gg/wdghaQsGq5)!
-* Please feel free to reach out via [info@ethswarm.org](mailto:info@ethswarm.org)
-* Join the newsletter! [**Subscribe here**](https://www.ethswarm.org/newsletter.html).
-* Subscribe to the[ Swarm Foundation YouTube channel](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos).

@@ -81,12 +81,3 @@ Other fixes and upgrades in FairDrive and Create Account App and similar FDS fro
 
 * **Celebrate the winter solstice with the Swarm**
 * There will be no Monthly Ecosystem Call on the last Thursday of December, but there will be a special event on 21 December, the shortest day of the year, when the Swarm will come together to celebrate the achievements, get ready for new challenges and share the festive mood. Be sure to join. A link to the live video stream will be posted on Swarm Foundation social media.
-
-# Join Swarm’s community
-
-* Follow community news on[ Twitter](https://twitter.com/ethswarmhive), and development news[ here](https://twitter.com/ethswarm).
-* Discussions about Swarm can be found on[ Reddit](https://www.reddit.com/r/ethswarm/).
-* All tech support and other channels have moved to[ Discord](https://discord.gg/wdghaQsGq5)!
-* Please feel free to reach out via [info@ethswarm.org](mailto:info@ethswarm.org)
-* Join the newsletter![ Subscribe here](https://www.ethswarm.org/newsletter.html).
-* Subscribe to the[ Swarm Foundation YouTube channel](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos).

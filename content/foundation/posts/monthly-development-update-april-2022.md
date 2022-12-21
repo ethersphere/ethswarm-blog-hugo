@@ -48,12 +48,3 @@ Work on creating the future of decentralised storage and communication.
 * [Senior Software Engineer (Go, blockchain) Bee team](https://www.ethswarm.org/jobs-senior-software-engineer-go-blockchain.html)
 * [Research Team Member — Modeller Swarm Research Team](https://www.ethswarm.org/modeller-swarm-research-team.html)
 * [Software Developer (Go, Kubernetes, Grafana) Swarm Research Team](https://www.ethswarm.org/software-developer-swarm-research-team.html)
-
-# Join Swarm’s community
-
-* Follow community news on [**Twitter**](https://twitter.com/ethswarmhive)**,** and development news [**here**](https://twitter.com/ethswarm)**.**
-* Discussions about Swarm can be found on [**Reddit**](https://www.reddit.com/r/ethswarm/)**.**
-* All tech support and other channels have moved to [**Discord**](https://discord.gg/wdghaQsGq5)**!**
-* Please feel free to reach out via **info@ethswarm.org**
-* Swarm up your inbox with the monthly newsletter! [**Subscribe here**](https://www.ethswarm.org/newsletter.html)**.**
-* Subscribe to [**Swarm’s YouTube channel**](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos)**.**

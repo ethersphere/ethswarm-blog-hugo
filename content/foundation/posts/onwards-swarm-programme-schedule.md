@@ -7,10 +7,6 @@ references_and_footnotes = []
 title = "Onwards, Swarm! — programme & schedule"
 
 +++
-# Onwards, Swarm! — programme & schedule
-
-![](https://miro.medium.com/max/1400/1*YOrlyEAETprnkSL4cmxCRw.png)
-
 Everything is ready for the [**Onwards, Swarm! event**](https://medium.com/ethereum-swarm/onwards-swarm-21-june-c71635494336) on 21 June 2022. Tune in to the YouTube livestream at 16:00 CET for the latest updates on the Swarm network.
 
 * **When:** **21 June 2022 at 16:00–17:00 CET** ([add to calendar](https://www.addevent.com/event/TP14018499))
@@ -55,12 +51,3 @@ Members of the various Swarm Foundation and Association tracks will be hanging o
 See you at the event!
 
 The Swarm Foundation team
-
-# Join Swarm’s community
-
-* **Follow community news on** [**Twitter**](https://twitter.com/ethswarmhive)**, and development news** [**here**](https://twitter.com/ethswarm)**.**
-* **Discussions about Swarm can be found on** [**Reddit**](https://www.reddit.com/r/ethswarm/)**.**
-* **All tech support and other channels have moved to** [**Discord**](https://discord.gg/wdghaQsGq5)**!**
-* **Please feel free to reach out via info@ethswarm.org**
-* **Join the newsletter!** [**Subscribe here**](https://www.ethswarm.org/newsletter.html)**.**
-* **Subscribe to the** [**Swarm Foundation YouTube channel**](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos)**.**

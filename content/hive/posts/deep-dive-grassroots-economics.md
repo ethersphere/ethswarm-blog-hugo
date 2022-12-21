@@ -58,12 +58,3 @@ Grassroots Economics will soon be deploying a new custodial key management syste
 As each week passes, Grassroots Economics is edging ever closer to realising their goal of empowering those in need to engage in economic activity without intermediation or third-party dependencies. In the coming months, their new code will be launched to facilitate the connection of their many systems held in isolation via their own side-chains such as connecting village tokens to the Ethereum network. There is clearly a need for something like Community Inclusion Currencies as the research speaks for itself. Grassroots Economics has pioneered a solution around something with immense infrastructure design challenges but is moving forward with over 50,000 active users and still growing.
 
 _Disclaimer: The Deep Dive blog posts are an informative overview of some of the initiatives who build on Swarm and take ownership of the protocol. Projects subject to Deep Dives are independent and autonomous from the Swarm Foundation and Association. Sometimes they are their grantees, but their work is neither audited or endorsed by the aforementioned organisations. Use at your own risk, due your own due diligence._
-
-## Join Swarm’s community
-
-* Follow community news on[ **this Twitter**](https://twitter.com/ethswarmhive), and development news[ **here**](https://twitter.com/ethswarm).
-* Discussions about Swarm can be found on[ **Reddit**](https://www.reddit.com/r/ethswarm/).
-* All tech support and other channels have moved to [**Discord**](https://discord.gg/wdghaQsGq5)!
-* Please feel free to reach out via **info@ethswarm.org**
-* Swarm up your inbox with the monthly newsletter! [**Subscribe here**](https://www.ethswarm.org/newsletter.html).
-* Subscribe to [**Swarm’s YouTube channel**](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos).

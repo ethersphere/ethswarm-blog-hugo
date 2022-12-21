@@ -14,12 +14,3 @@ The organisers would like to thank [Melanie Rieback](https://www.linkedin.com/in
 Swarm Association provides fertile ground for your project to grow and flourish upon to take on the challenges of the world, from both perspectives — the infrastructure one as well as the organisational one. To accomplish that, all pieces of the puzzle of assisting your project need to align. Swarm Summer School is one piece of this jigsaw, Swarm’s grant programme is another, and the hackathon will be the next. Stay tuned for more information, and make sure to not miss it!
 
 [**You can find the recordings of the past week here**](https://www.youtube.com/watch?v=J4UpfO-yedc&list=PL6fQnFAjtuY-t9UhPHaDCv7wbb7fFP266)**.**
-
-# Join Swarm’s community
-
-* **Follow community news on** [**Twitter**](https://twitter.com/ethswarmhive)**, and development news** [**here**](https://twitter.com/ethswarm)**.**
-* **Discussions about Swarm can be found on** [**Reddit**](https://www.reddit.com/r/ethswarm/)**.**
-* **All tech support and other channels have moved to** [**Discord**](https://discord.gg/wdghaQsGq5)**!**
-* **Please feel free to reach out via info@ethswarm.org**
-* **Join the newsletter!** [**Subscribe here**](https://www.ethswarm.org/newsletter.html)**.**
-* **Subscribe to the** [**Swarm Foundation YouTube channel**](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos)**.**

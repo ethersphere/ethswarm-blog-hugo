@@ -60,12 +60,3 @@ As all the projects were really great and well made, the jury decided they all d
 For the very last thing of the hackathon, we announced we will be rewarding our early adopters with a 1 million BZZ tokens airdrop. All you need to do to be eligible for the airdrop is install and run your own Bee node.
 
 More details on what needs to be done, how it works, and how to get tech-support can be found in [this airdrop announcement blog post](https://medium.com/ethereum-swarm/swarm-is-airdropping-1-000-000-bzz-bd3b706918d3) here. You are advised to hurry up, install your Bee node and join the Swarm network in its early stages. There is still time for you to benefit greatly, and for the network to benefit from you as well.
-
-# Join Swarm’s community
-
-* **Follow community news on** [**Twitter**](https://twitter.com/ethswarmhive)**, and development news** [**here**](https://twitter.com/ethswarm)**.**
-* **Discussions about Swarm can be found on** [**Reddit**](https://www.reddit.com/r/ethswarm/)**.**
-* **All tech support and other channels have moved to** [**Discord**](https://discord.gg/wdghaQsGq5)**!**
-* **Please feel free to reach out via info@ethswarm.org**
-* **Join the newsletter!** [**Subscribe here**](https://www.ethswarm.org/newsletter.html)**.**
-* **Subscribe to the** [**Swarm Foundation YouTube channel**](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos)**.**
