@@ -45,13 +45,3 @@ The absence of serious problems is generally a good sign. However, it should not
 The Swarm Foundation dev team has been thoroughly going through the audit report and over a period of months has been implementing its recommendations. Since there were no critical vulnerabilities, this has been an ongoing and iterative process that has been concluded with the release of v1.2.0.
 
 Feel free to [read the entire audit report here](https://gateway.ethswarm.org/access/c5da2df711722ca8edb6a01715ee03e1fd834b5c8241e625ad95c26d04292b28)
-
-#   
-Join Swarm’s community
-
-* **Follow community news on** [**Twitter**](https://twitter.com/ethswarmhive)**, and development news** [**here**](https://twitter.com/ethswarm)**.**
-* **Discussions about Swarm can be found on** [**Reddit**](https://www.reddit.com/r/ethswarm/)**.**
-* **All tech support and other channels have moved to** [**Discord**](https://discord.gg/wdghaQsGq5)**!**
-* **Please feel free to reach out via info@ethswarm.org**
-* **Join the newsletter!** [**Subscribe here**](https://www.ethswarm.org/newsletter.html)**.**
-* **Subscribe to the** [**Swarm Foundation YouTube channel**](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos)**.**
