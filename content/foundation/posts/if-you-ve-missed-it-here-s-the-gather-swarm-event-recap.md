@@ -23,7 +23,7 @@ Following this upbeat announcement, it was time for **Elad Nachmias**, Swarm’s
 
 Elad’s team’s ceaseless work in the last six months has also transformed the Swarm network from stuttering to a really stable one. _“We’re seeing really nice results with speeds somewhere between 0.5 and 2 MB/s. To some, that may not seem much, but for those that are familiar with the technical difficulties of getting something like Swarm right will understand that it is an incredibly complex task,”_ he concluded.
 
-![](https://miro.medium.com/max/1400/0*_zAn1FaH6CKDezf9 =700x380)
+![](/uploads/1.jpeg)
 
 # Incentives for storing data are coming
 
@@ -60,13 +60,13 @@ She rounded off her presentation with Fairdrive’s “explore” capabilities. 
 
 Closely related to Fairdrive is the Fair Data protocol, which the former uses as its base for interacting with other dApps. As explained by the following presenter, Viktor Toth, the protocol development goal is to connect existing decentralised storage technologies, such as Swarm, and dApps that use them. This would bring several benefits, which include those listed in the slide below.
 
-![](https://miro.medium.com/max/1400/0*OYVrTZ1WCvEG5em8)
+![](/uploads/2-4.png)
 
 But for dApps to truly be able to utilise each other’s data or aggregate it, we’ll need a consensus on data structures, Viktor explained. This will be achieved through the six-milestone roadmap presented in the picture below. The first five milestones will create a fully functional ecosystem on Swarm, while the sixth milestone will enable integration with systems beyond Swarm, Viktor concluded.
 
 Proposals for the Fair Data protocol **can already be submitted** [**here**](https://github.com/fairDataSociety/FIPs).
 
-![](https://miro.medium.com/max/1400/0*kMmXgV397MUSiqig =700x316)
+![](/uploads/3-1.png)
 
 # The Great Data Upload and Gitcoin bounties
 
@@ -86,7 +86,7 @@ Following Tomaž’s presentation was **Robert de Groot** who presented Swarm’
 
 The course is available to those either building a project on Swarm or building their own thing and who have a viable proof-of-concept they wish to validate. Early selection will start on **18th January 2022**, so don’t hesitate to [**sign up**](https://my.ethswarm.org/accelerator)!
 
-![](https://miro.medium.com/max/1400/0*u-ll-PVPsws0qjrt =700x389)
+![](/uploads/4-2.png)
 
 # “We Are Millions“ hackathon in March 2022
 
@@ -109,13 +109,3 @@ These are just some of the highlights that 2021 was full of. Looking to the futu
 Gregor finished his talk and the official part of the event with the following statement: _“It is a year where upgraded network incentives will enable emergence of first decentralised service networks. We can expect purpose-driven communities to be started on Swarm, extending Swarm with DAOs and similar structures. It will hopefully also be a year when we liberate data. It is the year of Swarm, DAOs and the metaverse”_…
 
 [**Watch the event here**](https://youtu.be/62hBl_uTaGY).
-
-#   
-Join Swarm’s community
-
-* **Follow community news on** [**Twitter**](https://twitter.com/ethswarmhive)**, and development news** [**here**](https://twitter.com/ethswarm)**.**
-* **Discussions about Swarm can be found on** [**Reddit**](https://www.reddit.com/r/ethswarm/)**.**
-* **All tech support and other channels have moved to** [**Discord**](https://discord.gg/wdghaQsGq5)**!**
-* **Please feel free to reach out via info@ethswarm.org**
-* **Join the newsletter!** [**Subscribe here**](https://www.ethswarm.org/newsletter.html)**.**
-* **Subscribe to the** [**Swarm Foundation YouTube channel**](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos)**.**
