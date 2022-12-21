@@ -7,7 +7,7 @@ references_and_footnotes = []
 title = "Upgrading Swarm Desktop App (Beta) from an ultra light to a light node"
 
 +++
-Installation
+## Installation
 
 Go to the official [**Swarm Desktop webpage**](https://desktop.ethswarm.org/) and download the installer. Run it and wait for the process to finish. Everything should be automatic and the node should set up by itself. A successful installation is indicated by the green status icon in the bottom left-hand side corner.
 
@@ -17,7 +17,7 @@ To upload data to the network you will need to upgrade your Bee node to light mo
 
 **_Note: All the steps described below are only relevant if you want to upgrade to the light mode._**
 
-# Creating an RPC endpoint
+## Creating an RPC endpoint
 
 You can use different providers to create your RCP endpoint; this example uses Getblock.
 
@@ -28,13 +28,13 @@ You can use different providers to create your RCP endpoint; this example uses G
 ![](/uploads/api.png)
 
 * **Press Generate Endpoint**
-* Choose:
-* Blockchain Gnosis Chain
+* Choose: Blockchain Gnosis Chain
 * API Interface JSON-RPC
 * Network: Mainnet
 * Press Create
 
-  ![](/uploads/endpoint.png)
+![](/uploads/endpoint.png)
+
 * An RPC URL will be generated and it should look similar to the one in the picture below. Copy the RPC URL and go back to the Swarm Desktop app
 
 ![](/uploads/congrats.webp)
