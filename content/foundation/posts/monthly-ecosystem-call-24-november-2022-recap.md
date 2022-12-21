@@ -7,8 +7,6 @@ references_and_footnotes = []
 title = "Monthly Ecosystem Call, 24 November 2022 — Recap"
 
 +++
-![](/uploads/storage-incentives-ama.png)
-
 End of the month is here, and as is now the habit, last Thursday was reserved for the Monthly Ecosystem Call. The initial part of the call was dedicated to the latest updates regarding the Swarm network and [its ongoing upgrade](https://medium.com/ethereum-swarm/towards-the-world-computer-the-swarm-network-upgrade-has-started-cfba1ed68330).
 
 During the upgrade, [two sets of issues were identified during the public testing of Phase 2](https://medium.com/ethereum-swarm/storage-incentives-timeline-update-26ab959d8ca3):
@@ -55,12 +53,3 @@ Since the end of the year is fast approaching it is time to review the year that
 You can also keep busy in the meantime by coming to [**We Are Millions Twitter Spaces**](https://twitter.com/WAMillions) talk on 7 December at 17:00 CET. **Robert de Groot** will be hosting **Ali Rizvi** (Billions Health) and **Paul Kohlhaas** (Molecule, VitaDAO), who have been working for years on solutions to improve research and funding, building new tools for decentralisation and creating entirely new communities to further change in healthcare.
 
 The panel will discuss their effects on research in genetics, therapeutics, and other fields to increase our longevity under a telling title: **“Longevity vs. web3 — will decentralisation extend our lives?”**
-
-# **Join Swarm’s community**
-
-* Follow community news on [**Twitter**](https://twitter.com/ethswarmhive), and development news [**here**](https://twitter.com/ethswarm)**.**
-* Discussions about Swarm can be found on [**Reddit**](https://www.reddit.com/r/ethswarm/).
-* All tech support and other channels have moved to [**Discord**](https://discord.gg/wdghaQsGq5)**.**
-* Please feel free to reach out via **info@ethswarm.org**.
-* Join the newsletter! [**Subscribe here**](https://www.ethswarm.org/newsletter.html).
-* Subscribe to the [**Swarm Foundation YouTube channel**](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos).
