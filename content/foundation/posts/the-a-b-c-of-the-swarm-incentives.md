@@ -1,5 +1,5 @@
 +++
-banner = ""
+banner = "/uploads/1.webp"
 categories = []
 date = 2021-01-16T04:00:00Z
 description = "If you attended the Swarm Live release online event, you probably know that all the research in recent months has paid massive dividends. We have made significant improvements and now have a very good idea of how the Swarm incentives will work. "
@@ -13,7 +13,7 @@ The best way to do that is by watching Rinke Hendriksen (Swarm’s product owner
 
 [**Watch the presentation here**](https://youtu.be/Mdymc1p82qA?t=3623).
 
-[![](https://miro.medium.com/max/1400/1*JpUcVHBZO68K5rYe76xC4w.png =700x434)](https://www.youtube.com/watch?t=3623&v=Mdymc1p82qA&feature=youtu.be)
+![](/uploads/1-1.webp)
 
 In the presentation, you will learn about the three types of Swarm incentives:
 
@@ -40,13 +40,3 @@ As with any ecosystem, it is wise to join as early as possible. The network is g
 # Liberate Data Week — Join the hackathon (8–14.2.2012)
 
 We will discuss all this in detail at the [**Liberate Data Week**](https://medium.com/ethereum-swarm/liberate-data-week-join-the-hackathon-7291bd307e32) hackathon organized by [**Fair Data Society**](https://fairdatasociety.org/) that will happen on **8 February 2021**. The main theme of the hackathon is fair data economy, but you can read more about [the event here](https://medium.com/ethereum-swarm/liberate-data-week-join-the-hackathon-7291bd307e32). And of course, don’t forget to [sign up for the event](https://swarm-gateways.net/bzz:/liberate.swarm.eth/) too.
-
-#   
-Join Swarm’s community
-
-* **Follow community news on** [**Twitter**](https://twitter.com/ethswarmhive)**, and development news** [**here**](https://twitter.com/ethswarm)**.**
-* **Discussions about Swarm can be found on** [**Reddit**](https://www.reddit.com/r/ethswarm/)**.**
-* **All tech support and other channels have moved to** [**Discord**](https://discord.gg/wdghaQsGq5)**!**
-* **Please feel free to reach out via info@ethswarm.org**
-* **Join the newsletter!** [**Subscribe here**](https://www.ethswarm.org/newsletter.html)**.**
-* **Subscribe to the** [**Swarm Foundation YouTube channel**](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos)**.**
