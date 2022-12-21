@@ -68,11 +68,3 @@ As with any new software, updates and bug fixes are inevitable. Swarm’s team o
 The best way to help build a truly stable and resilient network is by running testnet nodes. If you’re operating many nodes on the testnet, please also consider helping us with pre-release testing. Contact the Bee team via [trainspotter@ethswarm.org](mailto:trainspotter@ethswarm.org).
 
 Technical support and more information about the mainnet release is available on our [Discord channel](https://discord.gg/wdghaQsGq5).
-
-# Join our community
-
-* The Swarm team is reachable on [Discord](https://discord.gg/wdghaQsGq5). **All tech support and other channels moved there. Please join us on** [**Discord**](https://discord.gg/wdghaQsGq5)**!**
-* Follow us on [**Twitter**](https://twitter.com/ethswarm).
-* Discussions about Swarm on [**/r/ethswarm**](https://www.reddit.com/r/ethswarm) and [**/r/ethereum**](https://www.reddit.com/r/ethereum) subreddits.
-* Please feel free to reach out via [**info@ethswarm.org**](mailto:info@ethswarm.org)
-* Swarm up your inbox with our monthly newsletter! [**Subscribe here**](https://www.ethswarm.org/newsletter.html).
