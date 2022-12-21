@@ -39,12 +39,3 @@ For more details on what’s been achieved in February, see below.
 * The ecosystem team was busy organising the [We Are Millions Hackathon](https://www.wearemillions.online/)(1 to 21 March 2021). You can still [join](https://www.wearemillions.online/) the Hackathon and watch the educational content and talks live on YouTube, website and directly via Zoom.
 * Don’t miss your opportunity to apply for the [WAM hackathon bounties ](https://gitcoin.co/hackathon/millions?)and help make Web3 a better place.
 * Ecosystem Monthly Call happened on 25 February 2022. Many interesting topics were discussed and [grant projects](https://www.ethswarm.org/ecosystem.html) had their chance to show off some really interesting demos. Don’t miss the next monthly call (every last Thursday of the month) to stay on top of what’s happening in Swarm’s ecosystem.
-
-# Join Swarm’s community
-
-* Follow community news on[ **Twitter**](https://twitter.com/ethswarmhive), and development news[ here](https://twitter.com/ethswarm).
-* Discussions about Swarm can be found on [**Reddit**](https://www.reddit.com/r/ethswarm/).
-* All tech support and other channels have moved to[ **Discord**](https://discord.gg/wdghaQsGq5)!
-* Please feel free to reach out via **info@ethswarm.org**
-* Swarm up your inbox with the monthly newsletter![ **Subscribe here**](https://www.ethswarm.org/newsletter.html).
-* Subscribe to[ **Swarm’s YouTube channel**](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos)**.**
