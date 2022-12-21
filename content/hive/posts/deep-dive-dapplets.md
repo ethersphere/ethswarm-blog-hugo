@@ -9,8 +9,6 @@ title = "Deep Dive: Dapplets"
 +++
 Dapplets is an Augmented Web Infrastructure built specifically for decentralised Apps, aka dapplets. Through augmentation, it will be possible to curate information from different sources to embed over popular platforms without any censorship.
 
-![](/uploads/dapplets.png)
-
 Web content and the progression of social media over the last decade has grown rapidly and changed the way ordinary people digest information. When the internet gave rise to this new way of receiving content it was becoming ever more apparent that through censorship the platforms themselves were in control of what was seen, heard or created. A monopoly of content ownership that directly held user attention and influenced user opinion.
 
 All the data, news and events were at the mercy of just a few, as we saw time and time again, **particularly in 2020**, where users were denied information of interest or removed from the platform for sharing their personal point of view.
@@ -59,10 +57,4 @@ Being an open-source, decentralised augmented web platform, Dapplets is providin
 
 _Disclaimer: The Deep Dive blog posts are an informative overview of some of the initiatives who build on Swarm and take ownership of the protocol. Projects subject to Deep Dives are independent and autonomous from the Swarm Foundation and Association. Sometimes they are their grantees, but their work is neither audited or endorsed by the aforementioned organisations. Use at your own risk, due your own due diligence._
 
-# Join Swarm’s community
-
-* Follow community news on [**this Twitter**](https://twitter.com/ethswarmhive), and development news [**here**](https://twitter.com/ethswarm).
-* Discussions about Swarm on [**Reddit**](https://www.reddit.com/r/ethswarm/).
-* The Swarm team is reachable on [Discord](https://discord.gg/wdghaQsGq5). **All tech support and other channels moved there. Please join us on** [**Discord**](https://discord.gg/wdghaQsGq5)**!**
-* Please feel free to reach out via [**info@ethswarm.org**](mailto:info@ethswarm.org)
-* Swarm up your inbox with our monthly newsletter! [**Subscribe here**](https://www.ethswarm.org/newsletter.html).
+# 
