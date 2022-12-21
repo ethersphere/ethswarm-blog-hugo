@@ -54,12 +54,3 @@ The ecosystem track was busy organising the Swarm Summer School ’21. This 5-da
 ## **Ecosystem Track**
 
 * Swarm Summer School ’21 was organized. This 5-days-long event consisted of many interesting talks and workshops tackling the following topics: social, business, technology, and legal. On the last day of the school, a demo day was organised where projects could present their ideas to the Swarm team and other school participants. If you missed school, [you can watch the recordings of the event on YouTub](https://www.youtube.com/playlist?list=PL6fQnFAjtuY-t9UhPHaDCv7wbb7fFP266)e.
-
-# Join Swarm’s community
-
-* **Follow community news on** [**Twitter**](https://twitter.com/ethswarmhive)**, and development news** [**here**](https://twitter.com/ethswarm)**.**
-* **Discussions about Swarm can be found on** [**Reddit**](https://www.reddit.com/r/ethswarm/)**.**
-* **All tech support and other channels have moved to** [**Discord**](https://discord.gg/wdghaQsGq5)**!**
-* **Please feel free to reach out via info@ethswarm.org**
-* **Join the newsletter!** [**Subscribe here**](https://www.ethswarm.org/newsletter.html)**.**
-* **Subscribe to the** [**Swarm Foundation YouTube channel**](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos)**.**
