@@ -45,7 +45,7 @@ With the restricted API mode enabled, we can obtain our first security token by 
     curl -X POST http://localhost:1633/auth \-H 'Content-Type: application/json' \-H 'Authorization: Basic :<your_base64_basic_auth>' \-d'{"role":"consumer","expiry":3600}'
 
 Where the `role` is one of the predefined roles (consumer, creator, maintainer or accountant), and `expiry` defines the lifetime of the issued token (in seconds).  
-The value of `your_base64_basic_auth` is the value of the` - admin-password` parameter prefixed with a `:` character and base64 encoded (ex. `base64(':passwd1')` where `passwd1` is the value specified as` - admin-password`).  
+The value of `your_base64_basic_auth` is the value of the`- admin-password` parameter prefixed with a `:` character and base64 encoded (ex. `base64(':passwd1')` where `passwd1` is the value specified as`- admin-password`).  
 The returned result is in the form of:
 
     {"key":"<the_super_secret_access_token>"}
@@ -79,12 +79,3 @@ The policies definition is currently hardcoded but a plan is in the works to mak
 There is also the possibility to have a proxy server situated in front of the node, managing only the access permissions. One of the advantages of such an approach would be the increased flexibility gained from the lack of coupling between the Bee node implementation and the security solution. On the other hand, this would be an extra dependency and thus it might make the initial setup a bit more complex for the user.
 
 Keep an eye on our blog for updates on this feature, and for discussion and general feedback, please join the [Swarm Discord](https://discord.gg/wdghaQsGq5).
-
-# Join Swarm’s community
-
-* **Follow community news on** [**Twitter**](https://twitter.com/ethswarmhive)**, and development news** [**here**](https://twitter.com/ethswarm)**.**
-* **Discussions about Swarm can be found on** [**Reddit**](https://www.reddit.com/r/ethswarm/)**.**
-* **All tech support and other channels have moved to** [**Discord**](https://discord.gg/wdghaQsGq5)**!**
-* **Please feel free to reach out via info@ethswarm.org**
-* **Join the newsletter!** [**Subscribe here**](https://www.ethswarm.org/newsletter.html)**.**
-* **Subscribe to the** [**Swarm Foundation YouTube channel**](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos)**.**
