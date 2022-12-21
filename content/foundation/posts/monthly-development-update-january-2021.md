@@ -37,12 +37,3 @@ Make sure you register for the event. [Click here](https://swarm.ethereum.org/re
 # **Ecosystem Track**
 
 * The first two waves of Swarm grants gave Swarm’s ecosystem a nice boost and we now have a variety of interesting projects building on Swarm. Here is the list of the projects that successfully applied for a grant in the second wave. [The third wave of grants is still open. Make sure you don’t miss out.](https://swarmgrants.typeform.com/to/O3qL6VdO)
-
-# Join Swarm’s community
-
-* **Follow community news on** [**Twitter**](https://twitter.com/ethswarmhive)**, and development news** [**here**](https://twitter.com/ethswarm)**.**
-* **Discussions about Swarm can be found on** [**Reddit**](https://www.reddit.com/r/ethswarm/)**.**
-* **All tech support and other channels have moved to** [**Discord**](https://discord.gg/wdghaQsGq5)**!**
-* **Please feel free to reach out via info@ethswarm.org**
-* **Join the newsletter!** [**Subscribe here**](https://www.ethswarm.org/newsletter.html)**.**
-* **Subscribe to the** [**Swarm Foundation YouTube channel**](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos)**.**
