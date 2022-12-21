@@ -31,11 +31,3 @@ This very first upload marks this historic moment: b11c8ba7922e10c69fef94365892a
 # Be careful out there
 
 Be aware that there are many fake BZZ circulating and scams out there. Always do your own research and double-check the contracts and markets you’re interacting with. Swarm Foundation does not have any representatives, neither global nor local. Swarm Foundation will only communicate via official channels that can be found on [www.ethswarm.org.](http://www.ethswarm.org./)
-
-# Join our community
-
-* The Swarm team is reachable on [Discord](https://discord.gg/wdghaQsGq5). **All tech support and other channels moved there. Please join us on** [**Discord**](https://discord.gg/wdghaQsGq5)**!**
-* Follow us on [**Twitter**](https://twitter.com/ethswarm).
-* Discussions about Swarm on [**/r/ethswarm**](https://www.reddit.com/r/ethswarm) and [**/r/ethereum**](https://www.reddit.com/r/ethereum) subreddits.
-* Please feel free to reach out via [**info@ethswarm.org**](mailto:info@ethswarm.org)
-* Swarm up your inbox with our monthly newsletter! [**Subscribe here**](https://www.ethswarm.org/newsletter.html).
