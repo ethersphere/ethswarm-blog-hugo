@@ -38,12 +38,3 @@ This month, the research team worked mostly on further defining storage incentiv
 ## Ecosystem Track
 
 The ecosystem team was busy organising the [WAM hackathon](https://www.wearemillions.online/). Three weeks of intensive happenings with lots of talks, presentations, workshops, bounties and demos resulted in what is soon to become the WAM DAO. [You can watch the recordings of the events on YouTube](https://www.youtube.com/watch?v=ek8gIDsACqo&list=PL6fQnFAjtuY9AdKGRkj6VKxGfZ8bFUOrj). In the meantime [join the WAM community on the FDS Discord](http://mautic.wearemillions.online/r/ac28343591d4de1e680993c18?ct=YTo1OntzOjY6InNvdXJjZSI7YToyOntpOjA7czo1OiJlbWFpbCI7aToxO2k6MTQ7fXM6NToiZW1haWwiO2k6MTQ7czo0OiJzdGF0IjtzOjIyOiI2MjM0NmJiOWM0NzNhMTk0NTIwMzU0IjtzOjQ6ImxlYWQiO3M6MToiOCI7czo3OiJjaGFubmVsIjthOjE6e3M6NToiZW1haWwiO2k6MTQ7fX0%3D&) to stay tuned for the information on the DAO and other upcoming WAM events.
-
-# Join Swarm’s community
-
-* Follow community news on [**Twitter**](https://twitter.com/ethswarmhive)**,** and development news [**here**](https://twitter.com/ethswarm)**.**
-* Discussions about Swarm can be found on [**Reddit**](https://www.reddit.com/r/ethswarm/)**.**
-* All tech support and other channels have moved to [**Discord**](https://discord.gg/wdghaQsGq5)**!**
-* Please feel free to reach out via **info@ethswarm.org**
-* Swarm up your inbox with the monthly newsletter! [**Subscribe here**](https://www.ethswarm.org/newsletter.html)**.**
-* Subscribe to [**Swarm’s YouTube channel**](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos)**.**
