@@ -17,7 +17,7 @@ This issue is particularly acute for software at the bleeding edge, that softwar
 
 **NOTE: This blog post is geared towards running a** `bee` **full node. If you are wanting ONLY TO ACCESS / UPLOAD unstoppable content from/to Swarm, checkout** [**Swarm Desktop**](https://www.ethswarm.org/build/desktop)**.**
 
-# What is the world computer? 
+# What is the world computer?
 
 The “world computer” refers to a distributed, decentralised computer capable of:
 
@@ -152,12 +152,3 @@ One of the best, and free (monetarily) ways to show your love for the Swarm is t
 # Donations 💰 Support MFW78
 
 Alternatively, if you’re feeling generous and you’re a fan of the work that I do, any support you can give is appreciated. You can donate to my `0xe618050f1adb1f6bb7d03a3484346ac42f3e71ee` address on Gnosis Chain or Ethereum mainnet. All donations are appreciated and will be used to support further development in this area. 🫶
-
-Become part of our community, and don’t miss out on all the latest news.
-
-* **Follow community news on** [**Twitter**](https://twitter.com/ethswarmhive)**, and development news** [**here**](https://twitter.com/ethswarm)**.**
-* **Discussions about Swarm can be found on** [**Reddit**](https://www.reddit.com/r/ethswarm/)**.**
-* **All tech support and other channels have moved to** [**Discord**](https://discord.gg/wdghaQsGq5)**!**
-* **Please feel free to reach out via info@ethswarm.org**
-* **Join the newsletter!** [**Subscribe here**](https://www.ethswarm.org/newsletter.html)**.**
-* **Subscribe to the** [**Swarm Foundation YouTube channel**](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos)**.**
