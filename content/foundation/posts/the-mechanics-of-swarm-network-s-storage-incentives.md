@@ -56,7 +56,7 @@ In order to participate in redistribution, storers need to do the following:
 
 Amongst the nodes that agree with the correct result, one is chosen — with a probability in proportion to their stake — as the winner. The winner must execute an on-chain transaction claiming their reward, which is the entire pot of storage rent paid since the previous round, or even more, if the previous pot has not been claimed at that time.
 
-![](https://miro.medium.com/max/700/0*KO-3RGUfanlx3uP1 =700x424)
+![](/uploads/1-2.png)
 
 The process of storage fees redistribution
 
@@ -64,7 +64,7 @@ The stake can be reused in future rounds, as long as the node does not violate t
 
 The expected amount of the reward is:
 
-![](https://miro.medium.com/max/620/0*UeTia68tbW9WzHa4 =620x66)
+![](/uploads/2-2.png)
 
 The storage rent, in turn, is the product of the amount of storage rented and the rent price as determined by the rent oracle:
 
