@@ -50,12 +50,3 @@ If you experience high I/O, you can also toggle the disable seeks compaction opt
 * Remove abigen-generated bindings ([#1361](https://github.com/ethersphere/bee/pull/1361), [#1360](https://github.com/ethersphere/bee/pull/1360), [#1362](https://github.com/ethersphere/bee/pull/1362))
 
 Added metrics to a bunch of places and fixed how we collect metrics at some ([#1373](https://github.com/ethersphere/bee/pull/1373), [#1410](https://github.com/ethersphere/bee/pull/1410), [#1417](https://github.com/ethersphere/bee/pull/1417), [#1427](https://github.com/ethersphere/bee/pull/1427), [#1446](https://github.com/ethersphere/bee/pull/1446), [#1373](https://github.com/ethersphere/bee/pull/1457))
-
-# Join Swarm’s community
-
-* **Follow community news on** [**Twitter**](https://twitter.com/ethswarmhive)**, and development news** [**here**](https://twitter.com/ethswarm)**.**
-* **Discussions about Swarm can be found on** [**Reddit**](https://www.reddit.com/r/ethswarm/)**.**
-* **All tech support and other channels have moved to** [**Discord**](https://discord.gg/wdghaQsGq5)**!**
-* **Please feel free to reach out via info@ethswarm.org**
-* **Join the newsletter!** [**Subscribe here**](https://www.ethswarm.org/newsletter.html)**.**
-* **Subscribe to the** [**Swarm Foundation YouTube channel**](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos)**.**
