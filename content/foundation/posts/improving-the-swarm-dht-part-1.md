@@ -28,13 +28,3 @@ Our series of upcoming releases will start tackling these issues in the followin
 Future blog posts will announce upcoming releases, so please stay tuned to keep in sync (no pun intended) with our release cycles.
 
 I also invite you to stay in touch with us using our [Discord server](https://discord.gg/wdghaQsGq5) and keep an eye out on this blog for more future dev-team updates as we publish our activities and observations. Also feel free to register to the Swarm Foundation [newsletter](https://www.ethswarm.org/newsletter.html) which includes future notifications about upcoming versions, new tooling and breaking changes.
-
-#   
-Join Swarm’s community
-
-* Follow community news on[ Twitter](https://twitter.com/ethswarmhive), and development news[ here](https://twitter.com/ethswarm).
-* Discussions about Swarm can be found on[ Reddit](https://www.reddit.com/r/ethswarm/).
-* All tech support and other channels have moved to[ Discord](https://discord.gg/wdghaQsGq5)!
-* Please feel free to reach out via [info@ethswarm.org](mailto:info@ethswarm.org)
-* Join the newsletter! [**Subscribe here**](https://www.ethswarm.org/newsletter.html).
-* Subscribe to the[ Swarm Foundation YouTube channel](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos).
