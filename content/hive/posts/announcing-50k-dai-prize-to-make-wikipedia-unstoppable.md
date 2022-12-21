@@ -27,12 +27,3 @@ Making information available to everyone is therefore a crucial effort in preser
 **Your solution can become an important part of the continuous efforts to provide people around the world with access to information and to enable digital freedoms**. So, why not give it a try? The [**hefty prize**](http://gitcoin.co/issue/28926) is just a cherry on the top!
 
 If you have any further questions, support is available on [**Swarm’s Discord**](https://discord.com/channels/799027393297514537/823536245972008980) or on [**Fair Data Society’s Discord**](https://discord.com/channels/888359049551310869/965890852683653170)
-
-# Join Swarm’s community
-
-* **Follow community news on** [**Twitter**](https://twitter.com/ethswarmhive)**, and development news** [**here**](https://twitter.com/ethswarm)**.**
-* **Discussions about Swarm can be found on** [**Reddit**](https://www.reddit.com/r/ethswarm/)**.**
-* **All tech support and other channels have moved to** [**Discord**](https://discord.gg/wdghaQsGq5)**!**
-* **Please feel free to reach out via info@ethswarm.org**
-* **Join the newsletter!** [**Subscribe here**](https://www.ethswarm.org/newsletter.html)**.**
-* **Subscribe to the** [**Swarm Foundation’s YouTube channel**](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos)**.**
