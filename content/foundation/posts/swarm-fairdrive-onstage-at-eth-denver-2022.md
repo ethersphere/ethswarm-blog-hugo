@@ -72,12 +72,3 @@ It supports all of your favourite coding languages, making FairOS a game-changin
 For more information and news on Swarm, tune in to the channels below.
 
 **Want to dive deeper into Fairdrive? Tune into Angela’s talk on Fairdrive with a live demo at the upcoming** [**We Are Millions (WAM) Hackathon and Festival**](https://medium.com/ethereum-swarm/we-are-millions-building-a-better-web-48687b03f8dd)**, organised by Swarm and Partners.**
-
-# Join Swarm’s community
-
-* Follow community news on[ Twitter](https://twitter.com/ethswarmhive), and development news[ here](https://twitter.com/ethswarm).
-* Discussions about Swarm can be found on[ Reddit](https://www.reddit.com/r/ethswarm/).
-* All tech support and other channels have moved to[ Discord](https://discord.gg/wdghaQsGq5)!
-* Please feel free to reach out via [info@ethswarm.org](mailto:info@ethswarm.org)
-* Join the newsletter! [**Subscribe here**](https://www.ethswarm.org/newsletter.html).
-* Subscribe to the[ Swarm Foundation YouTube channel](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos).
