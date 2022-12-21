@@ -1,6 +1,6 @@
 +++
 banner = "/uploads/swarm.webp"
-categories = []
+categories = ["Events"]
 date = 2021-01-25T04:00:00Z
 description = "Make sure you don’t miss the Liberate Data Week, a Fair Data Society organized event, that will run from 8–14 February 2021.\n\n"
 references_and_footnotes = []
