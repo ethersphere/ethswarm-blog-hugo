@@ -38,12 +38,3 @@ Although this is promoted as a hackathon, this will be interesting to a wider au
 Please follow our [Twitter](https://twitter.com/ethswarm), [Reddit](https://www.reddit.com/r/ethswarm/), or [simply sign up for the event](https://swarm-gateways.net/bzz:/liberate.swarm.eth/) to be notified about the programme and schedule.
 
 See you at the event!
-
-# Join Swarm’s community
-
-* Follow community news on[ Twitter](https://twitter.com/ethswarmhive), and development news[ here](https://twitter.com/ethswarm).
-* Discussions about Swarm can be found on[ Reddit](https://www.reddit.com/r/ethswarm/).
-* All tech support and other channels have moved to[ Discord](https://discord.gg/wdghaQsGq5)!
-* Please feel free to reach out via [info@ethswarm.org](mailto:info@ethswarm.org)
-* Join the newsletter! [**Subscribe here**](https://www.ethswarm.org/newsletter.html).
-* Subscribe to the[ Swarm Foundation YouTube channel](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos).
