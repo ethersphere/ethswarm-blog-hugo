@@ -49,7 +49,7 @@
 
 {{ $pages = (where $pages "Type" "posts").ByDate.Reverse }}
 
-{{ $development := where $pages "Params.categories" "intersect" (slice "Development") }}
+{{ $development := where $pages "Params.categories" "intersect" (slice "Development Updates") }}
 
 {{ $other := $pages | complement $development $featured }}
 
@@ -99,7 +99,6 @@
           class="text-gray-900 underline duration-150 hover:text-opacity-70"
           >Development updates</a
         >
-        
       </h2>
 
       <div class="sm:gap-7.5 mt-12 grid grid-cols-1 gap-14 sm:grid-cols-12">

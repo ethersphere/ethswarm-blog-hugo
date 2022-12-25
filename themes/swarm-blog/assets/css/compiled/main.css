@@ -1470,6 +1470,10 @@ aside ul a:hover {
   flex-grow: 1;
 }
 
+.cursor-not-allowed {
+  cursor: not-allowed;
+}
+
 .grid-cols-1 {
   grid-template-columns: repeat(1, minmax(0, 1fr));
 }
