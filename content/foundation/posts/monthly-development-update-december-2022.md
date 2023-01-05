@@ -27,10 +27,6 @@ Have fun reading.
 
 This release includes Storage Incentives Phase 2: the redistribution feature is a breaking change and old versions are not able to connect to the new version, therefore node operators are recommended to upgrade to this version as soon as possible. Here are the release notes:[ ](https://github.com/ethersphere/bee/releases/tag/v1.10.0)[https://github.com/ethersphere/bee/releases/tag/v1.10.0](https://github.com/ethersphere/bee/releases/tag/v1.10.0 "https://github.com/ethersphere/bee/releases/tag/v1.10.0")
 
-##### Improvements to internal tooling
-
-##### Working on new Swarm Desktop app release
-
 ### **JS Track**
 
 ##### **New Bee-js release, version 5.1.1**
