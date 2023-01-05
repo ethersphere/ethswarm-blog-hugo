@@ -29,11 +29,9 @@ Have fun reading.
 * Improvements to internal tooling
 * Working on new Swarm Desktop app release
 
-### **JS Track** 
+### **JS Track**
 
-* **New Bee-js release, version 5.1.1** (2022-12-21). [Read more about the release here](https://github.com/ethersphere/bee-js/releases/tag/v5.1.1). This is a small release that brings compatibility with the Bee 1.10.0 release.
-
-  Bug Fixes:
+* **New Bee-js release, version 5.1.1** (2022-12-21). [Read more about the release here](https://github.com/ethersphere/bee-js/releases/tag/v5.1.1). This is a small release that brings compatibility with the Bee 1.10.0 release and some bug fixes:
   * Backward compatibility for wallet endpoint
   * Staking endpoint url change
 * **New Swarm Desktop release, version 0.17.0**
