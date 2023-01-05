@@ -23,26 +23,28 @@ Have fun reading.
 
 ### **Bee Track**
 
-* **New Bee Release 1.10 was deployed on the mainnet:**
+##### **New Bee Release 1.10 was deployed on the mainnet:**
 
-  This release includes Storage Incentives Phase 2: the redistribution feature is a breaking change and old versions are not able to connect to the new version, therefore node operators are recommended to upgrade to this version as soon as possible. Here are the release notes:[ ](https://github.com/ethersphere/bee/releases/tag/v1.10.0)[https://github.com/ethersphere/bee/releases/tag/v1.10.0](https://github.com/ethersphere/bee/releases/tag/v1.10.0 "https://github.com/ethersphere/bee/releases/tag/v1.10.0")
-* Improvements to internal tooling
-* Working on new Swarm Desktop app release
+This release includes Storage Incentives Phase 2: the redistribution feature is a breaking change and old versions are not able to connect to the new version, therefore node operators are recommended to upgrade to this version as soon as possible. Here are the release notes:[ ](https://github.com/ethersphere/bee/releases/tag/v1.10.0)[https://github.com/ethersphere/bee/releases/tag/v1.10.0](https://github.com/ethersphere/bee/releases/tag/v1.10.0 "https://github.com/ethersphere/bee/releases/tag/v1.10.0")
 
 ### **JS Track**
 
-* **New Bee-js release, version 5.1.1**
+##### **New Bee-js release, version 5.1.1**
 
-   [Read more about the release here](https://github.com/ethersphere/bee-js/releases/tag/v5.1.1). This is a small release that brings compatibility with the Bee 1.10.0 release and some bug fixes:
-  * Backward compatibility for wallet endpoint
-  * Staking endpoint url change
-* **New Swarm Desktop release, version 0.17.0**
+[Read more about the release here](https://github.com/ethersphere/bee-js/releases/tag/v5.1.1). This is a small release that brings compatibility with the Bee 1.10.0 release and some bug fixes:
 
-  This release is compatible with the Bee 1.10.0 release and contains numerous improvements and fixes.
+* Backward compatibility for wallet endpoint
+* Staking endpoint url change
 
-  On Windows and macOS this is an automatic update, whereas Linux users have to manually download and install the latest version.
+##### **New Swarm Desktop release, version 0.17.0**
 
-  Full release notes and link to download: [https://github.com/ethersphere/swarm-desktop/releases/tag/v0.17.0](https://github.com/ethersphere/swarm-desktop/releases/tag/v0.17.0 "https://github.com/ethersphere/swarm-desktop/releases/tag/v0.17.0")
+This release is compatible with the Bee 1.10.0 release and contains numerous improvements and fixes.
+
+On Windows and macOS this is an automatic update, whereas Linux users have to manually download and install the latest version.
+
+Full release notes and link to download:
+
+[https://github.com/ethersphere/swarm-desktop/releases/tag/v0.17.0](https://github.com/ethersphere/swarm-desktop/releases/tag/v0.17.0 "https://github.com/ethersphere/swarm-desktop/releases/tag/v0.17.0")
 
 ### **Fair Data Protocol**
 
