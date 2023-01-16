@@ -1,0 +1,55 @@
+name: Swarm Upload
+
+on:
+  push:
+    branches:
+      - 'main'
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+      - name: Build
+        run: |
+          npm ci --prefix themes/swarm-blog
+          npm run build --prefix themes/swarm-blog
+          hugo -D --gc
+          npx -y pagefind --source public
+      - name: Upload to Swarm
+        uses: ethersphere/swarm-actions/upload-dir@v0
+        id: upload
+        with:
+          dir: ./public
+          index-document: index.html
+          postage-batch-id: ${{ secrets.PRIVATE_POSTAGE_BATCH_ID }}
+          bee-url: ${{ secrets.PRIVATE_BEE_URL }}
+          timeout: 300000
+          headers: |
+            authorization: ${{ secrets.PRIVATE_API_TOKEN }}
+      - name: Setup feed
+        uses: ethersphere/swarm-actions/write-feed@v0
+        id: feed
+        with:
+          reference: ${{ steps.upload.outputs.reference }}
+          topic: "swarm-blog"
+          postage-batch-id: ${{ secrets.PRIVATE_POSTAGE_BATCH_ID }}
+          bee-url: ${{ secrets.PRIVATE_BEE_URL }}
+          signer: ${{ secrets.PRIVATE_SIGNER }}
+          headers: |
+            authorization: ${{ secrets.PRIVATE_API_TOKEN }}
+      - uses: ethersphere/swarm-actions/reference-to-cid@v0
+        id: cid
+        with:
+          reference: ${{ steps.feed.outputs.manifest }}
+
+      - run: |
+          echo 'Chunk Reference: ${{ steps.upload.outputs.reference }}'
+          echo 'Feed Reference: ${{ steps.feed.outputs.reference }}'
+          echo 'Feed Manifest: ${{ steps.feed.outputs.manifest }}'
+          echo 'Feed Bzz.link: https://${{ steps.cid.outputs.cid }}.bzz.link'
