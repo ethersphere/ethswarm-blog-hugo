@@ -3,14 +3,11 @@ banner = "/uploads/incentives.png"
 categories = ["Development Updates"]
 date = 2022-11-22T23:00:00Z
 description = "An economically self-sustaining mechanism to gather storage operators."
+draft = true
 references_and_footnotes = []
 title = "The Mechanics of Swarm network’s Storage Incentives"
 
 +++
-_An economically self-sustaining mechanism to gather storage operators._
-
-![](https://miro.medium.com/max/700/0*Oi9v5eNYw8OSQRkz =700x467)
-
 # **Introduction**
 
 Historically, people had two choices when it came to hosting their data: they could either store it themselves or upload it to a trusted third party computer. Regarding the latter, the source of this trust is typically that the host — usually a corporation — is conducting a long term business requiring them to be reliable and reputable. On the other hand, self-hosting requires that one’s computer is online at all times, which is often not feasible.
