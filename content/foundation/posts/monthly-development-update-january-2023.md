@@ -15,7 +15,7 @@ The Monthly Ecosystem Call has been renamed to **Swarm Community Call**. The tim
 
 # Tracks
 
-## **Bee Track** 
+## **Bee Track**
 
 * **New Bee Release 1.11 was deployed:** [**https://github.com/ethersphere/bee/releases/tag/v1.11.0**](https://github.com/ethersphere/bee/releases/tag/v1.11.0 "https://github.com/ethersphere/bee/releases/tag/v1.11.0")
   * 1.11 release which mostly consists of minor fixes to chunk syncing and improved uploading experience.
@@ -29,7 +29,7 @@ The Monthly Ecosystem Call has been renamed to **Swarm Community Call**. The tim
   * This release is compatible with the Bee 1.11 release and improves node status handling in the Web UI.
   * On Windows and MacOS this is an automatic update, whereas Linux users have to manually download and install the latest version.
 
-## **Research Track** 
+## **Research Track**
 
 * We are working hard to complete the solution documents for the rest of the storage incentives (phases 4 and 5) and create our task backlog and a lot of progress has been made.
 * The oracle phase 3 recalibration will be tested soon and hopefully finalised or close to it, though we treat this seriously and want it to be perfect.
@@ -37,8 +37,9 @@ The Monthly Ecosystem Call has been renamed to **Swarm Community Call**. The tim
 
 ## **Fair Data Protocol**
 
-* **Blossom :** [https://github.com/fairDataSociety/blossom](https://github.com/fairDataSociety/blossom "https://github.com/fairDataSociety/blossom")
-  * Released new version, compatible with Swarm
+**Blossom :** [https://github.com/fairDataSociety/blossom](https://github.com/fairDataSociety/blossom "https://github.com/fairDataSociety/blossom")
+
+* Released new version, compatible with Swarm
 * **Fairdrive Desktop app :** [**https://fairdatasociety.github.io/fairdrive-desktop-app/**](https://fairdatasociety.github.io/fairdrive-desktop-app/ "https://fairdatasociety.github.io/fairdrive-desktop-app/")
   * Released new version with support for sharing and forking pods
 * **Fairdrive Web app :** [**https://fairdrive.fairdatasociety.org/**](https://fairdrive.fairdatasociety.org/ "https://fairdrive.fairdatasociety.org/")
@@ -61,10 +62,10 @@ The Monthly Ecosystem Call has been renamed to **Swarm Community Call**. The tim
 * Released the [Beekeeper](https://github.com/ethersphere/beekeeper) (v0.11.15).
 * Released the [Bee-clef](https://github.com/ethersphere/bee-clef) (v0.14.0).
 
-  ## **Ecosystem** 
+## **Ecosystem**
+
 * Social Archive X Dapplets Challenge Bounty was implemented: [https://gitcoin.co/issue/29165](https://gitcoin.co/issue/29165 "https://gitcoin.co/issue/29165") , providing indexing of data for Social Archive
 
-##   
- **Upcoming events**
+### **Upcoming events**
 
 * **Swarm Community Call** - our main monthly online event, will take place **on 23 February at 17:00 CET** in the [**Swarm Foundation Discord**](https://discord.com/channels/799027393297514537/801438093927776286) ([**add to calendar**](https://www.addevent.com/event/Ui16058875)). Already have a question for the teams building the Swarm network? Send them a question by using this [**online form**](https://airtable.com/shrBRyrMkXFsJvLS3).
