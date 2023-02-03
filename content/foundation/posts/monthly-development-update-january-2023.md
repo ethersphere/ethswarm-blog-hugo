@@ -23,7 +23,7 @@ The **JS Track** has also released [**a new version of Swarm Desktop** ](https:/
 
 ## JS Track
 
-##### New Swarm Desktop Release 0.18.1: [https://github.com/ethersphere/swarm-desktop/releases/tag/v0.18.1](https://github.com/ethersphere/swarm-desktop/releases/tag/v0.18.1 "https://github.com/ethersphere/swarm-desktop/releases/tag/v0.18.1")
+**New Swarm Desktop Release 0.18.1:** [https://github.com/ethersphere/swarm-desktop/releases/tag/v0.18.1](https://github.com/ethersphere/swarm-desktop/releases/tag/v0.18.1 "https://github.com/ethersphere/swarm-desktop/releases/tag/v0.18.1")
 
 * This release is compatible with the Bee 1.11 release and improves node status handling in the Web UI.
 * On Windows and MacOS this is an automatic update, whereas Linux users have to manually download and install the latest version.
