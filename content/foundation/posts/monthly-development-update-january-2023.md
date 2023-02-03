@@ -66,7 +66,7 @@ The **JS Track** has also released [**a new version of Swarm Desktop** ](https:/
 
 **Social Archive X Dapplets Challenge Bounty** was implemented: [https://gitcoin.co/issue/29165](https://gitcoin.co/issue/29165 "https://gitcoin.co/issue/29165") , providing indexing of data for Social Archive
 
-### **Upcoming events**
+## **Upcoming events**
 
 ##### Swarm Community Call - our main monthly online event, will take place **on 23 February at 17:00 CET** in the [**Swarm Foundation Discord**](https://discord.com/channels/799027393297514537/801438093927776286) ([**add to calendar**](https://www.addevent.com/event/Ui16058875)).
 
