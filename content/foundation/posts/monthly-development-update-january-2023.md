@@ -39,23 +39,36 @@ The investigation is also ongoing into the reasons for the small percentage of f
 
 ## **Fair Data Protocol**
 
-* **Blossom :** [https://github.com/fairDataSociety/blossom](https://github.com/fairDataSociety/blossom "https://github.com/fairDataSociety/blossom")
-  * Released new version, compatible with Swarm
-* **Fairdrive Desktop app :** [**https://fairdatasociety.github.io/fairdrive-desktop-app/**](https://fairdatasociety.github.io/fairdrive-desktop-app/ "https://fairdatasociety.github.io/fairdrive-desktop-app/")
-  * Released new version with support for sharing and forking pods
-* **Fairdrive Web app :** [**https://fairdrive.fairdatasociety.org/**](https://fairdrive.fairdatasociety.org/ "https://fairdrive.fairdatasociety.org/")
-  * Migrated fully to JS library fdp-storage
-  * Specification in progress for the “Fair portal” (currently called “Explore”) section to list independent dApps using Fairdrive
-  * Fixes for apps available in Explore section
-* **FDP Tutorial :** [**https://github.com/fairDataSociety/fdp-TODO-app-tutorial**](https://github.com/fairDataSociety/fdp-TODO-app-tutorial "https://github.com/fairDataSociety/fdp-TODO-app-tutorial")
-  * Minor updates
-* **FDP Play**: [https://github.com/fairDataSociety/fdp-play](https://github.com/fairDataSociety/fdp-play "https://github.com/fairDataSociety/fdp-play")
-  * Released 2.1.1 version that includes new storage incentive-related smart contracts and Bee 1.11.1
-* **FDP Contracts**: [https://github.com/fairDataSociety/fdp-contracts](https://github.com/fairDataSociety/fdp-contracts "https://github.com/fairDataSociety/fdp-contracts")
-  * Released new version of fdp-contracts-blockchain docker image [https://hub.docker.com/r/fairdatasociety/fdp-contracts-blockchain](https://hub.docker.com/r/fairdatasociety/fdp-contracts-blockchain "https://hub.docker.com/r/fairdatasociety/fdp-contracts-blockchain")
-  * It is planned to replace [@fairdatasociety/fdp-contracts NPM package](https://www.npmjs.com/package/@fairdatasociety/fdp-contracts) with the Smart Contract source files that Solidity based projects could import to do BMT inclusion proofs or Swarm Signature Recoveries. The substituted JS library will be still available but under name of @fairdatasociety/fdp-contracts-js
-* **Graffiti Feed**:
-  * AnyThread implemented Personal Storage based [Graffiti Feed](https://github.com/fairDataSociety/FIPs/blob/master/text/0062-graffiti-feed.md) in a JS library [https://github.com/anythread/zerodash](https://github.com/anythread/zerodash "https://github.com/anythread/zerodash")
+**Blossom :** [https://github.com/fairDataSociety/blossom](https://github.com/fairDataSociety/blossom "https://github.com/fairDataSociety/blossom")
+
+* Released new version, compatible with Swarm
+
+**Fairdrive Desktop app :** [**https://fairdatasociety.github.io/fairdrive-desktop-app/**](https://fairdatasociety.github.io/fairdrive-desktop-app/ "https://fairdatasociety.github.io/fairdrive-desktop-app/")
+
+* Released new version with support for sharing and forking pods
+
+**Fairdrive Web app :** [**https://fairdrive.fairdatasociety.org/**](https://fairdrive.fairdatasociety.org/ "https://fairdrive.fairdatasociety.org/")
+
+* Migrated fully to JS library fdp-storage
+* Specification in progress for the “Fair portal” (currently called “Explore”) section to list independent dApps using Fairdrive
+* Fixes for apps available in Explore section
+
+**FDP Tutorial :** [**https://github.com/fairDataSociety/fdp-TODO-app-tutorial**](https://github.com/fairDataSociety/fdp-TODO-app-tutorial "https://github.com/fairDataSociety/fdp-TODO-app-tutorial")
+
+* Minor updates
+
+**FDP Play**: [https://github.com/fairDataSociety/fdp-play](https://github.com/fairDataSociety/fdp-play "https://github.com/fairDataSociety/fdp-play")
+
+* Released 2.1.1 version that includes new storage incentive-related smart contracts and Bee 1.11.1
+
+**FDP Contracts**: [https://github.com/fairDataSociety/fdp-contracts](https://github.com/fairDataSociety/fdp-contracts "https://github.com/fairDataSociety/fdp-contracts")
+
+* Released new version of fdp-contracts-blockchain docker image [https://hub.docker.com/r/fairdatasociety/fdp-contracts-blockchain](https://hub.docker.com/r/fairdatasociety/fdp-contracts-blockchain "https://hub.docker.com/r/fairdatasociety/fdp-contracts-blockchain")
+* It is planned to replace [@fairdatasociety/fdp-contracts NPM package](https://www.npmjs.com/package/@fairdatasociety/fdp-contracts) with the Smart Contract source files that Solidity based projects could import to do BMT inclusion proofs or Swarm Signature Recoveries. The substituted JS library will be still available but under name of @fairdatasociety/fdp-contracts-js
+
+**Graffiti Feed**:
+
+* AnyThread implemented Personal Storage based [Graffiti Feed](https://github.com/fairDataSociety/FIPs/blob/master/text/0062-graffiti-feed.md) in a JS library [https://github.com/anythread/zerodash](https://github.com/anythread/zerodash "https://github.com/anythread/zerodash")
 
 ## DevOps Track
 
