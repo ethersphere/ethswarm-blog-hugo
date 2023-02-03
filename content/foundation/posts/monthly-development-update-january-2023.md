@@ -11,7 +11,7 @@ In January, the **Bee Track** released a new version of the Bee client (1.11) th
 
 The **JS Track** has also released [**a new version of Swarm Desktop** ](https://www.ethswarm.org/build/desktop)(0.18.1). If you have it installed on Windows or macOS, the update will happen automatically. A lot has happened with regard to the **Fair Data Protocol**: a new version of the Swarm-compatible [Blossom](https://github.com/fairDataSociety/blossom) is available, and important changes and steps have been taken to make both the [Fairdrive Desktop App](https://fairdatasociety.github.io/fairdrive-desktop-app/) and the web app more powerful.
 
-The Monthly Ecosystem Call has been renamed to **Swarm Community Call**. The time of the call remains the same, the last Thursday of each month at 17:00 CET. You are invited to join the call on **23 February at 17:00 CET** on [**Swarm Foundation Discord**](https://discord.com/channels/799027393297514537/801438093927776286). You can already send your questions [**via this form**](https://airtable.com/shrBRyrMkXFsJvLS3).
+**Swarm Community Call** will now be our main monthly online event. Join us on the last Thursday of every month at 17:00 CET on the [**Swarm Foundation Discord**](https://discord.com/channels/799027393297514537/801438093927776286). You can also submit your questions ahead of time through [**this form**](https://airtable.com/shrBRyrMkXFsJvLS3). Mark your [**calendars**](https://www.addevent.com/event/Ui16058875) for **23 February at 17:00 CET**. We hope to see you there!
 
 # Tracks
 
@@ -25,9 +25,10 @@ The Monthly Ecosystem Call has been renamed to **Swarm Community Call**. The tim
 
 ## JS Track
 
-* New Swarm Desktop Release 0.18.1: [https://github.com/ethersphere/swarm-desktop/releases/tag/v0.18.1](https://github.com/ethersphere/swarm-desktop/releases/tag/v0.18.1 "https://github.com/ethersphere/swarm-desktop/releases/tag/v0.18.1")
-  * This release is compatible with the Bee 1.11 release and improves node status handling in the Web UI.
-  * On Windows and MacOS this is an automatic update, whereas Linux users have to manually download and install the latest version.
+##### New Swarm Desktop Release 0.18.1: [https://github.com/ethersphere/swarm-desktop/releases/tag/v0.18.1](https://github.com/ethersphere/swarm-desktop/releases/tag/v0.18.1 "https://github.com/ethersphere/swarm-desktop/releases/tag/v0.18.1")
+
+* This release is compatible with the Bee 1.11 release and improves node status handling in the Web UI.
+* On Windows and MacOS this is an automatic update, whereas Linux users have to manually download and install the latest version.
 
 ## **Research Track**
 
@@ -56,7 +57,7 @@ The Monthly Ecosystem Call has been renamed to **Swarm Community Call**. The tim
 * **Graffiti Feed**:
   * AnyThread implemented Personal Storage based [Graffiti Feed](https://github.com/fairDataSociety/FIPs/blob/master/text/0062-graffiti-feed.md) in a JS library [https://github.com/anythread/zerodash](https://github.com/anythread/zerodash "https://github.com/anythread/zerodash")
 
-## **DevOps Track**
+## DevOps Track
 
 * Deployed [Bee](https://github.com/ethersphere/bee) to the mainnet (v1.11.1).
 * Released the [Beekeeper](https://github.com/ethersphere/beekeeper) (v0.11.15).
@@ -64,8 +65,11 @@ The Monthly Ecosystem Call has been renamed to **Swarm Community Call**. The tim
 
 ## **Ecosystem**
 
-* Social Archive X Dapplets Challenge Bounty was implemented: [https://gitcoin.co/issue/29165](https://gitcoin.co/issue/29165 "https://gitcoin.co/issue/29165") , providing indexing of data for Social Archive
+**Social Archive X Dapplets Challenge Bounty** was implemented: [https://gitcoin.co/issue/29165](https://gitcoin.co/issue/29165 "https://gitcoin.co/issue/29165") , providing indexing of data for Social Archive
 
 ### **Upcoming events**
 
-* **Swarm Community Call** - our main monthly online event, will take place **on 23 February at 17:00 CET** in the [**Swarm Foundation Discord**](https://discord.com/channels/799027393297514537/801438093927776286) ([**add to calendar**](https://www.addevent.com/event/Ui16058875)). Already have a question for the teams building the Swarm network? Send them a question by using this [**online form**](https://airtable.com/shrBRyrMkXFsJvLS3).
+##### Swarm Community Call - our main monthly online event, will take place **on 23 February at 17:00 CET** in the [**Swarm Foundation Discord**](https://discord.com/channels/799027393297514537/801438093927776286) ([**add to calendar**](https://www.addevent.com/event/Ui16058875)).
+
+It’s an opportunity for you to **hear about the progress** being made and get **exclusive reveals** directly from the team behind Swarm. Join the call to learn about the **upcoming events** organised, sponsored, supported or frequented by the Swarm Foundation and receive **the latest insights from our community-driven projects**.  
+Already have a question for the teams building the Swarm network? Send them a question by using this [**online form**](https://airtable.com/shrBRyrMkXFsJvLS3).
