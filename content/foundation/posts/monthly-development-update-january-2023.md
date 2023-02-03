@@ -38,9 +38,8 @@ The **JS Track** has also released [**a new version of Swarm Desktop** ](https:/
 
 ## **Fair Data Protocol**
 
-**Blossom :** [https://github.com/fairDataSociety/blossom](https://github.com/fairDataSociety/blossom "https://github.com/fairDataSociety/blossom")
-
-* Released new version, compatible with Swarm
+* **Blossom :** [https://github.com/fairDataSociety/blossom](https://github.com/fairDataSociety/blossom "https://github.com/fairDataSociety/blossom")
+  * Released new version, compatible with Swarm
 * **Fairdrive Desktop app :** [**https://fairdatasociety.github.io/fairdrive-desktop-app/**](https://fairdatasociety.github.io/fairdrive-desktop-app/ "https://fairdatasociety.github.io/fairdrive-desktop-app/")
   * Released new version with support for sharing and forking pods
 * **Fairdrive Web app :** [**https://fairdrive.fairdatasociety.org/**](https://fairdrive.fairdatasociety.org/ "https://fairdrive.fairdatasociety.org/")
