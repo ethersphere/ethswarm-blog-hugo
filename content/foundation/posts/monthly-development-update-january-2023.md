@@ -15,11 +15,14 @@ The **JS Track** has also released [**a new version of Swarm Desktop** ](https:/
 
 ## **Bee Track**
 
-* **New Bee Release 1.11 was deployed:** [**https://github.com/ethersphere/bee/releases/tag/v1.11.0**](https://github.com/ethersphere/bee/releases/tag/v1.11.0 "https://github.com/ethersphere/bee/releases/tag/v1.11.0")
-  * 1.11 release which mostly consists of minor fixes to chunk syncing and improved uploading experience.
-  * The important news is uploads with mutable batches (which are the most common type of batches) are no longer terminated when max utilisation of the batch is reached, whereby newer chunks that belong to the batch will simply replace older chunks in the network.
-* In other news, we are completing and testing our new libp2p upgrade version, as well as making great progress addressing the localstore rewrite.
-* The investigation is also ongoing into the reasons for the small percentage of frozen nodes and postage stamp issues.
+**New Bee Release 1.11 was deployed:** [**https://github.com/ethersphere/bee/releases/tag/v1.11.0**](https://github.com/ethersphere/bee/releases/tag/v1.11.0 "https://github.com/ethersphere/bee/releases/tag/v1.11.0")
+
+* 1.11 release which mostly consists of minor fixes to chunk syncing and improved uploading experience.
+* The important news is uploads with mutable batches (which are the most common type of batches) are no longer terminated when max utilisation of the batch is reached, whereby newer chunks that belong to the batch will simply replace older chunks in the network.
+
+In other news, we are completing and testing our new libp2p upgrade version, as well as making great progress addressing the localstore rewrite.
+
+The investigation is also ongoing into the reasons for the small percentage of frozen nodes and postage stamp issues.
 
 ## JS Track
 
@@ -66,7 +69,7 @@ The **JS Track** has also released [**a new version of Swarm Desktop** ](https:/
 
 ## **Upcoming events**
 
-##### Swarm Community Call - our main monthly online event, will take place **on 23 February at 17:00 CET** in the [**Swarm Foundation Discord**](https://discord.com/channels/799027393297514537/801438093927776286) ([**add to calendar**](https://www.addevent.com/event/Ui16058875)).
+**Swarm Community Call** - our main monthly online event, will take place **on 23 February at 17:00 CET** in the [**Swarm Foundation Discord**](https://discord.com/channels/799027393297514537/801438093927776286) ([**add to calendar**](https://www.addevent.com/event/Ui16058875)).
 
 It’s an opportunity for you to **hear about the progress** being made and get **exclusive reveals** directly from the team behind Swarm. Join the call to learn about the **upcoming events** organised, sponsored, supported or frequented by the Swarm Foundation and receive **the latest insights from our community-driven projects**.  
 Already have a question for the teams building the Swarm network? Send them a question by using this [**online form**](https://airtable.com/shrBRyrMkXFsJvLS3).
