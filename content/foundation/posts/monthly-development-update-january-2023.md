@@ -13,7 +13,7 @@ The **JS Track** has also released [**a new version of Swarm Desktop** ](https:/
 
 **Swarm Community Call** will now be our main monthly online event. Join us on the last Thursday of every month at 17:00 CET on the [**Swarm Foundation Discord**](https://discord.com/channels/799027393297514537/801438093927776286). You can also submit your questions ahead of time through [**this form**](https://airtable.com/shrBRyrMkXFsJvLS3). Mark your [**calendars**](https://www.addevent.com/event/Ui16058875) for **23 February at 17:00 CET**. We hope to see you there!
 
-## **Bee Track**
+## Bee Track
 
 **New Bee Release 1.11 was deployed:** [https://github.com/ethersphere/bee/releases/tag/v1.11.0](https://github.com/ethersphere/bee/releases/tag/v1.11.0 "https://github.com/ethersphere/bee/releases/tag/v1.11.0")
 
@@ -31,13 +31,13 @@ The investigation is also ongoing into the reasons for the small percentage of f
 * This release is compatible with the Bee 1.11 release and improves node status handling in the Web UI.
 * On Windows and MacOS this is an automatic update, whereas Linux users have to manually download and install the latest version.
 
-## **Research Track**
+## Research Track
 
 * We are working hard to complete the solution documents for the rest of the storage incentives (phases 4 and 5) and create our task backlog and a lot of progress has been made.
 * The oracle phase 3 recalibration will be tested soon and hopefully finalised or close to it, though we treat this seriously and want it to be perfect.
 * Other research project tracks such as blockchain data stored on Swarm are becoming ever clearer and development is in progress.
 
-## **Fair Data Protocol**
+## Fair Data Protocol
 
 **Blossom :** [https://github.com/fairDataSociety/blossom](https://github.com/fairDataSociety/blossom "https://github.com/fairDataSociety/blossom")
 
@@ -76,11 +76,11 @@ The investigation is also ongoing into the reasons for the small percentage of f
 * Released the [Beekeeper](https://github.com/ethersphere/beekeeper) (v0.11.15).
 * Released the [Bee-clef](https://github.com/ethersphere/bee-clef) (v0.14.0).
 
-## **Ecosystem**
+## Ecosystem
 
 **Social Archive X Dapplets Challenge Bounty** was implemented: [https://gitcoin.co/issue/29165](https://gitcoin.co/issue/29165 "https://gitcoin.co/issue/29165") , providing indexing of data for Social Archive
 
-## **Upcoming events**
+## Upcoming events
 
 **Swarm Community Call** - our main monthly online event, will take place **on 23 February at 17:00 CET** in the [**Swarm Foundation Discord**](https://discord.com/channels/799027393297514537/801438093927776286) ([**add to calendar**](https://www.addevent.com/event/Ui16058875)).
 
