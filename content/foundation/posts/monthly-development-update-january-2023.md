@@ -13,8 +13,6 @@ The **JS Track** has also released [**a new version of Swarm Desktop** ](https:/
 
 **Swarm Community Call** will now be our main monthly online event. Join us on the last Thursday of every month at 17:00 CET on the [**Swarm Foundation Discord**](https://discord.com/channels/799027393297514537/801438093927776286). You can also submit your questions ahead of time through [**this form**](https://airtable.com/shrBRyrMkXFsJvLS3). Mark your [**calendars**](https://www.addevent.com/event/Ui16058875) for **23 February at 17:00 CET**. We hope to see you there!
 
-# Tracks
-
 ## **Bee Track**
 
 * **New Bee Release 1.11 was deployed:** [**https://github.com/ethersphere/bee/releases/tag/v1.11.0**](https://github.com/ethersphere/bee/releases/tag/v1.11.0 "https://github.com/ethersphere/bee/releases/tag/v1.11.0")
