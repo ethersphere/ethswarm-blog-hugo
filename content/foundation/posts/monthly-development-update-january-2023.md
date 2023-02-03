@@ -15,7 +15,7 @@ The **JS Track** has also released [**a new version of Swarm Desktop** ](https:/
 
 ## **Bee Track**
 
-**New Bee Release 1.11 was deployed:** [**https://github.com/ethersphere/bee/releases/tag/v1.11.0**](https://github.com/ethersphere/bee/releases/tag/v1.11.0 "https://github.com/ethersphere/bee/releases/tag/v1.11.0")
+**New Bee Release 1.11 was deployed:** [https://github.com/ethersphere/bee/releases/tag/v1.11.0](https://github.com/ethersphere/bee/releases/tag/v1.11.0 "https://github.com/ethersphere/bee/releases/tag/v1.11.0")
 
 * 1.11 release which mostly consists of minor fixes to chunk syncing and improved uploading experience.
 * The important news is uploads with mutable batches (which are the most common type of batches) are no longer terminated when max utilisation of the batch is reached, whereby newer chunks that belong to the batch will simply replace older chunks in the network.
@@ -43,17 +43,17 @@ The investigation is also ongoing into the reasons for the small percentage of f
 
 * Released new version, compatible with Swarm
 
-**Fairdrive Desktop app :** [**https://fairdatasociety.github.io/fairdrive-desktop-app/**](https://fairdatasociety.github.io/fairdrive-desktop-app/ "https://fairdatasociety.github.io/fairdrive-desktop-app/")
+**Fairdrive Desktop app :** [https://fairdatasociety.github.io/fairdrive-desktop-app/](https://fairdatasociety.github.io/fairdrive-desktop-app/ "https://fairdatasociety.github.io/fairdrive-desktop-app/")
 
 * Released new version with support for sharing and forking pods
 
-**Fairdrive Web app :** [**https://fairdrive.fairdatasociety.org/**](https://fairdrive.fairdatasociety.org/ "https://fairdrive.fairdatasociety.org/")
+**Fairdrive Web app :** [https://fairdrive.fairdatasociety.org/](https://fairdrive.fairdatasociety.org/ "https://fairdrive.fairdatasociety.org/")
 
 * Migrated fully to JS library fdp-storage
 * Specification in progress for the “Fair portal” (currently called “Explore”) section to list independent dApps using Fairdrive
 * Fixes for apps available in Explore section
 
-**FDP Tutorial :** [**https://github.com/fairDataSociety/fdp-TODO-app-tutorial**](https://github.com/fairDataSociety/fdp-TODO-app-tutorial "https://github.com/fairDataSociety/fdp-TODO-app-tutorial")
+**FDP Tutorial :** [https://github.com/fairDataSociety/fdp-TODO-app-tutorial](https://github.com/fairDataSociety/fdp-TODO-app-tutorial "https://github.com/fairDataSociety/fdp-TODO-app-tutorial")
 
 * Minor updates
 
