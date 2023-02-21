@@ -7,6 +7,8 @@ references_and_footnotes = []
 title = "Postage Stamp Price Increase Marks the Completion of Phase Two of the Storage Incentives Upgrade"
 
 +++
+## Postage stamp price set to increase
+
 Last December, the second phase of five of the storage incentives upgrade went live on the Gnosis Mainnet. This upgrade is a significant milestone in the development of the Swarm network, as it enables Swarm node operators to earn rewards in exchange for contributing their storage resources to the network. Since the upgrade, the incentives system is functioning smoothly, and rigorous testing of the incentives redistribution has shown that rewards are being distributed in accordance with the system’s intended design. During the roll-out and testing phase, postage stamp fees (which determine the amount of rewards paid to node operators) were set to be negligibly low, and now that the roll-out and testing is complete, postage stamp fees will be increased so that node operators can be meaningfully rewarded for the services they provide. The postage stamp price will increase from 4 PLUR/chunk/block to a fixed level of 24,000 PLUR/chunk/block.
 
 ## How Swarm storage incentives work
