@@ -17,7 +17,7 @@ The above mentioned mechanisms together allow for nodes to participate in the Sc
 
 ![](/uploads/storage-incentives.png)
 
-Caption: Swarm incentives mechanism
+_Caption: Swarm incentives mechanism_
 
 ## Node operators will share in the redistribution of storage value
 
@@ -25,7 +25,7 @@ With the incentives system in place, the upcoming increase in postage stamp fees
 
 ![](/uploads/storage_formula.png)
 
-Caption: Expected reward formula
+_Caption: Expected reward formula_
 
 ## Next steps – Phase three and the oracle based decentralised pricing mechanism
 
