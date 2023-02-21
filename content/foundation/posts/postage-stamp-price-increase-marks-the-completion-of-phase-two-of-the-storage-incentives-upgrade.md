@@ -4,7 +4,7 @@ categories = ["Development updates"]
 date = 2023-02-20T23:00:00Z
 description = "This upgrade is a significant milestone in the development of the Swarm network, as it enables Swarm node operators to earn rewards in exchange for contributing their storage resources to the network. "
 references_and_footnotes = []
-title = "Postage Stamp Price Increase Marks the Completion of Phase Two of the Storage Incentives Upgrade"
+title = "Postage Stamp Price Increase Completes Phase Two of Incentives Upgrade"
 
 +++
 ## Postage stamp price set to increase
