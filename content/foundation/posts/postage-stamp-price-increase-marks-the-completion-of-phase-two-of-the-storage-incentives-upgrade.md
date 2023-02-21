@@ -35,4 +35,4 @@ During the next phase of the storage incentives upgrade, a decentralised oracle 
 
 ## Join the Swarm!
 
-Anyone interested in operating a Swarm node can join the community and the [Swarm Discord group](https://discord.gg/ZvBWZC3GEa). Instructions for setting up a node can be found in the [documentation page](https://docs.ethswarm.org/).
+Anyone interested in operating a Swarm node can join the [Swarm Discord](https://discord.gg/ZvBWZC3GEa) server. Instructions for setting up a node can be found on the [documentation page](https://docs.ethswarm.org/).
