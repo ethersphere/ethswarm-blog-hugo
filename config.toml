@@ -1,52 +1,45 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'Swarm Blog'
-theme = 'swarm-blog'
-
-contentDir   = "content"
+baseURL = "http://example.org/"
+contentDir = "content"
+defaultContentLanguage = "en"
 enableInlineShortcodes = true
-defaultContentLanguage = 'en'
-
-[languages]
-  [languages.en]
-    title = 'Swarm News Blog'
-    weight = 5
-    contentDir = 'content'
-  [languages.foundation]
-    title = 'Swarm Foundation Blog'
-    weight = 4
-    contentDir = 'content/foundation'
-  [languages.hive]
-    title = 'Swarm Hive Blog'
-    weight = 3
-    contentDir = 'content/hive'
-  [languages.wam]
-    title = 'We Are Millions Blog'
-    weight = 2
-    contentDir = 'content/wam'
-  [languages.fds]
-    title = 'Fair Data Society Blog'
-    weight = 1
-    contentDir = 'content/fds'
-
+languageCode = "en-us"
+theme = "swarm-blog"
+title = "Swarm Blog"
+[languages.en]
+contentDir = "content"
+title = "Swarm News Blog"
+weight = 5
+[languages.fds]
+contentDir = "content/fds"
+title = "Fair Data Society Blog"
+weight = 1
+[languages.foundation]
+contentDir = "content/foundation"
+title = "Swarm Foundation Blog"
+weight = 4
+[languages.hive]
+contentDir = "content/hive"
+title = "Swarm Hive Blog"
+weight = 3
+[languages.wam]
+contentDir = "content/wam"
+title = "We Are Millions Blog"
+weight = 2
 [outputs]
-  home = ["HTML","JSON"]
-  section  = ["HTML"]
-
+home = ["HTML", "JSON"]
+section = ["HTML"]
 [permalinks]
-  posts = ':year/:title/'
-  categories = '/c/:title'
-
-[taxonomies]
-  category = "categories"
-
+categories = "/c/:title"
+posts = ":year/:title/"
 [related]
-  includeNewer = true
-  threshold = 80
-  toLower = true
+includeNewer = true
+threshold = 80
+toLower = true
 [[related.indices]]
-  name = 'categories'
-  weight = 10
+name = "categories"
+weight = 10
 [[related.indices]]
-  name = 'date'
-  weight = 40
+name = "date"
+weight = 40
+[taxonomies]
+category = "categories"
