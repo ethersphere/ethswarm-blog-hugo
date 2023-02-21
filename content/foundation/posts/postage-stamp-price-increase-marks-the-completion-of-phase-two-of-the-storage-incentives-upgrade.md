@@ -17,17 +17,17 @@ Swarm storage incentives are based on a collection of mechanisms which are desig
 
 The above mentioned mechanisms together allow for nodes to participate in the Schelling game. The Schelling game is similar to consensus mechanisms commonly seen in blockchain networks and distributed software. It involves a multi-step process which begins with the commit step where nodes must each submit proof of the data chunks they are meant to be storing, followed by a reveal stage where all nodes reveal their proofs and check each other’s proofs. The process ends with a reward stage, where one of the honest nodes is picked as the winner based on chance weighted according to their amount of stake. This is a very brief generalisation of the process, and a more detailed description of it can be found on Swarm Foundation’s blog [here](https://blog.ethswarm.org/foundation/2022/monthly-ecosystem-call-29-september-2022-recap/).
 
-![](/uploads/storage-incentives.png)
+![Swarm incentives mechanism](/uploads/storage-incentives.png "Swarm incentives mechanism")
 
-_Caption: Swarm incentives mechanism_
+_Swarm incentives mechanism_
 
 ## Node operators will share in the redistribution of storage value
 
 With the incentives system in place, the upcoming increase in postage stamp fees will significantly increase the earning potential for node operators. Calculating potential rewards for a node is relatively simple. Nodes are rewarded in proportion to the total storage rent paid between fee redistribution rounds as weighted by their amount of stake:
 
-![](/uploads/storage_formula.png)
+![Expected reward formula](/uploads/storage_formula.png "Expected reward formula")
 
-_Caption: Expected reward formula_
+_Expected reward formula_
 
 ## Next steps – Phase three and the oracle based decentralised pricing mechanism
 
