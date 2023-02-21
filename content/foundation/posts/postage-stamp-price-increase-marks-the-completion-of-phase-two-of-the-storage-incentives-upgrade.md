@@ -30,3 +30,7 @@ _Caption: Expected reward formula_
 ## Next steps – Phase three and the oracle based decentralised pricing mechanism
 
 During the next phase of the storage incentives upgrade, a decentralised oracle will govern the pricing mechanism. Pricing will be done by a market-based mechanism, i.e. determined by supply and demand for network storage. This dynamic pricing mechanism will work to establish fair prices for users and content providers to upload, store, and fetch data from the network, and sufficient incentives for storage providers to continue providing their services to the network. You can read more about the details of the oracle [here](https://blog.ethswarm.org/foundation/2022/the-mechanics-of-swarm-networks-storage-incentives/).
+
+## Join the Swarm!
+
+Anyone interested in operating a Swarm node can join the community and the[ Swarm Discord group](https://discord.gg/ZvBWZC3GEa). Instructions for setting up a node can be found in the[ documentation page](https://docs.ethswarm.org/).
