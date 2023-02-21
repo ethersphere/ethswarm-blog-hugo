@@ -3,7 +3,6 @@ banner = "/uploads/incentives.png"
 categories = ["Development Updates"]
 date = 2022-11-22T23:00:00Z
 description = "An economically self-sustaining mechanism to gather storage operators."
-draft = true
 references_and_footnotes = []
 title = "The Mechanics of Swarm network’s Storage Incentives"
 
@@ -77,7 +76,7 @@ Since a sizable number of storers can be expected to use cloud-based equipment, 
 
 # Price adjustment
 
-Even before the rent oracle becomes operational, the actual storage price will increase. The increase will be denominated in PLUR, which is the smallest unit of BZZ. The price will be raised from 4 PLUR/chunk/block to a fixed level of 6,000 PLUR/chunk/block corresponding to approximately 0.32 BZZ/gigabyte/month for postage stamps. **This will put the price of storing data in Swarm in the same ballpark as storing it in centralised cloud storage**, making it worthwhile for some node operators to provide storage services with a reasonable cost for uploaders.
+Even before the rent oracle becomes operational, the actual storage price will increase. The increase will be denominated in PLUR, which is the smallest unit of BZZ. The price will be raised from 4 PLUR/chunk/block to a fixed level of 24,000 PLUR/chunk/block. **This will put the price of storing data in Swarm in the same ballpark as storing it in centralised cloud storage**, making it worthwhile for some node operators to provide storage services with a reasonable cost for uploaders.
 
 This price adjustment is going to happen with the Phase 2 mainnet release and is going to be the last manual price adjustment before the decentralised rent oracle takes over.
 
