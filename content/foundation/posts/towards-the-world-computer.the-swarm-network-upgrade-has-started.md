@@ -9,7 +9,7 @@ title = "Towards the world computer. The Swarm network upgrade has started."
 +++
 **On 13 September 2022**, the Swarm Foundation began **the most substantial upgrade** to the Swarm network since its mainnet release. The upgrade will unfold in several phases and enable **node operators to receive rewards** for their services to the network. It represents an opportunity for people to offer spare resources (i.e. storage and bandwidth) to the Swarm network and eventually get compensated for it.
 
-It is **a pivotal moment for the Swarm network** and for the larger Web3 ecosystem, as it creates **new social and economic possibilities**. Storage incentives are the foundation on which the next generation of private, secure, decentralised, inclusive and open-source dApps will be built.
+It is **a pivotal moment for the Swarm network** and for the larger Web3 ecosystem, as it creates **new social and economic possibilities**. Storage incentives are the foundation on which the next generation of private, secure, decentralised, inclusive and open-source dApps will be built. 
 
 # Four key changes in the network
 

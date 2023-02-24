@@ -10,7 +10,7 @@
 
 
 <div class="sm:mb-22 mb-14">
-  <div class="mx-auto sm:space-y-22 max-w-7xl">
+  <div class="sm:space-y-22 mx-auto max-w-7xl">
     {{ range site.Home.AllTranslations }}
       {{ if eq $featured_blog .Site.Language.Lang }}
         {{ with .Site.GetPage $featured_page }}
@@ -33,8 +33,8 @@
     {{ end }}
 
 
-    <div class="grid grid-cols-1 mx-4 gap-14 sm:mx-6 sm:hidden sm:grid-cols-12">
-      {{ range $featured.Reverse }}
+    <div class="mx-4 grid grid-cols-1 gap-14 sm:mx-6 sm:hidden sm:grid-cols-12">
+      {{ range $featured }}
         {{ partial "partials/articles/default.html" . }}
       {{ end }}
     </div>
@@ -56,7 +56,7 @@
 
 <div class="sm:mb-22 mb-14">
   <div class="mx-4 sm:mx-6">
-    <div class="mx-auto sm:space-y-22 max-w-7xl">
+    <div class="sm:space-y-22 mx-auto max-w-7xl">
       <!-- 4 Posts -->
       <div class="sm:gap-7.5 grid grid-cols-1 gap-14 sm:grid-cols-12">
         <!-- Fetch pages that are not in featured -->
@@ -111,7 +111,7 @@
 </section>
 
 <div class="mx-4 sm:mx-6">
-  <section class="mx-auto sm:mt-22 mt-14 max-w-7xl">
+  <section class="sm:mt-22 mx-auto mt-14 max-w-7xl">
     <!-- 8 Posts -->
     <div class="gap-x-7.5 gap-y-22 grid grid-cols-1 sm:grid-cols-12">
       {{ range first 8 (after 4 $other) }}
