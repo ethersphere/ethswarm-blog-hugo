@@ -39,7 +39,7 @@ A new version of the browser extension Blossom has also been released, which wil
 
 The last part of the Call was reserved for the demonstration of a community-driven [MonSI](https://github.com/rndlabs/monsi) application that meticulously follows the process of storage incentives redistribution, the so-called Schelling game.
 
-Its creator, [Swarm Foundation Discord](https://discord.com/channels/799027393297514537/801438093927776286) member Ldeffenb, explained that it works as a monitor that extracts information from the storage incentive blockchain contracts and converts it into a user-friendly display.
+Its creator, [Swarm Foundation Discord](https://discord.com/channels/799027393297514537/966664551628161064/1078356922207588513) member Ldeffenb, explained that it works as a monitor that extracts information from the storage incentive blockchain contracts and converts it into a user-friendly display.
 
 It shows all the stakes of every node that have ever been staked based on its overlay address, provides a historical overview of the Schelling game rounds, the players that are in the current round, and it even shows an interpretation of the transactions from the redistribution contract.
 
