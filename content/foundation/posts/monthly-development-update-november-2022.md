@@ -1,5 +1,5 @@
 +++
-banner = ""
+banner = "/uploads/devupdate-nov22.png"
 categories = ["Development Updates"]
 date = 2022-12-04T23:00:00Z
 description = "The Bee Track team have been busy throughout November, continuously improving the deployment and testing process to improve its efficiency. They have recently cleaned out and fixed issues on their testnet and are now working on having new testnets — beta, public, and internal."
