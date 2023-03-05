@@ -64,7 +64,7 @@ Do not forget to [add the Swarm Community Call to your calendar](https://www.add
 
 ### **Ecosystem Track**
 
-* **Data Upload Sponsorships.** [**Swarm Odyssey Data Upload **](http://my.ethswarm.org/uploads)is empowering social good startups, non-profits, and research projects to store their data in a censorship-resistant fashion.
+* **Data Upload Sponsorships.** [Swarm Odyssey Data Upload](http://my.ethswarm.org/uploads) is empowering social good startups, non-profits, and research projects to store their data in a censorship-resistant fashion.
 
 ### **DevOps Track**
 
