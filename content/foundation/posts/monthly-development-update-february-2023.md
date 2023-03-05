@@ -53,7 +53,7 @@ Do not forget to [add the Swarm Community Call to your calendar](https://www.add
   * changed the interfaces of some methods [https://github.com/fairDataSociety/fdp-storage/pull/213](https://github.com/fairDataSociety/fdp-storage/pull/213 "https://github.com/fairDataSociety/fdp-storage/pull/213") . The return objects became lighter and it is tailored to easily use the library with proxying (such as Blossom does)
 * updated bee-js dependency to 5.1.0 that will be released in the new subsequent version. Along with that, a new caching mechanism has been added to the master branch that makes personal storage operations faster.
 
-**Fairdrive Web app:** [https://fairdrive.fairdatasociety.org/](https://fairdrive.fairdatasociety.org/ "https://fairdrive.fairdatasociety.org/")
+[**Fairdrive Web app**](https://fairdrive.fairdatasociety.org/)**:** 
 
 * Fixes for reaching Consent Viewer app
 * Mobile-friendly view feature
@@ -79,7 +79,7 @@ Do not forget to [add the Swarm Community Call to your calendar](https://www.add
 
 ### **Ecosystem Track**
 
-* **Data Upload Sponsorships.** [Swarm Odyssey Data Upload](http://my.ethswarm.org/uploads) is empowering social good startups, non-profits, and research projects to store their data in a censorship-resistant fashion.
+**Data Upload Sponsorships.** [Swarm Odyssey Data Upload](http://my.ethswarm.org/uploads) is empowering social good startups, non-profits, and research projects to store their data in a censorship-resistant fashion.
 
 ### **DevOps Track**
 
@@ -88,4 +88,4 @@ Do not forget to [add the Swarm Community Call to your calendar](https://www.add
 
 ### **Upcoming events**
 
-* **Swarm Community Call** - our main monthly online event, will take place on 30 March at 17:00 CET in the [Swarm Foundation Discord](https://discord.com/channels/799027393297514537/801438093927776286) ([add to calendar](https://www.addevent.com/event/On16281759)). Meanwhile, you are welcome to send any questions you might have for the teams building the Swarm network by using this [online form](https://airtable.com/shrBRyrMkXFsJvLS3) for them to be addressed on the call.
+**Swarm Community Call** - our main monthly online event, will take place on 30 March at 17:00 CET in the [Swarm Foundation Discord](https://discord.com/channels/799027393297514537/801438093927776286) ([add to calendar](https://www.addevent.com/event/On16281759)). Meanwhile, you are welcome to send any questions you might have for the teams building the Swarm network by using this [online form](https://airtable.com/shrBRyrMkXFsJvLS3) for them to be addressed on the call.
