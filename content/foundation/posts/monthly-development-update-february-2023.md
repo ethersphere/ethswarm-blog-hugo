@@ -54,7 +54,8 @@ Do not forget to [add the Swarm Community Call to your calendar](https://www.add
 * [**Blossom**](https://github.com/fairDataSociety/blossom)
   * released new version 0.2.1 that updated fdp-storage dependency
 * [**FDP Play**](https://github.com/fairDataSociety/fdp-play)
-  * support to keep a datastore of Bee clients between different environments. [https://github.com/fairDataSociety/fdp-play/tree/master/generator#keep-bee-datastore-between-different-environments](https://github.com/fairDataSociety/fdp-play/tree/master/generator#keep-bee-datastore-between-different-environments "https://github.com/fairDataSociety/fdp-play/tree/master/generator#keep-bee-datastore-between-different-environments") With that, local Bee client development testing is faster if the feature in development requires to work with the same dummy data on the storage network.
+  * support to keep a datastore of Bee clients between different environments. With that, local Bee client development testing is faster if the feature in development requires to work with the same dummy data on the storage network.
+  * [https://github.com/fairDataSociety/fdp-play/tree/master/generator#keep-bee-datastore-between-different-environments](https://github.com/fairDataSociety/fdp-play/tree/master/generator#keep-bee-datastore-between-different-environments "https://github.com/fairDataSociety/fdp-play/tree/master/generator#keep-bee-datastore-between-different-environments")
 * **Graffiti Feed**
   * new ZeroDash library is available 0.2.1 that supports both original use-cases of Graffiti Feed, namely \`PersonalStorageSignal\` (was provided in the previous versions) and \`InformationSignal\` (which does not need user wallet to write data into the consensual storage area)
 * **FairOS**
