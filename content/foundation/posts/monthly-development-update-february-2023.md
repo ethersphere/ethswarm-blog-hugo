@@ -53,7 +53,7 @@ Do not forget to [add the Swarm Community Call to your calendar](https://www.add
   * changed the interfaces of some methods [https://github.com/fairDataSociety/fdp-storage/pull/213](https://github.com/fairDataSociety/fdp-storage/pull/213 "https://github.com/fairDataSociety/fdp-storage/pull/213") . The return objects became lighter and it is tailored to easily use the library with proxying (such as Blossom does)
 * updated bee-js dependency to 5.1.0 that will be released in the new subsequent version. Along with that, a new caching mechanism has been added to the master branch that makes personal storage operations faster.
 
-[**Fairdrive Web app**](https://fairdrive.fairdatasociety.org/)**:** 
+[**Fairdrive Web app**](https://fairdrive.fairdatasociety.org/)
 
 * Fixes for reaching Consent Viewer app
 * Mobile-friendly view feature
