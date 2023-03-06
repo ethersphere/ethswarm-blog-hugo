@@ -2,12 +2,12 @@
 banner = "/uploads/devupdatefeb.png"
 categories = ["Development updates"]
 date = 2023-03-04T23:00:00Z
-description = "February was a big month for the Swarm network. The price of postage stamps has been recalibrated with the release of Bee 1.20, which marks a major milestone for Swarm's self-sustaining network. The Research Track has also completed the documentation for Phase 4, which details the work of this phase of the Storage incentives roadmap.\n"
+description = "February was a big month for the Swarm network. The price of postage stamps has been recalibrated with the release of Bee 1.12.0, which marks a major milestone for Swarm's self-sustaining network. The Research Track has also completed the documentation for Phase 4, which details the work of this phase of the Storage incentives roadmap.\n"
 references_and_footnotes = []
 title = "Monthly Development Update –  February 2023"
 
 +++
-February was a big month for the Swarm network. The price of postage stamps has been recalibrated with the release of Bee [**1.20**](https://github.com/ethersphere/bee/releases/tag/v1.12.0), which marks a major milestone for Swarm's self-sustaining network. The Research Track has also completed **the documentation for** [**Phase 4**](https://blog.ethswarm.org/foundation/2022/towards-the-world-computer.-the-swarm-network-upgrade-has-started./), which details the work of this phase of the Storage incentives roadmap.
+February was a big month for the Swarm network. The price of postage stamps has been recalibrated with the release of Bee [**1.12.0**](https://github.com/ethersphere/bee/releases/tag/v1.12.0), which marks a major milestone for Swarm's self-sustaining network. The Research Track has also completed **the documentation for** [**Phase 4**](https://blog.ethswarm.org/foundation/2022/towards-the-world-computer.-the-swarm-network-upgrade-has-started./), which details the work of this phase of the Storage incentives roadmap.
 
 The JS Track has released **a new version of Swarm Desktop** ([**0.19.2**](https://github.com/ethersphere/swarm-desktop/releases/tag/v0.19.2)), which adds experimental support for staking when Bee is already a full-node, and BeeJS (5.2.0)
 
@@ -19,7 +19,7 @@ Do not forget to [add the Swarm Community Call to your calendar](https://www.add
 
 ### **Bee Track**
 
-**New Bee Release** [**1.20**](https://github.com/ethersphere/bee/releases/tag/v1.12.0) **was deployed:**
+**New Bee Release** [**1.12.0**](https://github.com/ethersphere/bee/releases/tag/v1.12.0) **was deployed:**
 
 * The main focus of this release has been tightening loose ends surrounding chunk syncing.
 * The release also features a new API endpoint that returns the status of the node related to the storage incentives, such as the total reward won and the last round in which the node has participated and won.
