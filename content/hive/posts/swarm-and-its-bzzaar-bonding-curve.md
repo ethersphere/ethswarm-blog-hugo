@@ -3,7 +3,6 @@ banner = "/uploads/1_vl42mggflx3mehmgnbpbnw.webp"
 categories = []
 date = 2021-10-20T16:00:00Z
 description = "A comprehensive description of the insights of the single faucet of BZZ Token, explained in detail.\n"
-draft = true
 references_and_footnotes = []
 title = "Swarm and its “Bzzaar” Bonding Curve"
 
