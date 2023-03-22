@@ -9,7 +9,7 @@ title = "Swarm and its “Bzzaar” Bonding Curve"
 +++
 ## A comprehensive description of the insights of the single faucet of BZZ Token, explained in detail.
 
-Live since June, [_Bzzaar_](https://bzz.exchange/), an exchange platform launched as a means to buy and sell BZZ, takes a unique approach to kickstarting a new token economy. Unlike typical buy and sell platforms, Bzzaar doesn’t rely on traditional market makers for users to exchange BZZ but rather makes use of a _bonding curve_ to instantaneously complete transactions.  
+Live since June, [_Bzzaar_](https://bzz.exchange/), an exchange platform launched as a means to buy and sell BZZ, takes a unique approach to kickstarting a new token economy. Unlike typical buy and sell platforms, Bzzaar doesn’t rely on traditional market makers for users to exchange BZZ but rather makes use of a _bonding curve_ to instantaneously complete transactions.   
 ![](/uploads/1_kufyoxb7pdkg97dh_rsdba.webp)
 
 New projects can easily call the contracts to their own interfaces allowing the creation of a front-end modal to hold the exchange. With this, projects that require BZZ can provide their users with an exchange interface that calls the [Bzzaar’s contract](https://etherscan.io/address/0x4f32ab778e85c4ad0cead54f8f82f5ee74d46904) functions. **The bonding curve belongs to the community and serves to fuel all and any project created on Swarm.**
