@@ -1,5 +1,5 @@
 +++
-banner = "/uploads/1_vl42mggflx3mehmgnbpbnw-1.webp"
+banner = "/uploads/screenshot-2023-03-23-at-12-54-31.png"
 categories = ["Development Updates"]
 date = 2021-10-19T16:00:00Z
 description = "A comprehensive description of the insights of the single faucet of BZZ Token, explained in detail."
