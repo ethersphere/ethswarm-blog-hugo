@@ -39,9 +39,9 @@ In summary, Swarm Foundation’s support for Fair Data Society is crucial in fos
 
 ## **What kind of projects are supported?**
 
-_Insert:_ [_https://twitter.com/FairDataSociety/status/1637544674561863683_](https://twitter.com/FairDataSociety/status/1637544674561863683 "https://twitter.com/FairDataSociety/status/1637544674561863683")
+![](/uploads/screenshot-2023-03-24-at-09-57-37.png)
 
-    {{< <blockquote class="twitter-tweet"><p lang="en" dir="ltr">1/5 🧵ICYMI: Just like <a href="https://twitter.com/ethswarm?ref_src=twsrc%5Etfw">@ethswarm</a> got wings from <a href="https://twitter.com/ethereum?ref_src=twsrc%5Etfw">@ethereum</a>, <a href="https://twitter.com/hashtag/FairDataSociety?src=hash&amp;ref_src=twsrc%5Etfw">#FairDataSociety</a> is now ready to take flight on its own after incubating with <a href="https://twitter.com/hashtag/ethswarm?src=hash&amp;ref_src=twsrc%5Etfw">#ethswarm</a>. Be there for this milestone at the NEW DAY event on March 21st: <a href="https://t.co/ehsD4dv77p">https://t.co/ehsD4dv77p</a> <a href="https://twitter.com/hashtag/payitforward?src=hash&amp;ref_src=twsrc%5Etfw">#payitforward</a> 🐝🧬🙌🎶🌅</p>&mdash; Fair data society (@FairDataSociety) <a href="https://twitter.com/FairDataSociety/status/1637544674561863683?ref_src=twsrc%5Etfw">March 19, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> >}}
+_Twitter thread:_ [_https://twitter.com/FairDataSociety/status/1637544674561863683_](https://twitter.com/FairDataSociety/status/1637544674561863683 "https://twitter.com/FairDataSociety/status/1637544674561863683")
 
 Donated funds will be used to continue on-going efforts while also supporting new projects. Here are some examples:
 
