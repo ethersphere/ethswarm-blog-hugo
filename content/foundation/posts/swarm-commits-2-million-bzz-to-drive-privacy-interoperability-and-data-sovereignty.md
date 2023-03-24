@@ -37,7 +37,9 @@ Fast forward to present-day, the challenges identified back in 2019 appear even 
 
 In summary, Swarm Foundation’s support for Fair Data Society is crucial in fostering collaboration, ensuring ethical practices, and promoting positive social impact. By aligning goals and working together, Swarm Foundation and Fair Data Society can contribute to the development of a fair and ethical data economy.
 
-## **What kind of projects are supported?**![](/uploads/screenshot-2023-03-24-at-10-05-58.png)
+## **What kind of projects are supported?**
+
+![](/uploads/screenshot-2023-03-24-at-10-05-58.png)
 
 _Twitter thread:_ [_https://twitter.com/FairDataSociety/status/1637544674561863683_](https://twitter.com/FairDataSociety/status/1637544674561863683 "https://twitter.com/FairDataSociety/status/1637544674561863683")
 
