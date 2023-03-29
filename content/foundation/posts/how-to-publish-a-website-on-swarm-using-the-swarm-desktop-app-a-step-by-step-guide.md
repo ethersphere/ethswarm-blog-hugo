@@ -1,6 +1,6 @@
 +++
 banner = "/uploads/how-to_website.png"
-categories = []
+categories = ["Tutorials"]
 date = 2023-03-22T23:00:00Z
 description = "TL;DR: This guide will walk you through the process of publishing a website on Swarm using the Swarm Desktop App. You’ll learn how to install the app, fund your account, upload your website, and connect an ENS domain for a user-friendly experience. By following these steps, you’ll be able to host a censorship-resistant website on decentralised storage and make it easily accessible for users."
 references_and_footnotes = []
