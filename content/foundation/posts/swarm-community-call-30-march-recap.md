@@ -3,7 +3,6 @@ banner = "/uploads/scc_recap-march.png"
 categories = ["Events"]
 date = 2023-04-03T22:00:00Z
 description = "The Swarm Community Call began with a round of updates. \n"
-draft = true
 references_and_footnotes = []
 title = "Swarm Community Call, 30 March — Recap"
 
@@ -39,3 +38,19 @@ If you would like to comment on the paper, you can do that on the [Swarm Foundat
 ## Fair Data Society’s New Day event recap
 
 Another item on the event's agenda was the recap from [Fair Data Society’s graduation event titled New Day](https://m.youtube.com/watch?v=5oMKsbK_iak). Fair Data Society (FDS) has been supported by Swarm since 2020 and, just like Swarm, graduated from the Ethereum Foundation. FDS is now embarking on its own journey.
+
+The event showed that the Fair Data Society ecosystem has grown over the course of the last four years. It showcased its ambitious vision and the projects that form the foundation of this vision: [Web3 PC](https://blog.ethswarm.org/foundation/2022/swarm-networks-storage-rewards-go-live-as-it-moves-towards-a-web3-pc/), [Fairdrive](https://fairdrive.fairdatasociety.org/), [Fairdrive Desktop App](https://fairdatasociety.github.io/fairdrive-desktop-app/), [FairOS](https://docs.fairos.fairdatasociety.org/docs/) and [Smail](https://fairos.staging.fairdatasociety.org/public/3d70d86a08a9e6c92e826d16aaec3ee1fbfbcc34decbca977a66d8efb5476464/).
+
+To help FDS continue to support and promote privacy, interoperability and data sovereignty, the [Swarm Foundation pledged 2,000,000 BZZ](https://blog.ethswarm.org/foundation/2023/swarm-commits-2-million-bzz-to-drive-privacy-interoperability-and-data-sovereignty/) to the initiative.
+
+## Time to host your own gateway
+
+If you’ve been using the gateway provided by the Swarm Foundation, you should know that it’s no longer available. The Foundation introduced a so-called whitelist that allows chosen content to be uploaded via Swarm's gateway. All whitelisted pages/uploads will also be loaded on bzz.link.
+
+Generally, the gateway has been turned off and Swarm is "handing over" the matter to the community, i.e. everyone is and will be able to operate their own gateways with their own content policy (a good opportunity to try out [Swarm Desktop app](https://www.ethswarm.org/build/desktop)). It is a positive sign, as the network moves towards full decentralisation.
+
+## Making BZZ transactions simpler with OpenBZZ
+
+The final part of the call was dedicated to the [OpenBZZ](https://openbzz.eth.limo/) project created by mfw78, a Swarm Foundation Discord community member. According to him, one of the major issues node operators face is obtaining BZZ and then bridging it, which requires between five or six different transactions.
+
+OpenBZZ simplifies the process by utilising Swarm’s bonding curve in the background and interacting directly with the Gnosis chain. This means that it can send BZZ directly to a node, a wallet on the Gnosis chain network, but it can also send funds directly to a postage stamp contract or it can top up batch stamps as well, which makes it very handy.
