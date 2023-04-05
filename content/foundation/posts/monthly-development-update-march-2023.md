@@ -13,17 +13,17 @@ title = "Monthly Development Update – March 2023"
 
 ## The price oracle model is all set up
 
-The **Research Track** is seeing great progress on all fronts as well. The **price oracle model is set up** and is being continuously tested and developed in a cluster. The development of Phase 4 of the storage incentives roadmap is running in parallel and you can also check out the new [Storage incentives paper here](http://parallel).
+The **price oracle model is set up** and is being continuously tested and developed in a cluster. The development of Phase 4 of the storage incentives roadmap is running in parallel and you can also check out the new [Storage incentives paper here](https://t.co/v7MGmMJikG).
 
 ## A new Swarm Desktop is out
 
-On the UI side of things, the **JS Track** has released a **new Swarm Desktop version** ([0.20.0](https://github.com/ethersphere/swarm-desktop/releases/tag/v0.20.0)) to include the latest changes in the Bee client. They have made numerous upgrades and bug fixes in the latest Swarm-CLI and Bee-JS.
+On the UI side of things, the **JS Track** has released a **new Swarm Desktop version** ([0.20.0](https://github.com/ethersphere/swarm-desktop/releases/tag/v0.20.0)) to include the latest changes in the Bee client. They have made numerous upgrades and bug fixes in the latest [Swarm-CLI](https://github.com/ethersphere/swarm-cli/releases) and [Bee-JS](https://github.com/ethersphere/bee-js/releases).
 
 ## New updates in the Fair Data stack
 
-The **Fair Data Protocol** has been hard at work as well. They released a **new version of** **the Fairdrive Desktop App, FairOS, fdp-storage, Blossom** and published a new **FIP**.
+The **Fair Data Protocol** released a **new version of** **the Fairdrive Desktop App, FairOS, fdp-storage, Blossom** and published a new [**FIP**](https://github.com/fairDataSociety/FIPs/pull/71).
 
-## Bounties, good data upload, a how-to blog and Ethereum Zürich
+## Bounties, good data upload, a how-to blog and Ethereum Zurich
 
 The **Ecosystem** is also buzzing with activity. We invite you to check out the open bounties and if your project is focused on doing social good, the Swarm Odyssey Data Upload sponsorship initiative is now sponsoring good data uploads to Swarm. You can also show your support for privacy and digital freedom by getting yourself some awesome swag in the [Freedom shop](https://freedomshop.org/collections/swarm).
 
@@ -71,8 +71,8 @@ From 14–16 April, the Ethereum community will gather at a meetup in Zurich. Sw
 
 ### **Fair Data Protocol**
 
-* **Fairdrive Desktop App version** [**0.1.5**](https://github.com/fairDataSociety/fairdrive-desktop-app/releases/tag/v0.1.5) **released** 
-* FairOS version [0.9.3](https://github.com/fairDataSociety/fairOS-dfs/releases/tag/v0.9.3) released 
+* **Fairdrive Desktop App version** [**0.1.5**](https://github.com/fairDataSociety/fairdrive-desktop-app/releases/tag/v0.1.5) **released**
+* FairOS version [0.9.3](https://github.com/fairDataSociety/fairOS-dfs/releases/tag/v0.9.3) released
 * fdp-storage version [0.7.1](https://github.com/fairDataSociety/fdp-storage/releases/tag/v0.7.1) released
 * Blossom version [0.2.3](https://github.com/fairDataSociety/blossom/releases/tag/blossom-ext-v0.2.3) released
 * [FIP #71](https://github.com/fairDataSociety/FIPs/pull/71) about External account generator in process of review
@@ -81,7 +81,7 @@ From 14–16 April, the Ethereum community will gather at a meetup in Zurich. Sw
 
 ##### **Data Upload Sponsorships**
 
-*  [**Swarm Odyssey Data Upload**](http://my.ethswarm.org/uploads) **is empowering social good startups, non-profits, and research projects to store their data in a censorship-resistant fashion**
+* [**Swarm Odyssey Data Upload**](http://my.ethswarm.org/uploads) **is empowering social good startups, non-profits, and research projects to store their data in a censorship-resistant fashion**
 
 ##### Active bounties in progress
 
@@ -105,10 +105,6 @@ From 14–16 April, the Ethereum community will gather at a meetup in Zurich. Sw
 
 * Etherjot enables you to effortlessly create a blog on Swarm. It takes care of the publishing process and layout, allowing you to focus on writing. You can easily add article pages and menu pages one at a time. If you have a markdown file ready to be published, simply use a straightforward command, and it will be accessible on your website.
 
-##### Documentation
-
-* This month we’ve made a wide range of small improvements to the Bee documentation website aimed at improving usability and clarity. Specifically, we focused on making the terminology usage more consistent, improving the flow of tutorial instructions, and adding clarification to the configuration page. In addition to these relatively minor changes, we also are near the completion of a major rewrite of the Bee install guide section. The rewrite aims to address several common problems newcomers to Swarm frequently encounter when trying to install a Bee node for the first time.
-
 ##### Educational content
 
 * [How to Publish a Website on Swarm Using the Swarm Desktop App: A Step-by-Step Guide](https://blog.ethswarm.org/foundation/2023/how-to-publish-a-website-on-swarm-using-the-swarm-desktop-app-a-step-by-step-guide/)
@@ -119,10 +115,10 @@ From 14–16 April, the Ethereum community will gather at a meetup in Zurich. Sw
 
 ### **Upcoming events**
 
-##### **Ethereum Zurich** 
+##### **Ethereum Zurich**
 
 * [**Ethereum Zurich**](https://ethereumzuri.ch/ ) - From 14–16 April the Ethereum community will gather at a meetup in Zurich. Swarm’s **Daniel A. Nagy** will be there to talk about Swarm and you can swing by our booth at any time for a friendly face-to-face with the team.
 
-##### **Swarm Community Call** 
+##### **Swarm Community Call**
 
 * **Swarm Community Call -** our main monthly online event, will take place on 27 April at 17:00 CET in the [Swarm Foundation Discord](https://discord.com/channels/799027393297514537/801438093927776286) ([add to calendar](https://www.addevent.com/event/yr16580319)). Meanwhile, you are welcome to send any questions you might have for the teams building the Swarm network by using this [online form](https://airtable.com/shrBRyrMkXFsJvLS3) for them to be addressed on the call.
