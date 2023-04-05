@@ -23,7 +23,7 @@ On the UI side of things, the **JS Track** has released a **new Swarm Desktop ve
 
 The **Fair Data Protocol** released a **new version of** **the Fairdrive Desktop App, FairOS, fdp-storage, Blossom** and published a new [**FIP**](https://github.com/fairDataSociety/FIPs/pull/71).
 
-## Bounties, good data upload, a how-to blog and Ethereum Zürich
+## Bounties, good data upload, a how-to blog and Ethereum Zurich
 
 The **Ecosystem** is also buzzing with activity. We invite you to check out the open bounties and if your project is focused on doing social good, the Swarm Odyssey Data Upload sponsorship initiative is now sponsoring good data uploads to Swarm. You can also show your support for privacy and digital freedom by getting yourself some awesome swag in the [Freedom shop](https://freedomshop.org/collections/swarm).
 
