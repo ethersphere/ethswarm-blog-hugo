@@ -126,4 +126,4 @@ From 14–16 April, the Ethereum community will gather at a meetup in Zurich. Sw
 
 ##### **Swarm Community Call** 
 
-**Swarm Community Call -** our main monthly online event, will take place on 27 April at 17:00 CET in the [Swarm Foundation Discord](https://discord.com/channels/799027393297514537/801438093927776286) ([add to calendar](https://www.addevent.com/event/yr16580319)). Meanwhile, you are welcome to send any questions you might have for the teams building the Swarm network by using this [online form](https://airtable.com/shrBRyrMkXFsJvLS3) for them to be addressed on the call.
+* **Swarm Community Call -** our main monthly online event, will take place on 27 April at 17:00 CET in the [Swarm Foundation Discord](https://discord.com/channels/799027393297514537/801438093927776286) ([add to calendar](https://www.addevent.com/event/yr16580319)). Meanwhile, you are welcome to send any questions you might have for the teams building the Swarm network by using this [online form](https://airtable.com/shrBRyrMkXFsJvLS3) for them to be addressed on the call.
