@@ -33,7 +33,7 @@ From 14–16 April, the Ethereum community will gather at a meetup in Zurich. Sw
 
 ## Tracks
 
-#### **Bee Track**
+### **Bee Track**
 
 ##### New Bee Release [1.13.0](https://github.com/ethersphere/bee/releases/tag/v1.13.0) was deployed – Breaking change
 
@@ -41,14 +41,14 @@ From 14–16 April, the Ethereum community will gather at a meetup in Zurich. Sw
 * Golang version upgraded to 1.20.
 * Another important news is that a node will no longer participate in storage incentives if the node's xDAI balance is not enough to cover at least five storage-incentives-related transactions. The status of the wallet can be checked using the new field in the redistributions status API.
 
-#### **Research Track**
+### **Research Track**
 
 * Work on the network statistics continues, whereby we’re uncovering certain patterns in neighbourhood, node, and distribution round behaviour.
 * The oracle modelling is now set up and is continuing as well as development and testing in a cluster.
 * Phase 4 of the storage incentives is in development and running in parallel to other developmental tracks.
 * The [Storage Incentives paper](https://t.co/v7MGmMJikG) was released and new diagrams are to follow to give more context
 
-#### **JS Track**
+### **JS Track**
 
 ##### [**Swarm Desktop v0.20.0**](https://github.com/ethersphere/swarm-desktop/releases/tag/v0.20.0)
 
@@ -69,7 +69,7 @@ From 14–16 April, the Ethereum community will gather at a meetup in Zurich. Sw
 * Fixes Node18+ compatibility issues
 * Fixes segmentation fault when running jest and having bee-js as a dependency
 
-#### **Fair Data Protocol**
+### **Fair Data Protocol**
 
 * **Fairdrive Desktop App version 0.1.5 released (**[**https://github.com/fairDataSociety/fairdrive-desktop-app/releases/tag/v0.1.5**](https://github.com/fairDataSociety/fairdrive-desktop-app/releases/tag/v0.1.5 "https://github.com/fairDataSociety/fairdrive-desktop-app/releases/tag/v0.1.5")**)**
 * FairOS version 0.9.3 released ([https://github.com/fairDataSociety/fairOS-dfs/releases/tag/v0.9.3](https://github.com/fairDataSociety/fairOS-dfs/releases/tag/v0.9.3 "https://github.com/fairDataSociety/fairOS-dfs/releases/tag/v0.9.3") )
@@ -77,7 +77,7 @@ From 14–16 April, the Ethereum community will gather at a meetup in Zurich. Sw
 * Blossom version 0.2.3 released ([https://github.com/fairDataSociety/blossom/releases/tag/blossom-ext-v0.2.3](https://github.com/fairDataSociety/blossom/releases/tag/blossom-ext-v0.2.3 "https://github.com/fairDataSociety/blossom/releases/tag/blossom-ext-v0.2.3"))
 * FIP #71 about External account generator in process of review ([https://github.com/fairDataSociety/FIPs/pull/71](https://github.com/fairDataSociety/FIPs/pull/71 "https://github.com/fairDataSociety/FIPs/pull/71") )
 
-#### **Ecosystem**
+### **Ecosystem**
 
 ##### **Data Upload Sponsorships**
 
@@ -94,12 +94,12 @@ From 14–16 April, the Ethereum community will gather at a meetup in Zurich. Sw
 * [Integrate WinAMP with Fairdrive](https://bounties.gitcoin.co/issue/29335)
 * [Implement a dApp using Blossom extension and fdp-storage](https://bounties.gitcoin.co/issue/29811)
 
-#### **DevOps Track**
+### **DevOps Track**
 
 * Deployed [Bee](https://github.com/ethersphere/bee) to the mainnet (v1.13.0).
 * Released the [Beekeeper](https://github.com/ethersphere/beekeeper) (v0.12.0).
 
-#### **DevRel**
+### **DevRel**
 
 ##### [**Etherjot**](https://github.com/Cafe137/etherjot)
 
@@ -118,8 +118,12 @@ From 14–16 April, the Ethereum community will gather at a meetup in Zurich. Sw
 
 * The Swarm Community Call, our main monthly online event, was held on 30 March. You can read a recap blog post about it [here](https://blog.ethswarm.org/foundation/2023/swarm-community-call-30-march-recap/).
 
-#### **Upcoming events**
+### **Upcoming events**
 
-**Ethereum Zurich** - [https://ethereumzuri.ch/](https://ethereumzuri.ch/ "https://ethereumzuri.ch/") From 14–16 April the Ethereum community will gather at a meetup in Zurich. Swarm’s **Daniel A. Nagy** will be there to talk about Swarm and you can swing by our booth at any time for a friendly face-to-face with the team.
+##### **Ethereum Zurich** 
 
-**Swarm Community Call** – our main monthly online event, will take place on 27 April at 17:00 CET in the [Swarm Foundation Discord](https://discord.com/channels/799027393297514537/801438093927776286) ([add to calendar](https://www.addevent.com/event/yr16580319)). Meanwhile, you are welcome to send any questions you might have for the teams building the Swarm network by using this [online form](https://airtable.com/shrBRyrMkXFsJvLS3) for them to be addressed on the call.
+* **Ethereum Zurich** - [https://ethereumzuri.ch/](https://ethereumzuri.ch/ "https://ethereumzuri.ch/") From 14–16 April the Ethereum community will gather at a meetup in Zurich. Swarm’s **Daniel A. Nagy** will be there to talk about Swarm and you can swing by our booth at any time for a friendly face-to-face with the team.
+
+##### **Swarm Community Call** 
+
+**Swarm Community Call -** our main monthly online event, will take place on 27 April at 17:00 CET in the [Swarm Foundation Discord](https://discord.com/channels/799027393297514537/801438093927776286) ([add to calendar](https://www.addevent.com/event/yr16580319)). Meanwhile, you are welcome to send any questions you might have for the teams building the Swarm network by using this [online form](https://airtable.com/shrBRyrMkXFsJvLS3) for them to be addressed on the call.
