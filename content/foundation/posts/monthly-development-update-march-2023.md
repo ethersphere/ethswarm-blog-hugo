@@ -33,14 +33,15 @@ From 14–16 April, the Ethereum community will gather at a meetup in Zurich. Sw
 
 ## Tracks
 
-#### **Bee Track** 
+#### **Bee Track**
 
-* New Bee Release [1.13.0](https://github.com/ethersphere/bee/releases/tag/v1.13.0) was deployed – Breaking change
-  * The main focus of this release has been the upgrade of our communication library – go-libp2p, which uses a new format for the p2p keys.
-  * Golang version upgraded to 1.20.
-  * Another important news is that a node will no longer participate in storage incentives if the node's xDAI balance is not enough to cover at least five storage-incentives-related transactions. The status of the wallet can be checked using the new field in the redistributions status API.
+##### New Bee Release [1.13.0](https://github.com/ethersphere/bee/releases/tag/v1.13.0) was deployed – Breaking change
 
-#### **Research Track** 
+* The main focus of this release has been the upgrade of our communication library – go-libp2p, which uses a new format for the p2p keys.
+* Golang version upgraded to 1.20.
+* Another important news is that a node will no longer participate in storage incentives if the node's xDAI balance is not enough to cover at least five storage-incentives-related transactions. The status of the wallet can be checked using the new field in the redistributions status API.
+
+#### **Research Track**
 
 * Work on the network statistics continues, whereby we’re uncovering certain patterns in neighbourhood, node, and distribution round behaviour.
 * The oracle modelling is now set up and is continuing as well as development and testing in a cluster.
@@ -49,19 +50,24 @@ From 14–16 April, the Ethereum community will gather at a meetup in Zurich. Sw
 
 #### **JS Track**
 
-* [**Swarm Desktop v0.20.0**](https://github.com/ethersphere/swarm-desktop/releases/tag/v0.20.0)
-  * Updates Bee to 1.13.0
-  * Migrates chain-enable property
-* Swarm-CLI v2.1.0
-  * Changes single file upload to stream data instead of reading it all to memory
-  * Fixes “Can not create a string longer than 0x1fffffe8 characters” bug when uploading large data
-  * Fixes “Invalid time value” bug
-  * Fixes printing feed “Number of updates”
-* Bee-JS v6.0.0-pre.6
-  * Release candidate for an under-the-hood revamp
-  * Changes HTTP library to axios
-  * Fixes Node18+ compatibility issues
-  * Fixes segmentation fault when running jest and having bee-js as a dependency
+##### [**Swarm Desktop v0.20.0**](https://github.com/ethersphere/swarm-desktop/releases/tag/v0.20.0)
+
+* Updates Bee to 1.13.0
+* Migrates chain-enable property
+
+##### Swarm-CLI v2.1.0
+
+* Changes single file upload to stream data instead of reading it all to memory
+* Fixes “Can not create a string longer than 0x1fffffe8 characters” bug when uploading large data
+* Fixes “Invalid time value” bug
+* Fixes printing feed “Number of updates”
+
+##### Bee-JS v6.0.0-pre.6
+
+* Release candidate for an under-the-hood revamp
+* Changes HTTP library to axios
+* Fixes Node18+ compatibility issues
+* Fixes segmentation fault when running jest and having bee-js as a dependency
 
 #### **Fair Data Protocol**
 
@@ -73,14 +79,20 @@ From 14–16 April, the Ethereum community will gather at a meetup in Zurich. Sw
 
 #### **Ecosystem**
 
-* **Data Upload Sponsorships.** [**Swarm Odyssey Data Upload**](http://my.ethswarm.org/uploads) **is empowering social good startups, non-profits, and research projects to store their data in a censorship-resistant fashion**
-* Active bounties in progress
-  * [Extend Swarm gateway to support registering uploaded files](https://bounties.gitcoin.co/issue/29813)
-  * [PDF viewer Dapp for Fairdrive, using Blossom to access fdp-storage](https://bounties.gitcoin.co/issue/29812)
-  * [Implement Slate rich text editor as Fairdrive dApp](https://bounties.gitcoin.co/issue/29819)
-* Open bounties:
-  * [Integrate WinAMP with Fairdrive](https://bounties.gitcoin.co/issue/29335)
-  * [Implement a dApp using Blossom extension and fdp-storage](https://bounties.gitcoin.co/issue/29811)
+##### **Data Upload Sponsorships**
+
+*  [**Swarm Odyssey Data Upload**](http://my.ethswarm.org/uploads) **is empowering social good startups, non-profits, and research projects to store their data in a censorship-resistant fashion**
+
+##### Active bounties in progress
+
+* [Extend Swarm gateway to support registering uploaded files](https://bounties.gitcoin.co/issue/29813)
+* [PDF viewer Dapp for Fairdrive, using Blossom to access fdp-storage](https://bounties.gitcoin.co/issue/29812)
+* [Implement Slate rich text editor as Fairdrive dApp](https://bounties.gitcoin.co/issue/29819)
+
+##### Open bounties:
+
+* [Integrate WinAMP with Fairdrive](https://bounties.gitcoin.co/issue/29335)
+* [Implement a dApp using Blossom extension and fdp-storage](https://bounties.gitcoin.co/issue/29811)
 
 #### **DevOps Track**
 
@@ -89,18 +101,25 @@ From 14–16 April, the Ethereum community will gather at a meetup in Zurich. Sw
 
 #### **DevRel**
 
-* [**Etherjot**](https://github.com/Cafe137/etherjot)
-  * Create a blog on Swarm
-  * Add markdown files as either articles or pages
-* Documentation
-  * This month we’ve made a wide range of small improvements to the Bee documentation website aimed at improving usability and clarity. Specifically, we focused on making the terminology usage more consistent, improving the flow of tutorial instructions, and adding clarification to the configuration page. In addition to these relatively minor changes, we also are near the completion of a major rewrite of the Bee install guide section. The rewrite aims to address several common problems newcomers to Swarm frequently encounter when trying to install a Bee node for the first time.
-* Educational content
-  * [How to Publish a Website on Swarm Using the Swarm Desktop App: A Step-by-Step Guide](https://blog.ethswarm.org/foundation/2023/how-to-publish-a-website-on-swarm-using-the-swarm-desktop-app-a-step-by-step-guide/)
+##### [**Etherjot**](https://github.com/Cafe137/etherjot)
+
+* Create a blog on Swarm
+* Add markdown files as either articles or pages
+
+##### Documentation
+
+* This month we’ve made a wide range of small improvements to the Bee documentation website aimed at improving usability and clarity. Specifically, we focused on making the terminology usage more consistent, improving the flow of tutorial instructions, and adding clarification to the configuration page. In addition to these relatively minor changes, we also are near the completion of a major rewrite of the Bee install guide section. The rewrite aims to address several common problems newcomers to Swarm frequently encounter when trying to install a Bee node for the first time.
+
+##### Educational content
+
+* [How to Publish a Website on Swarm Using the Swarm Desktop App: A Step-by-Step Guide](https://blog.ethswarm.org/foundation/2023/how-to-publish-a-website-on-swarm-using-the-swarm-desktop-app-a-step-by-step-guide/)
+
+##### The Swarm Community Call
+
 * The Swarm Community Call, our main monthly online event, was held on 30 March. You can read a recap blog post about it [here](https://blog.ethswarm.org/foundation/2023/swarm-community-call-30-march-recap/).
 
 #### **Upcoming events**
 
-* Ethereum Zurich - [https://ethereumzuri.ch/](https://ethereumzuri.ch/ "https://ethereumzuri.ch/") From 14–16 April the Ethereum community will gather at a meetup in Zurich. Swarm’s **Daniel A. Nagy** will be there to talk about Swarm and you can swing by our booth at any time for a friendly face-to-face with the team.
+**Ethereum Zurich** - [https://ethereumzuri.ch/](https://ethereumzuri.ch/ "https://ethereumzuri.ch/") From 14–16 April the Ethereum community will gather at a meetup in Zurich. Swarm’s **Daniel A. Nagy** will be there to talk about Swarm and you can swing by our booth at any time for a friendly face-to-face with the team.
 
-
-* Swarm Community Call – our main monthly online event, will take place on 27 April at 17:00 CET in the [Swarm Foundation Discord](https://discord.com/channels/799027393297514537/801438093927776286) ([add to calendar](https://www.addevent.com/event/yr16580319)). Meanwhile, you are welcome to send any questions you might have for the teams building the Swarm network by using this [online form](https://airtable.com/shrBRyrMkXFsJvLS3) for them to be addressed on the call.
+**Swarm Community Call** – our main monthly online event, will take place on 27 April at 17:00 CET in the [Swarm Foundation Discord](https://discord.com/channels/799027393297514537/801438093927776286) ([add to calendar](https://www.addevent.com/event/yr16580319)). Meanwhile, you are welcome to send any questions you might have for the teams building the Swarm network by using this [online form](https://airtable.com/shrBRyrMkXFsJvLS3) for them to be addressed on the call.
