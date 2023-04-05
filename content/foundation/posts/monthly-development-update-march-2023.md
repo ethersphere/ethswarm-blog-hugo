@@ -13,7 +13,7 @@ title = "Monthly Development Update – March 2023"
 
 ## The price oracle model is all set up
 
-The **price oracle model is set up** and is being continuously tested and developed in a cluster. The development of Phase 4 of the storage incentives roadmap is running in parallel and you can also check out the new [Storage incentives paper here](http://parallel).
+The **price oracle model is set up** and is being continuously tested and developed in a cluster. The development of Phase 4 of the storage incentives roadmap is running in parallel and you can also check out the new [Storage incentives paper here](https://t.co/v7MGmMJikG).
 
 ## A new Swarm Desktop is out
 
