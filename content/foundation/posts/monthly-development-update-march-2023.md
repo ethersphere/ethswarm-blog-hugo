@@ -103,8 +103,7 @@ From 14–16 April, the Ethereum community will gather at a meetup in Zurich. Sw
 
 ##### [**Etherjot**](https://github.com/Cafe137/etherjot)
 
-* Create a blog on Swarm
-* Add markdown files as either articles or pages
+* Etherjot enables you to effortlessly create a blog on Swarm. It takes care of the publishing process and layout, allowing you to focus on writing. You can easily add article pages and menu pages one at a time. If you have a markdown file ready to be published, simply use a straightforward command, and it will be accessible on your website.
 
 ##### Documentation
 
