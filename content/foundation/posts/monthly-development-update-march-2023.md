@@ -71,11 +71,11 @@ From 14–16 April, the Ethereum community will gather at a meetup in Zurich. Sw
 
 ### **Fair Data Protocol**
 
-* **Fairdrive Desktop App version 0.1.5 released (**[**https://github.com/fairDataSociety/fairdrive-desktop-app/releases/tag/v0.1.5**](https://github.com/fairDataSociety/fairdrive-desktop-app/releases/tag/v0.1.5 "https://github.com/fairDataSociety/fairdrive-desktop-app/releases/tag/v0.1.5")**)**
-* FairOS version 0.9.3 released ([https://github.com/fairDataSociety/fairOS-dfs/releases/tag/v0.9.3](https://github.com/fairDataSociety/fairOS-dfs/releases/tag/v0.9.3 "https://github.com/fairDataSociety/fairOS-dfs/releases/tag/v0.9.3") )
-* fdp-storage version 0.7.1 released ([https://github.com/fairDataSociety/fdp-storage/releases/tag/v0.7.1](https://github.com/fairDataSociety/fdp-storage/releases/tag/v0.7.1 "https://github.com/fairDataSociety/fdp-storage/releases/tag/v0.7.1"))
-* Blossom version 0.2.3 released ([https://github.com/fairDataSociety/blossom/releases/tag/blossom-ext-v0.2.3](https://github.com/fairDataSociety/blossom/releases/tag/blossom-ext-v0.2.3 "https://github.com/fairDataSociety/blossom/releases/tag/blossom-ext-v0.2.3"))
-* FIP #71 about External account generator in process of review ([https://github.com/fairDataSociety/FIPs/pull/71](https://github.com/fairDataSociety/FIPs/pull/71 "https://github.com/fairDataSociety/FIPs/pull/71") )
+* **Fairdrive Desktop App version** [**0.1.5**](https://github.com/fairDataSociety/fairdrive-desktop-app/releases/tag/v0.1.5) **released** 
+* FairOS version [0.9.3](https://github.com/fairDataSociety/fairOS-dfs/releases/tag/v0.9.3) released 
+* fdp-storage version [0.7.1](https://github.com/fairDataSociety/fdp-storage/releases/tag/v0.7.1) released
+* Blossom version [0.2.3](https://github.com/fairDataSociety/blossom/releases/tag/blossom-ext-v0.2.3) released
+* [FIP #71](https://github.com/fairDataSociety/FIPs/pull/71) about External account generator in process of review
 
 ### **Ecosystem**
 
@@ -121,7 +121,7 @@ From 14–16 April, the Ethereum community will gather at a meetup in Zurich. Sw
 
 ##### **Ethereum Zurich** 
 
-* **Ethereum Zurich** - [https://ethereumzuri.ch/](https://ethereumzuri.ch/ "https://ethereumzuri.ch/") From 14–16 April the Ethereum community will gather at a meetup in Zurich. Swarm’s **Daniel A. Nagy** will be there to talk about Swarm and you can swing by our booth at any time for a friendly face-to-face with the team.
+* [**Ethereum Zurich**](https://ethereumzuri.ch/ ) - From 14–16 April the Ethereum community will gather at a meetup in Zurich. Swarm’s **Daniel A. Nagy** will be there to talk about Swarm and you can swing by our booth at any time for a friendly face-to-face with the team.
 
 ##### **Swarm Community Call** 
 
