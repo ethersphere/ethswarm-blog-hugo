@@ -3,7 +3,6 @@ banner = "/uploads/how-to-run-a-bee-node.png"
 categories = ["Tutorials"]
 date = 2023-04-11T22:00:00Z
 description = "Running a Bee node is essential for building decentralised applications on the Swarm network. However, as a developer, it is often convenient to work in an environment where interactions with the node/network can be tested rapidly and without putting the node’s storage data or the user’s tokens at risk."
-draft = true
 references_and_footnotes = []
 title = "Build on Swarm: How to Run a Bee Node for Testing and Development"
 
@@ -45,7 +44,7 @@ You can download the most recent bee packages here: [https://github.com/ethersph
 Open a terminal window and run:
 
     bee dev
-
+    
      (                      *        )  (
      )\ )                 (  *    ( /(  )\ )
     (()/(   (    (   (    )\))(   )\())(()/(   (
@@ -80,7 +79,7 @@ Great! Our bee node is now running in `dev` mode. You can now safely interact wi
 
 ### Step 2: Using Bee Factory
 
-Spin up the cluster for a specific Bee version and attach to the Queen container and display it’s logs (Press Ctrl+C to stop):
+Spin up the cluster for a specific Bee version and attach to the Queen container and display its logs (Press Ctrl+C to stop):
 
     bee-factory start 1.13.0
 
@@ -108,9 +107,9 @@ You can check out [https://github.com/ethersphere/bee-factory](https://github.co
 
 ## Option 3: Run a local network with FDP Play
 
-[Fair Data Protocol](https://fdp.fairdatasociety.org/) (FDP) is a data interoperability protocol and a layer 2 solution built on top of Swarm. It promotes self-sovereignty and privacy for dApps that use personal data in the decentralized cloud.
+[Fair Data Protocol](https://fdp.fairdatasociety.org/) (FDP) is a data interoperability protocol and a layer 2 solution built on top of Swarm. It promotes self-sovereignty and privacy for dApps that use personal data in the decentralised cloud.
 
-Much like the `bee-factory`, [FDP Play](https://github.com/fairDataSociety/fdp-play) is a CLI tool used to spin up a local development FDP environment with Docker. It includes a ganache blockchain for testing, a Docker cluster of bee nodes as well as a FairOS instance.
+Much like `bee-factory`, [FDP Play](https://github.com/fairDataSociety/fdp-play) is a CLI tool used to spin up a local development FDP environment with Docker. It includes a ganache blockchain for testing, a Docker cluster of bee nodes as well as a FairOS instance.
 
 ### Prerequisites
 
@@ -140,7 +139,7 @@ Clear all data (fresh) and pull latest docker images:
 
     fdp-play start --pull --fresh
 
-Spin up the cluster using specified blockchain image:
+Spin up the cluster using the specified blockchain image:
 
     fdp-play start --detach --blockchain-image fairdatasociety/fdp-play-blockchain
 
