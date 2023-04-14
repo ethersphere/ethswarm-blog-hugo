@@ -154,11 +154,11 @@
   }
 
   .content pre code {
-    @apply rounded-none bg-transparent px-0 py-0 font-normal before:content-none after:content-none;
+    @apply rounded-none bg-transparent p-0 px-0 py-0 font-normal;
   }
 
   .content code {
-    @apply font-mono text-[0.9em] font-bold before:content-['`'] after:content-['`'];
+    @apply rounded-md bg-gray-100 px-1.5 py-0.5 font-mono text-[0.9em] font-bold;
   }
 
   .footnotes ol {
@@ -184,7 +184,7 @@
 }
 
 .pagefind-ui__results {
-  @apply md:mt-22 md:space-y-22 mt-12 mb-10 space-y-10 pl-0;
+  @apply md:mt-22 md:space-y-22 mb-10 mt-12 space-y-10 pl-0;
 }
 
 .pagefind-ui__result-image {

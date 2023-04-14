@@ -1193,6 +1193,7 @@ aside ul a:hover {
 .content pre code {
   border-radius: 0px;
   background-color: transparent;
+  padding: 0px;
   padding-left: 0px;
   padding-right: 0px;
   padding-top: 0px;
@@ -1200,30 +1201,17 @@ aside ul a:hover {
   font-weight: 400;
 }
 
-.content pre code::before {
-  --tw-content: none;
-  content: var(--tw-content);
-}
-
-.content pre code::after {
-  --tw-content: none;
-  content: var(--tw-content);
-}
-
 .content code {
+  border-radius: 0.375rem;
+  --tw-bg-opacity: 1;
+  background-color: rgb(244 244 244 / var(--tw-bg-opacity));
+  padding-left: 0.375rem;
+  padding-right: 0.375rem;
+  padding-top: 0.125rem;
+  padding-bottom: 0.125rem;
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   font-size: 0.9em;
   font-weight: 700;
-}
-
-.content code::before {
-  --tw-content: '`';
-  content: var(--tw-content);
-}
-
-.content code::after {
-  --tw-content: '`';
-  content: var(--tw-content);
 }
 
 .footnotes ol {
@@ -2062,8 +2050,8 @@ aside ul a:hover {
 }
 
 .pagefind-ui__results {
-  margin-top: 3rem;
   margin-bottom: 2.5rem;
+  margin-top: 3rem;
 }
 
 .pagefind-ui__results > :not([hidden]) ~ :not([hidden]) {
