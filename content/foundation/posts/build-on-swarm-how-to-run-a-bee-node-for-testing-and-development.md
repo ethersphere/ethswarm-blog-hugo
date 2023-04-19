@@ -17,7 +17,7 @@ In this article, we’ll explore three safe and risk-free options available for 
 
 Whether you’re a beginner or an experienced developer, these options will help you get started with Swarm quickly. So let’s dive in!
 
-# Option 1: Run Bee in Developer Mode
+## Option 1: Run Bee in Developer Mode
 
 When a Bee node is run in developer mode, it creates an instance with volatile persistence and mocked backends which makes this mode highly advantageous for experimenting and testing out various Bee node features. Any changes made to the node’s state are temporary and discarded when the node is stopped. As a result, there is no impact on real-world data or assets, making this mode an ideal option for developers looking to experiment with the Bee node.
 
@@ -63,7 +63,7 @@ Open a terminal window and run:
 
 Great! Our bee node is now running in `dev` mode. You can now safely interact with all of its API endpoints. Any changes to the node’s state resulting from your interactions will only be persisted to volatile memory.
 
-# Option 2: Run a local network with Bee Factory
+## Option 2: Run a local network with Bee Factory
 
 [Bee Factory](https://github.com/ethersphere/bee-factory) offers a complete solution to simulate an entire Swarm Network on your machine. Bee Factory is a CLI tool used to spin up a Docker cluster of Bee nodes as well as a test Blockchain for advanced testing and development.
 
@@ -105,7 +105,7 @@ To list help content for a specific subcommand:
 
 You can check out [https://github.com/ethersphere/bee-factory](https://github.com/ethersphere/bee-factory "https://github.com/ethersphere/bee-factory") for more information on `bee-factory`.
 
-# Option 3: Run a local network with FDP Play
+## Option 3: Run a local network with FDP Play
 
 [Fair Data Protocol](https://fdp.fairdatasociety.org/) (FDP) is a data interoperability protocol and a layer 2 solution built on top of Swarm. It promotes self-sovereignty and privacy for dApps that use personal data in the decentralised cloud.
 
@@ -145,7 +145,7 @@ Spin up the cluster using the specified blockchain image:
 
 You can check out [https://github.com/fairDataSociety/fdp-play](https://github.com/fairDataSociety/fdp-play "https://github.com/fairDataSociety/fdp-play") for more information on `fdp-play`.
 
-# Alright, what’s next?
+## Alright, what’s next?
 
 Now that we’ve explored three risk-free ways to get a bee node running for testing and development, it’s time to start interacting with it and building on the Swarm network. The [Bee JS](https://github.com/ethersphere/bee-js) SDK and its [documentation](https://bee-js.ethswarm.org/docs/) is a great place to get started.
 
