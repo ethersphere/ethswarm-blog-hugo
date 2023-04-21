@@ -1,6 +1,6 @@
 +++
 banner = "/uploads/dev_update_april.png"
-categories = []
+categories = ["Development updates"]
 date = 2023-05-04T22:00:00Z
 description = ""
 references_and_footnotes = []
