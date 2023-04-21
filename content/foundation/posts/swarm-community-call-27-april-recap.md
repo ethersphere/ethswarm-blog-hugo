@@ -1,6 +1,6 @@
 +++
 banner = "/uploads/dev_update_april.png"
-categories = []
+categories = ["Events"]
 date = 2023-05-07T22:00:00Z
 description = "Add description"
 draft = true
