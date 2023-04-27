@@ -5,8 +5,9 @@ date = 2022-07-12T04:00:00Z
 description = " This tutorial will explain how to bridge MakerDAO DAI from Ethereum Mainnet to Gnosis Chain, using the Gnosis Chain bridge."
 references_and_footnotes = []
 title = "How to… Bridge DAI from Ethereum Mainnet to Gnosis Chain"
-
+slug = "how-to-bridge-dai-to-gnosis"
 +++
+
 Your Bee node uses the Gnosis Chain network to buy postage stamps, to keep your files and data alive in the Swarm network, and to participate in bandwidth incentives, amongst other things. In order to use the Gnosis Chain network, you must pay for transaction fees or ‘gas’ in its native token, xDAI. This tutorial will explain how to bridge MakerDAO DAI from Ethereum Mainnet to Gnosis Chain, using the Gnosis Chain bridge.
 
 Before you begin, you need one of the crypto wallets shown below, Metamask being the most popular [https://www.metamask.io/](https://www.metamask.io/ "https://www.metamask.io/") — for extra security, use a hardware wallet. Create a new wallet and provide it with DAI.
@@ -25,12 +26,12 @@ Step 2: Select Ethereum as the mainnet. Next, input the amount of DAI you wish t
 
 ![](https://miro.medium.com/max/1400/0*oo_pWDeqsp184z5f)
 
-Step 3: Once your metamask wallet opens, you will see the details of the transaction. Gas fees can be adjusted (not necessary on the Gnosis network). To proceed, click ‘Confirm’.  
+Step 3: Once your metamask wallet opens, you will see the details of the transaction. Gas fees can be adjusted (not necessary on the Gnosis network). To proceed, click ‘Confirm’.
 ![](https://miro.medium.com/max/1400/0*-20LpvQcLfe7AsU0)
 
 Step 4: After you have confirmed the transaction, details about it will appear in the bottom right corner of the page. Wait for your transaction to be confirmed.
 
-![](https://miro.medium.com/max/1400/0*099kHLNhGhYZ7-T5)  
+![](https://miro.medium.com/max/1400/0*099kHLNhGhYZ7-T5)
 Success! You’ve successfully bridged DAI to Gnosis Chain
 
 ![](https://miro.medium.com/max/1400/0*EE3z1jTc3aaEw-3J)
