@@ -1,12 +1,13 @@
 +++
 banner = "/uploads/sun.webp"
-categories = ["Development Updates"]
+categories = ["Development updates"]
 date = 2020-12-04T04:00:00Z
 description = "By 25 January 2021, the cluster of nodes running the old Swarm network maintained by the Swarm team will be brought offline. As of this date, the proof of concept network is considered deprecated and the old Swarm codebase will no longer be maintained by the Swarm team. Those running services on the old testnet are encouraged to arrange for immediate migration to the new Bee client.\n\n"
 references_and_footnotes = []
 title = "The sun is setting for the old Swarm network"
 
 +++
+
 ![](https://miro.medium.com/max/1300/1*9s602o6H3bfoc6JliTMMLg.jpeg =650x365)
 
 **TL;DR**
@@ -53,9 +54,9 @@ The specification and design for the Swarm network, on which the Bee client is a
 
 # Join Swarm’s community
 
-* Follow community news on[ Twitter](https://twitter.com/ethswarmhive), and development news[ here](https://twitter.com/ethswarm).
-* Discussions about Swarm can be found on[ Reddit](https://www.reddit.com/r/ethswarm/).
-* All tech support and other channels have moved to[ Discord](https://discord.gg/wdghaQsGq5)!
-* Please feel free to reach out via [info@ethswarm.org](mailto:info@ethswarm.org)
-* Join the newsletter! [**Subscribe here**](https://www.ethswarm.org/newsletter.html).
-* Subscribe to the[ Swarm Foundation YouTube channel](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos).
+- Follow community news on[ Twitter](https://twitter.com/ethswarmhive), and development news[ here](https://twitter.com/ethswarm).
+- Discussions about Swarm can be found on[ Reddit](https://www.reddit.com/r/ethswarm/).
+- All tech support and other channels have moved to[ Discord](https://discord.gg/wdghaQsGq5)!
+- Please feel free to reach out via [info@ethswarm.org](mailto:info@ethswarm.org)
+- Join the newsletter! [**Subscribe here**](https://www.ethswarm.org/newsletter.html).
+- Subscribe to the[ Swarm Foundation YouTube channel](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos).

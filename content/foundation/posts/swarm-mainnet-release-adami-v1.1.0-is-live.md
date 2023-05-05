@@ -1,12 +1,13 @@
 +++
 banner = ""
-categories = ["Development Updates"]
+categories = ["Development updates"]
 date = 2021-08-23T22:00:00Z
 description = "On 21 June 2021, Swarm released its first mainnet client. Today, Swarm is releasing a new version 1.1.0, fixing bugs and adding four new features."
 references_and_footnotes = []
 title = "Swarm Mainnet Release — Adami v1.1.0 is live!"
 
 +++
+
 On 21 June 2021, Swarm released its first mainnet client. Today, Swarm is releasing a new version 1.1.0, fixing bugs and adding four new features.
 
 **Four testnet releases during the summer**
@@ -27,39 +28,39 @@ Let’s take a look at what’s new in the v1.1.0 release. [For the full update 
 
 # There are two breaking changes
 
-* The log field traceid was renamed traceID
-* The standalone mode has been phased out (in favour of dev mode)
+- The log field traceid was renamed traceID
+- The standalone mode has been phased out (in favour of dev mode)
 
 # Four new features
 
-* Added estimation of the expected lifetime of batches. Now, uploaders canhave a better idea of how long their data will persist.
-* Added possibility to cancel transactions so nodes are not stuck because gas costs have suddenly increased
-* Allow node to start in dev mode which does not require a blockchain backend. All storage is done in memory and backend behaviour is mocked, so you can develop your apps on Swarm even faster! Run ./bee dev and give it a try
-* Add chunk upload endpoint that makes it possible to stream chunks via websockets
+- Added estimation of the expected lifetime of batches. Now, uploaders canhave a better idea of how long their data will persist.
+- Added possibility to cancel transactions so nodes are not stuck because gas costs have suddenly increased
+- Allow node to start in dev mode which does not require a blockchain backend. All storage is done in memory and backend behaviour is mocked, so you can develop your apps on Swarm even faster! Run ./bee dev and give it a try
+- Add chunk upload endpoint that makes it possible to stream chunks via websockets
 
 # Performance improvements & bugfixes
 
-* Fixed deadlocks on context done in pushsync and retrieval protocols. This caused goroutine leaks and elevated memory consumption
-* Fixed a mantaray lookup bug where files that have shared prefix aren’t found correctly
-* Fixed a bug in kademlia that caused choosing a sanctioned peer closest to a chunk
-* Fixed excruciatingly long shutdown by allowing metrics to flush dirty
-* Improved PSS efficiency
-* Fixed wrong timestamp usage in time settlements
-* Fixed correct blocktime for xdai
-* Fixed possible gcSizeChange inconsistency
-* Limit concurrent access to some parts of the api resources to improve API consistency, since bee does not support parallel on-chain operations
-* Query header instead of block (resolves london hardfork related issues)
-* Fixed a bug in the cancelled transactions nonce check
-* Fixed unnecessary flushing of metrics that haven’t changed in kademlia
+- Fixed deadlocks on context done in pushsync and retrieval protocols. This caused goroutine leaks and elevated memory consumption
+- Fixed a mantaray lookup bug where files that have shared prefix aren’t found correctly
+- Fixed a bug in kademlia that caused choosing a sanctioned peer closest to a chunk
+- Fixed excruciatingly long shutdown by allowing metrics to flush dirty
+- Improved PSS efficiency
+- Fixed wrong timestamp usage in time settlements
+- Fixed correct blocktime for xdai
+- Fixed possible gcSizeChange inconsistency
+- Limit concurrent access to some parts of the api resources to improve API consistency, since bee does not support parallel on-chain operations
+- Query header instead of block (resolves london hardfork related issues)
+- Fixed a bug in the cancelled transactions nonce check
+- Fixed unnecessary flushing of metrics that haven’t changed in kademlia
 
 # Misc
 
-* Updated go-ethereum version
-* Bump clef in docker compose
-* Added batchstore checksums
-* Expose the transaction API early
-* Add endpoint that emits information about collisions within all buckets of a batch
-* Kademlia metrics flush in a separate goroutine in a way that doesn’t affect connection management due to long flush times
+- Updated go-ethereum version
+- Bump clef in docker compose
+- Added batchstore checksums
+- Expose the transaction API early
+- Add endpoint that emits information about collisions within all buckets of a batch
+- Kademlia metrics flush in a separate goroutine in a way that doesn’t affect connection management due to long flush times
 
 # Join Swarm’s testnet
 

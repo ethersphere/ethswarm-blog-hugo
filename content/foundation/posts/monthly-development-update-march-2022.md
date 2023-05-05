@@ -1,12 +1,13 @@
 +++
 banner = ""
-categories = []
+categories = ["Development updates"]
 date = 2022-04-04T22:00:00Z
 description = "March was marked by the WAM hackathon, organised by Fair Data Society in partnership with Swarm. Three weeks of talks, demos and presentations connected artists, gamers, developers and activists in an effort to build a better Web. Important partnerships were forged, like the one between Kiwix and Swarm that will see the whole of Wikipedia uploaded to Swarm’s decentralised storage."
 references_and_footnotes = []
 title = "Monthly Development Update — March 2022"
 
 +++
+
 March was marked by the [WAM hackathon](https://www.wearemillions.online/), organised by [Fair Data Society](https://fairdatasociety.org/) in partnership with Swarm. Three weeks of talks, demos and presentations connected artists, gamers, developers and activists in an effort to build a better Web. Important partnerships were forged, like the one between [Kiwix and Swarm that will see the whole of Wikipedia uploaded to Swarm’s decentralised storage](https://medium.com/@ethswarmhive/kiwix-and-swarm-partner-up-to-preserve-free-online-access-to-information-b8a30b2b0af4).
 
 The entire WAM event is available on [YouTube](https://www.youtube.com/watch?v=ek8gIDsACqo&list=PL6fQnFAjtuY9AdKGRkj6VKxGfZ8bFUOrj), but stay tuned for more info because a sequel is coming in September 2022!
@@ -19,17 +20,17 @@ More details on what the teams were up to in March can be found below.
 
 ## Bee Track
 
-* Bee [1.5.0 released](https://github.com/ethersphere/bee/releases/tag/v1.5.0); however, it has not yet been announced to the public due to an issue that was found after deployment to the mainnet. The team is working on a fix.
+- Bee [1.5.0 released](https://github.com/ethersphere/bee/releases/tag/v1.5.0); however, it has not yet been announced to the public due to an issue that was found after deployment to the mainnet. The team is working on a fix.
 
 ## DevOps Track
 
-* Released and deployed the [Bee](https://github.com/ethersphere/bee) to the mainnet (v1.5.0).
-* Released and deployed the [gateway-proxy](https://github.com/ethersphere/gateway-proxy) to the mainnet (v0.5.1).
+- Released and deployed the [Bee](https://github.com/ethersphere/bee) to the mainnet (v1.5.0).
+- Released and deployed the [gateway-proxy](https://github.com/ethersphere/gateway-proxy) to the mainnet (v0.5.1).
 
 ## JS Track
 
-* Two new versions of [Bee-js](https://github.com/ethersphere/bee-js/releases/tag/v3.3.3) were released, the latest one is 3.3.3
-* Two new versions of the [Gateway Proxy](https://github.com/ethersphere/gateway-proxy/releases/tag/v0.5.1) were released, the latest one is 0.5.1
+- Two new versions of [Bee-js](https://github.com/ethersphere/bee-js/releases/tag/v3.3.3) were released, the latest one is 3.3.3
+- Two new versions of the [Gateway Proxy](https://github.com/ethersphere/gateway-proxy/releases/tag/v0.5.1) were released, the latest one is 0.5.1
 
 ## Research Track
 

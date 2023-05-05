@@ -1,12 +1,13 @@
 +++
 banner = "/uploads/peers.webp"
-categories = ["Development Updates"]
+categories = ["Development updates"]
 date = 2021-11-08T04:00:00Z
 description = "The Bee team has been working hard on measuring and identifying key problems in the swarm DHT these last few months."
 references_and_footnotes = []
 title = "The Swarm is Moving On (or: Don’t Fall Behind) By Elad Nachmias"
 
 +++
+
 The Bee team has been working hard on measuring and identifying key problems in the swarm DHT these last few months. As promised in a previous blog post, we’ve finally pulled the trigger with v1.3.0 on a change that ostracises nodes without a stable blockchain connection from the network. This was just the herald of a series of software automatisms put in place to ensure that we can provide a good service level contract for our users.
 
 ## _“It is up to you as a node operator to verify that your node configuration is correct and that your node is reachable from the public internet. You must verify that the address your node gossips is reachable from the internet.“_
@@ -45,4 +46,4 @@ While we are actively working on finding ways to be inclusive of unreachable nod
 
 Stay tuned for the next release cycle through our Twitter or Discord channel.
 
-# 
+#

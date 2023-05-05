@@ -30,7 +30,7 @@ home = ["HTML", "JSON"]
 section = ["HTML"]
 [permalinks]
 categories = "/c/:title"
-posts = ":year/:title/"
+posts = ":year/:slug/"
 [related]
 includeNewer = true
 threshold = 80

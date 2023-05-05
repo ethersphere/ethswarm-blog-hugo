@@ -1,12 +1,13 @@
 +++
 banner = ""
-categories = ["Development Updates"]
+categories = ["Development updates"]
 date = 2021-12-12T23:00:00Z
 description = "Swarm Foundation is proud to share its tech team’s internal agenda for the next 12 months. The aim is to create predictability in the development tracks and the wider organisation as well as help coordinate between the Foundation’s efforts and the efforts deployed to the broader Swarm community."
 references_and_footnotes = []
 title = "Announcing The Swarm Foundation Technical Milestones"
 
 +++
+
 Swarm Foundation is proud to share its tech team’s internal agenda for the next 12 months. The aim is to create predictability in the development tracks and the wider organisation as well as help coordinate between the Foundation’s efforts and the efforts deployed to the broader Swarm community.
 
 Through this shared and transparent understanding, we aim to further the Foundation’s purpose to support the Swarm network to thrive and provide the infrastructure necessary for a decentralised web.
