@@ -1,12 +1,13 @@
 +++
 banner = ""
-categories = ["Development Updates"]
+categories = ["Development updates"]
 date = 2021-12-21T04:00:00Z
 description = "Swarm works the way it does because it is formed of many independent nodes that collaborate to store and deliver your data. But why do these nodes collaborate and can’t the system be abused? Understanding Swarm’s bandwidth incentives is key to answering these questions."
 references_and_footnotes = []
 title = "Understanding Swarm’s bandwidth incentives"
 
 +++
+
 _By_ [_Rinke Hendriksen_](https://twitter.com/EknirNL/)_, Swarm Research Track Lead_
 
 > _Swarm works the way it does because it is formed of many independent nodes that collaborate to store and deliver your data. But why do these nodes collaborate and can’t the system be abused? Understanding Swarm’s bandwidth incentives is key to answering these questions._
@@ -15,11 +16,11 @@ Swarm’s system of incentives consists of three components. One component takes
 
 Bandwidth incentives aim to:
 
-* Ensure that nodes collaborate in routing chunks;
-* prevent spam requests in the network; and
-* ensure frequently accessed content is cached across the network.
+- Ensure that nodes collaborate in routing chunks;
+- prevent spam requests in the network; and
+- ensure frequently accessed content is cached across the network.
 
-In what follows, I will explain all three components separately, to illustrate how they work and why they were designed in this way.  
+In what follows, I will explain all three components separately, to illustrate how they work and why they were designed in this way.
 If you are a node operator, you will be able to use this information to help understand why your node has been rewarded from participating in the swarm. As a Swarm user who contributes data or fetches some, you will understand why BZZ is used for downloading and uploading content.
 
 This blog is part of a series, explaining why nodes behave the way they do. I don’t intend to communicate new information, merely to present what has already been communicated with more context and in a friendly format. I truly believe that Swarm is something special and by understanding Swarm in more depth, you will hopefully further appreciate why.

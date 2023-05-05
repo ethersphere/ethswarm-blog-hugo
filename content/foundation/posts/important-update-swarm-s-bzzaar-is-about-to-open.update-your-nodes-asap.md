@@ -1,12 +1,13 @@
 +++
 banner = ""
-categories = ["Development Updates"]
+categories = ["Development updates"]
 date = 2022-02-08T04:00:00Z
 description = "Swarm is about to take a giant step closer to the mainnet release by deploying a new release of Swarm. The upcoming release (estimated Tuesday, 9 February, 09:00 CET) includes, among others, an integration with Bzzaar (on Goerli)."
 references_and_footnotes = []
 title = "Important update: Swarm’s Bzzaar is about to open. Update your nodes asap."
 
 +++
+
 Swarm is about to take a giant step closer to the mainnet release by deploying a new release of Swarm. The upcoming release **(estimated Tuesday, 9 February, 09:00 CET)** includes, among others, an integration with [Bzzaar](https://bzz.ethswarm.org/) (on Goerli).
 
 Bzzaar replaces the faucet and is the place where you can purchase gBZZ with gETH or gDAI. If you are a node operator, you should update your node as soon as the new release is out. The faster the majority of nodes are updated, the quicker the network will recover. Please read on to understand why, and what you can expect as a user or node operator.
@@ -15,9 +16,9 @@ Bzzaar replaces the faucet and is the place where you can purchase gBZZ with gET
 
 With the new release, some crucial changes will be made. The most important thing to understand is that the brand new Bzzaar requires a new testnet token. Since Bee nodes can only accept one token, this will have some consequences:
 
-* The new nodes won’t connect to the old nodes and vice versa. This also means that data won’t be available unless the majority of the nodes are updated.
-* When you update your node, the data on your node automatically becomes available to the network.
-* Unfortunately, we cannot guarantee that everybody will update their nodes. Therefore, it is advised to do a backup of any important data.
+- The new nodes won’t connect to the old nodes and vice versa. This also means that data won’t be available unless the majority of the nodes are updated.
+- When you update your node, the data on your node automatically becomes available to the network.
+- Unfortunately, we cannot guarantee that everybody will update their nodes. Therefore, it is advised to do a backup of any important data.
 
 # **Other exciting new features**
 

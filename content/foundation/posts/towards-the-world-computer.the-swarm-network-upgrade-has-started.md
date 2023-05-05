@@ -1,15 +1,16 @@
 +++
 banner = "/uploads/incentives-1.png"
-categories = ["Development Updates"]
+categories = ["Development updates"]
 date = 2022-09-22T22:00:00Z
 description = "On 13 September 2022, the Swarm Foundation began the most substantial upgrade to the Swarm network since its mainnet release. The upgrade will unfold in several phases and enable node operators to receive rewards for their services to the network. "
 references_and_footnotes = []
 title = "Towards the world computer. The Swarm network upgrade has started."
 
 +++
+
 **On 13 September 2022**, the Swarm Foundation began **the most substantial upgrade** to the Swarm network since its mainnet release. The upgrade will unfold in several phases and enable **node operators to receive rewards** for their services to the network. It represents an opportunity for people to offer spare resources (i.e. storage and bandwidth) to the Swarm network and eventually get compensated for it.
 
-It is **a pivotal moment for the Swarm network** and for the larger Web3 ecosystem, as it creates **new social and economic possibilities**. Storage incentives are the foundation on which the next generation of private, secure, decentralised, inclusive and open-source dApps will be built. 
+It is **a pivotal moment for the Swarm network** and for the larger Web3 ecosystem, as it creates **new social and economic possibilities**. Storage incentives are the foundation on which the next generation of private, secure, decentralised, inclusive and open-source dApps will be built.
 
 # Four key changes in the network
 
@@ -17,10 +18,10 @@ Bringing storage incentives to a functional state is an incredibly tough problem
 
 The changes being introduced to the network are the following:
 
-* Node operators can **stake BZZ to participate in the redistribution of funds**;
-* Bee **node operators can then receive BZZ** for providing storage and bandwidth;
-* the Swarm network will be **economically sustainable**;
-* **data storage will be persistent**.
+- Node operators can **stake BZZ to participate in the redistribution of funds**;
+- Bee **node operators can then receive BZZ** for providing storage and bandwidth;
+- the Swarm network will be **economically sustainable**;
+- **data storage will be persistent**.
 
 **This blog explains the phases in which the upgraded incentives will be introduced and what each phase means for the network.** A follow-up blog post will focus on **BZZ staking**.
 
@@ -38,32 +39,32 @@ Released to mainnet on 13 September 2022
 
 ## **Stake and play (Phase** **2)**
 
-Activating staking and redistribution smart contracts  
-First week of October 2022 — testnet release  
+Activating staking and redistribution smart contracts
+First week of October 2022 — testnet release
 First half of November 2022- mainnet release
 
 ## **The oracle (Phase 3)**
 
-Introducing the price oracle and network-wide price discovery  
-Second half of October 2022 — testnet release  
+Introducing the price oracle and network-wide price discovery
+Second half of October 2022 — testnet release
 Second half of November 2022 — mainnet release
 
 ## **A good neighbourhood (Phase 4)**
 
-Additional security and verification features — Part I  
+Additional security and verification features — Part I
 Second half of December 2022 — mainnet release
 
 ## **Content extra-protection (Phase 5)**
 
-Additional security and verification features — Part II  
+Additional security and verification features — Part II
 Second half of January 2023 — mainnet release
 
 The time frames above will be detailed and confirmed **on Monthly Ecosystem Calls** from September through December according to this schedule:
 
-* **Testnet release of Phases 2 and 3** will be announced at the September Monthly Ecosystem Call **on 29 September**.
-* **Mainnet release dates** for both these phases will be announced at the October Monthly Ecosystem Call **on 27 October**.
-* M**ainnet release of Phase 4** will be announced at the November Monthly Ecosystem Call **on 24 November**.
-* **Mainnet release of Phase 5** will be announced at the **Winter Solstice Event on 21 December**.
+- **Testnet release of Phases 2 and 3** will be announced at the September Monthly Ecosystem Call **on 29 September**.
+- **Mainnet release dates** for both these phases will be announced at the October Monthly Ecosystem Call **on 27 October**.
+- M**ainnet release of Phase 4** will be announced at the November Monthly Ecosystem Call **on 24 November**.
+- **Mainnet release of Phase 5** will be announced at the **Winter Solstice Event on 21 December**.
 
 # Phase 1 — Know your neighbour
 
@@ -109,9 +110,9 @@ _BZZ utility token should not be purchased for financial gain or speculation. Th
 
 # Join Swarm’s community
 
-* **Follow community news on** [**Twitter**](https://twitter.com/ethswarmhive)**, and development news** [**here**](https://twitter.com/ethswarm)**.**
-* **Discussions about Swarm can be found on** [**Reddit**](https://www.reddit.com/r/ethswarm/)**.**
-* **All tech support and other channels have moved to** [**Discord**](https://discord.gg/wdghaQsGq5)**!**
-* **Please feel free to reach out via info@ethswarm.org**
-* **Join the newsletter!** [**Subscribe here**](https://www.ethswarm.org/newsletter.html)**.**
-* **Subscribe to the** [**Swarm Foundation YouTube channel**](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos)**.**
+- **Follow community news on** [**Twitter**](https://twitter.com/ethswarmhive)**, and development news** [**here**](https://twitter.com/ethswarm)**.**
+- **Discussions about Swarm can be found on** [**Reddit**](https://www.reddit.com/r/ethswarm/)**.**
+- **All tech support and other channels have moved to** [**Discord**](https://discord.gg/wdghaQsGq5)**!**
+- **Please feel free to reach out via info@ethswarm.org**
+- **Join the newsletter!** [**Subscribe here**](https://www.ethswarm.org/newsletter.html)**.**
+- **Subscribe to the** [**Swarm Foundation YouTube channel**](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos)**.**

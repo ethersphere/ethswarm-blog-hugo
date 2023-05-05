@@ -1,12 +1,13 @@
 +++
 banner = ""
-categories = ["Development Updates"]
+categories = ["Development updates"]
 date = 2022-09-13T04:00:00Z
 description = "his release will activate the first phase of the upgraded storage incentives. It is the first step that will later open the doors to rewarding node operators for providing storage to the network."
 references_and_footnotes = []
 title = "Breaking changes are coming to the Swarm network"
 
 +++
+
 **On 13th September** the Swarm Foundation will begin **the biggest upgrade** to the Swarm network since its mainnet launch in 2021. This release will activate **the first phase of the upgraded storage incentives**. It is the first step that **will later open the doors to rewarding** **node operators** for providing storage to the network.
 
 # Don’t hesitate, update
@@ -17,12 +18,12 @@ Below is a list of the most relevant changes you can expect in the latest releas
 
 **Breaking changes & related updates**
 
-* **Postage stamp smart contract update**: the postage stamp contract will be updated so that the value previously locked in postage stamp batches becomes redistributable, i.e. it will become available for reward payout.
-* **Resyncing the batchstore**: current postage batches will be migrated and resynced in order to avoid data loss.
-* **Overlay address calculation change**: the above changes will require node operators to mine a new overlay address.
-* **Async refreshments**: this is a breaking change for light nodes and it will affect the calculation of payments for bandwidth.
-* **Depth monitor**: there will be a change in how the storage radius is calculated to maximise the utilisation and therefore the profitability of a full node.
-* **Handshake protocol version change**: with this change earlier versions will not be able to connect to newer versions anymore to avoid incompatibility on the network.
+- **Postage stamp smart contract update**: the postage stamp contract will be updated so that the value previously locked in postage stamp batches becomes redistributable, i.e. it will become available for reward payout.
+- **Resyncing the batchstore**: current postage batches will be migrated and resynced in order to avoid data loss.
+- **Overlay address calculation change**: the above changes will require node operators to mine a new overlay address.
+- **Async refreshments**: this is a breaking change for light nodes and it will affect the calculation of payments for bandwidth.
+- **Depth monitor**: there will be a change in how the storage radius is calculated to maximise the utilisation and therefore the profitability of a full node.
+- **Handshake protocol version change**: with this change earlier versions will not be able to connect to newer versions anymore to avoid incompatibility on the network.
 
 # When to expect changes
 

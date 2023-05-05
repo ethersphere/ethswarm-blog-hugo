@@ -1,12 +1,13 @@
 +++
 banner = "/uploads/bonding.png"
-categories = ["Development Updates"]
+categories = ["Development updates"]
 date = 2021-10-19T16:00:00Z
 description = "A comprehensive description of the insights of the single faucet of BZZ Token, explained in detail."
 references_and_footnotes = []
 title = "Swarm and its “Bzzaar” Bonding Curve"
 
 +++
+
 ## A comprehensive description of the insights of the single faucet of BZZ Token, explained in detail.
 
 Live since June, [_Bzzaar_](https://bzz.exchange/), an exchange platform launched as a means to buy and sell BZZ, takes a unique approach to kickstarting a new token economy. Unlike typical buy and sell platforms, Bzzaar doesn’t rely on traditional market makers for users to exchange BZZ but rather makes use of a _bonding curve_ to instantaneously complete transactions.
@@ -37,9 +38,9 @@ _Figure 2._ How a bonding curve determines token prices
 
 Besides the speed at which purchases and sales take place, a bonding curve has a few other benefits:
 
-* **Resilience to manipulation:** The Token’s value is far more resilient to outside influences attempting to manipulate its price, such as pump and dump schemes. This is because the bonding curve protects users from panic selling by ensuring every token is sold at a predictable price.
-* **No third-party market makers:** Since the price of each token is predetermined by the bonding curve, there is no need for any market makers. The bonding curve itself acts as an automated market maker.
-* **Immediately reacts to demand:** Since the bonding curve can mint and burn tokens, the price of a token is immediately adjusted to its demand.
+- **Resilience to manipulation:** The Token’s value is far more resilient to outside influences attempting to manipulate its price, such as pump and dump schemes. This is because the bonding curve protects users from panic selling by ensuring every token is sold at a predictable price.
+- **No third-party market makers:** Since the price of each token is predetermined by the bonding curve, there is no need for any market makers. The bonding curve itself acts as an automated market maker.
+- **Immediately reacts to demand:** Since the bonding curve can mint and burn tokens, the price of a token is immediately adjusted to its demand.
 
 **Fair distribution:** Bonding curves have no validators, negating the need for additional tokens to be minted as validator rewards. This leads to no inflation rate or inflation scheduled. Node operators are rewarded from the existing token pool for providing bandwidth and storage to the ecosystem.
 

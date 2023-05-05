@@ -1,12 +1,13 @@
 +++
 banner = ""
-categories = ["Development Updates"]
+categories = ["Development updates"]
 date = 2021-03-09T04:00:00Z
 description = "February has been a remarkable month for the Swarm and the Fair Data Society team. Apart from the regular work on the Swarm code, which produced a new release of Swarm (v0.5.1), the two teams joined forces and managed to pull off a really interesting hackathon event."
 references_and_footnotes = []
 title = "Monthly Development Update — February 2021"
 
 +++
+
 February has been a remarkable month for the Swarm and the [Fair Data Society](https://fairdatasociety.org/) team. Apart from the regular work on the Swarm code, which produced a new release of [Swarm (v0.5.1)](https://github.com/ethersphere/bee/releases/tag/v0.5.2), the two teams joined forces and managed to pull off a really interesting [hackathon](https://medium.com/ethereum-swarm/liberate-data-week-hackathon-recap-4fc9899bd30d) event.
 
 The seven-day hackathon was full of valuable announcements, demos, and talks. [Five of the competing teams made it to the end](https://www.youtube.com/watch?v=RS7qK5Kl1a8&list=PL6fQnFAjtuY-VdZ_5TNemX2gYc7eMfqhu&index=3) and produced their own thin dApp on Swarm, each earning them the event’s first prize (5000 BZZZ tokens).

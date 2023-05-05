@@ -1,12 +1,13 @@
 +++
 banner = "/uploads/winter-solstice.webp"
-categories = ["Events", "Development Updates"]
+categories = ["Events", "Development updates"]
 date = 2022-12-21T23:00:00Z
 description = "The Swarm Foundation announced exciting updates at its recent semi-annual solstice event. Phase 2 of its ambitious network upgrade is now live on mainnet, allowing Swarm’s storage node operators to be compensated for their contributions."
 references_and_footnotes = []
 title = "Swarm network’s storage rewards go live as it moves towards a Web3 PC"
 
 +++
+
 The Swarm Foundation announced exciting updates at its [**recent semi-annual solstice event**](https://www.youtube.com/watch?v=8cILZnmIf3Q). [**Phase 2 of its ambitious network upgrade**](https://blog.ethswarm.org/foundation/2022/towards-the-world-computer.-the-swarm-network-upgrade-has-started./) **is now live on mainnet, allowing Swarm’s storage node operators to be compensated for their contributions.**
 
 ## Introduction of staking and +1000x storage rent fee increase

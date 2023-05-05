@@ -1,18 +1,19 @@
 +++
 banner = "/uploads/world.webp"
-categories = ["Development Updates"]
+categories = ["Development updates"]
 date = 2022-01-14T04:00:00Z
 description = "The idea of the world computer was born out of Ethereum’s founding fathers’ vision for a new and better Web. In it, Vitalik Buterin, Gavin Wood and Jeffery Wilcke envisioned a serverless Web, free of large corporations and one which could be economically self-sustaining through blockchain technology."
 references_and_footnotes = []
 title = "Swarm — storing data for the world computer"
 
 +++
+
 **_TL:DR_**
 
-* **_As part of the “holy trinity”, Swarm was envisioned as Ethereum’s world computer hard drive_**
-* **_Even though the “holy trinity” became three separate projects, the world computer is still relevant due to the numerous benefits it creates_**
-* **_To this day, Ethereum is operating without a dedicated distributed storage solution; developers have to store data in centralised cloud solutions_**
-* **_In 2022, Swarm is set to become feature-complete and ready to take on the role of the world computer’s hard drive and make it completely decentralised_**
+- **_As part of the “holy trinity”, Swarm was envisioned as Ethereum’s world computer hard drive_**
+- **_Even though the “holy trinity” became three separate projects, the world computer is still relevant due to the numerous benefits it creates_**
+- **_To this day, Ethereum is operating without a dedicated distributed storage solution; developers have to store data in centralised cloud solutions_**
+- **_In 2022, Swarm is set to become feature-complete and ready to take on the role of the world computer’s hard drive and make it completely decentralised_**
 
 # From Ethereum, Swarm is born
 

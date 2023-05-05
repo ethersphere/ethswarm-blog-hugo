@@ -1,12 +1,13 @@
 +++
 banner = ""
-categories = ["Development Updates"]
+categories = ["Development updates"]
 date = 2022-11-20T23:00:00Z
 description = "The upgrade of the Swarm network storage incentives, which began on 13 September, is now in full swing. Both, Phase 2 and 3 of the upgrade, are currently undergoing extensive testing: Phase 2 on the public testnet and Phase 3 on a closed testnet."
 references_and_footnotes = []
 title = "Storage incentives — Timeline update"
 
 +++
+
 The upgrade of the Swarm network storage incentives, which began on 13 September, is now in full swing. Both, Phase 2 and 3 of the upgrade, are currently undergoing extensive testing: Phase 2 on the public testnet and Phase 3 on a closed testnet.
 
 During the testing period of Phase 2, two sets of issues were identified:
@@ -26,7 +27,7 @@ Onwards.
 
 # Upcoming events
 
-* To stay up to date with Swarm and be the first to hear updates, join The Monthly Ecosystem Call, online, 24 November
-* Winter Solstice Event, online, 21 December
-* WAM Hackathon, online, 1–21 March 2023
-* Swarm Summit, TBC, 21 June 2023
+- To stay up to date with Swarm and be the first to hear updates, join The Monthly Ecosystem Call, online, 24 November
+- Winter Solstice Event, online, 21 December
+- WAM Hackathon, online, 1–21 March 2023
+- Swarm Summit, TBC, 21 June 2023

@@ -1,12 +1,13 @@
 +++
 banner = "/uploads/incentives.png"
-categories = ["Development Updates"]
+categories = ["Development updates"]
 date = 2022-11-22T23:00:00Z
 description = "An economically self-sustaining mechanism to gather storage operators."
 references_and_footnotes = []
 title = "The Mechanics of Swarm network’s Storage Incentives"
 
 +++
+
 # **Introduction**
 
 Historically, people had two choices when it came to hosting their data: they could either store it themselves or upload it to a trusted third party computer. Regarding the latter, the source of this trust is typically that the host — usually a corporation — is conducting a long term business requiring them to be reliable and reputable. On the other hand, self-hosting requires that one’s computer is online at all times, which is often not feasible.
@@ -45,10 +46,10 @@ The rent that is regularly deducted from batch balances across the whole network
 
 In order to participate in redistribution, storers need to do the following:
 
-* **Join the network** and download all the data that the protocol assigns to them. They can only participate if they are fully synchronised with the network.
-* **Deposit a stake** with the staking contract. There is a minimum staking requirement, presently 10 BZZ. It can change in the future.
-* **Stay online and fully synced**, so that when a redistribution round comes, their node can check whether their neighbourhood (nodes that are assigned the same content to store) has been selected and if so, they can perform a certain calculation (a random sampling) on their content and submit the result to the redistribution contract. This happens in two phases (commit and reveal), so that the nodes cannot know the results of others’ calculations when committing to their own.
-* Round length is estimated around 15 minutes, though it can be extended.
+- **Join the network** and download all the data that the protocol assigns to them. They can only participate if they are fully synchronised with the network.
+- **Deposit a stake** with the staking contract. There is a minimum staking requirement, presently 10 BZZ. It can change in the future.
+- **Stay online and fully synced**, so that when a redistribution round comes, their node can check whether their neighbourhood (nodes that are assigned the same content to store) has been selected and if so, they can perform a certain calculation (a random sampling) on their content and submit the result to the redistribution contract. This happens in two phases (commit and reveal), so that the nodes cannot know the results of others’ calculations when committing to their own.
+- Round length is estimated around 15 minutes, though it can be extended.
 
 Amongst the nodes that agree with the correct result, one is chosen — with a probability in proportion to their stake — as the winner. The winner must execute an on-chain transaction claiming their reward, which is the entire pot of storage rent paid since the previous round, or even more, if the previous pot has not been claimed at that time.
 
@@ -76,7 +77,7 @@ Since a sizable number of storers can be expected to use cloud-based equipment, 
 
 # Price adjustment
 
-Even before the rent oracle becomes operational, the actual storage price will increase. The increase will be denominated in PLUR, which is the smallest unit of BZZ. The price will be raised from 4 PLUR/chunk/block to a fixed level of 24,000 PLUR*/chunk/block. **This will put the price of storing data in Swarm in the same ballpark as storing it in centralised cloud storage**, making it worthwhile for some node operators to provide storage services with a reasonable cost for uploaders.
+Even before the rent oracle becomes operational, the actual storage price will increase. The increase will be denominated in PLUR, which is the smallest unit of BZZ. The price will be raised from 4 PLUR/chunk/block to a fixed level of 24,000 PLUR\*/chunk/block. **This will put the price of storing data in Swarm in the same ballpark as storing it in centralised cloud storage**, making it worthwhile for some node operators to provide storage services with a reasonable cost for uploaders.
 
 This price adjustment is going to happen with the Phase 2 mainnet release and is going to be the last manual price adjustment before the decentralised rent oracle takes over.
 
@@ -90,9 +91,9 @@ We will continue this series with the mechanics of the rent oracle. Subscribe to
 
 # Upcoming events
 
-* To stay up to date with Swarm and be the first to hear updates, [join The Monthly Ecosystem Call](https://discord.com/channels/799027393297514537/966664551628161064), online, 24 November
-* Winter Solstice Event, online, 21 December
-* WAM Hackathon, online, 1–21 March 2023
-* Swarm Summit, TBC, 21 June 2023
+- To stay up to date with Swarm and be the first to hear updates, [join The Monthly Ecosystem Call](https://discord.com/channels/799027393297514537/966664551628161064), online, 24 November
+- Winter Solstice Event, online, 21 December
+- WAM Hackathon, online, 1–21 March 2023
+- Swarm Summit, TBC, 21 June 2023
 
-\*Please note that the information regarding the price increase presented in this blog post has been updated on February 21, 2023, since its original publication. The previous information stated that the price would be raised to a fixed level of 6,000 PLUR/chunk/block, but the updated information now states that the price will be raised to a fixed level of 24,000 PLUR*/chunk/block.
+\*Please note that the information regarding the price increase presented in this blog post has been updated on February 21, 2023, since its original publication. The previous information stated that the price would be raised to a fixed level of 6,000 PLUR/chunk/block, but the updated information now states that the price will be raised to a fixed level of 24,000 PLUR\*/chunk/block.

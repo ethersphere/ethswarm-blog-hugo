@@ -1,12 +1,13 @@
 +++
 banner = ""
-categories = ["Development Updates"]
+categories = ["Development updates"]
 date = 2021-04-29T04:00:00Z
 description = "The Bee Dashboard is a web app that can help you set up your Bee node. It connects to your locally running node, checks the status of different API endpoints and offers troubleshooting.\n\n"
 references_and_footnotes = []
 title = "Bee Dashboard"
 
 +++
+
 **_TLDR; Try out_** [**_Bee Dashboard_**](https://github.com/ethersphere/bee-dashboard) **_which can help you setup your Bee node, monitor its status and perform actions like uploading files and cashing out cheques. Special thanks to our contributors_** [**_matmertz25_**](https://github.com/matmertz25)**_,_** [**_centerorbit_**](https://github.com/centerorbit) **_and_** [**_tmm360_**](https://github.com/tmm360)
 
 > _Good infrastructure is something that you are using and you don’t even think about it. It just works._
@@ -51,9 +52,9 @@ For now, you will still need a terminal. Follow the install, build and serve ins
 
 The ultimate goal of the project is to be a downloadable app that installs and setups your Bee node and helps you keep it up-to-date. We are heading there in three stages.
 
-* [**0.1.0**](https://github.com/ethersphere/bee-dashboard/milestone/1) **— Web app:** This is where we are right now. Users can download and run this in their web browser.
-* [**0.2.0**](https://github.com/ethersphere/bee-dashboard/milestone/2) **— Electron app:** A downloadable app that can run on linux, mac or windows and connects to a separately running Bee node.
-* [**0.3.0**](https://github.com/ethersphere/bee-dashboard/milestone/2) **— Bee Desktop:** A downloadable app that can install Bee and helps you to configure it.
+- [**0.1.0**](https://github.com/ethersphere/bee-dashboard/milestone/1) **— Web app:** This is where we are right now. Users can download and run this in their web browser.
+- [**0.2.0**](https://github.com/ethersphere/bee-dashboard/milestone/2) **— Electron app:** A downloadable app that can run on linux, mac or windows and connects to a separately running Bee node.
+- [**0.3.0**](https://github.com/ethersphere/bee-dashboard/milestone/2) **— Bee Desktop:** A downloadable app that can install Bee and helps you to configure it.
 
 Other notable features are internationalization or being able to manage several Bee nodes at once.
 
