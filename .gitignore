@@ -1,3 +1,4 @@
 themes/swarm-blog/node_modules
 public/
 node_modules
+.env
