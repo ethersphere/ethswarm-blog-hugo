@@ -33,7 +33,7 @@ speedtest
 
 ![](/uploads/S1RFl9mB3.png)
 
-Next check whether hardware performance is sufficient. The `sampler` process is the main performance affected process for Bee nodes. It is the process where the node takes a sample of data from its reserve and calculates a hash as a part of the storage fee redistribution process. The process may fail or time out if the node's hardware specifications aren't high enough. If a node is able to complete the sampler process in under … minutes, then its performance should be sufficient. To check a node's performance the `/rchash/{depth}/{anchor}` endpoint of the API may be used.
+Next check whether hardware performance is sufficient. The `sampler` process is the main performance affected process for Bee nodes. It is the process where the node takes a sample of data from its reserve and calculates a hash as a part of the storage fee redistribution process. The process may fail or time out if the node's hardware specifications aren't high enough. If a node is able to complete the sampler process in under 6 minutes, then its performance should be sufficient. To check a node's performance the `/rchash/{depth}/{anchor}` endpoint of the API may be used.
 
 Before proceeding, first check that the node is fully synced, is not frozen, and has sufficient funds to participate in staking. To check node sync status, call the `redistributionstate` endpoint:
 
