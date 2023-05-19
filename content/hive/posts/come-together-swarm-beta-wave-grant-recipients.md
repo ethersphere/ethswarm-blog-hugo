@@ -1,12 +1,16 @@
 +++
 banner = ""
-categories = ["Grants"]
-date = 2020-12-30T16:00:00Z
-description = "This year really has been something, huh? It’s been a year to remember. As much as there was good happening, it certainly had its downs and stress. Here is some exciting news for 2021 as we have the pleasure to announce new stars at the dawn of a new paradigm, a fair data economy.\n\n"
-references_and_footnotes = []
-title = "Come together, Swarm Beta wave grant recipients!"
+categories = [ "Grants" ]
+date = 2020-12-30T16:00:00.000Z
+description = """
+This year really has been something, huh? It’s been a year to remember. As much as there was good happening, it certainly had its downs and stress. Here is some exciting news for 2021 as we have the pleasure to announce new stars at the dawn of a new paradigm, a fair data economy.
 
+"""
+references_and_footnotes = [ ]
+title = "Come together, Swarm Beta wave grant recipients!"
+_template = "post"
 +++
+
 This year really has been something, huh? It’s been a year to remember. As much as there was good happening, it certainly had its downs and stress. Here is some exciting news for 2021 as we have the pleasure to announce new stars at the dawn of a new paradigm, a fair data economy.
 
 At Swarm Beta, we announced the second Swarm grants call which concluded at the end of October.

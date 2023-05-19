@@ -1,12 +1,13 @@
 +++
 banner = "/uploads/run-a-node1.png"
-categories = ["Tutorials"]
-date = 2022-10-24T22:00:00Z
+categories = [ "Tutorials" ]
+date = 2022-10-24T22:00:00.000Z
 description = "In this informative workshop recorded during Devcon VI, Bee product lead Attila Gazsó takes the audience through the process of setting up light and full Bee node. "
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Run a light or full Bee node — A Devcon workshop by Attila Gazsó"
-
+_template = "post"
 +++
+
 In this informative workshop recorded during Devcon VI, Bee product lead **Attila Gazsó** takes the audience through the process of setting up light and full Bee node. The workshop includes a brief introduction to different types of Bee nodes, the demonstration of how to install the Swarm Desktop dApp and how to run a full Bee node with a Q&A section at the end.
 
 ![](/uploads/run-a-node2.png)

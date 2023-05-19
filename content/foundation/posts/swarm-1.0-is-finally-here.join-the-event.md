@@ -1,12 +1,13 @@
 +++
 banner = ""
-categories = ["Events"]
-date = 2021-06-15T04:00:00Z
+categories = [ "Events" ]
+date = 2021-06-15T04:00:00.000Z
 description = "Swarm Foundation is proud to announce that Swarm 1.0 is live on mainnet. This special release will be celebrated with an online event, Swarm One, where the developer teams will explain everything users need to know about the first mainnet release and what to expect in the future."
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Swarm 1.0 is finally here. Join the event."
-
+_template = "post"
 +++
+
 Swarm Foundation is proud to announce that Swarm 1.0 is live on mainnet. This special release will be celebrated with an online event, Swarm One, where the developer teams will explain everything users need to know about the first mainnet release and what to expect in the future.
 
 # **Register for the Swarm One event!**

@@ -1,12 +1,13 @@
 +++
 banner = ""
-categories = ["Development updates"]
-date = 2021-01-10T16:00:00Z
+categories = [ "Development updates" ]
+date = 2021-01-10T16:00:00.000Z
 description = "December is the closing month of the year and most of the teams took time to reflect on the work that was done throughout the year. We are happy to conclude that the year was fruitful for Swarm. Many important milestones were met and a lot of progress was made."
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Monthly Development Update — December 2020"
-
+_template = "post"
 +++
+
 
 December is the closing month of the year and most of the teams took time to reflect on the work that was done throughout the year. We are happy to conclude that the year was fruitful for Swarm. Many important milestones were met and a lot of progress was made.
 

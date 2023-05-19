@@ -1,12 +1,13 @@
 +++
 banner = "/uploads/onwards.png"
-categories = ["Events"]
-date = 2022-06-16T04:00:00Z
+categories = [ "Events" ]
+date = 2022-06-16T04:00:00.000Z
 description = "Everything is ready for the Onwards, Swarm! event on 21 June 2022. Tune in to the YouTube livestream at 16:00 CET for the latest updates on the Swarm network."
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Onwards, Swarm! — programme & schedule"
-
+_template = "post"
 +++
+
 Everything is ready for the [**Onwards, Swarm! event**](https://medium.com/ethereum-swarm/onwards-swarm-21-june-c71635494336) on 21 June 2022. Tune in to the YouTube livestream at 16:00 CET for the latest updates on the Swarm network.
 
 * **When:** **21 June 2022 at 16:00–17:00 CET** ([add to calendar](https://www.addevent.com/event/TP14018499))

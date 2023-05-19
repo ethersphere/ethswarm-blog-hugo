@@ -1,12 +1,13 @@
 +++
 banner = "/uploads/incentives-1.png"
-categories = ["Development updates"]
-date = 2022-09-22T22:00:00Z
+categories = [ "Development updates" ]
+date = 2022-09-22T22:00:00.000Z
 description = "On 13 September 2022, the Swarm Foundation began the most substantial upgrade to the Swarm network since its mainnet release. The upgrade will unfold in several phases and enable node operators to receive rewards for their services to the network. "
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Towards the world computer. The Swarm network upgrade has started."
-
+_template = "post"
 +++
+
 
 **On 13 September 2022**, the Swarm Foundation began **the most substantial upgrade** to the Swarm network since its mainnet release. The upgrade will unfold in several phases and enable **node operators to receive rewards** for their services to the network. It represents an opportunity for people to offer spare resources (i.e. storage and bandwidth) to the Swarm network and eventually get compensated for it.
 

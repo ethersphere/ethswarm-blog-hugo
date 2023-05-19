@@ -1,12 +1,13 @@
 +++
 banner = "/uploads/how-to_website.png"
-categories = ["Tutorials"]
-date = 2023-03-28T22:00:00Z
+categories = [ "Tutorials" ]
+date = 2023-03-28T22:00:00.000Z
 description = "TL;DR: This guide will walk you through the process of publishing a website on Swarm using the Swarm Desktop App. You’ll learn how to install the app, fund your account, upload your website, and connect an ENS domain for a user-friendly experience. By following these steps, you’ll be able to host a censorship-resistant website on decentralised storage and make it easily accessible for users."
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "How to Publish a Website on Swarm Using the Swarm Desktop App: A Step-by-Step Guide"
-
+_template = "post"
 +++
+
 **TL;DR:** This guide will walk you through the process of publishing a website on Swarm using the [Swarm Desktop App](https://desktop.ethswarm.org/). You’ll learn how to install the app, fund your account, upload your website, and connect an ENS domain for a user-friendly experience. By following these steps, you’ll be able to host a censorship-resistant website on decentralised storage and make it easily accessible for users.
 
 ## Introduction to the Swarm Desktop App

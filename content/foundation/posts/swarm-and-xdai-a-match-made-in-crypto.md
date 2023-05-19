@@ -1,12 +1,13 @@
 +++
 banner = "/uploads/1-3.png"
-categories = ["Tutorials"]
-date = 2021-06-30T04:00:00Z
+categories = [ "Tutorials" ]
+date = 2021-06-30T04:00:00.000Z
 description = "With the launch of its mainnet, Swarm has reached what is probably the most important milestone in its existence. The Ethereum mainnet, however, is very expensive for the sort of transactions Swarm Bee generates. So Swarm has opted to use xDAI as a scaling solution."
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Swarm and xDAI: a match made in crypto"
-
+_template = "post"
 +++
+
 _With the launch of its mainnet, Swarm has reached what is probably the most important milestone in its existence. The Ethereum mainnet, however, is very expensive for the sort of transactions Swarm Bee generates. So Swarm has opted to use xDAI as a scaling solution._
 
 xDAI is an Ethereum Virtual Machine compatible blockchain. Unlike the Ethereum mainnet, it is a proof-of-stake network. This means that instead of having to resort to proof-of-work to mine blocks, validators agree on the veracity of the chain. Thanks to this, gas costs and transaction times are drastically lower than with the Ethereum mainnet. xDAI is bridged to the Ethereum mainnet, exactly what Swarm needs to operate the network.

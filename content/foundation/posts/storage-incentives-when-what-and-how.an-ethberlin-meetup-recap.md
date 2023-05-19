@@ -1,12 +1,13 @@
 +++
 banner = "/uploads/ethberlin.jpeg"
-categories = ["Events"]
-date = 2022-09-22T04:00:00Z
+categories = [ "Events" ]
+date = 2022-09-22T04:00:00.000Z
 description = "On 14 September 2022 the Swarm Foundation hosted a meetup titled “Storage incentives: The missing piece to make blockchains complete”. The event took place during EthBerlin at the famous c-bas"
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Storage incentives — when, what and how. An EthBerlin meetup recap."
-
+_template = "post"
 +++
+
 On 14 September 2022 the Swarm Foundation hosted a meetup titled “Storage incentives: The missing piece to make blockchains complete”. The event took place during EthBerlin at the famous c-base.
 
 Below is a recap of the event, which you can also [**watch on YouTube**](https://youtu.be/OH18D_PKo9U).

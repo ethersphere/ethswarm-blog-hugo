@@ -1,12 +1,13 @@
 +++
 banner = ""
-categories = []
-date = 2021-01-22T04:00:00Z
+categories = [ ]
+date = 2021-01-22T04:00:00.000Z
 description = "As 2020 is becoming a thing of the past, it is time to evaluate what Swarm achieved throughout the year and share its plans for this year."
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Swarm 2020 Recap"
-
+_template = "post"
 +++
+
 As 2020 is becoming a thing of the past, it is time to evaluate what [Swarm](https://swarm.ethereum.org/) achieved throughout the year and share its plans for this year. The entire team is extremely proud of what we delivered. 2020 was the year of many opportunities and challenges, organizational as well as code-wise. In many ways, the project matured ready for the release of 1.0 which is just around the corner. In this post, you’ll find a recap of the defining moments of 2020.,
 
 # A new Swarm Network, four versions of Bee

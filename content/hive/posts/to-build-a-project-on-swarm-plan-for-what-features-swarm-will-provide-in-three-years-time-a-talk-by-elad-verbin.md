@@ -1,12 +1,13 @@
 +++
 banner = "/uploads/eladv.webp"
-categories = ["Ecosystem"]
-date = 2021-10-28T22:00:00Z
+categories = [ "Ecosystem" ]
+date = 2021-10-28T22:00:00.000Z
 description = "“The most powerful force is social collaboration and Swarm will empower thousands of developers to create a rich ecosystem to supercharge our lives.”"
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "To build a project on Swarm, plan for what features Swarm will provide in three years’ time— a talk by Elad Verbin"
-
+_template = "post"
 +++
+
 ## **“The most powerful force is social collaboration and Swarm will empower thousands of developers to create a rich ecosystem to supercharge our lives.”**
 
 **_TL;DR:_**

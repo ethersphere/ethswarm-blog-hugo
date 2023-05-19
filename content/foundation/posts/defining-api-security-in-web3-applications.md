@@ -1,12 +1,13 @@
 +++
 banner = ""
-categories = ["Tutorials"]
-date = 2021-12-09T04:00:00Z
+categories = [ "Tutorials" ]
+date = 2021-12-09T04:00:00.000Z
 description = "The Swarm Bee team is excited to announce that an initial version of the Restricted API feature is available and ready for experimentation!"
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Defining API Security in Web3 Applications"
-
+_template = "post"
 +++
+
 By Peter and Anatol, Swarm Foundation Dev Team
 
 **The Swarm Bee team is excited to announce that an initial version of the Restricted API feature is available and ready for experimentation!**

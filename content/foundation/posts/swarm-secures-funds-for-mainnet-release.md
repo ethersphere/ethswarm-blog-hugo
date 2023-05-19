@@ -1,12 +1,13 @@
 +++
 banner = "/uploads/funds.webp"
-categories = []
-date = 2021-02-07T04:00:00Z
+categories = [ ]
+date = 2021-02-07T04:00:00.000Z
 description = "Swarm Association is pleased to announce the successful completion of its private fundraiser that ended with the recent Swarm Live release, raising USD 6 million."
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Swarm secures funds for mainnet release"
-
+_template = "post"
 +++
+
 ![](https://miro.medium.com/max/1400/1*R5ralPFBVK6-63XGiqEziw.png)
 
 * Swarm reached an important fundraising goal, completing a $6m private fundraising round.

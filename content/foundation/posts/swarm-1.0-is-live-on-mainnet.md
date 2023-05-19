@@ -1,12 +1,15 @@
 +++
 banner = ""
-categories = ["Development updates"]
-date = 2021-06-20T22:00:00Z
-description = "It’s official! The Swarm team is proud to announce that the Swarm mainnet has launched.\nBee 1.0 has been released and is running on mainnet. This means everybody can now join in creating the Swarm mainnet network. This is a historical moment in the history of Swarm."
-references_and_footnotes = []
+categories = [ "Development updates" ]
+date = 2021-06-20T22:00:00.000Z
+description = """
+It’s official! The Swarm team is proud to announce that the Swarm mainnet has launched.
+Bee 1.0 has been released and is running on mainnet. This means everybody can now join in creating the Swarm mainnet network. This is a historical moment in the history of Swarm."""
+references_and_footnotes = [ ]
 title = "Swarm 1.0 is live on mainnet"
-
+_template = "post"
 +++
+
 
 It’s official! The Swarm team is proud to announce that the Swarm mainnet has launched.
 

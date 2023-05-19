@@ -1,12 +1,13 @@
 +++
 banner = "/uploads/1.webp"
-categories = []
-date = 2021-01-16T04:00:00Z
+categories = [ ]
+date = 2021-01-16T04:00:00.000Z
 description = "If you attended the Swarm Live release online event, you probably know that all the research in recent months has paid massive dividends. We have made significant improvements and now have a very good idea of how the Swarm incentives will work. "
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "The A, B, C of the Swarm Incentives"
-
+_template = "post"
 +++
+
 If you attended the [Swarm Live release online event](https://youtu.be/Mdymc1p82qA?t=239), you probably know that all the research in recent months has paid massive dividends. We have made significant improvements and now have a very good idea of how the Swarm incentives will work. And while the team is working hard to integrate all parts of this system into what is to become the Swarm 1.0 release, you can do some homework in the meantime and learn more about the mechanics of the Swarm incentives.
 
 The best way to do that is by watching Rinke Hendriksen (Swarm’s product owner ) explain the mechanics in his presentation from the Swarm Live release event. This short, but information-packed presentation will give you an idea of how it all comes together.

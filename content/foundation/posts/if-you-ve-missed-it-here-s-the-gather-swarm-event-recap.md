@@ -1,12 +1,13 @@
 +++
 banner = "/uploads/gather-swarm.webp"
-categories = ["Events"]
-date = 2021-12-24T04:00:00Z
+categories = [ "Events" ]
+date = 2021-12-24T04:00:00.000Z
 description = "The Gather, Swarm! event is now behind us. It was the first-ever for the team behind Swarm to meet with the community in the metaverse and to present what they have up their sleeves for the following year. "
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "If you’ve missed it, here’s the Gather, Swarm! event recap"
-
+_template = "post"
 +++
+
 The Gather, Swarm! event is now behind us. It was the first-ever for the team behind Swarm to meet with the community in the metaverse and to present what they have up their sleeves for the following year. Although they only had less than an hour to deliver everything from the state of the network to what challenges and exciting developments lie ahead, they did indeed deliver.
 
 ## If you’ve missed it, you can [watch the entire event here](https://youtu.be/oNJMybgus40).

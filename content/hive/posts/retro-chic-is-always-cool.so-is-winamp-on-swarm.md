@@ -1,12 +1,13 @@
 +++
 banner = "/uploads/winamp-png.webp"
-categories = ["Ecosystem"]
-date = 2021-11-06T23:00:00Z
+categories = [ "Ecosystem" ]
+date = 2021-11-06T23:00:00.000Z
 description = "If you started to listen to mp3s at the turn of the century, there’s a very good chance you did it on Winamp. The iconic music player has amassed an almost cult-like following that persists to this day. No wonder someone was bound to show up and decide to bring it to life in a Web3 setting."
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Retro Chic is always cool. So is Winamp on Swarm."
-
+_template = "post"
 +++
+
 If you started to listen to mp3s at the turn of the century, there’s a very good chance you did it on Winamp. The iconic music player has amassed an almost cult-like following that persists to this day. No wonder someone was bound to show up and decide to bring it to life in a Web3 setting.
 
 That’s exactly what happened. A user called “kacy” published a Winamp clone on the IPFS network and shared his work with the community on the Hacker News forum. But a member of the Swarm community, who goes by the nickname “psKama” on that same forum, had difficulties making it work. Fast forward, [**Winamp is now alive in Swarm**](https://bee-9.gateway.ethswarm.org/bzz/bd9b7d91ddb9789d2c0f102d33b9b4504c06100b078884c0669f49187bffba4b/).

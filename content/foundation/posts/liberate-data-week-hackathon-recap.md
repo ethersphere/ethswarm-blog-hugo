@@ -1,12 +1,13 @@
 +++
 banner = ""
-categories = ["Events"]
-date = 2021-02-17T04:00:00Z
+categories = [ "Events" ]
+date = 2021-02-17T04:00:00.000Z
 description = "If you attended the Liberate Data hackathon last week, then you’ll know we had an amazing time. We were truly humbled by the participation and the support shown"
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Liberate Data Week Hackathon — Recap"
-
+_template = "post"
 +++
+
 If you attended the [Liberate Data hackathon](https://medium.com/ethereum-swarm/liberate-data-hackathon-guidelines-rules-and-programme-554c65a05cdb) last week, then you’ll know we had an amazing time. We were truly humbled by the participation and the support shown. It lifts the spirit to see how many people are engaged in what we are doing and even more so, what happens when the imagination goes wild and people start inventing their own projects on top of Swarm.
 
 **Talks, demos, and valuable announcements**

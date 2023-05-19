@@ -1,12 +1,15 @@
 +++
 banner = "/uploads/devupdate-dec22.png"
-categories = ["Development updates"]
-date = 2023-01-04T23:00:00Z
-description = "December was a big month for releases. Bee 1.10 was released on the mainnet and with it Storage Incentives Phase 2. The latter allows node operators to participate in the redistribution of storage fees. Over the next few weeks, the research team will be watching closely to see how the new mechanism performs as it brings Phase 3 closer to release.\n"
-references_and_footnotes = []
+categories = [ "Development updates" ]
+date = 2023-01-04T23:00:00.000Z
+description = """
+December was a big month for releases. Bee 1.10 was released on the mainnet and with it Storage Incentives Phase 2. The latter allows node operators to participate in the redistribution of storage fees. Over the next few weeks, the research team will be watching closely to see how the new mechanism performs as it brings Phase 3 closer to release.
+"""
+references_and_footnotes = [ ]
 title = "Monthly Development Update – December 2022"
-
+_template = "post"
 +++
+
 
 December was a big month for releases. Bee 1.10 was released on the mainnet and with it Storage Incentives Phase 2. The latter allows node operators to participate in the redistribution of storage fees. Over the next few weeks, the research team will be watching closely to see how the new mechanism performs as it brings Phase 3 closer to release.
 

@@ -1,12 +1,13 @@
 +++
 banner = "/uploads/devcon-archive.webp"
-categories = ["Ecosystem"]
-date = 2022-10-25T04:00:00Z
+categories = [ "Ecosystem" ]
+date = 2022-10-25T04:00:00.000Z
 description = "Hosting the Devcon archive on the Swarm network is part of Swarm network’s mission to make Web3 more decentralised and censorship-resistant while empowering digital freedom. "
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "The Devcon video archive is now available on the Swarm network"
-
+_template = "post"
 +++
+
 ![](/uploads/devcon-archive.webp)
 
 After a long three-year wait, the Ethereum community finally got treated to the sixth edition of Devcon. From 11 to 14 October, thousands of Ethereans gathered in Bogota, Colombia, to take part in what’s undoubtedly Ethereum’s biggest annual event.

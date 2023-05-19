@@ -1,12 +1,13 @@
 +++
 banner = ""
-categories = []
-date = 2022-05-12T04:00:00Z
+categories = [ ]
+date = 2022-05-12T04:00:00.000Z
 description = "Based on this, in Q1 of 2022, efforts were dedicated to creating a fluid and easy user experience when setting up a Bee node on the majority of operating systems."
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "New and improved Bee UX coming Q2"
-
+_template = "post"
 +++
+
 When developing features for the Swarm network, teams follow an internal [agenda](https://progress.ethswarm.org/). Based on this, in Q1 of 2022, efforts were dedicated to creating a fluid and easy user experience when setting up a Bee node on the majority of operating systems.
 
 Although the release was originally planned for Q1/2022, the completion of the Bee new UX is now planned for Q2 of this year. An overview of the goals this important task entails, their meaning and current status are provided below.

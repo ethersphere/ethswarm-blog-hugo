@@ -1,12 +1,13 @@
 +++
 banner = "/uploads/devupdate-nov22.png"
-categories = ["Development updates"]
-date = 2022-12-04T23:00:00Z
+categories = [ "Development updates" ]
+date = 2022-12-04T23:00:00.000Z
 description = "The Bee Track team have been busy throughout November, continuously improving the deployment and testing process to improve its efficiency. They have recently cleaned out and fixed issues on their testnet and are now working on having new testnets — beta, public, and internal."
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Monthly Development Update — November 2022"
-
+_template = "post"
 +++
+
 
 The **Bee Track** team have been busy throughout November, continuously improving the deployment and testing process to improve its efficiency. They have recently cleaned out and fixed issues on their testnet and are now working on having new testnets — beta, public, and internal. They’ve also released [**an updated storage incentives timeline**](https://medium.com/ethereum-swarm/storage-incentives-timeline-update-26ab959d8ca3) and deployed a new [Bee](https://github.com/ethersphere/bee)release candidate on testnet.
 

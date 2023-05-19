@@ -1,0 +1,16 @@
+{
+  "name": "ethswarm-blog-hugo",
+  "version": "1.0.0",
+  "description": "Multi blog blog for Swarm. Uses Multilanguage as a solution to host multiple blogs in one site.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tinacms/cli": "^1.5.14",
+    "tinacms": "^1.5.6"
+  }
+}

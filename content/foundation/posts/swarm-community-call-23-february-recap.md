@@ -1,13 +1,14 @@
 +++
 banner = "/uploads/scc-recap-img.png"
-categories = ["Events"]
-date = 2023-03-02T23:00:00Z
+categories = [ "Events" ]
+date = 2023-03-02T23:00:00.000Z
 description = "The main topic of the February Swarm Community Call was the postage stamp price calibration, which took place on 22 February. The recalibration increased the price of storage by 6000x"
 draft = true
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Swarm Community Call, 23 February - Recap"
-
+_template = "post"
 +++
+
 **TL;DR**
 
 * Storage price recalibration by 6000x

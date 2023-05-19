@@ -1,12 +1,13 @@
 +++
 banner = ""
-categories = []
-date = 2021-08-17T04:00:00Z
+categories = [ ]
+date = 2021-08-17T04:00:00.000Z
 description = "The Swarm Association is organising a series of lectures and workshops called the Swarm Summer School. Sign up and don’t miss your chance to learn directly from the team."
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Want to build your project on Swarm? Sign up for the Swarm Summer School ‘21"
-
+_template = "post"
 +++
+
 _(23 to 27 August 2021; online event)_
 
 The Swarm Association is organising a series of lectures and workshops called the Swarm Summer School. Sign up and don’t miss your chance to learn directly from the team.

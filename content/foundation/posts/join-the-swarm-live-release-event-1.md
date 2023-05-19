@@ -1,12 +1,13 @@
 +++
 banner = ""
-categories = ["Events"]
-date = 2020-11-04T16:00:00Z
+categories = [ "Events" ]
+date = 2020-11-04T16:00:00.000Z
 description = "Swarm is happy to announce yet another important milestone on the roadmap: Swarm Live. This special occasion will be celebrated with another online event, where all the new, improved, and polished features will be presented. "
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Join the Swarm Live Release event"
-
+_template = "post"
 +++
+
 November 24th, 2020 at 14:00 CET
 
 Swarm is happy to announce yet another important milestone on the roadmap: Swarm Live. This special occasion will be celebrated with another online event, where all the new, improved, and polished features will be presented. Details of the event’s programme are still being worked on, but you can be sure it’s going to be packed with interesting talks, demos, and speakers.

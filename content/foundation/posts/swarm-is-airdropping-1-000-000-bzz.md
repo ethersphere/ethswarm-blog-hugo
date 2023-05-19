@@ -1,12 +1,13 @@
 +++
 banner = ""
-categories = []
-date = 2021-02-15T04:00:00Z
+categories = [ ]
+date = 2021-02-15T04:00:00.000Z
 description = "Yes, you read it right. Swarm is giving out 1 million BZZ tokens to the people who already run a Bee node on the testnet. We call this airdrop “The Rise of Bee”."
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Swarm is airdropping 1,000,000 BZZ"
-
+_template = "post"
 +++
+
 Yes, you read it right. Swarm is giving out 1 million BZZ tokens to the people who already run a Bee node on the testnet. We call this airdrop **“The Rise of Bee”.**
 
 **_TLDR;_**

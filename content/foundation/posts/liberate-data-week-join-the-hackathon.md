@@ -1,12 +1,15 @@
 +++
 banner = ""
-categories = ["Events"]
-date = 2021-01-07T16:00:00Z
-description = "2020 is over and Swarm is continuing with the strong pace that was set last year. The team is working relentlessly towards Swarm 1.0, which is set for release in Q2 this year, but before we get there, there is still a lot to happen.\n"
-references_and_footnotes = []
+categories = [ "Events" ]
+date = 2021-01-07T16:00:00.000Z
+description = """
+2020 is over and Swarm is continuing with the strong pace that was set last year. The team is working relentlessly towards Swarm 1.0, which is set for release in Q2 this year, but before we get there, there is still a lot to happen.
+"""
+references_and_footnotes = [ ]
 title = "Liberate Data Week — Join the Hackathon"
-
+_template = "post"
 +++
+
 2020 is over and Swarm is continuing with the strong pace that was set last year. The team is working relentlessly towards Swarm 1.0, which is set for release in Q2 this year, but before we get there, there is still a lot to happen.
 
 Make sure you don’t miss the **Liberate Data Week**, a [Fair Data Society](https://fairdatasociety.org/) organized event, that will run from **8–14 February 2021**.

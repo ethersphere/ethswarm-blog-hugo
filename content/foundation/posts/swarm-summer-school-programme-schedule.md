@@ -1,12 +1,13 @@
 +++
 banner = ""
-categories = ["Events"]
-date = 2021-08-21T04:00:00Z
+categories = [ "Events" ]
+date = 2021-08-21T04:00:00.000Z
 description = "As you probably know, the Swarm Summer School is happening next week, starting on Monday 23 August 2021. This blog post will present the programme and schedule for the week, to illustrate the dynamics and what to expect."
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Swarm Summer School Programme & Schedule"
-
+_template = "post"
 +++
+
 _TL;DR_
 
 _- the school starts on Monday, 23 August 2021 (each day from 15:00 to 18:00 CET)  

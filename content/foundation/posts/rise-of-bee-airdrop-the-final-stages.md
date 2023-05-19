@@ -1,12 +1,13 @@
 +++
 banner = ""
-categories = []
-date = 2021-07-16T04:00:00Z
+categories = [ ]
+date = 2021-07-16T04:00:00.000Z
 description = "Swarm Foundation is happy to announce the next stage of the Airdrop: the selection of trusted nodes."
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Rise Of Bee Airdrop: The Final Stages"
-
+_template = "post"
 +++
+
 🎉 Swarm Foundation is happy to announce the next stage of the Airdrop: the selection of trusted nodes.
 
 In this blog post, Swarm announces two important changes with respect to the final stages of the airdrop:

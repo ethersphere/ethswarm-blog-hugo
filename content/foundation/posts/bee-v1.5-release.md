@@ -1,12 +1,13 @@
 +++
 banner = ""
-categories = ["Development updates"]
-date = 2022-04-07T04:00:00Z
+categories = [ "Development updates" ]
+date = 2022-04-07T04:00:00.000Z
 description = "The Bee team is happy to announce the latest release v1.5 This release comes with significant changes to how the Bee nodes store data locally."
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Bee v1.5 Release"
-
+_template = "post"
 +++
+
 
 The Bee team is happy to announce the latest release v1.5 This release comes with **significant changes to how the Bee nodes store data locally.**
 

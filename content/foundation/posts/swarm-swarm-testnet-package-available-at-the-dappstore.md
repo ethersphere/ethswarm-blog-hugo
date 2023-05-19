@@ -1,12 +1,13 @@
 +++
 banner = "/uploads/mfw1.png"
-categories = ["Tutorials"]
-date = 2022-10-19T22:00:00Z
+categories = [ "Tutorials" ]
+date = 2022-10-19T22:00:00.000Z
 description = "NOTE: This blog post is geared towards running a bee full node. If you are wanting ONLY TO ACCESS / UPLOAD unstoppable content from/to Swarm, checkout Swarm Desktop."
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Swarm & Swarm testnet Package Available at the DAppStore"
-
+_template = "post"
 +++
+
 Maintained by the community member MFW78.
 
 # What is this?

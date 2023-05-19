@@ -1,12 +1,13 @@
 +++
 banner = "/uploads/zoomerok.webp"
-categories = ["Grants"]
-date = 2021-10-06T22:00:00Z
+categories = [ "Grants" ]
+date = 2021-10-06T22:00:00.000Z
 description = "Empowering digital freedom by giving users full control over their data."
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Deep Dive: Zoomerok"
-
+_template = "post"
 +++
+
 Empowering digital freedom by giving users full control over their data.
 
 As Swarm’s ecosystem expands and projects approach their release dates, the following post will introduce one of the grantee projects that is bringing the world closer to making a fair data economy a reality.

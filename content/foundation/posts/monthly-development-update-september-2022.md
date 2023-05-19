@@ -1,12 +1,13 @@
 +++
 banner = ""
-categories = ["Development updates"]
-date = 2022-10-04T22:00:00Z
+categories = [ "Development updates" ]
+date = 2022-10-04T22:00:00.000Z
 description = "September has seen a lot of action across all tracks. The Bee track released a breaking version of the Bee client (1.8.0) and two additional releases with a patch and an update. Because of the new Bee client version, the JS Track also had to update Swarm Desktop to make it compatible with the changes."
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Monthly Development Update — September 2022"
-
+_template = "post"
 +++
+
 
 September has seen a lot of action across all tracks. The Bee track released a breaking version of the Bee client (1.8.0) and two additional releases with a patch and an update. Because of the new Bee client version, the JS Track also had to update Swarm Desktop to make it compatible with the changes.
 

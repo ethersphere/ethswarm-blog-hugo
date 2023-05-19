@@ -1,12 +1,13 @@
 +++
 banner = ""
-categories = []
-date = 2021-03-04T04:00:00Z
+categories = [ ]
+date = 2021-03-04T04:00:00.000Z
 description = "Only one month after our alpha release, we are happy to announce the beta release of Bee-js. It’s a Javascript library which exposes the Bee functionalities and makes it easy to use in web projects."
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Bee-js beta release and upcoming roadmap"
-
+_template = "post"
 +++
+
 Only one month after our alpha release, we are happy to announce the beta release of Bee-js. It’s a Javascript library which exposes the Bee functionalities and makes it easy to use in web projects.
 
 The beta version adds support for **Feeds** and **Single-Owner Chunks** along with **Balance, Chequebook and Settlement** APIs.

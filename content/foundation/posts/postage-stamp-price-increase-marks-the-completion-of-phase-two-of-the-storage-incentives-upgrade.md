@@ -1,12 +1,13 @@
 +++
 banner = "/uploads/postage-stamp-img.png"
-categories = ["Development updates"]
-date = 2023-02-20T23:00:00Z
+categories = [ "Development updates" ]
+date = 2023-02-20T23:00:00.000Z
 description = "This upgrade is a significant milestone in the development of the Swarm network, as it enables Swarm node operators to earn rewards in exchange for contributing their storage resources to the network. "
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Postage Stamp Price Increases as Swarm Network Reaches Milestone of Self-Sustainability"
-
+_template = "post"
 +++
+
 
 ## Postage stamp price set to increase
 

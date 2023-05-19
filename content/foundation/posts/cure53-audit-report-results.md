@@ -1,12 +1,13 @@
 +++
 banner = ""
-categories = []
-date = 2021-10-01T04:00:00Z
+categories = [ ]
+date = 2021-10-01T04:00:00.000Z
 description = ""
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Cure53 Audit Report Results"
-
+_template = "post"
 +++
+
 Early this year, Swarm Foundation commissioned Cure53 to conduct a source code audit of Bee and the Swarm smart contract suite. The audit identified twelve security-relevant risks with varying severity levels within the scope delineated by the Swarm team which have now been addressed and resolved.
 
 # Cure53

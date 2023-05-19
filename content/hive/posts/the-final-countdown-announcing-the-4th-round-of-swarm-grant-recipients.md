@@ -1,12 +1,13 @@
 +++
 banner = "/uploads/grant.webp"
-categories = ["Grants"]
-date = 2021-10-21T04:00:00Z
+categories = [ "Grants" ]
+date = 2021-10-21T04:00:00.000Z
 description = "Swarm Association is proud to announce yet another round of grantees, with great project ideas that show the diversity of use cases for Swarm. Read short descriptions of what new grantees are working on here below."
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "The Final Countdown — Announcing the 4th round of Swarm grant recipients"
-
+_template = "post"
 +++
+
 As any other, the world computer needs three main components to function: CPU, software and storage. Ethereum’s smart contracts and dApps represent the processor and software of that world computer.
 
 On the other hand, Swarm’s mission was always to provide storage functionality and extend the Ethereum blockchain into a fully-fledged computational environment. After all, what good is a computer that can’t store and access data? Together, they form a world computer as envisioned from the start and which serves as the basis of Web3.

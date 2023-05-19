@@ -1,12 +1,13 @@
 +++
 banner = "/uploads/dev_update_april.png"
-categories = ["Development updates"]
-date = 2023-05-05T05:00:00Z
+categories = [ "Development updates" ]
+date = 2023-05-05T05:00:00.000Z
 description = "In April, the Bee Track laid out the blueprint for the upcoming releases of the Bee client to fix the issues uncovered in their investigation. The localstore rewrite project is in its final phase before testing, which is expected to begin in the coming weeks. The Bee Track team are also working on the requirements that nodes must meet in order to participate in the storage incentives game."
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Monthly Development Update – April 2023"
-
+_template = "post"
 +++
+
 
 In April, the **Bee Track** laid out the blueprint for the upcoming releases of the Bee client to fix the issues uncovered in their investigation. The localstore rewrite project is in its final phase before testing, which is expected to begin in the coming weeks. The Bee Track team are also working on the requirements that nodes must meet in order to participate in the storage incentives game.
 

@@ -1,12 +1,13 @@
 +++
 banner = ""
-categories = ["Development updates"]
-date = 2020-12-06T16:00:00Z
+categories = [ "Development updates" ]
+date = 2020-12-06T16:00:00.000Z
 description = "November has been an important month for Swarm. Another milestone was met — the Swarm Live release. Improved performance, more stability, and polished features are just a few of the things this new release has to offer"
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Monthly Development Update — November 2020"
-
+_template = "post"
 +++
+
 
 November has been an important month for Swarm. Another milestone was met — the Swarm Live release. Improved performance, more stability, and polished features are just a few of the things this new release has to offer. The release was celebrated with an online event where the team explained in detail what is new and what can be done with it.
 

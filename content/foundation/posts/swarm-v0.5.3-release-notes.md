@@ -1,12 +1,13 @@
 +++
 banner = ""
-categories = ["Development updates"]
-date = 2021-03-24T04:00:00Z
+categories = [ "Development updates" ]
+date = 2021-03-24T04:00:00.000Z
 description = "Over the past few weeks, in an effort to improve the user experience and resource usage of Bee, we’ve been looking into various issues that have been reported by the community. "
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Swarm v0.5.3 — Release Notes"
-
+_template = "post"
 +++
+
 
 Dear Swarm supporters and Bee users,
 

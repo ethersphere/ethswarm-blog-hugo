@@ -1,12 +1,13 @@
 +++
 banner = ""
-categories = ["Grants"]
-date = 2021-08-26T04:00:00Z
+categories = [ "Grants" ]
+date = 2021-08-26T04:00:00.000Z
 description = "This year has seen the Swarm project advancing at great pace towards launch, and Swarm Association is excited to announce a new round of grant recipients that will be taking the network to new places"
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Live long and prosper — announcing the third round of Swarm grant recipients!"
-
+_template = "post"
 +++
+
 This year has seen the Swarm project advancing at great pace towards launch, and Swarm Association is excited to announce a new round of grant recipients that will be taking the network to new places. The projects reflect the common endeavours towards a fair data economy and it is exciting to see this growing ecosystem establishing itself among enthusiasts.
 
 **What kind of projects are eligible to apply for a Swarm grant?**

@@ -1,12 +1,13 @@
 +++
 banner = "/uploads/dapplets.png"
-categories = ["Grants"]
-date = 2021-10-12T22:00:00Z
+categories = [ "Grants" ]
+date = 2021-10-12T22:00:00.000Z
 description = "Embed information over popular platforms without censorship"
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Deep Dive: Dapplets"
-
+_template = "post"
 +++
+
 Dapplets is an Augmented Web Infrastructure built specifically for decentralised Apps, aka dapplets. Through augmentation, it will be possible to curate information from different sources to embed over popular platforms without any censorship.
 
 Web content and the progression of social media over the last decade has grown rapidly and changed the way ordinary people digest information. When the internet gave rise to this new way of receiving content it was becoming ever more apparent that through censorship the platforms themselves were in control of what was seen, heard or created. A monopoly of content ownership that directly held user attention and influenced user opinion.

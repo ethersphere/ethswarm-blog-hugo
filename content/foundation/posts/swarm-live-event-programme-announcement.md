@@ -1,12 +1,13 @@
 +++
 banner = "/uploads/live.webp"
-categories = ["Events"]
-date = 2020-11-17T16:00:00Z
+categories = [ "Events" ]
+date = 2020-11-17T16:00:00.000Z
 description = "Swarm Live is the last official release before the final product release. It has all the high-level features in place."
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Swarm Live Event — Programme Announcement"
-
+_template = "post"
 +++
+
 24 November 2020 is just around the corner and with it the fancy, new Swarm Live release. Increased performance, more stability, and nicely polished features are just a few of the qualities that prove that things are going in the right direction. Swarm Live is **the last official release before the final product release. It has all the high-level features in place.**
 
 All this and more will be discussed and presented by the team at the **Swarm Live (online) event,** happening the same day — **24 November 2020 at 14:00 CET**. [Please make sure you RSVP to register for the event.](https://swarm-gateways.net/bzz:/live.swarm.eth/)

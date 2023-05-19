@@ -1,12 +1,13 @@
 +++
 banner = "/uploads/devupdate-jan.png"
-categories = ["Development updates"]
-date = 2023-02-02T23:00:00Z
+categories = [ "Development updates" ]
+date = 2023-02-02T23:00:00.000Z
 description = "In January, the Bee Track released a new version of the Bee client (1.11) that brings an important update to uploads with mutable batches. This update causes newer chunks in a batch to replace older ones on the network. The Research Track, on the other hand, is nearing completion of Phase 3 of the storage incentives and is making great progress in producing documentation for Phases 4 and 5."
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Monthly Development Update – January 2023"
-
+_template = "post"
 +++
+
 
 In January, the **Bee Track** released a new version of the Bee client (1.11) that brings an **important update to uploads with mutable batches**. This update causes newer chunks in a batch to replace older ones on the network. The **Research Track**, on the other hand, is **nearing completion of** [**Phase 3**](https://blog.ethswarm.org/foundation/2022/towards-the-world-computer.-the-swarm-network-upgrade-has-started./) of the storage incentives and is making **great progress in producing documentation for Phases 4 and 5**.
 
