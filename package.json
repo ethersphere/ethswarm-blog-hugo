@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "tinacms dev -c \"hugo server -D\"",
+    "tina-build": "tinacms build && hugo",
     "build": "hugo",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
