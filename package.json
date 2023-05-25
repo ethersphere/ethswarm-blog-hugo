@@ -4,6 +4,8 @@
   "description": "Multi blog blog for Swarm. Uses Multilanguage as a solution to host multiple blogs in one site.",
   "main": "index.js",
   "scripts": {
+    "dev": "tinacms dev -c \"hugo server -D\"",
+    "build": "tinacms build && hugo",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
