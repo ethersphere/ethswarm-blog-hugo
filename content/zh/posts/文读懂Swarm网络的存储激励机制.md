@@ -57,31 +57,6 @@ slug = "the-mechanics-of-swarm-networks-storage-incentives-zh"
 
 ![](https://hackmd.io/_uploads/ByKmYzz8n.jpg)
 
-The translation of the text in the image
-
-A bee node stakes BZZ to participate in the redistribution.
-
-存储节点，也称 bee 节点，通过质押 BZZ 参与到奖励再分配。
-
-The network storage fee is gathered globally in the redistribution contract.
-
-再分配合约全网收取存储租金。
-
-The redistribution contract randomly selects one neighborhood of nodes.
-
-再分配合约随机选取一个邻居节点组。
-
-Each participant in that neighborhood commit a calculation and reveal it publicly.
-
-该组中每个节点承诺一项计算并公开揭示计算结果。
-
-One participant is chosen to receive the reward in proportion to its stake.
-
-其中一个节点最终胜选，按押金占比获得相应奖励。
-
-The chosen node creates one blockchain transaction to receive the storage fee reward.
-
-胜选节点创建一条链上交易来接收存储费用的奖励。
 
 存储租金的再分配流程
 
