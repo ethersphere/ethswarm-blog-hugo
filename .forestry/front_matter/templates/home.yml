@@ -2,80 +2,81 @@
 label: Home
 hide_body: true
 fields:
-- name: description
-  type: textarea
-  default: ''
-  config:
-    required: true
-    wysiwyg: true
-    schema:
-      format: markdown
-  label: Description
-- name: featured_blog
-  type: select
-  default: []
-  config:
-    required: true
-    options:
-    - foundation
-    - hive
-    - fds
-    - wam
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: Featured from Blog
-- name: featured
-  type: text
-  config:
-    required: true
-  label: Featured
-  description: Full relative URL to the .md file
-- name: featured_secondary_first_blog
-  type: select
-  default: []
-  config:
-    required: true
-    options:
-    - foundation
-    - wam
-    - fds
-    - hive
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: Featured Secondary First from Blog
-- name: featured_secondary_first
-  type: text
-  config:
-    required: true
-  label: Featured Secondary First
-  description: Full relative URL to the .md file
-- name: featured_secondary_second_blog
-  type: select
-  default: []
-  config:
-    required: true
-    options:
-    - foundation
-    - hive
-    - fds
-    - wam
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: Featured Secondary Second from Blog
-- name: featured_secondary_second
-  type: text
-  config:
-    required: true
-  label: Featured secondary Second
-  description: Full relative URL to the .md file
+  - name: description
+    type: textarea
+    default: ""
+    config:
+      required: true
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: Description
+  - name: featured_blog
+    type: select
+    default: []
+    config:
+      required: true
+      options:
+        - foundation
+        - hive
+        - fds
+        - wam
+        - zh
+      source:
+        type: simple
+        section:
+        file:
+        path:
+    label: Featured from Blog
+  - name: featured
+    type: text
+    config:
+      required: true
+    label: Featured
+    description: Full relative URL to the .md file
+  - name: featured_secondary_first_blog
+    type: select
+    default: []
+    config:
+      required: true
+      options:
+        - foundation
+        - wam
+        - fds
+        - hive
+      source:
+        type: simple
+        section:
+        file:
+        path:
+    label: Featured Secondary First from Blog
+  - name: featured_secondary_first
+    type: text
+    config:
+      required: true
+    label: Featured Secondary First
+    description: Full relative URL to the .md file
+  - name: featured_secondary_second_blog
+    type: select
+    default: []
+    config:
+      required: true
+      options:
+        - foundation
+        - hive
+        - fds
+        - wam
+      source:
+        type: simple
+        section:
+        file:
+        path:
+    label: Featured Secondary Second from Blog
+  - name: featured_secondary_second
+    type: text
+    config:
+      required: true
+    label: Featured secondary Second
+    description: Full relative URL to the .md file
 pages:
-- content/_index.md
+  - content/_index.md
