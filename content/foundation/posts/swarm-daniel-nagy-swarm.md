@@ -1,5 +1,5 @@
 +++
-banner = ""
+banner = "/uploads/danis-blog.jpeg"
 hide_front = true
 categories = [ "中文" ]
 date = 2023-05-18T04:00:00.000Z
@@ -7,6 +7,7 @@ description = "互联网的出现彻底改变了信息和内容的传播和使�
 references_and_footnotes = [ ]
 title = "对话Swarm核心开发者Daniel Nagy：Swarm的现状与未来"
 _template = "post"
+slug = "decentralised-data-storage-a-fairer-economy-for-web-3-0-zh"
 +++
 
 # 对话 Swarm 核心开发者 Daniel Nagy：Swarm 的现状与未来

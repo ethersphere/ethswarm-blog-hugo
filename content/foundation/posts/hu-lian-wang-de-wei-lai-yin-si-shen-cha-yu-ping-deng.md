@@ -1,5 +1,5 @@
 +++
-banner = ""
+banner = "/uploads/viktors-blog.jpeg"
 hide_front = true
 categories = [ "中文" ]
 date = 2023-05-20T04:00:00.000Z
@@ -7,6 +7,7 @@ description = "在「防范健康误区」的幌子下，网络审查力度在�
 references_and_footnotes = [ ]
 title = "互联网的未来：隐私、审查与平等"
 _template = "post"
+slug = "the-future-of-the-internet-privacy-censorship-and-equality-zh"
 +++
 
 # 互联网的未来：隐私、审查与平等
