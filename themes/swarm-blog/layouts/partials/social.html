@@ -161,7 +161,42 @@
   {{ end }}
 
   {{ if (eq $lang "zh") }}
-    <!-- TODO -->
+    Follow Swarm community news on
+    <a
+      class="font-semibold underline"
+      href="https://twitter.com/ethswarm"
+      target="_blank"
+      rel="noreferrer"
+      >Twitter</a
+    >. <br />
+    Discussions about Swarm can be found on
+    <a
+      class="font-semibold underline"
+      href="https://www.reddit.com/r/ethswarm/"
+      target="_blank"
+      rel="noreferrer"
+      >Reddit</a
+    >. <br />
+    All tech support and other channels have moved to
+    <a
+      class="font-semibold underline"
+      href="https://discord.ethswarm.org/"
+      target="_blank"
+      rel="noreferrer"
+      >Discord</a
+    >! <br />
+    Please feel free to reach out via
+    <a class="font-semibold underline" href="mailto:info@ethswarm.org"
+      >info@ethswarm.org</a
+    >
+    <br />
+    Join the newsletter!
+    <button
+      x-on:click="showModal = true; $nextTick(() => $refs.input.focus());"
+      class="font-semibold underline"
+    >
+      Subscribe here</button
+    >.
   {{ end }}
 
 </div>
