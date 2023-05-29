@@ -47,7 +47,7 @@
   {{ $pages = $pages | union .Site.RegularPages }}
 {{ end }}
 
-{{ $pages = (where $pages "Type" "posts").ByDate.Reverse }}
+{{ $pages = (where (where $pages "Type" "posts") "Params.hide_front" "!=" true).ByDate.Reverse }}
 
 {{ $development := where $pages "Params.categories" "intersect" (slice "Development updates") }}
 

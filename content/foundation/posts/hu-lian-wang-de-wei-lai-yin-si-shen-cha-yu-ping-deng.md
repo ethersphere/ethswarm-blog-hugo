@@ -1,5 +1,6 @@
 +++
 banner = ""
+hide_front = true
 categories = [ "中文" ]
 date = 2023-05-20T04:00:00.000Z
 description = "在「防范健康误区」的幌子下，网络审查力度在整个 Covid-19 疫情期间都有所增加。"

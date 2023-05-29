@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "tinacms dev -c \"hugo server -D\"",
     "tina-build": "tinacms build && hugo",
-    "build": "hugo",
+    "build": "hugo -D --gc && npx -y pagefind --source public",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

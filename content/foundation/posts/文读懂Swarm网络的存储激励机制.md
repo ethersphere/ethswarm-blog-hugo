@@ -1,5 +1,6 @@
 +++
-banner = ""
+banner = "https://hackmd.io/_uploads/SJTXUj2Sn.png"
+hide_front = true
 categories = [ "中文" ]
 date = 2023-05-25T04:00:00.000Z
 description = "以往人们托管数据通常有两种方式：自我托管和上传到可信的第三方机器上托管。就第三方托管而言，我们之所以相信托管方（托管方通常是公司），主要依靠的是托管方的长期运营在客户中所积累的口碑和信誉。而对于用户自己托管，则要求用户的计算机始终保持在线，这往往是不切实际的。"
@@ -7,10 +8,6 @@ references_and_footnotes = [ ]
 title = "文读懂Swarm网络的存储激励机制"
 _template = "post"
 +++
-
-# 一文读懂 Swarm 网络的存储激励机制\*\*
-
-![](https://hackmd.io/_uploads/SJTXUj2Sn.png)
 
 ## 介绍
 
