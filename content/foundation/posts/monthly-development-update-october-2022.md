@@ -1,12 +1,13 @@
 +++
 banner = ""
-categories = ["Development updates"]
-date = 2022-11-04T23:00:00Z
+categories = [ "Development updates" ]
+date = 2022-11-04T23:00:00.000Z
 description = "The development of the Swarm network and its associated ecosystem continues to move forward as planned. Bee client 1.9.0 is out and the team behind Bee is fully focused on meeting the timelines for bringing storage incentives to mainnet (they are already available for preview on testnet). There’s also a new Bee-js in the pipeline, which brings an array of breaking changes."
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Monthly Development Update — October 2022"
-
+_template = "post"
 +++
+
 
 The development of the Swarm network and its associated ecosystem continues to move forward as planned. **Bee client 1.9.0** is out and the team behind Bee is fully focused on meeting the timelines for bringing storage incentives to mainnet (they are already available for preview on testnet). There’s also a **new Bee-js in the pipeline**, which brings an array of breaking changes.
 

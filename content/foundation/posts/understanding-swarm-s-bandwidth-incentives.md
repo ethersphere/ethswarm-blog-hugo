@@ -1,12 +1,13 @@
 +++
 banner = ""
-categories = ["Development updates"]
-date = 2021-12-21T04:00:00Z
+categories = [ "Development updates" ]
+date = 2021-12-21T04:00:00.000Z
 description = "Swarm works the way it does because it is formed of many independent nodes that collaborate to store and deliver your data. But why do these nodes collaborate and can’t the system be abused? Understanding Swarm’s bandwidth incentives is key to answering these questions."
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Understanding Swarm’s bandwidth incentives"
-
+_template = "post"
 +++
+
 
 _By_ [_Rinke Hendriksen_](https://twitter.com/EknirNL/)_, Swarm Research Track Lead_
 

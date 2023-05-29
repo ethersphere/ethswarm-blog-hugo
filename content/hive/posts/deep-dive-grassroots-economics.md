@@ -1,12 +1,13 @@
 +++
 banner = "/uploads/grassroots.webp"
-categories = ["Grants"]
-date = 2021-11-04T23:00:00Z
+categories = [ "Grants" ]
+date = 2021-11-04T23:00:00.000Z
 description = "Community Inclusion Currencies to Reignite Economic Activity"
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Deep Dive: Grassroots Economics"
-
+_template = "post"
 +++
+
 A common trend one finds in developing countries is a lack of money, lack of investment and excess capital ownership in what many would deem an unstable market. When you step away from the macro-outlook and dive deeper into the local person’s day-to-day activity, you will find goods and services available at every corner. However, what is stifling the people in that city, town or village is that they lack a medium of exchange in times of crisis.
 
 Without money moving throughout these ecosystems, you will often find Person A wanting goods/services from Person B but no inherent need for Person A’s goods/services to give in exchange. The reciprocal system of exchanging value is lost in a centralised system of government-owned funds in times of economic crisis.

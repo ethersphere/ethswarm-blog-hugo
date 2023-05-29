@@ -1,12 +1,13 @@
 +++
 banner = "/uploads/rsvp-gather.webp"
-categories = ["Events"]
-date = 2021-12-16T04:00:00Z
+categories = [ "Events" ]
+date = 2021-12-16T04:00:00.000Z
 description = "The Gather, Swarm! event is only a few days away. The Swarm team will be moving beyond the boundaries of the usual Zoom calls, taking the gathering into the virtual world. Exploration, Easter eggs, interactivity and more await you!"
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "It’s coming! Don’t miss the Gather, Swarm! event."
-
+_template = "post"
 +++
+
 # Don’t forget to RSVP to the event!
 
 * **When: 21 December 2021 at 18:00 CET**

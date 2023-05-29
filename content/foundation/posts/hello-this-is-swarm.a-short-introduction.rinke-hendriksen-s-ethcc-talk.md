@@ -1,12 +1,13 @@
 +++
 banner = "/uploads/1-4.webp"
-categories = ["Events"]
-date = 2022-01-28T04:00:00Z
+categories = [ "Events" ]
+date = 2022-01-28T04:00:00.000Z
 description = "The text below is a recap from Rinke Hendriksen’s EthCC [4] talk “Hello World, Swarm” from July 2021. In it, he gives a concise but complete introduction to the inner workings of the Bee nodes that make up the Swarm network."
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Hello, this is Swarm. A short introduction. Rinke Hendriksen’s EthCC Talk"
-
+_template = "post"
 +++
+
 _The text below is a recap from Rinke Hendriksen’s EthCC \[4\] talk “Hello World, Swarm” from July 2021. In it, he gives a concise but complete introduction to the inner workings of the Bee nodes that make up the Swarm network._
 
 # Swarm, a global hard drive

@@ -1,12 +1,13 @@
 +++
 banner = "/uploads/hive1.png"
-categories = ["Ecosystem"]
-date = 2022-03-13T23:00:00Z
+categories = [ "Ecosystem" ]
+date = 2022-03-13T23:00:00.000Z
 description = "The text below is a recap of Viktor Tron’s talk from the We Are Millions Hackathon (WAM) and Festival. "
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Swarm as a platform for a self-sovereign digital society"
-
+_template = "post"
 +++
+
 _The text below is a recap of **Viktor Tron’s** talk from the_ [_We Are Millions Hackathon (WAM) and Festival_](https://www.wearemillions.online/)_. You can listen to the entire talk_ [_here_](https://youtu.be/ar_2SllaO_0?t=171)_._
 
 One of the defining traits of a self-sovereign society is that it interacts globally through a digital medium, freely and fairly, said Viktor. Unfortunately, unequal distribution of resources acts as a restriction on equality, because it follows the law of distribution — a small minority owns the majority of resources and vice versa.

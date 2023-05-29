@@ -1,12 +1,13 @@
 +++
 banner = ""
-categories = []
-date = 2022-03-09T04:00:00Z
+categories = [ ]
+date = 2022-03-09T04:00:00.000Z
 description = "Answers to your questions about Bee airdrop"
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "The Rise of Bee — Airdrop AMA"
-
+_template = "post"
 +++
+
 **What do you need to do to get your hands on these BZZ tokens?**
 
 This one is simple. You have to install and run your Bee node. You will need a working, well-connected, and data-rich Bee node to increase your chances of getting the BZZ. The more you contribute to the network, the more chances you have to get BZZ.

@@ -1,12 +1,13 @@
 +++
 banner = "/uploads/bee-map.webp"
-categories = ["Tutorials"]
-date = 2021-03-22T04:00:00Z
+categories = [ "Tutorials" ]
+date = 2021-03-22T04:00:00.000Z
 description = "Only one month after we announced the 1 million BZZ tokens airdrop, the Swarm network has grown immensely."
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "How to cash out gBZZ cheques — video tutorial"
-
+_template = "post"
 +++
+
 Only one month after we announced the 1 million BZZ tokens airdrop, the Swarm network has grown immensely. To take part in this airdrop, participants have to install and run their Bee nodes. We have received a lot of feedback from the community and the network is getting more decentralized and resilient in the testing phase than we ever thought it could be. As of today, there are more than 23,600 Bee nodes running all over the world.
 
 **If you haven’t done so already, join us! Install your Bee node.**

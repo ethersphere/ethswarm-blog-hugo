@@ -1,12 +1,15 @@
 +++
 banner = "/uploads/scc_recap-march.png"
-categories = ["Events"]
-date = 2023-04-03T22:00:00Z
-description = "The Swarm Community Call began with a round of updates. \n"
-references_and_footnotes = []
+categories = [ "Events" ]
+date = 2023-04-03T22:00:00.000Z
+description = """
+The Swarm Community Call began with a round of updates. 
+"""
+references_and_footnotes = [ ]
 title = "Swarm Community Call, 30 March — Recap"
-
+_template = "post"
 +++
+
 ## Moving to a data-driven approach
 
 The Swarm Community Call began with a round of updates. According to **Callum Toner** from the Research Track, the research and development teams are making good progress towards the completion of the [storage incentives roadmap](https://blog.ethswarm.org/foundation/2022/towards-the-world-computer.-the-swarm-network-upgrade-has-started./).

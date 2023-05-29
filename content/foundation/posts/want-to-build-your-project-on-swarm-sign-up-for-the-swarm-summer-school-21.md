@@ -1,19 +1,21 @@
 +++
 banner = ""
-categories = []
-date = 2021-08-17T04:00:00Z
+categories = [ ]
+date = 2021-08-17T04:00:00.000Z
 description = "The Swarm Association is organising a series of lectures and workshops called the Swarm Summer School. Sign up and don’t miss your chance to learn directly from the team."
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Want to build your project on Swarm? Sign up for the Swarm Summer School ‘21"
+_template = "post"
 
 +++
+
 _(23 to 27 August 2021; online event)_
 
 The Swarm Association is organising a series of lectures and workshops called the Swarm Summer School. Sign up and don’t miss your chance to learn directly from the team.
 
-* **When:** 23 to 27 August 2021 (15:00–18:00 CET)
-* **Where:** this is an online event
-* **How to sign up:** [**https://bit.ly/37JPEOa**](https://bit.ly/37JPEOa "https://bit.ly/37JPEOa")
+- **When:** 23 to 27 August 2021 (15:00–18:00 CET)
+- **Where:** this is an online event
+- **How to sign up:** [**https://bit.ly/37JPEOa**](https://bit.ly/37JPEOa "https://bit.ly/37JPEOa")
 
 ## **Swarm’s ecosystem is growing**
 
@@ -37,4 +39,4 @@ Swarm will dedicate a special channel on Discord, where teams can meet and discu
 
 [**Don’t forget to sign up, and we’ll see you at the Swarm Summer School**](https://swarm.odoo.com/survey/start/7d956538-3043-4640-95ce-5100e9ac3900)**.**
 
-# 
+#

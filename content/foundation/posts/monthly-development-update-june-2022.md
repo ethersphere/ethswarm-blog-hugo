@@ -1,12 +1,13 @@
 +++
 banner = "/uploads/desktopap.png"
-categories = ["Development updates"]
-date = 2022-07-05T22:00:00Z
+categories = [ "Development updates" ]
+date = 2022-07-05T22:00:00.000Z
 description = "The Swarm Foundation’s JS Track released Swarm Desktop (Beta), its biggest software release since the mainnet launch. Swarm Desktop enables one-click setup of a Swarm network node, simple interaction with the network without crypto onboarding and introduces two additional modes of operation — ultra light and light mode. It’s available for download here for Windows, MacOS and Linux."
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Monthly Development Update — June 2022"
-
+_template = "post"
 +++
+
 
 The Swarm Foundation’s JS Track released Swarm Desktop (Beta), its biggest software release since the mainnet launch. Swarm Desktop enables one-click setup of a Swarm network node, simple interaction with the network without crypto onboarding and introduces two additional modes of operation — ultra light and light mode. It’s available for download [here](https://desktop.ethswarm.org/) for Windows, MacOS and Linux.
 

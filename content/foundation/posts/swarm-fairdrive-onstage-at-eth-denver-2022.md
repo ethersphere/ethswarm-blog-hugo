@@ -1,12 +1,13 @@
 +++
 banner = "/uploads/ethdenver.webp"
-categories = ["Events", "Ecosystem"]
-date = 2022-02-22T04:00:00Z
+categories = [ "Events", "Ecosystem" ]
+date = 2022-02-22T04:00:00.000Z
 description = "On Friday, 18 February 2022, Angela Vitzthum, the Product Owner for Fairdrive, took the Wave stage at ETH Denver to introduce the audience to Swarm and more specifically to Fairdrive."
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Swarm & Fairdrive onstage at ETH Denver 2022"
-
+_template = "post"
 +++
+
 On Friday, 18 February 2022, Angela Vitzthum, the Product Owner for Fairdrive, [**took the Wave stage at ETH Denver**](https://youtu.be/22HfkeEmOK4) to introduce the audience to [Swarm](https://www.ethswarm.org/) and more specifically to [Fairdrive](https://blog.fairdatasociety.org/posts/2022/01/fair-data-protocol-a-roadmap-towards-data-sovereignty-and-personal-freedom/).
 
 [![](https://miro.medium.com/max/1400/1*mq1KoVow7hwILvYgNZg-bQ.png =700x388)](https://www.youtube.com/watch?v=22HfkeEmOK4)

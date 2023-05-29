@@ -1,12 +1,13 @@
 +++
 banner = ""
-categories = ["Development updates"]
-date = 2021-06-15T04:00:00Z
+categories = [ "Development updates" ]
+date = 2021-06-15T04:00:00.000Z
 description = "The last month has been very busy for the Swarm dev team. The Swarm v0.6 release has had exciting new features added. Some crucial changes have been made and Bee node operators need to update their nodes."
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Monthly Development Update — May 2021"
-
+_template = "post"
 +++
+
 
 The last month has been very busy for the Swarm dev team. The Swarm v0.6 release has had exciting new features added. Some crucial changes have been made and Bee node operators need to update their nodes.
 

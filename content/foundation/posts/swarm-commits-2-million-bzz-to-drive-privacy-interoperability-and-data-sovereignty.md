@@ -1,12 +1,13 @@
 +++
 banner = "/uploads/fdsw.png"
-categories = ["Ecosystem"]
-date = 2023-03-23T23:00:00Z
+categories = [ "Ecosystem" ]
+date = 2023-03-23T23:00:00.000Z
 description = "Following years of incubation, the Fair Data Society initiative graduated and moved onto an independent path. With this, Swarm Foundation has pledged 2 million BZZ in the coming 10 years, to champion support for layer 2 projects that empower digital freedom, privacy, and interoperability. The pledge was officially announced at the Fair Data Society graduation event, ‘New Day’ on March 21st 2023."
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Swarm commits 2 million BZZ to drive privacy, interoperability, and data sovereignty"
-
+_template = "post"
 +++
+
 Following years of incubation, the Fair Data Society initiative graduated and moved onto an independent path. With this, Swarm Foundation has pledged 2 million BZZ in the coming 10 years, to champion support for layer 2 projects that empower digital freedom, privacy, and interoperability. The pledge was officially announced at the Fair Data Society graduation event, ‘New Day’ on March 21st 2023.
 
 After the Swarm project was bootstrapped by, and graduated from, the Ethereum Foundation in 2019, the Swarm Foundation was created which incubated the Fair Data Society initiative. Now, the initiative is graduating from Swarm Foundation and itself incubating projects and initiatives.

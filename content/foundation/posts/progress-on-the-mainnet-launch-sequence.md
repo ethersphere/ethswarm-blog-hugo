@@ -1,12 +1,16 @@
 +++
 banner = ""
-categories = []
-date = 2020-06-12T16:00:00Z
-description = "The Swarm Mainnet Launch will be complete on June 21st.\n\n"
-references_and_footnotes = []
-title = "Progress on the mainnet launch sequence"
+categories = [ ]
+date = 2020-06-12T16:00:00.000Z
+description = """
+The Swarm Mainnet Launch will be complete on June 21st.
 
+"""
+references_and_footnotes = [ ]
+title = "Progress on the mainnet launch sequence"
+_template = "post"
 +++
+
 The Swarm Mainnet Launch will be complete on June 21st.
 
 As of June 10, the token contract has been deployed to mainnet. The address is:

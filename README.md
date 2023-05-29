@@ -46,3 +46,11 @@ The index should be rebuilt every time the content changes.
 ```bash
 npx pagefind --source "public" --force_language "en"
 ```
+
+# Tina CMS locally
+
+```
+To get started run: npx tinacms dev -c "<your dev command>"
+
+Once your site is running, access the CMS at <YourDevURL>/admin/index.html
+```

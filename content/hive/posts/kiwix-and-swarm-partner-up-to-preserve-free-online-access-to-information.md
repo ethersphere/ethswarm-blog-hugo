@@ -1,12 +1,13 @@
 +++
 banner = "/uploads/kiwi.webp"
-categories = ["Ecosystem"]
-date = 2022-03-10T23:00:00Z
+categories = [ "Ecosystem" ]
+date = 2022-03-10T23:00:00.000Z
 description = "The world is facing extreme uncertainty amidst a socio-economic crisis, and censorship is ramping up to levels never seen before."
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Kiwix and Swarm partner up to preserve free online access to information"
-
+_template = "post"
 +++
+
 The world is facing extreme uncertainty amidst a socio-economic crisis, and censorship is ramping up to levels never seen before.
 
 As a main source of information on the Web throughout the world, Wikipedia is regularly the target of [censorship](https://en.wikipedia.org/wiki/Censorship_of_Wikipedia) attempts and information manipulation as part of various political and geopolitical strategies.

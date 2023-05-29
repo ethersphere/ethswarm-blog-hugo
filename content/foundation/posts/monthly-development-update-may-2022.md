@@ -1,12 +1,13 @@
 +++
 banner = ""
-categories = ["Development updates"]
-date = 2022-06-04T22:00:00Z
+categories = [ "Development updates" ]
+date = 2022-06-04T22:00:00.000Z
 description = "May has been a truly exciting month for different tracks that keep the Swarm network going. The BeeJS Track released a new Bee Dashboard version, along with several Bee-js releases."
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Monthly Development Update — May 2022"
-
+_template = "post"
 +++
+
 
 May has been a truly exciting month for different tracks that keep the Swarm network going. The BeeJS Track released a new Bee Dashboard version, along with several Bee-js releases.
 

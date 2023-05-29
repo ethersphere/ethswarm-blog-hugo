@@ -1,12 +1,16 @@
 +++
 banner = "/uploads/swarm.webp"
-categories = ["Events"]
-date = 2021-01-25T04:00:00Z
-description = "Make sure you don’t miss the Liberate Data Week, a Fair Data Society organized event, that will run from 8–14 February 2021.\n\n"
-references_and_footnotes = []
-title = "Hackathon Guidelines, Rules, and Programme"
+categories = [ "Events" ]
+date = 2021-01-25T04:00:00.000Z
+description = """
+Make sure you don’t miss the Liberate Data Week, a Fair Data Society organized event, that will run from 8–14 February 2021.
 
+"""
+references_and_footnotes = [ ]
+title = "Hackathon Guidelines, Rules, and Programme"
+_template = "post"
 +++
+
 Make sure you don’t miss the Liberate Data Week, a Fair Data Society organized event, that will run from 8–14 February 2021.
 
 # Liberate Data Week

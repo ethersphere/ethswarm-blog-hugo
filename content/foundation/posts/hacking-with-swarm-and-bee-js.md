@@ -1,12 +1,13 @@
 +++
 banner = ""
-categories = ["Tutorials"]
-date = 2021-11-30T04:00:00Z
+categories = [ "Tutorials" ]
+date = 2021-11-30T04:00:00.000Z
 description = "The Swarm ecosystem is young, and there is always space for a lot of cool utilities, apps, and use cases. We support developing on Swarm with a set of libraries, CLIs, and utilities. I will demonstrate how to utilize some of these components with a small hacking session."
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Hacking with Swarm and Bee-js"
-
+_template = "post"
 +++
+
 The Swarm ecosystem is young, and there is always space for a lot of cool utilities, apps, and use cases. We support developing on Swarm with a set of libraries, CLIs, and utilities. I will demonstrate how to utilize some of these components with a small hacking session.
 
 What is the goal? It is common for developers to share application logs with each other. What about using Swarm for storing the logs? It would be awesome just to pipe the output of the command directly to Swarm, so let’s develop it!

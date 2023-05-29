@@ -1,12 +1,13 @@
 +++
 banner = "/uploads/1-2.webp"
-categories = ["Events"]
-date = 2020-12-01T16:00:00Z
+categories = [ "Events" ]
+date = 2020-12-01T16:00:00.000Z
 description = "Swarm Live was launched on Tuesday, 24 November 2020. All the polished, new, and improved features were discussed in detail at the Swarm Live online event, where the team presented not only what’s new, but also many other interesting topics, the Swarm incentives among them."
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Swarm Live … is Live!"
-
+_template = "post"
 +++
+
 _TL; DR: Swarm has released a new update to Bee: Swarm Live has increased stability, improved performance, and has all the high-level features of Swarm 1.0. Get an early start in an uprising ecosystem, start earning gBZZ by running your own Swarm node … and get ready for the mainnet release in spring 2021._
 
 **Swarm Live was the last event before Swarm 1.0**

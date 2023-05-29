@@ -1,12 +1,16 @@
 +++
 banner = ""
-categories = ["Development updates"]
-date = 2021-09-16T04:00:00Z
-description = "By Elad, Swarm Foundation Dev Team Lead\n\nIt’s been an exciting couple of months for the Bee team since the much anticipated 1.0 release."
-references_and_footnotes = []
-title = "Improving the Swarm DHT (part 1)"
+categories = [ "Development updates" ]
+date = 2021-09-16T04:00:00.000Z
+description = """
+By Elad, Swarm Foundation Dev Team Lead
 
+It’s been an exciting couple of months for the Bee team since the much anticipated 1.0 release."""
+references_and_footnotes = [ ]
+title = "Improving the Swarm DHT (part 1)"
+_template = "post"
 +++
+
 
 By Elad, Swarm Foundation Dev Team Lead
 

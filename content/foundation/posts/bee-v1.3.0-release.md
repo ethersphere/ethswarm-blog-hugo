@@ -1,12 +1,13 @@
 +++
 banner = ""
-categories = ["Development updates"]
-date = 2021-10-29T04:00:00Z
+categories = [ "Development updates" ]
+date = 2021-10-29T04:00:00.000Z
 description = "Two weeks after the 1.2.0 release, Swarm Foundation is releasing a new version of Bee. The most important thing to know is that Bee will now block peers that don’t agree on the same block hash of a certain block height."
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Bee v1.3.0 Release"
-
+_template = "post"
 +++
+
 
 Two weeks after the 1.2.0 release, Swarm Foundation is releasing a new version of Bee. The most important thing to know is that Bee will now block peers that don’t agree on the same block hash of a certain block height.
 

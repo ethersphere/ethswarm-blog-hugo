@@ -1,12 +1,16 @@
 +++
 banner = "/uploads/sun.webp"
-categories = ["Development updates"]
-date = 2020-12-04T04:00:00Z
-description = "By 25 January 2021, the cluster of nodes running the old Swarm network maintained by the Swarm team will be brought offline. As of this date, the proof of concept network is considered deprecated and the old Swarm codebase will no longer be maintained by the Swarm team. Those running services on the old testnet are encouraged to arrange for immediate migration to the new Bee client.\n\n"
-references_and_footnotes = []
-title = "The sun is setting for the old Swarm network"
+categories = [ "Development updates" ]
+date = 2020-12-04T04:00:00.000Z
+description = """
+By 25 January 2021, the cluster of nodes running the old Swarm network maintained by the Swarm team will be brought offline. As of this date, the proof of concept network is considered deprecated and the old Swarm codebase will no longer be maintained by the Swarm team. Those running services on the old testnet are encouraged to arrange for immediate migration to the new Bee client.
 
+"""
+references_and_footnotes = [ ]
+title = "The sun is setting for the old Swarm network"
+_template = "post"
 +++
+
 
 ![](https://miro.medium.com/max/1300/1*9s602o6H3bfoc6JliTMMLg.jpeg =650x365)
 

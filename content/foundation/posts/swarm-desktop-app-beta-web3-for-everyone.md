@@ -1,12 +1,13 @@
 +++
 banner = "/uploads/desktopap.png"
-categories = ["Development updates"]
-date = 2021-06-20T22:00:00Z
+categories = [ "Development updates" ]
+date = 2021-06-20T22:00:00.000Z
 description = "The Swarm Foundation unveiled the beta version of the Swarm Desktop App (Beta). Its goal is to take the best from Web2 and replace the complex experience of Web3 with a familiar one. The app is intended for the tech enthusiasts who want to try something different and for those who are just entering the crypto space."
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Swarm Desktop App (Beta) — Web3 for everyone"
-
+_template = "post"
 +++
+
 
 The Swarm Foundation unveiled the beta version of the [Swarm Desktop App (Beta)](https://desktop.ethswarm.org/). Its goal is to take the best from Web2 and replace the complex experience of Web3 with a familiar one. The app is intended for the tech enthusiasts who want to try something different and for those who are just entering the crypto space.
 

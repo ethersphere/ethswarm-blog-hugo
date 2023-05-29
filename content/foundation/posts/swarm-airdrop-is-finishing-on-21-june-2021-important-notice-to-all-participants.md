@@ -1,12 +1,13 @@
 +++
 banner = ""
-categories = []
-date = 2021-12-16T04:00:00Z
+categories = [ ]
+date = 2021-12-16T04:00:00.000Z
 description = "The airdrop is coming to an end. And what a ride it has been. Since the announcement of the airdrop, the Swarm network has grown from 200 Bee nodes to hundreds of thousands of Bees all over the globe."
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Swarm airdrop is finishing on 21 June 2021 — Important notice to all participants"
-
+_template = "post"
 +++
+
 The airdrop is coming to an end. And what a ride it has been. Since the announcement of the airdrop, the Swarm network has grown from 200 Bee nodes to hundreds of thousands of Bees all over the globe.
 
 Many wonderful people have joined the Swarm community and contributed greatly to the quality of the Swarm software, community and documentation. To each of you: thanks!

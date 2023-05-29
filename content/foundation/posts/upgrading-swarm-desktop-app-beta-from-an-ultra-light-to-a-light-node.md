@@ -1,12 +1,13 @@
 +++
 banner = "/uploads/desktopap.png"
-categories = ["Tutorials"]
-date = 2021-06-20T22:00:00Z
+categories = [ "Tutorials" ]
+date = 2021-06-20T22:00:00.000Z
 description = "Go to the official Swarm Desktop webpage and download the installer. Run it and wait for the process to finish. Everything should be automatic and the node should set up by itself. A successful installation is indicated by the green status icon in the bottom left-hand side corner."
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Upgrading Swarm Desktop App (Beta) from an ultra light to a light node"
-
+_template = "post"
 +++
+
 ## Installation
 
 Go to the official [**Swarm Desktop webpage**](https://desktop.ethswarm.org/) and download the installer. Run it and wait for the process to finish. Everything should be automatic and the node should set up by itself. A successful installation is indicated by the green status icon in the bottom left-hand side corner.

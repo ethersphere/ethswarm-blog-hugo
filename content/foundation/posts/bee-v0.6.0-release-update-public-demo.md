@@ -1,13 +1,14 @@
 +++
 banner = ""
-categories = ["Development updates"]
-date = 2021-04-26T04:00:00Z
+categories = [ "Development updates" ]
+date = 2021-04-26T04:00:00.000Z
 description = "Bee v0.5.3 has been spinning for a while now, but our dev team have not been idling. In the background, we have been working on the v0.6.0 release, which is almost ready for a test drive."
 draft = true
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Bee v0.6.0 Release Update & Public Demo"
-
+_template = "post"
 +++
+
 
 **TL;DR** Join us **on Tuesday, 27 April 2021 at 15:00 CET** for a sneak preview and look out for upcoming release events to mark the upcoming **Bee 0.6.0 release** featuring Postage Stamps, Light Node mode and more! When 0.6.0 is released, you **must** update your node software in order to stay in the swarm. Join our Discord server and watch the [#bee-node-updates](https://discord.gg/MVz8y5pbbN) channel for more information.
 

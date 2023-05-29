@@ -1,12 +1,13 @@
 +++
 banner = "/uploads/world.webp"
-categories = ["Development updates"]
-date = 2022-01-14T04:00:00Z
+categories = [ "Development updates" ]
+date = 2022-01-14T04:00:00.000Z
 description = "The idea of the world computer was born out of Ethereum’s founding fathers’ vision for a new and better Web. In it, Vitalik Buterin, Gavin Wood and Jeffery Wilcke envisioned a serverless Web, free of large corporations and one which could be economically self-sustaining through blockchain technology."
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Swarm — storing data for the world computer"
-
+_template = "post"
 +++
+
 
 **_TL:DR_**
 

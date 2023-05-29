@@ -1,12 +1,13 @@
 +++
 banner = "/uploads/bzz.webp"
-categories = []
-date = 2021-10-25T04:00:00Z
+categories = [ ]
+date = 2021-10-25T04:00:00.000Z
 description = "This blog is for all you BZZ holders, node operators, Swarm riders and anyone else who is interested in decentralised data ownership. The goal is to provide all the essential info on the topic of Swarm’s tokenomics."
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "BZZ Tokenomics"
-
+_template = "post"
 +++
+
 In recent weeks, there has been continuous interest from the Swarm community in learning more about the project’s tokenomics. This blog is for all you BZZ holders, node operators, Swarm riders and anyone else who is interested in decentralised data ownership. The goal is to provide all the essential info on the topic of Swarm’s tokenomics.
 
 Before we jump in, a short recap for the newcomers. Swarm is a decentralised storage and communications network for a digital sovereign society; a native base layer service of the Ethereum web3 stack. The Swarm foundation conducted a [**successful BZZ token sale**](https://coinlist.co/swarm) in June 2021, accompanied by the mainnet release of **Swarm 1.0__. These are two major milestones in the development of the Swarm network and its ecosystem, in which BZZ plays a major role**.**

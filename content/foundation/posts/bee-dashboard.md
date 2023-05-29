@@ -1,12 +1,16 @@
 +++
 banner = ""
-categories = ["Development updates"]
-date = 2021-04-29T04:00:00Z
-description = "The Bee Dashboard is a web app that can help you set up your Bee node. It connects to your locally running node, checks the status of different API endpoints and offers troubleshooting.\n\n"
-references_and_footnotes = []
-title = "Bee Dashboard"
+categories = [ "Development updates" ]
+date = 2021-04-29T04:00:00.000Z
+description = """
+The Bee Dashboard is a web app that can help you set up your Bee node. It connects to your locally running node, checks the status of different API endpoints and offers troubleshooting.
 
+"""
+references_and_footnotes = [ ]
+title = "Bee Dashboard"
+_template = "post"
 +++
+
 
 **_TLDR; Try out_** [**_Bee Dashboard_**](https://github.com/ethersphere/bee-dashboard) **_which can help you setup your Bee node, monitor its status and perform actions like uploading files and cashing out cheques. Special thanks to our contributors_** [**_matmertz25_**](https://github.com/matmertz25)**_,_** [**_centerorbit_**](https://github.com/centerorbit) **_and_** [**_tmm360_**](https://github.com/tmm360)
 

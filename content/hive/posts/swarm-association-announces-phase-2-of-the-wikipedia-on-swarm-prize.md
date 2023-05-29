@@ -1,12 +1,15 @@
 +++
 banner = ""
-categories = ["Ecosystem"]
-date = 2023-01-17T23:00:00Z
-description = "The Wikipedia Prize, launched at the Swarm Summer Solstice event in June 2022, sought for a solution that observes a Wikipedia offline archive and uploads it to the Swarm network, and it had an initial reward pot of 50k DAI to be paid in BZZ. The goal was to allow for Wikipedia in any language to be easily uploaded to the Swarm network, making it resilient to the potential grip of censorship.\n"
-references_and_footnotes = []
+categories = [ "Ecosystem" ]
+date = 2023-01-17T23:00:00.000Z
+description = """
+The Wikipedia Prize, launched at the Swarm Summer Solstice event in June 2022, sought for a solution that observes a Wikipedia offline archive and uploads it to the Swarm network, and it had an initial reward pot of 50k DAI to be paid in BZZ. The goal was to allow for Wikipedia in any language to be easily uploaded to the Swarm network, making it resilient to the potential grip of censorship.
+"""
+references_and_footnotes = [ ]
 title = "Swarm Association announces phase 2 of the Wikipedia on Swarm prize."
-
+_template = "post"
 +++
+
 ### **The Wikipedia on Swarm prize**
 
 Swarm is a decentralised and censorship-resistant storage and communication system that enables digital freedoms. The Wikipedia [Prize](https://medium.com/ethereum-swarm/announcing-50k-dai-prize-to-make-wikipedia-unstoppable-91f60513a873), launched at the Swarm Summer Solstice event in June 2022, sought for a solution that observes a Wikipedia offline archive and uploads it to the Swarm network, and it had an initial reward pot of 50k DAI to be paid in BZZ. The goal was to allow for Wikipedia in any language to be easily uploaded to the Swarm network, making it resilient to the potential grip of censorship.

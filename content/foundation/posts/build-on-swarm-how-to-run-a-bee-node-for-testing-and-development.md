@@ -1,12 +1,13 @@
 +++
 banner = "/uploads/how-to-run-a-bee-node.png"
-categories = ["Tutorials"]
-date = 2023-04-11T22:00:00Z
+categories = [ "Tutorials" ]
+date = 2023-04-11T22:00:00.000Z
 description = "Running a Bee node is essential for building decentralised applications on the Swarm network. However, as a developer, it is often convenient to work in an environment where interactions with the node/network can be tested rapidly and without putting the node’s storage data or the user’s tokens at risk."
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Build on Swarm: How to Run a Bee Node for Testing and Development"
-
+_template = "post"
 +++
+
 Running a Bee node is essential for building decentralized applications on the Swarm network. However, as a developer, it is often convenient to work in an environment where interactions with the node/network can be tested rapidly and without putting the node’s storage data or the user’s tokens at risk.
 
 In this article, we’ll explore three safe and risk-free options available for developers to simulate a Bee node running on Swarm primarily for testing and development:

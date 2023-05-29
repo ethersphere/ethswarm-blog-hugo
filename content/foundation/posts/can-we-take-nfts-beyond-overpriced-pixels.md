@@ -1,12 +1,13 @@
 +++
 banner = "/uploads/nfts.png"
-categories = ["Ecosystem"]
-date = 2022-02-21T04:00:00Z
+categories = [ "Ecosystem" ]
+date = 2022-02-21T04:00:00.000Z
 description = "As the pace of technological evolution quickens and intensifies, it also exerts an increasing influence on all spheres of life, including art."
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Can we take NFTs beyond overpriced pixels?"
-
+_template = "post"
 +++
+
 # Going beyond capital vs values
 
 As the pace of technological evolution quickens and intensifies, it also exerts an increasing influence on all spheres of life, including art. Contrary to the inceptive ideals and driven by often obfuscated (private) interests, the advent of generative art, blockchain and NFTs has in many cases perpetuated old strifes and generated new ones.

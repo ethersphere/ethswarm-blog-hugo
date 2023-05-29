@@ -1,12 +1,13 @@
 +++
 banner = "/uploads/storage-incentives-ama.png"
-categories = ["Events"]
-date = 2022-10-07T04:00:00Z
+categories = [ "Events" ]
+date = 2022-10-07T04:00:00.000Z
 description = "The September Monthly Ecosystem Call was dedicated to storage incentives — their upgrade roadmap, specific launch dates and their different features, such as the price oracle."
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Monthly Ecosystem Call, 29 September 2022 — Recap"
-
+_template = "post"
 +++
+
 The September Monthly Ecosystem Call was dedicated to storage incentives — their upgrade roadmap, specific launch dates and their different features, such as the price oracle.
 
 First to take the virtual stage was **Attila Gazsó**, who first gave a short recap of the past month. Attila explained that the last few months of development have been marked by a more intensive collaboration between the research and development teams. The first result of this is the new Bee client v1.8.0, which introduced some [breaking changes to the network](https://medium.com/ethereum-swarm/breaking-changes-are-coming-to-the-swarm-network-4b740adcdef0) and some hotfixes soon after. This was Phase 1.

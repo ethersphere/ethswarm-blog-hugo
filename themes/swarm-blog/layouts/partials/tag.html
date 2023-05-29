@@ -3,7 +3,7 @@
 {{ if (eq $lang "foundation") }}
   <a
     href="/foundation"
-    class="px-2 py-1 duration-150 rounded-full bg-swarm-blue hover:bg-swarm-blue-hover"
+    class="bg-swarm-blue hover:bg-swarm-blue-hover rounded-full px-2 py-1 duration-150"
   >
     Foundation
   </a>
@@ -12,7 +12,7 @@
 {{ if (eq $lang "hive") }}
   <a
     href="/hive"
-    class="px-2 py-1 duration-150 rounded-full bg-swarm-yellow hover:bg-swarm-yellow-hover"
+    class="bg-swarm-yellow hover:bg-swarm-yellow-hover rounded-full px-2 py-1 duration-150"
   >
     Swarm Hive
   </a>
@@ -21,7 +21,7 @@
 {{ if (eq $lang "wam") }}
   <a
     href="/wam"
-    class="px-2 py-1 duration-150 rounded-full bg-swarm-purple hover:bg-swarm-purple-hover"
+    class="bg-swarm-purple hover:bg-swarm-purple-hover rounded-full px-2 py-1 duration-150"
   >
     WAM
   </a>
@@ -30,8 +30,17 @@
 {{ if (eq $lang "fds") }}
   <a
     href="/fds"
-    class="px-2 py-1 duration-150 rounded-full bg-swarm-green hover:bg-swarm-green-hover"
+    class="bg-swarm-green hover:bg-swarm-green-hover rounded-full px-2 py-1 duration-150"
   >
     FDS
+  </a>
+{{ end }}
+
+{{ if (eq $lang "zh") }}
+  <a
+    href="/zh"
+    class="bg-swarm-yellow hover:bg-swarm-yellow-hover rounded-full px-2 py-1 duration-150"
+  >
+    ZH
   </a>
 {{ end }}

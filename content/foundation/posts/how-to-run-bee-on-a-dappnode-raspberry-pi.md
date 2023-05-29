@@ -1,12 +1,13 @@
 +++
 banner = ""
-categories = ["Tutorials"]
-date = 2020-12-21T16:00:00Z
+categories = [ "Tutorials" ]
+date = 2020-12-21T16:00:00.000Z
 description = "Using a Raspberry Pi makes running a Bee node cheap and reliable. With DappNode, installing Bee is a breeze."
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "How-to: Run Bee on a DappNode Raspberry Pi"
-
+_template = "post"
 +++
+
 ## Installing Bee is easy as 123
 
 With the latest Swarm releases, it became extremely easy to install and run a Bee node. There are several ways to do it, but probably one of the most elegant ways is to run your Bee node on a DappNode Raspberry Pi.

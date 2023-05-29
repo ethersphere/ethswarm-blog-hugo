@@ -1,12 +1,13 @@
 +++
 banner = ""
-categories = ["Development updates"]
-date = 2021-05-06T16:00:00Z
+categories = [ "Development updates" ]
+date = 2021-05-06T16:00:00.000Z
 description = "April was a heads-down / work-hard month for the Swarm team. A lot of things have been going on in the background. We’re proud to share our progress."
-references_and_footnotes = []
+references_and_footnotes = [ ]
 title = "Monthly Development Update — April 2021"
-
+_template = "post"
 +++
+
 
 April was a heads-down / work-hard month for the Swarm team. A lot of things have been going on in the background. We’re proud to share our progress.
 
