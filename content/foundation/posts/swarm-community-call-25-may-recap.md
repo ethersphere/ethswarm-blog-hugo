@@ -1,8 +1,8 @@
 +++
 banner = "/uploads/SCC-May-recap.png"
 categories = [ "Events" ]
-date = 2023-05-07T22:00:00.000Z
-description = "The April Swarm Community Call was focused on tools that provide a more numbers-based look at the Swarm network, and on easy publishing of unstoppable content on Swarm."
+date = 2023-05-030T22:00:00.000Z
+description = "The May Swarm Community Call was inspiring and full of optimism: the Swarm network has been demonstrating remarkable performance for almost two weeks, maintaining a 0% error rate on uploads and downloads."
 references_and_footnotes = [ ]
 title = "Swarm Community Call, 25 May — Recap"
 _template = "post"
