@@ -1,122 +1,162 @@
 +++
-banner = "/uploads/dev_update_april.png"
+banner = "/uploads/dev_update_may.png"
 categories = [ "Development updates" ]
-date = 2023-05-05T05:00:00.000Z
-description = "In April, the Bee Track laid out the blueprint for the upcoming releases of the Bee client to fix the issues uncovered in their investigation. The localstore rewrite project is in its final phase before testing, which is expected to begin in the coming weeks. The Bee Track team are also working on the requirements that nodes must meet in order to participate in the storage incentives game."
+date = 2023-06-05T05:00:00.000Z
+description = "The Swarm network was abuzz with activity in May and there’s a lot of ground to cover, so let’s dive right in. The Bee Track has released versions 1.15.0 and 1.16.0, introducing new features and several improvements. In version 1.15.0, a new pushsync feature has been introduced to improve chunk syncing and replication during uploading. Other enhancements include improved blocklist display, storage radius adjustment, chainstate total amount, and peer mode added to the status protocol, and reduced workload during initial historical syncing."
 references_and_footnotes = [ ]
-title = "Monthly Development Update – April 2023"
+title = "Monthly Development Update – May 2023"
 _template = "post"
 +++
 
 
-In April, the **Bee Track** laid out the blueprint for the upcoming releases of the Bee client to fix the issues uncovered in their investigation. The localstore rewrite project is in its final phase before testing, which is expected to begin in the coming weeks. The Bee Track team are also working on the requirements that nodes must meet in order to participate in the storage incentives game.
+The Swarm network was abuzz with activity in May and there’s a lot of ground to cover, so let’s dive right in. The **Bee Track** has released versions [1.15.0](https://github.com/ethersphere/bee/releases/tag/v1.15.0) and [1.16.0](https://github.com/ethersphere/bee/releases/tag/v1.16.0), introducing new features and several improvements. In version **1.15.0**, a **new pushsync feature** has been introduced to improve chunk syncing and replication during uploading. Other enhancements include improved blocklist display, storage radius adjustment, chainstate total amount, and peer mode added to the status protocol, and reduced workload during initial historical syncing.
 
-During this time, the **Research Track** has refined its statistics and information gathering and is now working on improving security and multisig procedures.
+Version **1.16.0** introduces **"salud", a health check system** for connected peers using data acquired from the status protocol. A self-check is also in place where if the node's own storage radius does not match that of the network, the node won't participate in the Schelling game. Version 1.16.0 brings **a breaking change** where the status protocol includes the reachability of a peer and the total batch commitment of the network reported by each peer.
 
-The **JS Track** released a [new Swarm Desktop version](https://github.com/ethersphere/swarm-desktop/releases) and is preparing for the latest bee-js 6.0.0 release.
+This version also addresses a bug and eases the requirements of the pushsync protocol for improved performance. The patch release **v1.16.1** fixes a panic in the salud service and introduces a health service for monitoring the effects & storage incentives. This moves the network towards getting realistic hardware requirements. Progress has been made on the inclusion proof for Phase 4, with testing in the final stages.
 
-The entire **Fair Data Protocol** stack underwent some important changes as well, including a batch of changes to the **[Fairdrive Web App](https://app.fairdrive.fairdatasociety.org/)**, the launch of the **[Fair Portal](https://fairdrive.fairdatasociety.org/apps/fportal)** and a new release of the **[Blossom](https://github.com/fairDataSociety/blossom)** browser extension that fixes several issues and adds new functionality.
+**Research Track** saw the **completion of the [Storage Incentives paper ](https://www.ethswarm.org/swarm-storage-incentives.pdf)and diagrams**, which are now out for community feedback. Notably, DISC specs are also in their final version. The Phase 4 testing environment is being prepared to release Phase 4, and work on erasure coding documentation and graphical statistics representation is progressing.
 
-Shifting to the community side, the **[Bee installation section](https://docs.ethswarm.org/docs/installation/quick-start)** is now more user-friendly, and an accompanying [blog explaining how to easily run a Bee node for testing and development](https://blog.ethswarm.org/foundation/2023/build-on-swarm-how-to-run-a-bee-node-for-testing-and-development/) is available on the [official Swarm blog](https://blog.ethswarm.org/). There are also a couple of active bounties still in progress ([here](https://app.zenhub.com/workspaces/bounties-6305d6269c97be273b00e01a/issues/gh/fairdatasociety/bounties-internal/46) & [here](https://bounties.gitcoin.co/issue/29842)).
+In **JS Track**, Bee JS [v6.0.0](https://github.com/ethersphere/bee-js/releases/tag/v6.0.0) was released, introducing streaming upload support for single files and numerous bug fixes, including the one causing incompatibilities between Node versions 16, 18 and 19. **Swarm Desktop v0.25.0** was upgraded to the latest Bee v1.16.1.
 
-Mark 21 June on your calendar, because that’s when the Swarm Foundation will hold the three-day **[Swarm Virtual Summit](https://summit.ethswarm.org/)**. If you are using Swarm to power your project, **submit a paper and present your work with a talk**. More details will be revealed at the next **Swarm Community Call on 25 May**, so make sure to join. In the meantime, you can keep yourself busy with Daniel A. Nagy’s presentation from Ethereum Zürich, titled “[Storage Incentives in the Swarm Network](https://www.youtube.com/watch?v=MyINf__6e6o)”.
+**Fair Data Protocol** updates include some notable novelties. FairOS now supports ChatGPT plugin and has moved to Sepolia testnet. The Fairdrive Web App has seen significant improvements and enhancements and the Fairdrive Desktop App saw the release of v0.1.6. Blossom version 0.4.0 is already available in the Chrome Store. 
+
+**DevOps Track** created a 1,000-node private cluster for testing and released Beekeeper ([0.12.3](https://github.com/ethersphere/beekeeper/releases/tag/v0.12.3)).
+
+Big news on the **DevRel** side. [New and updated Swarm documentation ](https://docs.ethswarm.org/)is out. It's more comprehensive and user-friendly than the previous editions and is aimed at anyone who wants to take a deep dive into the world of Swarm. The latest addition to our resources is the [Bee Node Hardware Requirements and Performance Benchmarking Guide](https://blog.ethswarm.org/foundation/2023/bee-node-hardware-requirements/), now available on the Swarm. It's a great read for anyone looking to benchmark their node. A new Mandarin language section was also added to Swarm News to bring Swarm closer to audiences in China. [Etherjot](https://github.com/Cafe137/etherjot) has received various improvements to make it more potent.
+
 
 ## Tracks
 
-### Bee Track
 
-- There was the 1.15 release which tackled some of the known optimisations we identified after our investigation into the network’s health and retrieval in the previous week. This has resulted in a 0% error rate currently, with >83% of the network size on the new version.
-- The localstore rewrite has its last few PRs drafted and is currently being tested in a suitable environment. We also now have a larger scale 1000 node private testing environment for better insight into its behaviour.
-- The requirements for nodes and the storage incentives have been identified.
+### Bee Track
+* [Released 1.15.0](https://github.com/ethersphere/bee/releases/tag/v1.15.0) 
+    * With this release, we introduce a new pushsync feature to improve chunk syncing and replication in the network during uploading. Peers that forward chunk into the neighbourhood will fire multiple requests to target multiple storer nodes. Forwarding will also terminate at the first peer within the neighbourhood and will no longer be forwarded to the closest peer within the network.
+        * Breaking changes
+            * Pushync forwarding nodes one hop from the neighbourhood multiplexes the chunk to multiple storer nodes in the neighbourhood. Forwarding terminates at the first neighbour. 
+        * Hardening
+            * Blocklist endpoint now correctly displays the mode and reason for the blocklisting of the peer. 
+            * Storage radius decreasing based on reserve size increased back to the 50% threshold. 
+            * Chainstate total amount and peer mode added to the status protocol.
+            * Connecting light nodes are not rejected based on bin size. 
+        * Performance improvements
+            * Initial historical syncing is limited to reduce workload. 
+            * Peer skiplist mechanism in retrieval and pushsync protocols now prune peers in a much more efficient way. 
+            * For a full PR rundown, please consult the v1.15.0 diff.
+* [Released v1.16.0](https://github.com/ethersphere/bee/releases/tag/v1.16.0) 
+    * With salud, nodes will periodically perform certain health checks on their connected peers with data acquired from the status protocol. The checks as of this release are based on the duration of response to the status protocol msg, number of connected peers, the storage radius, and total batch commitment as computed by each peer. For duration and number of connected peers, each peer must be within the 80th percentile to be deemed healthy. Radius and batch commitment are measured in terms of the most common values as reported by each connected peer. Measurements are created anew for each periodic health check. A self-check is also in place where, if the node's own storage radius does not match with the rest of the networks', the node won't participate in the Schelling game. With this release, only the pushsync protocol utilises the filtering of peers for requests based on the health status.
+        * Breaking changes
+            * The status protocol now includes the reachability of a peer and the total batch commitment of the network reported by each peer. 
+        * Bug fixes
+            * Fixed the last played round field in the redistribution state endpoint to report the current round instead of the previous round. 
+        * Hardening
+            * Loosened the requirements of the pushsync protocol so that when a neighbourhood is down or does not exist, the chunk is pushed as close as possible to its neighbourhood. 
+            * Increased the wake up interval for the depth monitor from 5 to 15 minutes. 
+* [Released v1.16.1](https://github.com/ethersphere/bee/releases/tag/v1.16.1)
+    * This one is a patch release to address a bug found in the new salud service.
+    * Bug fixes: Fixed a panic in the salud service when the response to the status request is terminated early by the peer. 
+* Health service released, monitoring the effects & storage incentives: this is progress towards getting realistic hardware requirements and putting any missing rules in place.
+* Phase 4 inclusion proof is in the final stages of testing & then looking for a release window on/after localstore dates.
+* Localstore testing begins on large cluster. 
+
 
 ### Research Track
+* [The Storage Incentives paper](https://www.ethswarm.org/swarm-storage-incentives.pdf) and all diagrams are complete and out for feedback to the community. 
+* Investigations into freezing/sampling problems and other edge cases.
+* DISC specs & SI paper in final version.
+* The Phase 4 testing environment is coming along to test and be able to release Phase 4. 
+* Erasure coding documentation and graphical stats and representation progressing (discovery phase).
 
-- Improving our statistics outlook and information, including that of the skipped rounds and frozen nodes reasoning.
-- The Storage Incentives paper has been completed and shared with the community on Discord and close peers, and we are in the process of receiving critical feedback.
-- Phase 4 testing environment and claim phase logic involved in this.
-- Upgraded security and multisig implementation are complete; reviews and additions pending.
 
 ### JS Track
+* [Bee JS v6.0.0](https://github.com/ethersphere/bee-js/releases/tag/v6.0.0)
+    * Adds streaming upload support for single files.
+    * Fixes a segmentation fault when running tests in a project where bee-js is a dependency.
+    * Fixes incompatibilities between Node versions 16, 18 and 19.
+    * Fixes an issue with directory and website uploads, where the resulting tar file had more zero-byte padding than standard, causing a connection reset from Bee’s side.
+    * Fixes a bug where projects could not be installed as root where bee-js is a dependency.
+    * Fixes a bug related to code splitting, causing frontend projects built with webpack not being able to fully load bee-js.
+    * Can now be built with slim Docker images, Python is no longer a dependency during project build.
+* [Swarm Desktop v0.25.0](https://github.com/ethersphere/swarm-desktop/releases/tag/v0.25.0)
+    * Upgrades Bee to the latest version (1.16.1).
 
-- [Released Swarm Desktop v0.21, v0.22 and v0.23](https://github.com/ethersphere/swarm-desktop/releases) which keeps your Bee up to date (currently v1.15.0).
 
 ### Ecosystem
+#### Fair Data Protocol
 
-#### [Fairdrive Web App](https://app.fairdrive.fairdatasociety.org/)
+####  [Blossom](https://github.com/fairDataSociety/blossom)
 
-- Implemented changes to affect speed, available on the [.development.](https://app.fairdrive.dev.fairdatasociety.org/) version of fairdrive, mostly to reduce loading times.
-  - [Caching pod content list](https://github.com/fairDataSociety/fairdrive-theapp/pull/306)
-  - [Clearing cache on error](https://github.com/fairDataSociety/fairdrive-theapp/issues/311)
-  - [Cache support for Blossom](https://github.com/fairDataSociety/fairdrive-theapp/pull/323) extension
 
-#### [Fair Portal](https://github.com/fairDataSociety/fair-portal)
 
-- [Fair Portal frontend](https://https://fairdrive.fairdatasociety.org/apps/fportal) was released, which is a catalogue of apps that use FDP protocol and are aligned with Fair Data Principles. Developers can submit and add their apps.
+* [Blossom version 0.4.0](https://github.com/fairDataSociety/blossom/releases) submitted to Chrome Web Store.
 
-[Blossom](https://github.com/fairDataSociety/blossom)
+#### [fdp-storage](https://github.com/fairDataSociety/fdp-storage)
 
-- Blossom[ version release 0.3.0 ](https://github.com/fairDataSociety/blossom/compare/blossom-ext-v0.2.3...blossom-ext-v0.3.0) was released.
-  - [Fixed the serialisation issue](https://github.com/fairDataSociety/blossom/issues/130)
-  - [Fixed the issue with global postage batch ID](https://github.com/fairDataSociety/blossom/issues/121)
-  - [Adjusted the extension to allow access to FDS dApps that are not loaded from a bzz link](https://github.com/fairDataSociety/blossom/pull/122)
-  - [Fixed the invalid dappId issue in the library](https://github.com/fairDataSociety/blossom/issues/117)
-  - [Added additional info about the swarm extension to the readme](https://github.com/fairDataSociety/blossom/issues/128)
-  - [Fixed the library to be compatible with fdp-storage cache object](https://github.com/fairDataSociety/blossom/pull/143)
+
+
+* [fdp-storage version 0.7.2](https://github.com/fairDataSociety/fdp-storage/releases/tag/v0.7.2) released with several fixes.
+
 
 #### [FairOS](https://github.com/fairDataSociety/fairOS-dfs)
 
-- [fairOS-cli: Support for upload and download of entire folders](https://github.com/fairDataSociety/fairOS-dfs/issues/25)
-- [Change minimum blockSize for upload](https://github.com/fairDataSociety/fairOS-dfs/issues/315)
-- [Fix KVBatch does not work for bytes index](https://github.com/fairDataSociety/fairOS-dfs/issues/472)
-- [Update feed fails with "chunk already exists"](https://github.com/fairDataSociety/fairOS-dfs/issues/473)
-- [Add documentation on public pods](https://github.com/fairDataSociety/fairOS-docs/issues/51)
+* [FairOS-dfs version 0.9.4](https://github.com/fairDataSociety/fairOS-dfs/releases) released with
+    * [Move to Sepolia](https://github.com/fairDataSociety/fairOS-dfs/issues/497) testnet for user accounts.
+    * [ChatGPT plugin support](https://github.com/fairDataSociety/fairOS-dfs/issues/493).
+    * [Multiple bug fixes](https://github.com/fairDataSociety/fairOS-dfs/releases).
+    * [Breaking change of renaming network config parameter](https://github.com/fairDataSociety/fairOS-dfs/issues/471). 
+
+
+#### [Fairdrive Web App](https://app.fairdrive.fairdatasociety.org/)
+* [34 issues closed](https://github.com/fairDataSociety/fairdrive-theapp/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-05-01..2023-05-31), including several bug fixes and many more enhancements.
+* [Fairdrive with Blossom support](https://app.fairdrive.fairdatasociety.org/) deployed to Swarm Mainnet.
+
 
 #### [Fairdrive Desktop App](https://github.com/fairDataSociety/fairdrive-desktop-app)
+* [Fairdrive Desktop App version 0.1.6](https://github.com/fairDataSociety/fairdrive-desktop-app/releases) released with
+    * [Pod subscription integration](https://github.com/fairDataSociety/fairdrive-desktop-app/issues/170) support for apps.
+    * [Move to Sepolia](https://github.com/fairDataSociety/fairdrive-desktop-app/issues/175) testnet for user accounts.
 
-- [Fix strange behaviour when grabbing window](https://github.com/fairDataSociety/fairdrive-desktop-app/issues/162)
 
-#### Finished bounties:
+#### [Fair Portal](https://github.com/fairDataSociety/fair-portal)
+* [Switched to using Sepolia network](https://fairdrive.fairdatasociety.org/apps/fportal/). 
 
-- [PDF viewer Dapp for Fairdrive, using Blossom to access fdp-storage](https://bounties.gitcoin.co/issue/29812)
-- [Implement Slate rich text editor as Fairdrive dApp](https://bounties.gitcoin.co/issue/29819)
-- [Datafund has published a blog on revenues from being a Swarm node operator](https://blog.datafund.net/why-datafund-is-a-swarm-node-operator-and-how-its-paying-off-fd92e9906785)
-
-#### Other updates
-
-- Node operator report in a blog post : “[Why Datafund is a Swarm node operator and how it’s paying off. Owning data is owning the infrastructure.](https://blog.datafund.net/why-datafund-is-a-swarm-node-operator-and-how-its-paying-off-fd92e9906785)”
-- [Swarmscan](https://swarmscan.io/) updates the node discovery algorithm to make it more robust, finding more active nodes.
 
 ### DevOps Track
+* Created 1000-node private cluster for testing session for Bee team.
+* Beekeeper [0.12.3](https://github.com/ethersphere/beekeeper/releases/tag/v0.12.3) released.
+* Deployed 1.16.1 [Bee](https://github.com/ethersphere/bee) to testnet and mainnet.
+* Setup internal Sepolia node for testnet.
 
-- Deployed [Bee](https://github.com/ethersphere/bee) to the mainnet (v1.14.1).
-- Released the [Beekeeper](https://github.com/ethersphere/beekeeper) (v0.12.1).
 
 ### DevRel
 
-#### Ethereum Zürich
-
-- Swarm Foundation founders Viktor Tron and Daniel A. Nagy gave presentations. You can watch Daniel's presentation [Storage Incentives in the Swarm Network on YouTube. ](https://www.youtube.com/watch?v=MyINf__6e6o)
 
 #### Docs update
+* [New and updated Swarm documentation ](https://docs.ethswarm.org/)was released.
 
-- Updated bee install section pushed live
-  - [https://docs.ethswarm.org/docs/installation/quick-start](https://docs.ethswarm.org/docs/installation/quick-start)
-    - https://docs.ethswarm.org/docs/installation/install
-  - Docusaurus and node version updated, added LaTeX support, updated theme
 
 #### Educational content
+* [Bee Node Hardware Requirements and Performance Benchmarking Guide](https://blog.ethswarm.org/foundation/2023/bee-node-hardware-requirements/)
+* [New Mandarin language section added to Swarm News](https://blog.ethswarm.org/c/%E4%B8%AD%E6%96%87). There will be more blog posts translated into Mandarin over time. 
 
-- [Build on Swarm: How to Run a Bee Node for Testing and Development](https://blog.ethswarm.org/foundation/2023/build-on-swarm-how-to-run-a-bee-node-for-testing-and-development/)
 
 #### Swarm Community Call
+* Swarm Community Call, our main monthly online event, was held on 25 May. You can read a recap blog post about it [here](https://blog.ethswarm.org/foundation/2023/swarm-community-call-25-may-recap/).
 
-- Swarm Community Call, our main monthly online event, was held on 27 April.
 
-#### Apps: **[Etherjot](https://github.com/Cafe137/etherjot)**
+#### Apps:
+#####  [Etherjot](https://github.com/Cafe137/etherjot)
+* Improves the overall design of the generated blog.
+* Adds optional search functionality.
+* Adds optional newsletter functionality.
+* Adds many customisation options, such as header and footer description, social links, link to external website, etc.
+* Adds option to promote blog posts on the front page.
+* Images are now also part of the Mantaray and not hosted as separate files.
 
-- Etherjot allows you to effortlessly create a blog on Swarm. In the latest release, support for importing existing Jekyll or Hugo blogs has been added.
+##### [Gateway Proxy](https://github.com/orgs/ethersphere/projects/12/views/7?pane=issue&itemId=27577921)
+* Improvement, rebranding, usage with Docker and ngrok. Gateway Proxy is in the shadows and has bad UX. By fixing the UX and showing multiple ways of using it, we could elevate it from its current state.
 
-### Upcoming events
 
-- Swarm Community Call – our main monthly online event, will take place on 25 May at 17:00 CET in the [Swarm Foundation Discord](https://discord.com/channels/799027393297514537/801438093927776286) ([add to calendar](https://www.addevent.com/event/yr16580319)). Meanwhile, you are welcome to send any questions you might have for the teams building the Swarm network by using this [online form](https://airtable.com/shrBRyrMkXFsJvLS3) for them to be addressed on the call.
-- **[Swarm Virtual Summit - Call for Papers](https://summit.ethswarm.org/)** - Mark **21 June** on your calendar, because that’s when the Swarm Foundation will hold the three-day **Swarm Virtual Summit**. More details will be revealed at the next **Swarm Community Call on 25 May**, so make sure to join.
+### Upcoming events 
+* **[Swarm Virtual Summit - Call for Papers](https://summit.ethswarm.org/)** - Are you using Swarm to supercharge your project? Then submit a proposal for a talk at Swarm Virtual Summit, which will take place from 21 to 23 June. Due date for proposals is 5 June. Target format: 30 minutes in total - 20-minute presentation followed by Q&A or a 45-minute workshop. 
+* Join the hive and submit your talk [proposal](https://summit.ethswarm.org/).
