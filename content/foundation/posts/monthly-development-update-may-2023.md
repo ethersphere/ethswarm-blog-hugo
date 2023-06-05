@@ -30,31 +30,32 @@ Big news on the **DevRel** side. [New and updated Swarm documentation ](https://
 
 
 ### Bee Track
-* [Released 1.15.0](https://github.com/ethersphere/bee/releases/tag/v1.15.0) 
-    * With this release, we introduce a new pushsync feature to improve chunk syncing and replication in the network during uploading. Peers that forward chunk into the neighbourhood will fire multiple requests to target multiple storer nodes. Forwarding will also terminate at the first peer within the neighbourhood and will no longer be forwarded to the closest peer within the network.
-        * Breaking changes
-            * Pushync forwarding nodes one hop from the neighbourhood multiplexes the chunk to multiple storer nodes in the neighbourhood. Forwarding terminates at the first neighbour. 
-        * Hardening
-            * Blocklist endpoint now correctly displays the mode and reason for the blocklisting of the peer. 
-            * Storage radius decreasing based on reserve size increased back to the 50% threshold. 
-            * Chainstate total amount and peer mode added to the status protocol.
-            * Connecting light nodes are not rejected based on bin size. 
-        * Performance improvements
-            * Initial historical syncing is limited to reduce workload. 
-            * Peer skiplist mechanism in retrieval and pushsync protocols now prune peers in a much more efficient way. 
-            * For a full PR rundown, please consult the v1.15.0 diff.
-* [Released v1.16.0](https://github.com/ethersphere/bee/releases/tag/v1.16.0) 
-    * With salud, nodes will periodically perform certain health checks on their connected peers with data acquired from the status protocol. The checks as of this release are based on the duration of response to the status protocol msg, number of connected peers, the storage radius, and total batch commitment as computed by each peer. For duration and number of connected peers, each peer must be within the 80th percentile to be deemed healthy. Radius and batch commitment are measured in terms of the most common values as reported by each connected peer. Measurements are created anew for each periodic health check. A self-check is also in place where, if the node's own storage radius does not match with the rest of the networks', the node won't participate in the Schelling game. With this release, only the pushsync protocol utilises the filtering of peers for requests based on the health status.
-        * Breaking changes
-            * The status protocol now includes the reachability of a peer and the total batch commitment of the network reported by each peer. 
-        * Bug fixes
-            * Fixed the last played round field in the redistribution state endpoint to report the current round instead of the previous round. 
-        * Hardening
-            * Loosened the requirements of the pushsync protocol so that when a neighbourhood is down or does not exist, the chunk is pushed as close as possible to its neighbourhood. 
-            * Increased the wake up interval for the depth monitor from 5 to 15 minutes. 
-* [Released v1.16.1](https://github.com/ethersphere/bee/releases/tag/v1.16.1)
-    * This one is a patch release to address a bug found in the new salud service.
-    * Bug fixes: Fixed a panic in the salud service when the response to the status request is terminated early by the peer. 
+
+#### [Released 1.15.0](https://github.com/ethersphere/bee/releases/tag/v1.15.0) 
+* With this release, we introduce a new pushsync feature to improve chunk syncing and replication in the network during uploading. Peers that forward chunk into the neighbourhood will fire multiple requests to target multiple storer nodes. Forwarding will also terminate at the first peer within the neighbourhood and will no longer be forwarded to the closest peer within the network.
+    * Breaking changes
+        * Pushync forwarding nodes one hop from the neighbourhood multiplexes the chunk to multiple storer nodes in the neighbourhood. Forwarding terminates at the first neighbour. 
+    * Hardening
+        * Blocklist endpoint now correctly displays the mode and reason for the blocklisting of the peer. 
+        * Storage radius decreasing based on reserve size increased back to the 50% threshold. 
+        * Chainstate total amount and peer mode added to the status protocol.
+        * Connecting light nodes are not rejected based on bin size. 
+    * Performance improvements
+        * Initial historical syncing is limited to reduce workload. 
+        * Peer skiplist mechanism in retrieval and pushsync protocols now prune peers in a much more efficient way. 
+        * For a full PR rundown, please consult the v1.15.0 diff.
+#### [Released v1.16.0](https://github.com/ethersphere/bee/releases/tag/v1.16.0) 
+* With salud, nodes will periodically perform certain health checks on their connected peers with data acquired from the status protocol. The checks as of this release are based on the duration of response to the status protocol msg, number of connected peers, the storage radius, and total batch commitment as computed by each peer. For duration and number of connected peers, each peer must be within the 80th percentile to be deemed healthy. Radius and batch commitment are measured in terms of the most common values as reported by each connected peer. Measurements are created anew for each periodic health check. A self-check is also in place where, if the node's own storage radius does not match with the rest of the networks', the node won't participate in the Schelling game. With this release, only the pushsync protocol utilises the filtering of peers for requests based on the health status.
+    * Breaking changes
+        * The status protocol now includes the reachability of a peer and the total batch commitment of the network reported by each peer. 
+    * Bug fixes
+        * Fixed the last played round field in the redistribution state endpoint to report the current round instead of the previous round. 
+    * Hardening
+        * Loosened the requirements of the pushsync protocol so that when a neighbourhood is down or does not exist, the chunk is pushed as close as possible to its neighbourhood. 
+        * Increased the wake up interval for the depth monitor from 5 to 15 minutes. 
+#### [Released v1.16.1](https://github.com/ethersphere/bee/releases/tag/v1.16.1)
+* This one is a patch release to address a bug found in the new salud service.
+* Bug fixes: Fixed a panic in the salud service when the response to the status request is terminated early by the peer. 
 * Health service released, monitoring the effects & storage incentives: this is progress towards getting realistic hardware requirements and putting any missing rules in place.
 * Phase 4 inclusion proof is in the final stages of testing & then looking for a release window on/after localstore dates.
 * Localstore testing begins on large cluster. 
@@ -69,14 +70,14 @@ Big news on the **DevRel** side. [New and updated Swarm documentation ](https://
 
 
 ### JS Track
-* [Bee JS v6.0.0](https://github.com/ethersphere/bee-js/releases/tag/v6.0.0)
-    * Adds streaming upload support for single files.
-    * Fixes a segmentation fault when running tests in a project where bee-js is a dependency.
-    * Fixes incompatibilities between Node versions 16, 18 and 19.
-    * Fixes an issue with directory and website uploads, where the resulting tar file had more zero-byte padding than standard, causing a connection reset from Bee’s side.
-    * Fixes a bug where projects could not be installed as root where bee-js is a dependency.
-    * Fixes a bug related to code splitting, causing frontend projects built with webpack not being able to fully load bee-js.
-    * Can now be built with slim Docker images, Python is no longer a dependency during project build.
+#### [Bee JS v6.0.0](https://github.com/ethersphere/bee-js/releases/tag/v6.0.0)
+* Adds streaming upload support for single files.
+* Fixes a segmentation fault when running tests in a project where bee-js is a dependency.
+* Fixes incompatibilities between Node versions 16, 18 and 19.
+* Fixes an issue with directory and website uploads, where the resulting tar file had more zero-byte padding than standard, causing a connection reset from Bee’s side.
+* Fixes a bug where projects could not be installed as root where bee-js is a dependency.
+* Fixes a bug related to code splitting, causing frontend projects built with webpack not being able to fully load bee-js.
+* Can now be built with slim Docker images, Python is no longer a dependency during project build.
 * [Swarm Desktop v0.25.0](https://github.com/ethersphere/swarm-desktop/releases/tag/v0.25.0)
     * Upgrades Bee to the latest version (1.16.1).
 
