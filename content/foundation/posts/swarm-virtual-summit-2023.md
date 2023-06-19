@@ -11,7 +11,7 @@ _template = "post"
 
 ## The wait is over: the return of the Swarm Summit
 
-It has been three long years since our last gathering in the vibrant city of [Madrid](https://www.youtube.com/watch?v=tXbi99T2osw), where ideas sparked, connections were made, and the Swarm community came together. So it is with great pleasure to be able to announce that the Swarm Virtual Summit is back on our [calendars](https://www.addevent.com/event/Ee17443659). From 21 to 23 June the Swarm community will get together in a virtual setting for three days packed with knowledge, collaboration and just a touch of excitement.
+It has been three long years since our last gathering in the vibrant city of [Madrid](https://www.youtube.com/watch?v=tXbi99T2osw), where ideas sparked, connections were made, and the Swarm community came together. So it is with great pleasure to be able to announce that the Swarm Virtual Summit is back on our [calendars](https://www.addevent.com/event/Ee17443659). From 21 to 23 June the Swarm community will get together in a virtual setting for [three days packed with knowledge, collaboration and just a touch of excitement](https://summit.ethswarm.org/swarm-summit-2023/schedule/#).
 
 ## Sharing is caring – workshops, talks, announcements, and more
 
