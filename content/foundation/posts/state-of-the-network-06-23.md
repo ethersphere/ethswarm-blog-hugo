@@ -2,7 +2,7 @@
 banner = "/uploads/state-of-network-blog.png"
 categories = [ "Development updates" ]
 date = 2023-06-20T00:00:00.000Z
-description = ""
+description = "The last few months have been a transformative time for Swarm. Development is progressing on multiple fronts, and the hard work of the research and development teams is reflected by network growth and performance improvements. In this article we discuss the state of the network on multiple fronts."
 references_and_footnotes = [ ]
 title = "State of the Network – June 2023"
 +++
