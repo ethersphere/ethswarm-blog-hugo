@@ -34,7 +34,9 @@ The second important thing about Swarm is that its network uses a specific type 
 
 ![](/uploads/5-3.png)
 
-What happens is explained in the figure below. Alice sends a message for Dave to Bob. Bob still doesn’t know who Dave is but he does know Carol, who is more likely to know Dave. He forwards her the message and since Carol actually knows Dave she sends the message to him. The exact opposite route happens when Dave sends a message back to Alice.![](/uploads/6-2.png)
+What happens is explained in the figure below. Alice sends a message for Dave to Bob. Bob still doesn’t know who Dave is but he does know Carol, who is more likely to know Dave. He forwards her the message and since Carol actually knows Dave she sends the message to him. The exact opposite route happens when Dave sends a message back to Alice.
+
+![](/uploads/6-2.png)
 
 ![](/uploads/7-2.png)
 

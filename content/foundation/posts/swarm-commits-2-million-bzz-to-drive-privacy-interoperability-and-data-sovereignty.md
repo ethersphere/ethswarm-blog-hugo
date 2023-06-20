@@ -16,9 +16,9 @@ After the Swarm project was bootstrapped by, and graduated from, the Ethereum Fo
 
 The Fair Data Society is an initiative that promotes ethical, responsible, and transparent data practices in the digital era. Its primary goal is to foster a fair data economy, where individual privacy, data sovereignty, and digital integrity are respected and upheld. Fair Data Society envisions a world in which data is recognized as a common good and its usage and sharing benefits everyone, rather than being exploited by a few centralized entities.
 
-Fair Data Society is built on several key principles, which include: user consent; data minimisation; data interoperability; transparency; and accountability. These principles guide the development of technology and business models in the data-driven landscape, helping to ensure that data is collected, processed, and shared responsibly and ethically.
+Fair Data Society is built on several key principles, which include: user consent, data minimisation, data interoperability, transparency, and accountability. These principles guide the development of technology and business models in the data-driven landscape, helping to ensure that data is collected, processed, and shared responsibly and ethically.
 
-By encouraging collaboration and innovation, Fair Dara Society aims to create an ecosystem of projects and organisations committed to its principles. This collaborative approach enables the development of solutions and services that respect individual privacy and empower users to control their own data. By supporting the Fair Data Society initiative, stakeholders contribute to the establishment of a more equitable and ethical data economy that benefits all participants.
+By encouraging collaboration and innovation, Fair Data Society aims to create an ecosystem of projects and organisations committed to its principles. This collaborative approach enables the development of solutions and services that respect individual privacy and empower users to control their own data. By supporting the Fair Data Society initiative, stakeholders contribute to the establishment of a more equitable and ethical data economy that benefits all participants.
 
 ## **Why does Swarm Foundation support FDS?**
 

@@ -119,7 +119,7 @@ Much like `bee-factory`, [FDP Play](https://github.com/fairDataSociety/fdp-play)
 * Ports `1633`, `1635` and `9090` must be free and available
 
 ### Step 1: Install FDP Play
-
+    
     npm install -g @fairdatasociety/fdp-play
 
 ### Step 2: Using FDP Play
