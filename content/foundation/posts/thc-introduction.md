@@ -11,7 +11,7 @@ _template = "post"
 
 This article is part of [The Hivemaker's Code](https://toolkit.ethswarm.org/) series:
 - Article 1: Introduction
-- Article 2: [How do Ecosystems Grow](https://)
+- Article 2: [How do Ecosystems Grow](https://blog.ethswarm.org/foundation/2023/the-hivemakers-code-how-do-ecosystems-grow/)
 
 ## What is This Document About?
 
