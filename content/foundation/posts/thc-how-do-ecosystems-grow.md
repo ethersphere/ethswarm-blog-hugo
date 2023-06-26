@@ -1,7 +1,7 @@
 +++
 banner = "/uploads/THC-ecosystems-grow.png"
 categories = [ "Ecosystem" ]
-date = 2023-06-26T23:00:00.000Z
+date = 2023-06-25T23:00:00.000Z
 description = "In 1993, James F. Moore published an article in Harvard Business Review. Inside, he presented an idea that was quite unusual at that time. He claimed that business networks, consisting of interacting companies, products, and users, could be understood similarly to natural ecosystems"
 references_and_footnotes = [ ]
 title = "The Hivemaker's code: How do Ecosystems Grow?"
