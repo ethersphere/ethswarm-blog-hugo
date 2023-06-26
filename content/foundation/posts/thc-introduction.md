@@ -13,7 +13,7 @@ This article is part of [The Hivemaker's Code](https://toolkit.ethswarm.org/) se
 - Article 1: Introduction
 - Article 2: [How do Ecosystems Grow](https://)
 
-# What is This Document About?
+## What is This Document About?
 
 The document you’re about to read will help you create a living digital ecosystem. It’s divided into two parts.
 
