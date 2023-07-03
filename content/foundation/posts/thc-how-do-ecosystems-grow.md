@@ -16,7 +16,7 @@ This article is part of [The Hivemaker's Code](https://toolkit.ethswarm.org/) se
 ## How do Ecosystems Grow?
 ### All By Themselves.
 
-**Author: Oliver Lukitsch**
+**Authors: Oliver Lukitsch, Michal Matlon, Gregor Žavcer, Thomas Fundneider, Markus Peschl, Lena Müller-Naendrup**
 
 In 1993, James F. Moore published an article in Harvard Business Review. Inside, he presented an idea that was quite unusual at that time. He claimed that business networks, consisting of interacting companies, products, and users, could be understood similarly to natural [ecosystems](https://en.wikipedia.org/wiki/Ecosystem). 
 

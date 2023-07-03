@@ -15,6 +15,8 @@ This article is part of [The Hivemaker's Code](https://toolkit.ethswarm.org/) se
 
 ## What is This Document About?
 
+**Authors: Oliver Lukitsch, Michal Matlon, Gregor Žavcer, Thomas Fundneider, Markus Peschl, Lena Müller-Naendrup**
+
 The document you’re about to read will help you create a living digital ecosystem. It’s divided into two parts.
 
 In the first part, you’ll find the toolkit. This highly practical, nine-step thinking process will guide you through designing your ecosystem’s strategy piece by piece.
