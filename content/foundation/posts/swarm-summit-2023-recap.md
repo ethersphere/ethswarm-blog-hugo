@@ -34,7 +34,7 @@ All that Swarm encompasses is also brought together in the **[revised and recent
 
 #### Help make Swarm even better with SWIPs
 
-Everyone interested in making the Swarm network even better and richer with features is invited to submit a formal proposal in the form of **[Swarm Improvement Proposals (SWIPs**)](https://www.ethswarm.org/contribute)**. Every sensible suggestion will be taken up by the research and development teams and put into action.
+Everyone interested in making the Swarm network even better and richer with features is invited to submit a formal proposal in the form of **[Swarm Improvement Proposals (SWIPs)](https://www.ethswarm.org/contribute)**. Every sensible suggestion will be taken up by the research and development teams and put into action.
 
 #### Impending roll out of the local store and decentralised price oracle
 
