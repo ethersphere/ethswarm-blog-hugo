@@ -28,15 +28,15 @@ The summit opened with the latest news in the Swarm network. In the last six mon
 
 *“We have been through every stress test; we've already scaled up thousands of nodes in the network; we've had doublings; we've had everything and that 0% has been maintained,”* Callum Toner from the Research Track stressed. And with better syncing, multiple stamps per chunk, pinning of files and more, Swarm provides a stable foundation for a plethora of future use cases, Callum added.
 
-The new edition of the Book of Swarm is out
+#### The new edition of the Book of Swarm is out
 
 All that Swarm encompasses is also brought together in the **[revised and recently fully updated edition of the Book of Swarm**](https://www.ethswarm.org/The-Book-of-Swarm.pdf)**, including the **[upgraded storage incentives mechanism**](https://www.overleaf.com/project/6173a105d96be57785c743e0)**. It details all the inner workings of the network, so if you have any technical questions, the Book of Swarm is the best source to go to.
 
-Help make Swarm even better with SWIPs
+#### Help make Swarm even better with SWIPs
 
 Everyone interested in making the Swarm network even better and richer with features is invited to submit a formal proposal in the form of **[Swarm Improvement Proposals (SWIPs**)](https://www.ethswarm.org/contribute)**. Every sensible suggestion will be taken up by the research and development teams and put into action.
 
-Impending roll out of the local store and decentralised price oracle
+#### Impending roll out of the local store and decentralised price oracle
 
 Regarding the near future, Callum pointed out the mainnet roll out of the updated localstore, which will be a breaking release, happening this week. The next big thing coming to Swarm in about five weeks is the decentralised price oracle (Phase 3), which will mark the completion of the [core components of the storage incentives mechanism](https://blog.ethswarm.org/foundation/2022/towards-the-world-computer.-the-swarm-network-upgrade-has-started./), along with the completion of Phase 4.
 
