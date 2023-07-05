@@ -16,10 +16,12 @@ The [Swarm Virtual Summit](https://blog.ethswarm.org/foundation/2023/swarm-virtu
 
 
 ## Bee Track
+
 #### Released [v2.0.0-rc5](https://github.com/ethersphere/bee/releases/tag/v2.0.0-rc5)
-    * The new localstore is on private and public testnets and optimisations are being made to up the upload speed so that we can release to mainnet. 
-    * We have also experienced a perfect month of network activity with 0% error rates on our smoke tests.
-    * The joint effort from DevRel and Bee team has resulted in the openAPI and protocol specs and diagrams being completed and pending release. 
+
+* The new localstore is on private and public testnets and optimisations are being made to up the upload speed so that we can release to mainnet. 
+* We have also experienced a perfect month of network activity with 0% error rates on our smoke tests.
+* The joint effort from DevRel and Bee team has resulted in the openAPI and protocol specs and diagrams being completed and pending release. 
 
 
 ## Research Track
@@ -32,8 +34,9 @@ The [Swarm Virtual Summit](https://blog.ethswarm.org/foundation/2023/swarm-virtu
 ## Ecosystem
 
 
-#### [The Hivemaker's Code:](https://toolkit.ethswarm.org/) A toolkit for building value-driven, decentralized digital ecosystems.
+#### [The Hivemaker's Code:](https://toolkit.ethswarm.org/) 
 
+A toolkit for building value-driven, decentralized digital ecosystems.
 In collaboration with theLivingCore, Swarm published the Hivemaker's Code. This is a nine-part toolkit for creating value-driven digital ecosystems.
 
 
