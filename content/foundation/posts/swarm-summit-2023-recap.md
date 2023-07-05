@@ -30,7 +30,7 @@ The summit opened with the latest news in the Swarm network. In the last six mon
 
 #### The new edition of the Book of Swarm is out
 
-All that Swarm encompasses is also brought together in the **[revised and recently fully updated edition of the Book of Swarm**](https://www.ethswarm.org/The-Book-of-Swarm.pdf)**, including the **[upgraded storage incentives mechanism**](https://www.overleaf.com/project/6173a105d96be57785c743e0)**. It details all the inner workings of the network, so if you have any technical questions, the Book of Swarm is the best source to go to.
+All that Swarm encompasses is also brought together in the **[revised and recently fully updated edition of the Book of Swarm](https://www.ethswarm.org/The-Book-of-Swarm.pdf)**, including the **[upgraded storage incentives mechanism](https://www.overleaf.com/project/6173a105d96be57785c743e0)**. It details all the inner workings of the network, so if you have any technical questions, the Book of Swarm is the best source to go to.
 
 #### Help make Swarm even better with SWIPs
 
