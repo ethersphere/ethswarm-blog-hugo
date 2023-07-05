@@ -9,13 +9,13 @@ _template = "post"
 +++
 
 
-# Day 1\*
+## Day 1\*
 
 As the summer light symbolically vanquished the darkness on 21 June, Swarm network kicked off its three-day Swarm Virtual Summit. This year, the network's global community gathered in the virtual world, giving all its diverse members a chance to watch and listen to leading voices and keen enthusiasts across different fields on the online stage.
 
 They shared their insights, fresh ideas, and experience relating to Swarm and Web3, creating an engaging event for everyone in the audience. Below is a recap of the first day, which includes the latest network updates, new partnerships and use cases for the network.
 
-## Swarm is ready to g(r)o(w)
+### Swarm is ready to g(r)o(w)
 
 [The entire Swarm Virtual Summit is available here ](https://swarm.streameth.org/archive)
 
@@ -40,7 +40,7 @@ Impending roll out of the local store and decentralised price oracle
 
 Regarding the near future, Callum pointed out the mainnet roll out of the updated localstore, which will be a breaking release, happening this week. The next big thing coming to Swarm in about five weeks is the decentralised price oracle (Phase 3), which will mark the completion of the [core components of the storage incentives mechanism](https://blog.ethswarm.org/foundation/2022/towards-the-world-computer.-the-swarm-network-upgrade-has-started./), along with the completion of Phase 4.
 
-## New partnerships
+### New partnerships
 
 During the first day of the summit the Swarm Foundation also announced four new partnerships:
 
@@ -57,38 +57,38 @@ During the first day of the summit the Swarm Foundation also announced four new 
 
 [Watch video](https://swarm.streameth.org/session/ND3WE8)
 
-## Talks
-### Bringing Nextcloud to Swarm
+### Talks
+#### Bringing Nextcloud to Swarm
 
 In his talk, Björn Magalhães from MetaProvide discussed the possibilities of how 400,000 of already existing Nextcloud-servers could be used with Swarm for decentralised data-storage, blockchain interaction, and Bee node hosting. The demo focused on how you can connect your self-hosted Nextcloud instance to Swarm and leverage the potential of a decentralised storage network. Also, Nextcloud wallet-login is currently in the works that in the future could take advantage of Swarm’s native token, BZZ.
 
 [Watch video](https://swarm.streameth.org/session/KQCJXE)
 
-### Creating digital hives - a Web3 builder’s toolkit
+#### Creating digital hives - a Web3 builder’s toolkit
 
 How create decentralised systems that are value-driven and where positive uses of the system are incentivised? Michal Matlon dissects the nine-part toolkit called The [Hivemaker’s Code ](https://toolkit.ethswarm.org/)which is based on the three principles of how living organisms organise themselves: self-organisation (the system creates its own purpose), decentralisation (no subsystem can control other subsystems) and emergent creativity (the system must constantly adapt and create new solutions).
 
 [Watch video](https://swarm.streameth.org/session/ZAHYZV)
 
-### Enabling parallel societal structures through decentralised technologies
+#### Enabling parallel societal structures through decentralised technologies
 
 Joseph Jelacic takes the audience through the genesis of Paralelni Polis, one of Europe’s most prominent cryptoanarchic establishments, its philosophical foundations laid by Vaclav Benda and how they are involved in today’s crypto scene in Europe.
 
 [Watch video](https://swarm.streameth.org/session/FD9M7U)
 
-### Bringing good data to Swarm
+#### Bringing good data to Swarm
 
 The last talk of the day was reserved for Črt Ahlin who presented the Great Data Upload initiative that aims to bring the world’s data to Swarm. Starting with public data, the goal is to preserve popular data, data that is costly to host and data that should be stored in a decentralised manner. Črt presented the tools that can be used to upload the data, the file format used, how to download the data and download limitations.
 
 [Watch video](https://swarm.streameth.org/session/QBQCU9)
 
-# Day 2
+## Day 2
 
 On the second day of the Swarm Virtual Summit the talks meandered between real-world examples of how Web3 can improve our world, the exploration of novel concepts like digital integrity and how this technology can be used to fight censorship.
 
-## Talks
+### Talks
 
-### Swarm - a value-aligned storage layer for the world computer
+#### Swarm - a value-aligned storage layer for the world computer
 
 The first talk of the day was held by Swarm Team Lead, Viktor Trón. In it, he focused on what makes Swarm unique as the data layer for the world computer.
 
@@ -120,97 +120,97 @@ All of this taken together makes Swarm a layer that enables high-level features 
 
 [Watch here](https://swarm.streameth.org/session/WTGEAY)
 
-### Byzantine-tolerant error correction - a use case for Swarm
+#### Byzantine-tolerant error correction - a use case for Swarm
 
 Erasure coding is nothing new in providing data redundancy in distributed storage systems. The problem with Byzantine fault-tolerant erasure coding lies in some false assumptions when designing the system. Independent Web3 geek Silur talks about these fallacies and gives his insights how a network like Swarm could build an adversarial-resistant erasure coding system.
 
 [Watch here](https://swarm.streameth.org/session/NMLPJB)
 
-### Are we entitled to digital integrity?
+#### Are we entitled to digital integrity?
 
 In the current extractive data economy there’s a search for a core human right relating to the digital world. Alexis Roussel from Nym discusses the concept of digital integrity through the lens of the recent Swiss referendum that enshrined it in the constitution. His talk focuses on how digital integrity extends the concept of physical and mental integrity, its relevance for digital self-determination and how it changes and refocuses the privacy narrative.
 
 [Watch here](https://swarm.streameth.org/session/7FUGE3)
 
-### Decentralising musical rights organisations
+#### Decentralising musical rights organisations
 
 Today, copyright management organisations (CMO) are centralised, country-based entities that physically store musical scores and audio supports. Matteo Alessio Tambussi discusses his proof-of-concept to create a decentralised registry and payout system based on usage type running on Swarm.
 
 [Watch here](https://swarm.streameth.org/session/TZNHFB)
 
-### Gaming on the blockchain - is it delivering the promises?
+#### Gaming on the blockchain - is it delivering the promises?
 
 Mark Engelhardt from AMG DAO talks about the big promises blockchain gaming introduced into the gaming industry. From full ownership, open economies, interoperable games to trustlessness. But is it delivering?
 
 [Watch here](https://swarm.streameth.org/session/TDPL3X)
 
-### Fixing the food chain
+#### Fixing the food chain
 
 Over 100 million tonnes of perfectly edible food are discarded every year. Balint Drahota demonstrates how the two companies he’s involved in, Essence Food and Fair Food Data, upcycle the available food and help make the logistics chain involved in food distribution much more traceable and transparent.
 
 [Watch here](https://swarm.streameth.org/session/TDPL3X) 
 
-### The importance of resisting censorship: how activists can use blockchain as a tool
+#### The importance of resisting censorship: how activists can use blockchain as a tool
 
 A panel discussion with Nadya Tolokonnikova (PussyRiot), Mike Bonnano (The Yes Man) and Scott Beibin (Mordechai Tuchasman) moderated by Lou de Kerhuelvez.
 
 [Watch here](https://swarm.streameth.org/session/LQAGTE)
 
-# Day 3
+## Day 3
 
 The summit’s last day was a vivid and interesting mix of topics that spanned across AI in blockchain, big brain data NFTs and importance of UX in decentralisation.
 
-## Talks
-### Hey, AI, write my smart contract
+### Talks
+#### Hey, AI, write my smart contract
 
 Sasha Pitkevich gives an unapologetic talk about what AI today can do for a blockchain delivery team. No magic, no false promises, real facts and examples. Hint: AI is a big help, but it needs a friendly human to help it as well.
 
 [Watch here](https://swarm.streameth.org/session/XBN9PW)
 
-### The challenges of keeping big brain data secure
+#### The challenges of keeping big brain data secure
 
 Are we entering big brain data and does this pose a new security risk? Jurij Dreo from [BrainTrip](https://braintrip.net/en) discusses the issue in his talk by looking at how the advent of neuro imaging and data processing technologies, coupled with a dramatic increase in available neuro data, has also increased the potential of its misuse in the future.
 
 [Watch here](https://swarm.streameth.org/session/S9NV7A)
 
-### From normies to degens - a Solarpunk tale
+#### From normies to degens - a Solarpunk tale
 
 Barbara R. Lőrincz from [solarpunk.buzz](https://solarpunk.buzz/) talks about the guidelines and contemplations that underpin the Solarpunk movement.
 
 [Watch here](https://swarm.streameth.org/session/WSBKPD)
 
-### Minting NFTs from your WordPress archive with Kredeum
+#### Minting NFTs from your WordPress archive with Kredeum
 
 Alain Papazoglou and Philippe Pérou from [Kredeum](https://www.kredeum.com/) demonstrate how WordPress users can plug their WordPress archive to the Swarm network and easily mint and sell NFTs in a personally curated marketplace.
 
 [Watch here](https://swarm.streameth.org/session/BUGXSL)
 
 
-### Making NFTs unstoppable on Swarm
+#### Making NFTs unstoppable on Swarm
 
 NFTs and their metadata are usually at risk of being lost when stored on centralised solutions. Alexander Shedogubov from Envelope DAO shares their solution on how to create a semi-public service of pinning NFTs to Swarm by creating a mechanism that will allow NFT owners to easily request node operators to pin their files to Swarm for them.
 
 [Watch here](https://swarm.streameth.org/session/YW8TYW)
 
-### Exploring Ethereum transactions with Blobscan
+#### Exploring Ethereum transactions with Blobscan
 
 When Ethereum introduced the EIP-4844 it changed the transaction format which allows for a much bigger block data field, called a blob. In his talk, Gabi demonstrated [Blobscan](https://github.com/Blobscan/blobscan), the first blob explorer of its kind and one that uses Swarm to store blob data.
 
 [Watch here](https://swarm.streameth.org/session/KFLEZX)
 
-### Etherna: redefining video sharing with decentralisation, transparency, and uncensorable contents
+#### Etherna: redefining video sharing with decentralisation, transparency, and uncensorable contents
 
 Sergio Marchese demonstrates [Etherna](https://etherna.io/), a decentralised, zero-data and censorship resistant video platform. Etherna is centred around empowering community content creation and curation based on fair incentives for content producers and users.
 
 [Watch here](https://swarm.streameth.org/session/YRLAFQ)
 
-### From S3 to Swarm - less friction more decentralised storage
+#### From S3 to Swarm - less friction more decentralised storage
 
 To encourage more people to adopt decentralised storage, we need to eliminate key friction points from the onboarding and migration process. Sam Lauridsen from [Protobox](https://www.protobox.xyz/) unveils their S3 API gateway for Swarm that removes a lot of friction from adding Swarm’s decentralised storage to your toolbox.
 
 [Watch here](https://swarm.streameth.org/session/DUAQZ7)
 
-### Increasing decentralisation capability through UX
+#### Increasing decentralisation capability through UX
 
 Achieving decentralisation is not easy. But we can dramatically increase the ability to decentralise a system with great UX. Pol Lanski from DappNode explains how and why UX is crucial in this role.
 

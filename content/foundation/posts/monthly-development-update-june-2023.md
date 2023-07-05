@@ -11,12 +11,12 @@ _template = "post"
 
 June marked an important point in the Swarm network development. The new localstore was released on private and public testnet and the new revised and updated edition of the [Book of Swarm](https://www.ethswarm.org/The-Book-of-Swarm.pdf) is now available. The Research Track has also made it much easier to find nodes that couldn’t enter the storage incentives game and understand the circumstances. 
 
-The [Swarm Virtual Summit](https://swarm.streameth.org/archive) is successfully behind us. **Over 20 inspiring and educational presentations** on the use of Swarm and other decentralised technologies are available for viewing. Grab yourself [early access to Fairdrive Web App](https://join.fairdrive.io/) and get some free storage while you’re at it. [Swarm docs have a great new look and feel](https://docs.ethswarm.org/) and if you’re interested in building value-driven digital ecosystems, the Hivemaker’s Code by theLivingCore and Swarm is [available here](https://toolkit.ethswarm.org/). There have also been numerous bug fixes and updates across the entire Swarm stack. 
+The [Swarm Virtual Summit](https://blog.ethswarm.org/foundation/2023/swarm-virtual-summit-swarm-is-ready.-ready-to-grow./) is successfully behind us. **Over 20 inspiring and educational presentations** on the use of Swarm and other decentralised technologies are available for viewing. Grab yourself [early access to Fairdrive Web App](https://join.fairdrive.io/) and get some free storage while you’re at it. [Swarm docs have a great new look and feel](https://docs.ethswarm.org/) and if you’re interested in building value-driven digital ecosystems, the Hivemaker’s Code by theLivingCore and Swarm is [available here](https://toolkit.ethswarm.org/). There have also been numerous bug fixes and updates across the entire Swarm stack. 
 
 
 
 ## Bee Track
-* Released [v2.0.0-rc5](https://github.com/ethersphere/bee/releases/tag/v2.0.0-rc5)
+#### Released [v2.0.0-rc5](https://github.com/ethersphere/bee/releases/tag/v2.0.0-rc5)
     * The new localstore is on private and public testnets and optimisations are being made to up the upload speed so that we can release to mainnet. 
     * We have also experienced a perfect month of network activity with 0% error rates on our smoke tests.
     * The joint effort from DevRel and Bee team has resulted in the openAPI and protocol specs and diagrams being completed and pending release. 
@@ -121,7 +121,7 @@ In collaboration with theLivingCore, Swarm published the Hivemaker's Code. This 
     * `etherjot promote`: This command enables users to customize flagship posts, highlighted categories, and other promotional aspects of the blog.
 
 ### Events
-#### [Swarm Virtual Summit 21–23 June 2023](https://swarm.streameth.org/archive)
+#### [Swarm Virtual Summit 21–23 June 2023](https://blog.ethswarm.org/foundation/2023/swarm-virtual-summit-swarm-is-ready.-ready-to-grow./)
 - The summit featured an array of experts, enthusiasts and trailblazers who shared their insights, experience and visions for the future of Swarm. From hands-on workshops to engaging talks, from surprise announcements to cosy fireside chats – it all happened at the Swarm Summit 2023
 - You can watch the entire summit on [StreamEth](https://swarm.streameth.org/archive). See the presentations you missed or watch them again.
 
