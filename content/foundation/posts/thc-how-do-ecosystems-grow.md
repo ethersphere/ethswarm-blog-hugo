@@ -166,7 +166,7 @@ Life's ability to create new niches is a fundamental feature of biology. It is t
 
 If an ecosystem cannot enable new forms of life, it may not deserve to be called a living ecosystem. But why should we bother with these concepts? If a digital ecosystem works as it is, why should we bother making it a "living ecosystem"?
 
-We began the article by asking whether digital systems, such as Web 2.0 and Web3, are real ecosystems – whether they are genuinely living systems.Digital ecosystems, more than any other social ecosystem, seem highly disembodied, rule-based, and mechanized, especially when compared to a pre-digital ecosystem. Living ecosystems seem to be quite the opposite.
+We began the article by asking whether digital systems, such as Web 2.0 and Web3, are real ecosystems – whether they are genuinely living systems. Digital ecosystems, more than any other social ecosystem, seem highly disembodied, rule-based, and mechanized, especially when compared to a pre-digital ecosystem. Living ecosystems seem to be quite the opposite.
 
 Moreover, our behavior on today's web is often driven and shaped by algorithms that act in the interest of the companies that made them. We seem to lack the autonomy of living beings embedded in living ecosystems. 
 
