@@ -40,7 +40,7 @@ To answer these questions, we take a brief detour to the basic principles of evo
 
 ### Autonomy and Self-Organization
 
-Before we wonder why digital ecosystems deserve to be treated as “living_ _systems,” we should revisit the very basics of biology. What does it mean for an organism or object to be a living system? 
+Before we wonder why digital ecosystems deserve to be treated as “living systems,” we should revisit the very basics of biology. What does it mean for an organism or object to be a living system? 
 
 Many biologists list a set of features only present in living organisms. These can be growth, sensitivity to external stimuli, reproduction, homeostasis, adaptivity and learning, and being composed of cells. Such definitions, however, do not fully capture the uniqueness of living systems. 
 
@@ -68,13 +68,13 @@ But is the course of evolution really determined by an external force? Is natura
 
 Charles Darwin is as influential as he is misunderstood. He famously maintained that only the fittest survive. This claim is often interpreted as meaning that only the "strongest" survive. Just think of majestic lions and clever apes that dominate their ecosystems.
 
-However, fitness has nothing to do with the strength or intelligence of individual organisms. Instead, it measures how a species can reproduce successfully in its environment. Staying alive is a collective, multigenerational project any species must pursue. In that sense, only the entire species_ _matters.
+However, fitness has nothing to do with the strength or intelligence of individual organisms. Instead, it measures how a species can reproduce successfully in its environment. Staying alive is a collective, multigenerational project any species must pursue. In that sense, only the entire species matters.
 
 True, Darwin uses the superlative: "Only the fittest are being selected by nature." This is true, but only because two species compete for the same resources. The fittest, in this sense, is the organism that uses the resources in a niche more effectively than its niche mates.
 
 According to its intellectual father, evolution is not only about optimization and competition. It’s also about the inherent biological, natural creativity of evolutionary dynamics, as Stuart Kauffman notes. How do organisms produce the unique forms, functions, and abilities that make our ecosystems colorful and diverse?
 
-Natural selection is a mechanism that selects already existing_ _shapes and forms (or phenotypes, as biology calls them). But how do the various biological forms and shapes arise, to begin with?
+Natural selection is a mechanism that selects already existing shapes and forms (or phenotypes, as biology calls them). But how do the various biological forms and shapes arise, to begin with?
 
 Random mutation is often given as one part of the explanation. Yet, it forms only one piece of the puzzle resulting in a vast and increasing complexity of organisms. To make things worse, biologists consider it a highly effective survival strategy to stick with simplicity, be small, and produce lots of offspring at speed. It’s a strategy that works flawlessly for the amoeba but fails the elephant.
 
@@ -93,7 +93,7 @@ While it was a given for a long time that natural selection was the only mechani
 
 One such theory, the "theory of constructive neutral evolution," argues that biological changes do happen even without selective pressure. The story goes like this: Evolution can bring forth so-called "silent" changes (that don't serve any purpose or function) and functional changes (that give rise to new functions). 
 
-Evolution proceeds without being imposed by the external environment when such changes occur by mutation and are passed on to new generations. It is purely constructive_ _rather than selective_. _
+Evolution proceeds without being imposed by the external environment when such changes occur by mutation and are passed on to new generations. It is purely constructive rather than selective.
 
 Stephen J. Gould, for example, described the evolution of some traits that initially had no function or at least a different function. He calls such features "exaptations." Usually, you could think that as long as a biological trait cannot fulfill a function, nature has no "reason" for selecting it. Why should she? There is simply no advantage for an organism to have "useless" traits. 
 
@@ -134,7 +134,7 @@ So what does all of this have to do with the economy? Evolutionary biologist Rob
 
 Many economists have used biological and ecosystem metaphors to explain how markets evolve. Many also conceive of a market ecosystem as a predefined space into which their products need to fit. And we will soon show it might not be entirely correct. 
 
-These economists say a company can identify its future niches in advance. They think a market ecosystem can be divided into narrower niches, which the companies can then occupy. However, sticking with this notion of niches can lead an organization to focus on incremental improvement_ and _optimization. 
+These economists say a company can identify its future niches in advance. They think a market ecosystem can be divided into narrower niches, which the companies can then occupy. However, sticking with this notion of niches can lead an organization to focus on incremental improvement and optimization. 
 
 For example, think of the bicycle. It occupies a niche as a means of transportation. It excels in many uses, where the train or ship doesn't. And the bicycle niche was sliced into many distinct niches. There are racing, commuter, mountain, gravel, and e-bikes. 
 
@@ -166,7 +166,7 @@ Life's ability to create new niches is a fundamental feature of biology. It is t
 
 If an ecosystem cannot enable new forms of life, it may not deserve to be called a living ecosystem. But why should we bother with these concepts? If a digital ecosystem works as it is, why should we bother making it a "living ecosystem"?
 
-We began the article by asking whether digital systems, such as Web 2.0 and Web3, are real ecosystems – whether they are genuinely living systems._ _Digital ecosystems, more than any other social ecosystem, seem highly disembodied, rule-based, and mechanized, especially when compared to a pre-digital ecosystem. Living ecosystems seem to be quite the opposite.
+We began the article by asking whether digital systems, such as Web 2.0 and Web3, are real ecosystems – whether they are genuinely living systems. Digital ecosystems, more than any other social ecosystem, seem highly disembodied, rule-based, and mechanized, especially when compared to a pre-digital ecosystem. Living ecosystems seem to be quite the opposite.
 
 Moreover, our behavior on today's web is often driven and shaped by algorithms that act in the interest of the companies that made them. We seem to lack the autonomy of living beings embedded in living ecosystems. 
 
@@ -223,13 +223,13 @@ One way to overcome this problem is to identify one such keystone species, a spe
 ## References
 Cattani, G. and M. Mastrogiorgio (Eds.) (2021). New developments in evolutionary innovation. Novelty creation in a serendipitous economy. Oxford: Oxford University Press.
 
-Cazzolla Gatti, Roberto, Brian Fath, Wim Hordijk, Stuart Kauffman, and Robert Ulanowicz. 2018. “Niche Emergence as an Autocatalytic Process in the Evolution of Ecosystems.” _Journal of Theoretical Biology_ 454: 110–17. https://doi.org/10.1016/j.jtbi.2018.05.038.
+Cazzolla Gatti, Roberto, Brian Fath, Wim Hordijk, Stuart Kauffman, and Robert Ulanowicz. 2018. “Niche Emergence as an Autocatalytic Process in the Evolution of Ecosystems.” Journal of Theoretical Biology 454: 110–17. https://doi.org/10.1016/j.jtbi.2018.05.038.
 
 
-Cazzolla Gatti, Roberto, Roger Koppl, Brian D. Fath, Stuart Kauffman, Wim Hordijk, and Robert E. Ulanowicz. 2020. “On the Emergence of Ecological and Economic Niches.” _Journal of Bioeconomics_ 22 (2): 99–127. https://doi.org/10.1007/s10818-020-09295-4.
+Cazzolla Gatti, Roberto, Roger Koppl, Brian D. Fath, Stuart Kauffman, Wim Hordijk, and Robert E. Ulanowicz. 2020. “On the Emergence of Ecological and Economic Niches.” Journal of Bioeconomics 22 (2): 99–127. https://doi.org/10.1007/s10818-020-09295-4.
 
 
-Gould, Stephen Jay, and Richard Lewontin. 1979. “The Spandrels of San Marco and the Panglossian Paradigm: A Critique of the Adaptationist Programme.” _Proceedings of the Royal Society B: Biological Sciences_ 205: 581–89.
+Gould, Stephen Jay, and Richard Lewontin. 1979. “The Spandrels of San Marco and the Panglossian Paradigm: A Critique of the Adaptationist Programme.” Proceedings of the Royal Society B: Biological Sciences 205: 581–89.
 
 
 Kauffman, S.A. (1993). The origins of order: Self-organisation and selection in evolution. Oxford: Oxford University Press.
@@ -244,10 +244,10 @@ Kauffman, S.A. (2016). Humanity in a creative universe. New York: Oxford Univers
 Koppl, R., S. Kauffman, T. Felin, and G. Longo (2014). Economics for a creative world. Journal of Institutional Economics 2014, 1–31.
 
 
-Humberto R. Maturana and Francisco Varela. 1987. _The Tree of Knowledge: The Biological Roots of Human Understanding._ Boston: Shambhala Press.
+Humberto R. Maturana and Francisco Varela. 1987. The Tree of Knowledge: The Biological Roots of Human Understanding. Boston: Shambhala Press.
 
 
-Paine, Robert T. 1966. “Food Web Complexity and Species Diversity.” _The American Naturalist_ 100 (910): 65–75.
+Paine, Robert T. 1966. “Food Web Complexity and Species Diversity.” The American Naturalist 100 (910): 65–75.
 
 
-Stoltzfus, Arlin. 1999. “On the Possibility of Constructive Neutral Evolution.” _Journal of Molecular Evolution_ 49 (2): 169–81. https://doi.org/10.1007/PL00006540.
+Stoltzfus, Arlin. 1999. “On the Possibility of Constructive Neutral Evolution.” Journal of Molecular Evolution 49 (2): 169–81. https://doi.org/10.1007/PL00006540.
