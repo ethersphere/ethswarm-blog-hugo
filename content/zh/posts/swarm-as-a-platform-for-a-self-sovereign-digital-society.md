@@ -1,6 +1,6 @@
 +++
 banner = ""
-categories = [ "Events" ]
+categories = [ "中文" ]
 date = 2022-03-14T04:00:00.000Z
 description = "The text below is a recap of Viktor Tron’s talk from the We Are Millions Hackathon (WAM) and Festival. You can listen to the entire talk here."
 references_and_footnotes = [ ]
