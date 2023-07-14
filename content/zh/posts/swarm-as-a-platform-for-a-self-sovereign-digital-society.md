@@ -2,7 +2,7 @@
 banner = ""
 categories = [ "中文" ]
 date = 2022-03-14T04:00:00.000Z
-description = "The text below is a recap of Viktor Tron’s talk from the We Are Millions Hackathon (WAM) and Festival. You can listen to the entire talk here."
+description = "以下是Viktor Tron在百万黑客马拉松活动和区块链节中的演讲回顾。你可以在这里观看他的完整演讲。"
 references_and_footnotes = [ ]
 title = "Swarm——自主数字社会平台"
 _template = "post"
