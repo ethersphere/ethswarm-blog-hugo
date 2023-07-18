@@ -10,7 +10,7 @@ _template = "post"
 
 **TL;DR:** This article provides step-by-step instructions on how to deploy, mint and import an NFT using [Hardhat](https://hardhat.org/), [Swarm Desktop App](https://www.ethswarm.org/build/desktop) and [Metamask](https://metamask.io/). You will learn how to deploy an NFT contract on [Gnosis](https://www.gnosis.io/), mint an NFT to your wallet address, store the NFT image and metadata on Swarm, and import your NFT in Metamask. The [NFT example repo](https://github.com/rampall/nft-example) used in this article is intended to serve as an easy reference that can then be built upon to create collections of NFTs that store their data, decentralised, in the Swarm.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ye3UH8ZmDjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+ {{< youtube Ye3UH8ZmDjg >}}
 
 ## On NFTs
 
@@ -73,3 +73,4 @@ Congratulations 👏! You've successfully created an NFT and stored its metadata
 ## References
 
 - https://github.com/rampall/nft-example
+- [Youtube video guide](https://youtu.be/Ye3UH8ZmDjg)
