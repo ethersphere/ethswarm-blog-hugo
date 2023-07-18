@@ -1,7 +1,7 @@
 +++
 banner = "/uploads/NFTonSwarm.png"
 categories = [ "Tutorials" ]
-date = 2021-02-25T04:00:00.000Z
+date = 2023-07-17T04:00:00.000Z
 description = "This article provides a comprehensive guide on deploying, minting, and importing NFTs on the Swarm Network."
 references_and_footnotes = [ ]
 title = "How to Create an NFT and store metadata on Swarm"
