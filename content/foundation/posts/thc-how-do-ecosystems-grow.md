@@ -14,6 +14,7 @@ This article is part of [The Hivemaker's Code](https://toolkit.ethswarm.org/) se
 - Article 2: How do Ecosystems Grow?
 
 ## How do Ecosystems Grow?
+![pattern](/uploads/pattern0.png)
 ### All By Themselves.
 
 **Authors: Oliver Lukitsch, Michal Matlon, Gregor Žavcer, Thomas Fundneider, Markus Peschl, Lena Müller-Naendrup**
