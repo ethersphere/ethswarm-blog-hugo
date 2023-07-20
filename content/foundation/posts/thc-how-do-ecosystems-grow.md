@@ -162,7 +162,7 @@ Both phenomena have their place in nature, culture, and economics. However, any 
 
 
 ## Conclusion: Niche Creation is a Foundation of Living Digital Ecosystems
-![pattern](/uploads/pattern1-1.png)
+![pattern](/uploads/pattern1-5.png)
 Life's ability to create new niches is a fundamental feature of biology. It is the lifeblood of evolution and the biological possibility to develop new life forms and meanings.
 
 If an ecosystem cannot enable new forms of life, it may not deserve to be called a living ecosystem. But why should we bother with these concepts? If a digital ecosystem works as it is, why should we bother making it a "living ecosystem"?
@@ -188,7 +188,7 @@ On the contrary, a truly decentralized and living blockchain ecosystem will have
 
 
 ## Keystone Species: A Critical Enabler Revisited
-![pattern](/uploads/pattern1-2.png)
+![pattern](/uploads/pattern1-6.png)
 In the 1960s, the biologist Robert Paine carried out a series of studies to show how predators influence the diversity of species in an ecosystem. What happens if they are removed? Does the number of species increase if top-level predators prey less on ecosystem members?
 
 For the community of ecologists and biologists, the answer to these questions was somewhat surprising. Paine had an unorthodox hypothesis. Predators at the top of the ecosystem might reduce the number of their preferred prey. However, their absence might lead to a radical decrease in species diversity upon leaving the ecosystem. 
@@ -213,7 +213,7 @@ One way to overcome this problem is to identify one such keystone species, a spe
 
 
 ## Key Insights 
-
+![pattern](/uploads/pattern1-7.png)
 
 
 * Living digital ecosystems should be decentralized, just like living biological ecosystems. 
@@ -222,6 +222,7 @@ One way to overcome this problem is to identify one such keystone species, a spe
 
 
 ## References
+![pattern](/uploads/pattern1-8.png)
 Cattani, G. and M. Mastrogiorgio (Eds.) (2021). New developments in evolutionary innovation. Novelty creation in a serendipitous economy. Oxford: Oxford University Press.
 
 Cazzolla Gatti, Roberto, Brian Fath, Wim Hordijk, Stuart Kauffman, and Robert Ulanowicz. 2018. “Niche Emergence as an Autocatalytic Process in the Evolution of Ecosystems.” Journal of Theoretical Biology 454: 110–17. https://doi.org/10.1016/j.jtbi.2018.05.038.
