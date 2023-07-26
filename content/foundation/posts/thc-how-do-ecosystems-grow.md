@@ -14,6 +14,7 @@ This article is part of [The Hivemaker's Code](https://toolkit.ethswarm.org/) se
 - Article 2: How do Ecosystems Grow?
 
 ## How do Ecosystems Grow?
+![pattern](/uploads/pattern0.png)
 ### All By Themselves.
 
 **Authors: Oliver Lukitsch, Michal Matlon, Gregor Žavcer, Thomas Fundneider, Markus Peschl, Lena Müller-Naendrup**
@@ -36,7 +37,7 @@ To answer these questions, we take a brief detour to the basic principles of evo
 
 
 ## What is Life Anyway?
-
+![pattern](/uploads/pattern1-1.png)
 
 ### Autonomy and Self-Organization
 
@@ -65,7 +66,7 @@ But is the course of evolution really determined by an external force? Is natura
 
 
 ## Misconceiving Darwin  
-
+![pattern](/uploads/pattern1-2.png)
 Charles Darwin is as influential as he is misunderstood. He famously maintained that only the fittest survive. This claim is often interpreted as meaning that only the "strongest" survive. Just think of majestic lions and clever apes that dominate their ecosystems.
 
 However, fitness has nothing to do with the strength or intelligence of individual organisms. Instead, it measures how a species can reproduce successfully in its environment. Staying alive is a collective, multigenerational project any species must pursue. In that sense, only the entire species matters.
@@ -105,7 +106,7 @@ At some point in time, a distant descendant of the original creature will sudden
 
 
 ## Niches Spawn Niches, Spawn Niches…
-
+![pattern](/uploads/pattern1-3.png)
 The above story also affects how we think about ecological niches. Every organism on our planet occupies a niche. Niches provide a space where an organism has little competition for resources because it adapts to its environment in ways other organisms can't. It's simply a "nice place" for any organism to be. More importantly, you could say that an organism's niche defines its functions and place in nature - its purpose.
 
 Thus, a niche is what transforms an "exaptation" (a previously useless trait) of an organism into something "meaningful." It enables and further shapes the purpose of that trait. 
@@ -129,6 +130,7 @@ This case shows that life creates the potential for new niches. It is a catalyst
 
 
 ## Niches in Human Ecosystems and the Economy
+![pattern](/uploads/pattern1-4.png)
 
 So what does all of this have to do with the economy? Evolutionary biologist Robert Cazzolla Gatti and his colleagues have explored how to translate the story above to the human context. 
 
@@ -161,7 +163,7 @@ Both phenomena have their place in nature, culture, and economics. However, any 
 
 
 ## Conclusion: Niche Creation is a Foundation of Living Digital Ecosystems
-
+![pattern](/uploads/pattern1-5.png)
 Life's ability to create new niches is a fundamental feature of biology. It is the lifeblood of evolution and the biological possibility to develop new life forms and meanings.
 
 If an ecosystem cannot enable new forms of life, it may not deserve to be called a living ecosystem. But why should we bother with these concepts? If a digital ecosystem works as it is, why should we bother making it a "living ecosystem"?
@@ -187,7 +189,7 @@ On the contrary, a truly decentralized and living blockchain ecosystem will have
 
 
 ## Keystone Species: A Critical Enabler Revisited
-
+![pattern](/uploads/pattern1-6.png)
 In the 1960s, the biologist Robert Paine carried out a series of studies to show how predators influence the diversity of species in an ecosystem. What happens if they are removed? Does the number of species increase if top-level predators prey less on ecosystem members?
 
 For the community of ecologists and biologists, the answer to these questions was somewhat surprising. Paine had an unorthodox hypothesis. Predators at the top of the ecosystem might reduce the number of their preferred prey. However, their absence might lead to a radical decrease in species diversity upon leaving the ecosystem. 
@@ -212,7 +214,7 @@ One way to overcome this problem is to identify one such keystone species, a spe
 
 
 ## Key Insights 
-
+![pattern](/uploads/pattern1-7.png)
 
 
 * Living digital ecosystems should be decentralized, just like living biological ecosystems. 
@@ -221,6 +223,7 @@ One way to overcome this problem is to identify one such keystone species, a spe
 
 
 ## References
+![pattern](/uploads/pattern1-8.png)
 Cattani, G. and M. Mastrogiorgio (Eds.) (2021). New developments in evolutionary innovation. Novelty creation in a serendipitous economy. Oxford: Oxford University Press.
 
 Cazzolla Gatti, Roberto, Brian Fath, Wim Hordijk, Stuart Kauffman, and Robert Ulanowicz. 2018. “Niche Emergence as an Autocatalytic Process in the Evolution of Ecosystems.” Journal of Theoretical Biology 454: 110–17. https://doi.org/10.1016/j.jtbi.2018.05.038.

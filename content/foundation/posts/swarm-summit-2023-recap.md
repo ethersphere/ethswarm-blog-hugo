@@ -44,7 +44,7 @@ Regarding the near future, Callum pointed out the mainnet roll out of the update
 
 During the first day of the summit the Swarm Foundation also announced four new partnerships:
 
-- [DAppNode](https://dappnode.com/) – A plug-n-play node provider for different blockchain networks. From 1 July, Dappnode will provide invitation codes in every purchased device to run the initial stake required to spin a Bee node.
+- [DAppNode](https://dappnode.com/) – A plug-n-play node provider for different blockchain networks.
 - [MiPasa](https://unbounded.network/) – provides verified data for informed decision making. In his brief demo, Jonathan Levi showcased the browser-based app and its effortless integration with Swarm. It will allow researchers and analysts to pull verified models and data directly from Swarm, process and enrich it, and store them back to Swarm, all from their browsers.
 
 [Watch video](https://swarm.streameth.org/session/Y7MWQ9)
