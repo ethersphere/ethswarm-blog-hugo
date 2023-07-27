@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/world.webp"
+hide_front = true
 categories = [ "中文" ]
 date = 2022-01-14T04:00:00.000Z
 description = "世界计算机（World computer）的构想源于以太坊创始团队对于构建一个更新、更先进的网络世界的愿景。在这个视角下，**Vitalik Buterin**、**Gavin Wood**和**Jeffery Wilcke**共同勾勒出一个无需服务器、摆脱大公司控制，以及能通过区块链技术实现经济上自我维系的网络。"

@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/how-to_website.png"
+hide_front = true
 categories = [ "中文" ]
 date = 2023-03-28T22:00:00.000Z
 description = "这篇分步指南将向你阐释如何利用Swarm桌面应用在 Swarm网络上发布网站。你将学习如何安装桌面应用，为账户充值，上传自己的网站，以及如何连接一个ENS域名来优化用户体验。通过遵循这些步骤，你将能在去中心化存储平台上托管一个不受审查制约的网站，并且使该网站易于被用户访问。"

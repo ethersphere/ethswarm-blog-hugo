@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/how-to-run-a-bee-node.png"
+hide_front = true
 categories = [ "中文" ]
 date = 2023-04-11T22:00:00.000Z
 description = "在Swarm网络上打造去中心化应用时，运行Bee节点是关键一环。然而，作为开发者，我们通常更希望能够在一个安全、快速地与节点/网络进行交互的环境中测试，而无需担心节点的存储数据或用户的代币资产受到威胁。"

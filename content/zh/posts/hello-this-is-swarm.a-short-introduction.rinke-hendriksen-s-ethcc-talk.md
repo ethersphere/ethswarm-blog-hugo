@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/1-4.webp"
+hide_front = true
 categories = [ "中文" ]
 date = 2022-01-28T04:00:00.000Z
 description = "Rinke把Swarm看作是由世界各地计算机所共同托管的全球硬盘，这些计算机之所以相互协作，是因为背后有经济激励的动力。Swarm与一台普通计算机类似，文件和网站内容同样可以被上传和下载到Swarm。"
