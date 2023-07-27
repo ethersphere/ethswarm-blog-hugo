@@ -7,7 +7,6 @@ description = "在Swarm网络上打造去中心化应用时，运行Bee节点是
 references_and_footnotes = [ ]
 title = "Swarm开发：如何运行一个用于测试和开发的Bee节点"
 _template = "post"
-hide_front = true
 slug = "build-on-swarm-how-to-run-a-bee-node-for-testing-and-development-zh"
 +++
 
