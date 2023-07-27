@@ -7,7 +7,6 @@ description = "这篇分步指南将向你阐释如何利用Swarm桌面应用在
 references_and_footnotes = [ ]
 title = "分步指南：使用Swarm桌面应用发布网站"
 _template = "post"
-hide_front = true
 slug="how-to-publish-a-website-on-swarm-using-the-swarm-desktop-app-a-step-by-step-guide-zh"
 +++
 
