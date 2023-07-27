@@ -7,8 +7,9 @@ description = "Rinke把Swarm看作是由世界各地计算机所共同托管的�
 references_and_footnotes = [ ]
 title = "你好，Swarm——以太坊社区大会上关于Swarm的介绍"
 _template = "post"
-+++
 slug = "hello-this-is-swarm.a-short-introduction.rinke-hendriksen-s-ethcc-talk-zh"
++++
+
 
 
 # 你好，Swarm——以太坊社区大会上关于Swarm的介绍

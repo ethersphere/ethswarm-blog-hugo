@@ -7,7 +7,6 @@ description = "经过多年的精心孵化，公平数据社会（Fair Data Soci
 references_and_footnotes = [ ]
 title = "Swarm承诺投入200万BZZ，推动数据隐私、互操作性和数据主权的发展"
 _template = "post"
-hide_front = true
 slug = "swarm-commits-2-million-bzz-to-drive-privacy-interoperability-and-data-sovereignty-zh"
 +++
 
