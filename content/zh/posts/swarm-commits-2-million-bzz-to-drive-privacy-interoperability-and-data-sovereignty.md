@@ -1,12 +1,12 @@
 +++
 banner = "/uploads/fdsw.png"
+hide_front = true
 categories = [ "中文" ]
 date = 2023-03-23T23:00:00.000Z
 description = "经过多年的精心孵化，公平数据社会（Fair Data Society）计划顺利“毕业”，开启了全新的、独立发展之路。为了支持那些为数字自由、隐私保护和互操作性赋能的二层项目，Swarm基金会承诺在未来10年里投入200万BZZ。该承诺在2023年3月21日的公平数据社会毕业典礼“新的一天”上正式对外宣布。"
 references_and_footnotes = [ ]
 title = "Swarm承诺投入200万BZZ，推动数据隐私、互操作性和数据主权的发展"
 _template = "post"
-hide_front = true
 slug = "swarm-commits-2-million-bzz-to-drive-privacy-interoperability-and-data-sovereignty-zh"
 +++
 

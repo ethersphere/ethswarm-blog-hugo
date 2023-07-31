@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/bonding.png"
+hide_front = true
 categories = [ "中文" ]
 date = 2021-10-19T16:00:00.000Z
 description = "本文详细阐述了在单一供应方式“绑定曲线”机制下BZZ代币与价格的关联关系。"

@@ -1,5 +1,6 @@
 +++
 banner = ""
+hide_front = true
 categories = [ "中文" ]
 date = 2022-03-14T04:00:00.000Z
 description = "以下是Viktor Tron在百万黑客马拉松活动和区块链节中的演讲回顾。你可以在这里观看他的完整演讲。"
