@@ -1,7 +1,7 @@
 +++
 banner = "/uploads/mipasa.png"
 categories = [ "Ecosystem" ]
-date = 2023-07-31T00:00:00.000Z
+date = 2023-08-01T00:00:00.000Z
 description = "Free access to data and the ability to convert it into beneficial insights for further societal advancement form the bedrock of a flourishing community. Recognising this, Swarm Foundation has forged a partnership with Unbounded Network Foundation and MiPasa to streamline the flow of information, making data more readily accessible and easy to mould."
 references_and_footnotes = [ ]
 title = "Boundless data with boundless possibilities: Swarm partners with MiPasa"
