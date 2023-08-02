@@ -4,7 +4,7 @@ categories = [ "Ecosystem" ]
 date = 2023-08-02T13:00:00.000Z
 description = "The Swarm Foundation is proud to announce the second phase of its partnership with Kiwix, an offline data storer, marking another decisive step in creating a thriving and value-driven ecosystem. Kiwix and the Swarm Foundation initially partnered in 2022 to bring an offline copy of Wikipedia on the Swarm Network."
 references_and_footnotes = [ ]
-title = "Kiwix Partnership Enters Second Phase"
+title = "Beyond Wikipedia: Swarm and Kiwix Boost Access to Free Knowledge"
 _template = "post"
 +++
 
@@ -13,8 +13,8 @@ _template = "post"
 The Swarm Foundation is proud to announce the second phase of its
 partnership with Kiwix, an offline data storer, marking another decisive
 step in creating a thriving and value-driven ecosystem. Kiwix and the
-Swarm Foundation initially partnered in 2022 to bring an offline copy of
-Wikipedia on the Swarm Network. Now the time has come to extend the
+Swarm Foundation [initially partnered](/hive/2022/kiwix-and-swarm-partner-up-to-preserve-free-online-access-to-information/) in 2022 to [bring an offline copy of
+Wikipedia](/hive/2022/announcing-50k-dai-prize-to-make-wikipedia-unstoppable/) on to the Swarm Network. Now the time has come to extend the
 partnership to preserve and democratise access to important and publicly
 available data.
 
