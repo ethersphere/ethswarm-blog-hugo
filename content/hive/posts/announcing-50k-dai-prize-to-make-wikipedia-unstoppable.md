@@ -6,13 +6,13 @@ description = "The Swarm Association is announcing a 50,000 DAI “Wikipedia on 
 title = "Announcing: 50k DAI prize to make Wikipedia unstoppable"
 
 +++
-**The Swarm Association is announcing a** [**50,000 DAI “Wikipedia on Swarm ”prize**](http://gitcoin.co/issue/28926) **(paid in BZZ) for a solution that observes a Wikipedia offline archive and uploads it to the Swarm network.** The goal is to allow for Wikipedia in any language to be easily uploaded to the Swarm network, making it resilient to the potential grip of censorship.
+**The Swarm Association is announcing a** [**50,000 DAI "Wikipedia on Swarm" prize**](http://gitcoin.co/issue/28926) **(paid in BZZ) for a solution that observes a Wikipedia offline archive and uploads it to the Swarm network.** The goal is to allow for Wikipedia in any language to be easily uploaded to the Swarm network, making it resilient to the potential grip of censorship.
 
 # A push for freedom of information
 
 Swarm is a decentralised and censorship-resistant storage and communication system that enables digital freedoms. Building a mirror of Wikipedia on the Swarm network would give everyone access to Wikipedia.
 
-The first steps towards this goal were made during the [**We Are Millions Hackathon and Festival **](https://www.wearemillions.online/)(WAM). The [Swarm Association partnered with Kiwix](https://medium.com/ethereum-swarm/kiwix-and-swarm-partner-up-to-preserve-free-online-access-to-information-b8a30b2b0af4) (a protocol developed to store and search for content offline) to create a solution that enables a mirror copy of Wikipedia on the Swarm network.
+The first steps towards this goal were made during the [**We Are Millions Hackathon and Festival**](https://www.wearemillions.online/)(WAM). The [Swarm Association partnered with Kiwix](https://medium.com/ethereum-swarm/kiwix-and-swarm-partner-up-to-preserve-free-online-access-to-information-b8a30b2b0af4) (a protocol developed to store and search for content offline) to create a solution that enables a mirror copy of Wikipedia on the Swarm network.
 
 [Three inspiring solutions were submitted](https://medium.com/ethereum-swarm/we-are-millions-closing-event-exit-through-the-dao-recap-ffc59b287b5d) as part of WAM, which laid the foundation for bringing Wikipedia to Swarm and making it censorship-resistant. Now it’s time to develop a complete and working product, and the new prize aims to achieve this.
 
