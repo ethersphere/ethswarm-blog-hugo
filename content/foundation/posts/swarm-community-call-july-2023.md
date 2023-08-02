@@ -15,7 +15,7 @@ here is a short recap of July's Swarm Community Call.
 ## Release of the new localstore
 
 **The new localstore** is in the final stages of testing and is **about
-to go live this week** as Bee v. 1.17, Callum Toner from the Research
+to go live this week** as Bee v1.17, Callum Toner from the Research
 Track announced. The latest version of Bee **will be a breaking
 change**, which is a gentle reminder to all node operators to **update**
 their **nodes** as soon as possible to avoid any loss of functionality.
