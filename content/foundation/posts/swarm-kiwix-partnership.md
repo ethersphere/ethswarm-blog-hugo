@@ -11,7 +11,7 @@ _template = "post"
 ## Wikipedia on Swarm was just the beginning
 
 The Swarm Foundation is proud to announce the second phase of its
-partnership with Kiwix, an offline data storer, marking another decisive
+partnership with [Kiwix](https://www.kiwix.org/en/), an offline data storer, marking another decisive
 step in creating a thriving and value-driven ecosystem. Kiwix and the
 Swarm Foundation [initially partnered](/hive/2022/kiwix-and-swarm-partner-up-to-preserve-free-online-access-to-information/) in 2022 to [bring an offline copy of
 Wikipedia](/hive/2022/announcing-50k-dai-prize-to-make-wikipedia-unstoppable/) on to the Swarm Network. Now the time has come to extend the
@@ -27,7 +27,7 @@ new ways to counter this,"* Stephane-Coillet Matillon, CEO and
 co-founder of Kiwix, emphasises the reason why they decided to level up
 the partnership.
 
-Kiwix will join the upcoming Great Data Upload initiative, which aims to
+Kiwix will join the upcoming **Great Data Upload** initiative, which aims to
 preserve accessible and important public data by uploading open datasets
 to Swarm. Both projects believe that every individual should have the
 freedom to access, share and benefit from humanity's collective
