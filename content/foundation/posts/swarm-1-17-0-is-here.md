@@ -1,6 +1,6 @@
 +++
-banner = "/uploads/graphic-no-text.png"
-categories = [ "Events" ]
+banner = "/uploads/bee-1-17-0.png"
+categories = [ "Development updates" ]
 date = 2023-08-03T00:00:00.000Z
 description = "Bee 1.17 is here! This update represents a significant step forward in terms of increased ease of code maintainability and reduced time for new feature development. With the storage incentives rollout nearing completion, the team has in recent months focused on the completion of the 1.17 update. The update will go live by the end of this week, and since it is a breaking update at the protocol level, all node operators should make sure to update their nodes."
 references_and_footnotes = [ ]
