@@ -1,7 +1,7 @@
 +++
 banner = "/uploads/devupdate-jul-23.png"
 categories = [ "Development updates" ]
-date = 2024-08-04T13:15:00.000Z
+date = 2023-08-04T13:15:00.000Z
 description = "In July, a major step was taken for the Swarm network with the unveiling of the new Localstore, which will be included in the latest Bee 1.17.0. Phase 4 of the storage incentives roadmap will also be released in the next few days, as will the latest updates to the price oracle, which is currently being tested extensively."
 references_and_footnotes = [ ]
 title = "Monthly Development Update – July 2023"
@@ -30,8 +30,7 @@ the forefront of these exciting developments!
 
 ### Bee Track (Callum)
 
-The Localstore rewrite is complete, tested, and anticipated features, such as multi-stamping and local pinning, work as expected. And release of the 1.17.0 is scheduled in the coming days as announced on the Community Call this month.
-
+* The Localstore rewrite is complete, tested, and anticipated features, such as multi-stamping and local pinning, work as expected. And release of the 1.17.0 is scheduled in the coming days as announced on the Community Call this month.
 * The hardening phase epic and documents have been created and added to both, internally and externally. We look forward to beginning work in this vein between and after our awaited breaking change scheduled releases.
 
 ### Research Track (Callum)
@@ -48,36 +47,32 @@ The Localstore rewrite is complete, tested, and anticipated features, such as mu
 
 #### Fair Data Protocol
 
-#### <u>Fairdrive Web App</u>
+##### [<u>Fairdrive Web App</u>](https://github.com/fairDataSociety/fairdrive-theapp)
 
 * Added [<u>Password protection for wallet creation using Metamask</u>](https://github.com/fairDataSociety/fairdrive-theapp/issues/399)
 * [<u>Upgraded to fdp-storage 0.7.3</u>](https://github.com/fairDataSociety/fairdrive-theapp/issues/378)
 * [<u>Implemented referral programme form</u>](https://github.com/fairDataSociety/fairdrive-theapp/issues/338)
 * [<u>Other enhancements and fixes</u>](https://github.com/fairDataSociety/fairdrive-theapp/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-07-01..2023-07-31+)
-[<u>fdp-storage</u>](https://github.com/fairDataSociety/fdp-storage/)
+
+##### [<u>fdp-storage</u>](https://github.com/fairDataSociety/fdp-storage/)
 
 * Released [<u>versionv0.9.0</u>](https://github.com/fairDataSociety/fdp-storage/releases) with a breaking change: registration is now retriable, and this version also has support for upgraded fdp-contracts version 3.7.0
 
-[<u>Create account page</u>](https://github.com/fairDataSociety/fdp-create-account/)
+##### [<u>Create account page</u>](https://github.com/fairDataSociety/fdp-create-account/)
 
 * [<u>Upgraded to fdp-storage 0.7.3</u>](https://github.com/fairDataSociety/fdp-create-account/issues/266)
-
 * [<u>Other upgrades and fixes</u>](https://github.com/fairDataSociety/fdp-create-account/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-07-01..2023-07-31+)
 
-[<u>bmt-js</u>](https://github.com/fairDataSociety/bmt-js)
-
+##### [<u>bmt-js</u>](https://github.com/fairDataSociety/bmt-js)
 * Released [<u>version v2.1.0</u>](https://github.com/fairDataSociety/bmt-js/releases) with custom hasher for chunks and bugfix
 
-[<u>fdp-contracts</u>](https://github.com/fairDataSociety/fdp-contracts/)
-
+##### [<u>fdp-contracts</u>](https://github.com/fairDataSociety/fdp-contracts/)
 * Released [<u>version v3.7.0</u>](https://github.com/fairDataSociety/fdp-contracts/releases) with support for Optimism and Arbitrum Goerli networks
 
 ### DevRel
 
 #### Docs update
-
 * Work is continuing on improving the readability of the [<u>Book of Swarm</u>](https://www.ethswarm.org/The-Book-of-Swarm.pdf).
-
 * Bee client specs repo set up as a place for more [<u>detailed client specs</u>](https://github.com/ethersphere/specs).
 
 #### Educational content 
@@ -86,13 +81,13 @@ The Localstore rewrite is complete, tested, and anticipated features, such as mu
 
 #### Apps:
 
-Etherproxy:
+##### Etherproxy
 
 * [<u>Released a new version of etherproxy</u>](https://github.com/Cafe137/etherproxy) with an improved Dockerfile as well as health and readiness endpoints to be used in Docker and Kubernetes infrastructures
 
-Events:
+#### Events:
 
-Swarm Community Call – July 2023
+##### Swarm Community Call – July 2023
 
 * The Swarm Community Call, our main monthly online event, was held on 27 July. You can [<u>read a recap blog post about it</u><u>here</u>](https://blog.ethswarm.org/foundation/2023/swarm-community-call-27-july-recap/).
 
