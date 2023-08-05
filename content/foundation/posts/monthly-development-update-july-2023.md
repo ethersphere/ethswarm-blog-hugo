@@ -28,17 +28,17 @@ the forefront of these exciting developments!
 
 ## Tracks
 
-### Bee Track (Callum)
+### Bee Track
 
 * The Localstore rewrite is complete, tested, and anticipated features, such as multi-stamping and local pinning, work as expected. And release of the 1.17.0 is scheduled in the coming days as announced on the Community Call this month.
 * The hardening phase epic and documents have been created and added to both, internally and externally. We look forward to beginning work in this vein between and after our awaited breaking change scheduled releases.
 
-### Research Track (Callum)
+### Research Track 
 - The phase 4 inclusion proof tests and refactorings are complete and awaiting bee-side test completion and a testnet release is imminent for phase 4.
 - The price oracle coefficient values that manipulate the price have been recalibrated and the contract is complete – giving a better product experience, and these will be put to testnet in the coming weeks.
 - The research team has also done extensive research and written documents on chain migration and omnichain support for Swarm and its implications for node operators, etc. as well as statistics on the variance of operator rewards.
 
-### JS Track (Aron)
+### JS Track 
 
 * [<u>Released axios-fetch-bridge</u>](https://github.com/Cafe137/axios-fetch-bridge) that may enable the usage of bee-js in previously unsupported environments.
 * [<u>Released a new version of bee-js</u>](https://github.com/ethersphere/bee-js/releases/tag/v6.1.0) which adds an HTTP adapter option to Bee and BeeDebug. It also fixes an issue where some uploads failed with tagUid errors..
