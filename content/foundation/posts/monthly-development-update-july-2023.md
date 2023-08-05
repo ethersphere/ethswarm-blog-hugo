@@ -8,8 +8,6 @@ title = "Monthly Development Update – July 2023"
 _template = "post"
 +++
 
-# Monthly Development Update – July 2023
-
 In July, a major step was taken for the Swarm network with the unveiling
 of the new Localstore, which will be included in the latest [<u>Bee
 1.17.0</u>](https://github.com/ethersphere). Phase 4 of the storage
