@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://blog.ethswarm.org/"
 contentDir = "content"
 defaultContentLanguage = "en"
 enableInlineShortcodes = true
