@@ -24,7 +24,7 @@ The proposal introduces off-chain ENS resolvers as an alternative to on-chain in
 
 Management of user records and metadata is streamlined in this proposal. Instead of setting up new on-chain resolver contracts, users can upload and version their records off-chain. This results in cost-effective and faster solutions compared to traditional on-chain management. Retrieval of data is achieved through a calculated node topic within the feed, giving users real-time control over their records.
 
-## Moving ENS Registry Data Off-Chain: Expanding Possibilities**
+## Moving ENS Registry Data Off-Chain: Expanding Possibilities
 
 Finally, the proposal envisions moving ENS Registry data off-chain. The registry owner maintains a service feed that stores Registry-related information and resolver-related metadata. Ethereum addresses of trusted TLD service feeds act as points of interaction, eliminating the need to hard-code contract addresses. This streamlined approach enhances flexibility and scalability within the ecosystem.
 
