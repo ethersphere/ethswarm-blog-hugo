@@ -1,7 +1,7 @@
 +++
 banner = "/uploads/swarm-partnerships.png"
 categories = [ "Ecosystem" ]
-date = 2023-08-25T12:00:00.000Z
+date = 2023-08-24T12:00:00.000Z
 description = "Some exciting news for all event-goers: Swarm Foundation has joined forces with three awesome names of the events ecosystem: StreamETH, Etherna, and Mego. Together, they're shaking up the game and propelling the events industry into a new era. Let's dive right into the highlights!"
 references_and_footnotes = [ ]
 title = "Swarm network paves the way for event evolution: powerhouse partnerships with StreamETH, Etherna, and Mego"
