@@ -14,9 +14,8 @@ This article is part of [The Hivemaker's Code](https://toolkit.ethswarm.org/) se
 - Article 2: [How do Ecosystems Grow?](https://blog.ethswarm.org/foundation/2023/the-hivemakers-code-how-do-ecosystems-grow/)
 - Article 3: Cooperating on Blockchain
 
-### How to Manage Commons in Digital Ecosystems?
-![pattern](/uploads/pattern0.png)
-### All By Themselves.
+## How to Manage Commons in Digital Ecosystems?
+![pattern](/uploads/pattern3-0.png)
 
 **Authors: Oliver Lukitsch, Michal Matlon, Gregor Žavcer, Thomas Fundneider, Markus Peschl, Lena Müller-Naendrup**
 
@@ -38,7 +37,7 @@ The question remains. How can we cooperate sustainably in times of increasing di
 
 
 ## The Depletion of the Aral Sea: A Tragedy of Commons
-![pattern](/uploads/pattern1-1.png)
+![pattern](/uploads/pattern3-1.png)
 
 
 Let's come back to the topic of the commons. The depletion of the Aral Sea, once the fourth-largest lake in the world, perfectly illustrates how a shared resource falls prey to a tragedy. 
@@ -66,7 +65,7 @@ The symptoms of those three problems are so-called "free-riding individuals." Wh
 
 
 ## Ostrom's 8 Principles for Managing Commons
-![pattern](/uploads/pattern1-2.png)
+![pattern](/uploads/pattern3-2.png)
 
 Hardin's Tragedy of the Commons can provide a simple explanation for all kinds of social dilemmas: traffic jams, overfishing of oceans, or dirty public toilets. Nevertheless, there are examples of successful, self-governed commons and collective management systems, like the [Acequias](https://lasacequias.org/) in New Mexico, sustainably managed by ordinary people for generations. 
 
@@ -92,7 +91,7 @@ Ostrom's principles particularly highlight the need for communication within and
 
 
 ## Blockchain: A Contested Common   
-![pattern](/uploads/pattern1-3.png)
+![pattern](/uploads/pattern3-3.png)
 So how do these principles translate into the digital world? We could say that the blockchain is a new kind of shared resource. One which might bear the potential to circumvent the tragedy of the commons by embodying principles similar to those Ostrom suggested.
 
 Generally, the blockchain constitutes a technological infrastructure for applications such as cryptocurrencies, decentralized data storage platforms, and smart contracts systems. Simply said, blockchains are continuously growing, immutable ledgers that contain information about transactions. As they are digital and online by nature, blockchains generally have three qualities:
@@ -105,7 +104,7 @@ In addition, they are run by a distributed verification system (like “mining�
 
 ## The Immunity of the Blockchain
 
-![pattern](/uploads/pattern1-4.png)
+![pattern](/uploads/pattern3-4.png)
 
 The commons' biggest challenges surround their susceptibility to overuse due to lack of trust and complexity of communication in large-scale social systems. In contrast to other commons, blockchain-based commons, assuming infinite scalability, can be immune to these issues for multiple reasons.
 
@@ -120,7 +119,7 @@ Thus, applying blockchain technology to organize human cooperation might enable 
 
 
 ## Blockchains in Light of Ostrom's Principles
-![pattern](/uploads/pattern1-5.png)
+![pattern](/uploads/pattern3-5.png)
 However, blockchain technology does not come with a risk-free recipe for commoning success. As Ostrom argued, the way a community cooperates depends on the nature of the shared resources and the conditions in which the community exists.
 
 Within the blockchain community, there is a distinction between "radical" and "incorporative" blockchain proponents. While the former group attempts to rethink society and believes that a collaborative network of trust can stamp out the tragedy of the commons, the latter wants to incorporate blockchain technology within the existing systems, like traditional banking and communication networks.
@@ -139,7 +138,7 @@ As we saw, overcoming the Tragedy of the Commons is not guaranteed. However, we 
 
 
 ## Key Insights
-![pattern](/uploads/pattern1-6.png)
+![pattern](/uploads/pattern3-6.png)
 
 * Commons are widely shared resources susceptible to overuse by individuals.
 * Online networks create a new type of commons that needs to be managed.
@@ -150,7 +149,7 @@ As we saw, overcoming the Tragedy of the Commons is not guaranteed. However, we 
 
 
 ## Key Insights 
-![pattern](/uploads/pattern1-7.png)
+![pattern](/uploads/pattern3-7.png)
 
 
 * Commons are widely shared resources susceptible to overuse by individuals.
@@ -162,7 +161,7 @@ As we saw, overcoming the Tragedy of the Commons is not guaranteed. However, we 
 
 
 ## References
-![pattern](/uploads/pattern1-8.png)
+![pattern](/uploads/pattern3-8.png)
 Broodje, Jaap. 2020. “The Success of the Commons.” The Connectivist (blog). November 17, 2020. https://theconnectivist.wordpress.com/2020/11/17/the-success-of-the-commons/.
 Dao, David. 2018. “Decentralized Sustainability - Beyond the Tragedy of the Commons with Smart Contracts + AI.” Enlivening Edge (blog). September 21, 2018. https://enliveningedge.org/tools-practices/decentralized-sustainability-beyond-tragedy-commons-smart-contracts-ai/.
 Glantz, Michael H., Alvin Z. Rubinstein, and Igor Zonn. 1993. “Tragedy in the Aral Sea Basin: Looking Back to Plan Ahead?” Global Environmental Change 3 (2): 174–98. https://doi.org/https://doi.org/10.1016/0959-3780(93)90005-6.
