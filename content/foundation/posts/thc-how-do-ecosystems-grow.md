@@ -12,6 +12,7 @@ _template = "post"
 This article is part of [The Hivemaker's Code](https://toolkit.ethswarm.org/) series:
 - Article 1: [Introduction](https://blog.ethswarm.org/foundation/2023/the-hivemakers-code-introduction/)
 - Article 2: How do Ecosystems Grow?
+- Article 3: [Cooperating on Blockchain](https://blog.ethswarm.org/foundation/2023/cooperating-on-blockchain/)
 
 ## How do Ecosystems Grow?
 ![pattern](/uploads/pattern0.png)
