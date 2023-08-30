@@ -1,7 +1,7 @@
 +++
 banner = "/uploads/THC-cooperating-on-blockchain.png"
 categories = [ "Ecosystem" ]
-date = 2023-08-30T23:00:01.000Z
+date = 2023-08-30T00:00:01.000Z
 description = "How do we deal with something that’s neither privately owned nor managed by authorities on our behalf? Something that everyone, as well as no one, owns. In other words, how do we manage “commons” so that their tragedy doesn't become a reality? "
 references_and_footnotes = [ ]
 title = "Cooperating on Blockchain"
