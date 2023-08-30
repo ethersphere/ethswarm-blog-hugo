@@ -163,11 +163,18 @@ As we saw, overcoming the Tragedy of the Commons is not guaranteed. However, we 
 ## References
 ![pattern](/uploads/pattern3-8.png)
 Broodje, Jaap. 2020. “The Success of the Commons.” The Connectivist (blog). November 17, 2020. https://theconnectivist.wordpress.com/2020/11/17/the-success-of-the-commons/.
+
 Dao, David. 2018. “Decentralized Sustainability - Beyond the Tragedy of the Commons with Smart Contracts + AI.” Enlivening Edge (blog). September 21, 2018. https://enliveningedge.org/tools-practices/decentralized-sustainability-beyond-tragedy-commons-smart-contracts-ai/.
+
 Glantz, Michael H., Alvin Z. Rubinstein, and Igor Zonn. 1993. “Tragedy in the Aral Sea Basin: Looking Back to Plan Ahead?” Global Environmental Change 3 (2): 174–98. https://doi.org/https://doi.org/10.1016/0959-3780(93)90005-6.
+
 Hardin, Garrett. 1968. “The Tragedy of the Commons.” Science 162 (3859): 1243–48. http://www.jstor.org/stable/1724745.
+
 Kuan, Lee. 2014. “Ostrom, Hardin and the Commons: A Critical Appreciation and a Revisionist View.” In .
 Ostrom, Elinor. 1990. Governing the Commons: The Evolution of Institutions for Collective Action. Political Economy of Institutions and Decisions. Cambridge University Press. https://doi.org/10.1017/CBO9780511807763.
+
 Statt, Nick. 2018. “This Year’s SXSW Was All about Blockchain Dreamers, Cryptocurrency Scammers, and Everything in Between.” The Verge (blog). March 16, 2018. https://www.theverge.com/2018/3/16/17130532/blockchain-bitcoin-cryptocurrency-scams-fraud-sec-sxsw-2018.
-Volont, Louis, and Walter van Andel. 2020. “The Blockchain: Free-Riding for the Commons From Potential Tragedy to Real Comedy.” In .
+
+Volont, Louis, and Walter van Andel. 2020. “The Blockchain: Free-Riding for the Commons From Potential Tragedy to Real Comedy.” In.
+
 Williams, Jeremy. 2018. “Elinor Ostrom’s 8 Rules for Managing the Commons.” January 15, 2018. https://earthbound.report/2018/01/15/elinor-ostroms-8-rules-for-managing-the-commons/.
