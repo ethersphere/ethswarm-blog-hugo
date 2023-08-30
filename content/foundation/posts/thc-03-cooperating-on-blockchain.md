@@ -73,14 +73,14 @@ And one scientist decided to find out what stands behind thriving communities th
 
 Based on her decades-long research of well-managed commons, Ostrom strongly believed that groups are capable of avoiding the tragedy of the commons without requiring direct top-down regulation. Based on her findings, Ostrom created a list of eight principles for managing commons that can be applied both in the physical and digital worlds.
 
-1.	Commons require clearly defined boundaries: It should be clear who has access to commons, under what conditions, and where they begin and end.
-2.	Governing rules should match local needs and conditions: Commons are context-sensitive, so people in the community should create the rules.
-3.	Participatory decision-making: People affected by rules are likelier to adhere to them if they have participated in defining them.
-4.	Monitoring the commons systems and community: The community must develop a system for checking and monitoring the community members' behavior. 
-5.	Graduated sanctions for rule violators: Commons work best when they include systems of warnings, fines, and informal reputational consequences before banishing members from the resource for good.
-6.	Providing accessible, low-cost means for conflict resolution: Members should be encouraged and enabled to bring up any issue so that problems can be solved by mediation rather than ignored.
-7.	Other authorities should recognize the commons: Commons can only sustain themselves if their rules are recognized as legitimate by higher authorities under which the community falls.
-8.	Commons should be embedded in larger systems: Many commons require large-scale cooperation and widespread responsibility to be managed successfully.
+1.	**Commons require clearly defined boundaries:** It should be clear who has access to commons, under what conditions, and where they begin and end.
+2.	**Governing rules should match local needs and conditions:** Commons are context-sensitive, so people in the community should create the rules.
+3.	**Participatory decision-making:** People affected by rules are likelier to adhere to them if they have participated in defining them.
+4.	**Monitoring the commons systems and community:** The community must develop a system for checking and monitoring the community members' behavior. 
+5.	**Graduated sanctions for rule violators:** Commons work best when they include systems of warnings, fines, and informal reputational consequences before banishing members from the resource for good.
+6.	**Providing accessible, low-cost means for conflict resolution:** Members should be encouraged and enabled to bring up any issue so that problems can be solved by mediation rather than ignored.
+7.	**Other authorities should recognize the commons:** Commons can only sustain themselves if their rules are recognized as legitimate by higher authorities under which the community falls.
+8.	**Commons should be embedded in larger systems:** Many commons require large-scale cooperation and widespread responsibility to be managed successfully.
 
 By outlining these principles, Ostrom illustrated how commons could be successfully managed and provided in-depth insights into why some groups fail to govern themselves. In line with Hardin's reasoning, Ostrom argued that communication and trust constitute critical challenges to group-based governance of shared resources. 
 
@@ -139,18 +139,6 @@ As we saw, overcoming the Tragedy of the Commons is not guaranteed. However, we 
 
 ## Key Insights
 ![pattern](/uploads/pattern3-6.png)
-
-* Commons are widely shared resources susceptible to overuse by individuals.
-* Online networks create a new type of commons that needs to be managed.
-* Elinor Ostrom's eight principles distill how sustainably managed commons are run by their communities.
-* Blockchain could help us overcome the commons’ issue through transparency by default and embedding trust in the system.
-* Distributed, digital communities can embrace Ostrom's principles to govern themselves and develop purposefully.
-
-
-
-## Key Insights 
-![pattern](/uploads/pattern3-7.png)
-
 
 * Commons are widely shared resources susceptible to overuse by individuals.
 * Online networks create a new type of commons that needs to be managed.
