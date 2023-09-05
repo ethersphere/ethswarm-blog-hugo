@@ -1,8 +1,8 @@
 +++
 banner = "/uploads/Dev-Update-August.png"
 categories = [ "Development updates" ]
-date = 2023-08-04T13:15:00.000Z
-description = "In July, a major step was taken for the Swarm network with the unveiling of the new Localstore, which will be included in the latest Bee 1.17.0. Phase 4 of the storage incentives roadmap will also be released in the next few days, as will the latest updates to the price oracle, which is currently being tested extensively."
+date = 2023-09-05T00:15:00.000Z
+description = "In the past month, the Swarm ecosystem has seen some significant developments. The Bee Track team released the much anticipated localstore rewrite and has already ironed out some of the notable issues in version 1.17.3. Meanwhile, anticipation builds for the release of Phase 4 items and the price oracle, both set to further enhance the storage incentive system."
 references_and_footnotes = [ ]
 title = "Monthly Development Update – August 2023"
 _template = "post"
