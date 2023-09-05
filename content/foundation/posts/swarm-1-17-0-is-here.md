@@ -7,7 +7,7 @@ references_and_footnotes = [ ]
 title = "Bee 1.17 Paves the Way for the Future of Swarm"
 _template = "post"
 +++
-
+gi
 ***⚠️IMPORTANT⚠️**: After the 1.17 release node operators should make sure to **update their nodes** as it is a breaking release and the update is required to keep participating in the network. Note that the update for a single
 node may take up to 25 minutes on slower drives. Also it is **strongly
 recommended** for nodes running on a shared physical disk to only update
