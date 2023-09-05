@@ -20,7 +20,8 @@ After the updates, Callum introduced Niki Papadatou who is our newly joined prod
 
 ## Improved bee-js, swarm-cli and bee-dashboard
 
-![bee-js updates](images/bee-js-updates.png)
+![bee-js updates](uploads/bee-js-updates.png)
+
 
 
 Áron Soós presented some of the releases from the August Hackweek in Hungary. He took the audience through the latest updates for **[bee-js](https://bee-js.ethswarm.org/docs/)**, **[swarm-cli ](https://github.com/ethersphere/swarm-cli/releases)** and **[bee-dashboard](https://github.com/ethersphere/bee-dashboard/releases)**. 
@@ -42,7 +43,7 @@ You can read and comment on the proposal [here](https://discuss.ens.domains/t/en
 
 ## The booting process reimagined
 
-![beeOS](images/deboot.png)
+![beeOS](uploads/deboot.png)
 
 The [DeBoot team](https://github.com/debootdevs) concluded the call with the Community Talk segment. The team has taken on the challenge to update the booting process, which has remained largely untouched for years, and make it more compatible with a decentralised future.
 
