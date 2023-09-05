@@ -8,11 +8,11 @@ title = "Monthly Development Update – August 2023"
 _template = "post"
 +++
 
-In the past month, the Swarm ecosystem has seen some significant developments. The **Bee Track** team released the much anticipated localstore rewrite and has already ironed out some of the notable issues in version 1.17.3. Meanwhile, anticipation builds for the release of Phase 4 items and the price oracle, both set to further enhance the storage incentive system. 
+In the past month, the Swarm ecosystem has seen some significant developments. The **Bee Track** team released the much anticipated localstore rewrite and has already ironed out some of the notable issues in version [1.17.3(https://github.com/ethersphere/bee/releases/tag/v1.17.3)]. Meanwhile, anticipation builds for the release of Phase 4 items and the price oracle, both set to further enhance the storage incentive system. 
 
 The **Research Track** is addressing the last issues before Phase 4 of the storage incentives roadmap goes live on testnet. Concurrently, the **JS Track** has launched a series of bee-js versions introducing new functionalities and updates. 
 
-On the Ecosystem side, the Fair Data Protocol team poured additional effort into the general user experience with several fixes and improvements. In the **DevRel **section, Swarm’s documentation has been the subject of some significant cleaning to enhance the developer experience. 
+On the Ecosystem side, the Fair Data Protocol team poured additional effort into the general user experience with several fixes and improvements. In the **DevRel** section, Swarm’s documentation has been the subject of some significant cleaning to enhance the developer experience. 
 
 In case you missed it, you can read the recap from the latest August **Swarm Community Call** [here](https://blog.ethswarm.org/foundation/2023/swarm-community-call-31-august-recap/). You are also warmly invited to [join the upcoming Swarm Community Call scheduled for 28 September](https://www.addevent.com/event/Yb18513288) for another great round of updates and discussions about the latest developments in the Swarm network.
 
