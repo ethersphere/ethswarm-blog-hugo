@@ -44,7 +44,7 @@ In case you missed it, you can read the recap from the latest August **Swarm Com
 
 #### Fair Data Protocol
 
-#### [Fairdrive Web App](https://app.fairdrive.fairdatasociety.org/)
+##### [Fairdrive Web App](https://app.fairdrive.fairdatasociety.org/)
 
 * [Metamask SDK integration](https://github.com/fairDataSociety/fairdrive-theapp/pull/443)
 * [Improved UI focusing on mobile use](https://github.com/fairDataSociety/fairdrive-theapp/pull/408)
@@ -52,7 +52,7 @@ In case you missed it, you can read the recap from the latest August **Swarm Com
 * [Supports fdp-storage with updated Sepolia RPC](https://github.com/fairDataSociety/fairdrive-theapp/pull/438)
 * [Other enhancements & fixes](https://github.com/fairDataSociety/fairdrive-theapp/issues?q=is%3Aissue+is%3Aclosed+closed%3A2023-08-01..2023-08-31+) 
 
-[fdp-storage](https://github.com/fairDataSociety/fdp-storage/)
+##### [fdp-storage](https://github.com/fairDataSociety/fdp-storage/)
 
 * Released [v0.10.0 & v0.11.0](https://github.com/fairDataSociety/fdp-storage/releases) with [fdp-contracts-js](https://github.com/fairDataSociety/fdp-storage/issues/251) and [bee-js](https://github.com/fairDataSociety/fdp-storage/pull/253) updates 
 
@@ -60,11 +60,11 @@ In case you missed it, you can read the recap from the latest August **Swarm Com
 
 * [Multiple language support](https://github.com/fairDataSociety/fdp-create-account/issues/282)
 
-[fdp-contracts](https://github.com/fairDataSociety/fdp-contracts/)
+##### [fdp-contracts](https://github.com/fairDataSociety/fdp-contracts/)
 
 * [v3.7.2 release](https://github.com/fairDataSociety/fdp-contracts/releases) brings bug fixes on dapp-registry library
 
-[Fairdrive Docs](https://github.com/fairDataSociety/fairdrive-theapp/tree/development/docs)
+##### [Fairdrive Docs](https://github.com/fairDataSociety/fairdrive-theapp/tree/development/docs)
 * We started preparing a new wave of documentation. This is important for knowledge transfer and reusability: Well-documented code and libraries can be reused in other projects, saving time and effort in future development.
 
 
@@ -83,7 +83,7 @@ In case you missed it, you can read the recap from the latest August **Swarm Com
 #### Events:
 
 ##### Swarm Community Call – August 2023
-* The Swarm Community Call, our main monthly online event, was held on 31 August. You can read a recap blog post about it here.
+* The Swarm Community Call, our main monthly online event, was held on 31 August. You can read a recap blog post about it [here](https://blog.ethswarm.org/foundation/2023/swarm-community-call-31-august-recap/).
 
 
 ### **Upcoming events**
