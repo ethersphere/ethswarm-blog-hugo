@@ -8,7 +8,7 @@ title = "Monthly Development Update – August 2023"
 _template = "post"
 +++
 
-In the past month, the Swarm ecosystem has seen some significant developments. The **Bee Track** team released the much anticipated localstore rewrite and has already ironed out some of the notable issues in version [1.17.3(https://github.com/ethersphere/bee/releases/tag/v1.17.3)]. Meanwhile, anticipation builds for the release of Phase 4 items and the price oracle, both set to further enhance the storage incentive system. 
+In the past month, the Swarm ecosystem has seen some significant developments. The **Bee Track** team released the much anticipated localstore rewrite and has already ironed out some of the notable issues in version [1.17.3](https://github.com/ethersphere/bee/releases/tag/v1.17.3). Meanwhile, anticipation builds for the release of Phase 4 items and the price oracle, both set to further enhance the storage incentive system. 
 
 The **Research Track** is addressing the last issues before Phase 4 of the storage incentives roadmap goes live on testnet. Concurrently, the **JS Track** has launched a series of bee-js versions introducing new functionalities and updates. 
 
