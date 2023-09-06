@@ -13,6 +13,7 @@ This article is part of [The Hivemaker's Code](https://toolkit.ethswarm.org/) se
 - Article 1: Introduction
 - Article 2: [How do Ecosystems Grow](https://blog.ethswarm.org/foundation/2023/the-hivemakers-code-how-do-ecosystems-grow/)
 - Article 3: [Cooperating on Blockchain](https://blog.ethswarm.org/foundation/2023/cooperating-on-blockchain/)
+- [Article 4: The Satoshi’s Dream](https://blog.ethswarm.org/foundation/2023/the-satoshis-dream/)
 
 ## What is This Document About?
 
