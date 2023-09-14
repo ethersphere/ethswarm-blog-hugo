@@ -11,9 +11,14 @@ slug="state-of-the-network-august"
 
 This report provides an in-depth overview of the state of storage incentives on the Ethswarm network for the month of August. Detailed below are insights into monthly rewards in BZZ tokens, single node monthly earnings, median win values, average win values, monthly unique staking nodes, and the geographic distribution of nodes. This data serves as a valuable indicator of the ongoing growth trends within the Swarm network. 
 
-*Note: All data is based on nodes which have won the redistribution game at least once per month.*
+
+### Data limitations: 
+
+* All data is based on nodes which have won the redistribution game at least once per month.
+* The data from March is incomplete as it began being collected from March 12th.
 
 ### Network Total Monthly Rewards
+
 
 
 | Month  | Total Rewards (BZZ)  |
@@ -90,6 +95,21 @@ This is determined by the number of unique nodes each month which have won at le
 ![](https://hackmd.io/_uploads/HyA_tdCRh.png)
 
 The data indicates a steady growth in the number of staking nodes, emphasizing the increasing interest in the Swarm network.
+
+### Total Active Nodes by Month
+
+| Month  | Number of Nodes |
+| ------ | --------------- |
+| March  | 3470            |
+| April  | 2016            |
+| May    | 4352            |
+| June   | 4002            |
+| July   | 4221            |
+| August | 4554            |
+
+![](https://hackmd.io/_uploads/BkRe1Lx1p.png)
+
+This data represents both staking and non-staking nodes, and so gives a picture of the growth of the all network participants.
 
 ### Staking Nodes by Country
 |                  | April | May  | June | July | August |
