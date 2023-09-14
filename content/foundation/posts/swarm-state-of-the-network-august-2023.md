@@ -23,12 +23,12 @@ This metric is the total monthly rewards paid out across the entire network.
 
 | Month  | Total Rewards (BZZ)  |
 | ------ | -------------- |
-| March  | 12822.16       |
-| April  | 20503.46       |
-| May    | 21423.96       |
-| June   | 26655.81       |
-| July   | 34839.33       |
-| August | 135927.80      |
+| March  | 12822      |
+| April  | 20503    |
+| May    | 21423   |
+| June   | 26655     |
+| July   | 34839    |
+| August | 135927     |
 
 ![](https://hackmd.io/_uploads/r16vtuR03.png)
 
@@ -38,7 +38,7 @@ The BZZ rewards have seen a consistent rise over the months, with August display
 
 This metric is the average total winnings per staking node per month.
 
-| Month  | Average Earnings |
+| Month  | Average Earnings (BZZ)  |
 | ------ | ---------------- |
 | March  | 12.68            |
 | April  | 14.30            |
@@ -55,7 +55,7 @@ Average earnings for nodes in August showed an uptick, indicating the potential 
 
 This metric is the median win amount for each win event.
 
-| Month  | Median Win Value |
+| Month  | Median Win Value (BZZ)  |
 | ------ | ----------------- |
 | March  | 6.32              |
 | April  | 6.32              |
@@ -72,7 +72,7 @@ The median win values have gradually increased, with a noticeable jump in August
 
 This metric is the average win amount for each win event.
 
-| Month  | Average Win Value |
+| Month  | Average Win Value (BZZ)  |
 | ------ | ------------------ |
 | March  | 6.78               |
 | April  | 7.60               |
