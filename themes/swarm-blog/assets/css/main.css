@@ -161,6 +161,18 @@
     @apply rounded-md bg-gray-100 px-1.5 py-0.5 font-mono text-[0.9em] font-bold;
   }
 
+  .content table {
+    @apply w-full table-auto text-base;
+  }
+
+  .content table th {
+    @apply border border-gray-400 bg-gray-100 p-2 text-left font-bold;
+  }
+
+  .content table td {
+    @apply border-gray-400/50 px-2 py-1;
+  }
+
   .footnotes ol {
     counter-reset: list;
   }
@@ -214,4 +226,3 @@
 [x-cloak] {
   display: none !important;
 }
-

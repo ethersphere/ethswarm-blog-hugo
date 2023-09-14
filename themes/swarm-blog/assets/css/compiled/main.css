@@ -75,7 +75,7 @@
 }
 
 /*
-! tailwindcss v3.3.1 | MIT License | https://tailwindcss.com
+! tailwindcss v3.3.2 | MIT License | https://tailwindcss.com
 */
 
 /*
@@ -512,6 +512,9 @@ video {
   --tw-pan-y:  ;
   --tw-pinch-zoom:  ;
   --tw-scroll-snap-strictness: proximity;
+  --tw-gradient-from-position:  ;
+  --tw-gradient-via-position:  ;
+  --tw-gradient-to-position:  ;
   --tw-ordinal:  ;
   --tw-slashed-zero:  ;
   --tw-numeric-figure:  ;
@@ -559,6 +562,9 @@ video {
   --tw-pan-y:  ;
   --tw-pinch-zoom:  ;
   --tw-scroll-snap-strictness: proximity;
+  --tw-gradient-from-position:  ;
+  --tw-gradient-via-position:  ;
+  --tw-gradient-to-position:  ;
   --tw-ordinal:  ;
   --tw-slashed-zero:  ;
   --tw-numeric-figure:  ;
@@ -1212,6 +1218,32 @@ aside ul a:hover {
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   font-size: 0.9em;
   font-weight: 700;
+}
+
+.content table {
+  width: 100%;
+  table-layout: auto;
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
+
+.content table th {
+  border-width: 1px;
+  --tw-border-opacity: 1;
+  border-color: rgb(104 104 104 / var(--tw-border-opacity));
+  --tw-bg-opacity: 1;
+  background-color: rgb(244 244 244 / var(--tw-bg-opacity));
+  padding: 0.5rem;
+  text-align: left;
+  font-weight: 700;
+}
+
+.content table td {
+  border-color: rgb(104 104 104 / 0.5);
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
 }
 
 .footnotes ol {
@@ -2488,4 +2520,3 @@ aside ul a:hover {
     line-height: 26px;
   }
 }
-
