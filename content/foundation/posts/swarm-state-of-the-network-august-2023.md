@@ -14,9 +14,8 @@ This report provides an in-depth overview of the state of storage incentives on 
 
 ### Data limitations: 
 
-1. All data is based on nodes which have won the redistribution game at least once per month. While the average number of win events in every month for running a single staking node is greater than one, it is still possible to operate a node for a month without a win event occurring.
-
-2. The data from March is incomplete as it began being collected from March 12th.
+* All data is based on nodes which have won the redistribution game at least once per month. While the average number of win events in every month for running a single staking node is greater than one, it is still possible to operate a node for a month without a win event occurring.
+* The data from March is incomplete as it began being collected from March 12th.
 
 ### Network Total Monthly Rewards
 
