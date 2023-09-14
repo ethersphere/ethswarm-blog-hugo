@@ -14,12 +14,13 @@ This report provides an in-depth overview of the state of storage incentives on 
 
 ### Data limitations: 
 
-* All data is based on nodes which have won the redistribution game at least once per month.
-* The data from March is incomplete as it began being collected from March 12th.
+1. All data is based on nodes which have won the redistribution game at least once per month. While the average number of win events in every month for running a single staking node is greater than one, it is still possible to operate a node for a month without a win event occurring.
+
+2. The data from March is incomplete as it began being collected from March 12th.
 
 ### Network Total Monthly Rewards
 
-
+This metric is the total monthly rewards paid out across the entire network.
 
 | Month  | Total Rewards (BZZ)  |
 | ------ | -------------- |
@@ -36,6 +37,8 @@ The BZZ rewards have seen a consistent rise over the months, with August display
 
 ### Single Node Monthly Average Earnings
 
+This metric is the average total winnings per staking node per month.
+
 | Month  | Average Earnings |
 | ------ | ---------------- |
 | March  | 12.68            |
@@ -50,6 +53,8 @@ The BZZ rewards have seen a consistent rise over the months, with August display
 Average earnings for nodes in August showed an uptick, indicating the potential benefits of network participation.
 
 ### Monthly Median Win Values
+
+This metric is the median win amount for each win event.
 
 | Month  | Median Win Value |
 | ------ | ----------------- |
@@ -66,6 +71,8 @@ The median win values have gradually increased, with a noticeable jump in August
 
 ### Monthly Average Win Values
 
+This metric is the average win amount for each win event.
+
 | Month  | Average Win Value |
 | ------ | ------------------ |
 | March  | 6.78               |
@@ -81,7 +88,7 @@ Consistent with the median values, the average win values have seen a steady inc
 
 ### Number of Staking Nodes by Month
 
-This is determined by the number of unique nodes each month which have won at least once in that month.
+This is determined by the number of unique staking nodes each month which have won at least once in that month (as noted above, it does not include nodes which did not win in that month).
 
 | Month  | Number of Nodes |
 | ------ | --------------- |
@@ -98,6 +105,8 @@ The data indicates a steady growth in the number of staking nodes, emphasizing t
 
 ### Total Active Nodes by Month
 
+This metric is defined as the total number of unique nodes (both staking and non-staking nodes) which are active on the Swarm network each month.
+
 | Month  | Number of Nodes |
 | ------ | --------------- |
 | March  | 3470            |
@@ -112,6 +121,8 @@ The data indicates a steady growth in the number of staking nodes, emphasizing t
 This data represents both staking and non-staking nodes, and so gives a picture of the growth of the all network participants.
 
 ### Staking Nodes by Country
+This metric shows the number of unique staking nodes per month in the top five countries (including "Unknown").
+
 |                  | April | May  | June | July | August |
 |------------------|-------|------|------|------|--------|
 | China            | 474   | 489  | 437  | 593  | 216    |
