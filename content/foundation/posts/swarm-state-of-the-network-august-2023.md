@@ -23,12 +23,12 @@ This metric is the total monthly rewards paid out across the entire network.
 
 | Month  | Total Rewards (BZZ)  |
 | ------ | -------------- |
-| March  | 12822.16       |
-| April  | 20503.46       |
-| May    | 21423.96       |
-| June   | 26655.81       |
-| July   | 34839.33       |
-| August | 135927.80      |
+| March  | 12822      |
+| April  | 20503    |
+| May    | 21423   |
+| June   | 26655     |
+| July   | 34839    |
+| August | 135927     |
 
 ![](https://hackmd.io/_uploads/r16vtuR03.png)
 
