@@ -10,9 +10,9 @@ slug="bee-1-17-4-pre-announcement"
 +++
 
 
-The 1.17.4 update will be going live on Thursday of this week. As this release will introduce breaking changes at the protocol level, it is important to update your nodes as soon as possible, so please be on the lookout for the release announcement and ***ready to update your nodes this Thursday***. This version includes some changes which will affect both Swarm developers as well as Bee node operators which are discussed in more detail below. 
+The 1.17.4 update will be going live on Thursday, September 21, this week. As this release will introduce breaking changes at the protocol level, it is important to update your nodes as soon as possible, so please be on the lookout for the release announcement and ***ready to update your nodes this Thursday***. This version includes some changes which will affect both Swarm developers as well as Bee node operators which are discussed in more detail below. 
 
-***⚠️⚠️TLDR: Node operators should update ASAP as this version introduces breaking changes.***
+***⚠️⚠️TLDR: Node operators should update ASAP after the Thursday release as this version introduces breaking changes.***
 
 ### Pushync and retrieval protocols updated
 
