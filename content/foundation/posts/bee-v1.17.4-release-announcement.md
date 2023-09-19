@@ -4,7 +4,7 @@ categories = [ "Development updates" ]
 date = 2023-09-19T00:00:00.000Z
 description = "The 1.17.4 update will be going live later this week. As this release will introduce breaking changes at the protocol level, it is important to update your nodes as soon as possible, so please be on the lookout for the release announcement and ready to update your nodes later this week."
 references_and_footnotes = [ ]
-title = "Bee 1.17.4 Pre-release Notice"
+title = "Bee v1.17.4 Pre-release Notice"
 _template = "post"
 slug="bee-1-17-4-pre-announcement"
 +++
