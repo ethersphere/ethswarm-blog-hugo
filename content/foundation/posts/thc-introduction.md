@@ -15,6 +15,7 @@ This article is part of [The Hivemaker's Code](https://toolkit.ethswarm.org/) se
 - Article 3: [Cooperating on Blockchain](https://blog.ethswarm.org/foundation/2023/cooperating-on-blockchain/)
 - Article 4: [The Satoshi’s Dream](https://blog.ethswarm.org/foundation/2023/the-satoshis-dream/)
 - Article 5: [Anonymity in the Cryptosphere](https://blog.ethswarm.org/foundation/2023/anonymity-in-the-cryptosphere/)
+- Article 6: [Democracy and Decentralization](https://blog.ethswarm.org/foundation/2023/democracy-and-decentralization/)
 
 ## What is This Document About?
 
