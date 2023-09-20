@@ -14,7 +14,7 @@ The 1.17.4 update will be going live on Thursday, September 21, this week. As th
 
 ***⚠️⚠️TLDR: Node operators should update ASAP after the Thursday release as this version introduces breaking changes.***
 
-### Pushync and retrieval protocols updated
+### Pushsync and retrieval protocols updated
 
 The pushsync protocol which manages the syncing of chunks among nodes in the Swarm network and the retrieval protocol responsible for retrieving chunks when they are requested have been updated with improved logging so that problems can now be identified and addressed more easily.
 
