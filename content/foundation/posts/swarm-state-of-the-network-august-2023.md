@@ -9,7 +9,7 @@ _template = "post"
 slug="state-of-the-network-august"
 +++
 
-This report provides an in-depth overview of the state of storage incentives on the Ethswarm network for the month of August. Detailed below are insights into monthly rewards in BZZ tokens, single node monthly earnings, median win values, average win values, monthly unique staking nodes, and the geographic distribution of nodes. This data serves as a valuable indicator of the ongoing growth trends within the Swarm network. 
+This report provides an in-depth overview of the state of storage incentives on the Swarm network for the month of August. Detailed below are insights into monthly rewards in BZZ tokens, single node monthly earnings, median win values, average win values, monthly unique staking nodes, and the geographic distribution of nodes. This data serves as a valuable indicator of the ongoing growth trends within the Swarm network. 
 
 
 ### Data limitations: 
