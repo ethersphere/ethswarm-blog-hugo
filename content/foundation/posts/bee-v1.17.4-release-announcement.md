@@ -26,6 +26,10 @@ The pushsync protocol which manages the syncing of chunks among nodes in the Swa
 In previous version of Bee, the `immutable` header parameter of the [`/stamps POST`](https://docs.ethswarm.org/api/#tag/Postage-Stamps/paths/~1stamps~1%7Bamount%7D~1%7Bdepth%7D/post) endpoint for buying postage stamp batches was turned off by default. In this release the `immutable` option has been turned ***on*** (set to `true`) by default. This change was made in order to ensure that stamp purchasers do not unintentionally overwrite their uploaded data by accident, as could happen for data uploaded with the `immutable` option off. You can find out more about how `immutable` batches work [in the docs](https://docs.ethswarm.org/docs/learn/technology/contracts/postage-stamp/#batch-utilisation).
 
 
+### Default for `swap-enable` set to `false`
+
+The `swap-enable` config option is now by default `false`. This change was made so that when running the `bee start` command after a fresh install without changing any options, the node in ultra-light mode rather than throwing an error. Full node operators must enable set the `swap-enable` option to `true` if not already enabled for their nodes to continue to operate as normal.
+
 ### Default upload type is now deferred
 
 The default header parameter `swarm-deferred-upload` for the [`/bzz POST`](https://docs.ethswarm.org/api/#tag/BZZ/paths/~1bzz/post) and [`/bytes POST`](https://docs.ethswarm.org/api/#tag/Bytes/paths/~1bytes/post) endpoints has been set to `true`, changing the default upload type to deferred for all uploads. 
