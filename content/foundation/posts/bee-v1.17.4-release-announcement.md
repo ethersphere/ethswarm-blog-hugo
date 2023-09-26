@@ -12,7 +12,13 @@ slug="bee-1-17-4-pre-announcement"
 
 The 1.17.4 update will be going live on Thursday, September 21, this week. As this release will introduce breaking changes at the protocol level, it is important to update your nodes as soon as possible, so please be on the lookout for the release announcement and ***ready to update your nodes this Thursday***. This version includes some changes which will affect both Swarm developers as well as Bee node operators which are discussed in more detail below. 
 
-***⚠️⚠️TLDR: Node operators should update ASAP after the Thursday release as this version introduces breaking changes.***
+⚠️⚠️⚠️⚠️
+
+***Node operators should update ASAP after the Thursday release as this version introduces breaking changes.***
+
+***Full node operators must enable set the `swap-enable` option to `true` if it was not previously explicitly set to `true` to continue to operate as normal since the default value has been set to `false` in this update.***
+
+⚠️⚠️⚠️⚠️
 
 ### Pushsync and retrieval protocols updated
 
@@ -28,7 +34,11 @@ In previous version of Bee, the `immutable` header parameter of the [`/stamps PO
 
 ### Default for `swap-enable` set to `false`
 
-The `swap-enable` config option is now by default `false`. This change was made so that when running the `bee start` command after a fresh install without changing any options, the node in ultra-light mode rather than throwing an error. Full node operators must enable set the `swap-enable` option to `true` if not already enabled for their nodes to continue to operate as normal.
+The `swap-enable` config option is now by default `false`. This change was made so that when running the `bee start` command after a fresh install without changing any options, the node in ultra-light mode rather than throwing an error. 
+
+⚠️⚠️
+Full node operators must enable set the `swap-enable` option to `true` if it was not previously explicitly set to `true` to continue to operate as normal. 
+⚠️⚠️
 
 ### Default upload type is now deferred
 
