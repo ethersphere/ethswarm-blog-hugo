@@ -19,7 +19,7 @@ This article is part of [The Hivemaker's Code](https://toolkit.ethswarm.org/) se
 - Article 7: Is Net Neutrality Important for Blockchains?
 
 ## How to Balance a Challenging Demand
-![pattern](/uploads/pattern2-6.png)
+![pattern](/uploads/pattern3-7.png)
 
 **Authors: Oliver Lukitsch, Michal Matlon, Gregor Žavcer, Thomas Fundneider, Markus Peschl, Lena Müller-Naendrup**
 
@@ -57,7 +57,7 @@ The blockchain community is traditionally skeptical about top-down regulation, w
 
 
 ## Does Net Neutrality Lessen the Potential of Blockchain?
-![pattern](/uploads/pattern2-5.png)
+![pattern](/uploads/pattern3-4.png)
 
 We know that blockchain networks can suffer from congestion under load. The best example is an ICO (initial coin offering) of a new project entering the market. For instance, the ICO of the Bancor foundation issuing their BNT token clogged the Ethereum network for three hours.
 
@@ -76,7 +76,7 @@ Moreover, as the nodes in a blockchain network are formed randomly, the data tha
 
 ## Traffic Prioritization in Blockchain Networks
 
-![pattern](/uploads/pattern2-4.png)
+![pattern](/uploads/pattern3-0.png)
 
 Such prioritization is already happening on certain blockchain networks. First and foremost, on the Bitcoin blockchain. This practice is called “paid prioritization.” Transactions on the blockchain can be prioritized for “monetary payoff,” allowing miners to put transactions that yield higher payoff into a “fast lane.” Transactions that deliver smaller rewards, on the other hand, will remain in the slow lane. This leads to rising fees in times of strong congestion.
 
@@ -131,7 +131,7 @@ An example for such a network is [Swarm](https://www.ethswarm.org/). It's a netw
 
 
 ## Conclusion
-![pattern](/uploads/pattern2-3.png)
+![pattern](/uploads/pattern3-2.png)
 
 The distributed nature of blockchain raises concerns over its scalability while also challenging the neutrality of blockchain networks. It is a challenge centralized content providers have solved by deploying powerful distribution networks. But can blockchain networks learn from centralized solutions without compromising their core vision?
 
@@ -157,7 +157,7 @@ We are yet to see which solutions will gain the upper hand and what the future o
 
 
 ## Key Insights
-![pattern](/uploads/pattern2-1.png)
+![pattern](/uploads/pattern3-1.png)
 
 - Blockchain networks can deal with peak bandwidth events by prioritizing traffic.
 - Net neutrality in decentralized peer-to-peer networks can make such networks prone to congestion.
@@ -165,7 +165,7 @@ We are yet to see which solutions will gain the upper hand and what the future o
 
 
 ## References
-![pattern](/uploads/pattern2-2.png)
+![pattern](/uploads/pattern3-8.png)
 
 - Telecommunications Policy_ 44 (5): 101869. https://doi.org/10.1016/j.telpol.2019.101869.
 - Nihalani, Ashvin. 2017. “Net Neutrality and the Blockchain.” _Blockchain at Berkeley_ (blog). December 7, 2017. https://medium.com/blockchain-at-berkeley/net-neutrality-and-the-blockchain-22b17b3cad1.
