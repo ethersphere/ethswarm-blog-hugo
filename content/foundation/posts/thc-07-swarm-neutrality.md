@@ -120,7 +120,7 @@ Kuzmanovic claims that the problem can be turned upside down in the case of a bl
  
 
 
-"First, the network should not be able to censor information based on the content of blocks. Second, the network should not be able to censor nodes. Third, nodes should be able to continuously audit the above properties, and in case of network misbehavior, to abandon and replace the network. Fourth, the network should be available for use by all nodes and miners.” (Aleksandar Kuzmanovic)"
+> "First, the network should not be able to censor information based on the content of blocks. Second, the network should not be able to censor nodes. Third, nodes should be able to continuously audit the above properties, and in case of network misbehavior, to abandon and replace the network. Fourth, the network should be available for use by all nodes and miners.” (Aleksandar Kuzmanovic)"
 
 
      
