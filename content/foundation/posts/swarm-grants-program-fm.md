@@ -1,6 +1,6 @@
 +++
 banner = "/uploads/full-moon.png"
-categories = [ "Ecosystem" ]
+categories = [ "Grants" ]
 date = 2023-09-29T00:00:01.000Z
 description = "Are you looking to incorporate decentralised storage solutions into your project? If yes, then the Swarm Association Grants Program is here to support you. With financial support, the program aims to onboard promising projects and expand the Swarm Association's ecosystem. This blog will walk you through the process of applying for a grant."
 references_and_footnotes = [ ]
