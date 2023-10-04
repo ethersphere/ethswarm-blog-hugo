@@ -17,6 +17,7 @@ This article is part of [The Hivemaker's Code](https://toolkit.ethswarm.org/) se
 - Article 5: [Anonymity in the Cryptosphere](https://blog.ethswarm.org/foundation/2023/anonymity-in-the-cryptosphere/)
 - Article 6: Democracy and Decentralization
 - Article 7: [Is Net Neutrality Important for Blockchains?](https://blog.ethswarm.org/foundation/2023/is-net-neutrality-important-for-blockchains/)
+- Article 8: [Why Interoperability is the Bedrock of Digital Freedom](https://blog.ethswarm.org/foundation/2023/why-interoperability-is-the-bedrock-of-digital-freedom/)
 
 ## How Do They Fit Together?
 
@@ -24,12 +25,12 @@ This article is part of [The Hivemaker's Code](https://toolkit.ethswarm.org/) se
 
 **Authors: Oliver Lukitsch, Michal Matlon, Gregor Žavcer, Thomas Fundneider, Markus Peschl, Lena Müller-Naendrup**
 
- 
+
 The world we live in today is unjust. Glaring inequalities exist between the global North and the South, but also within European economies. All this can make it challenging to feel like there is progress happening. It seems we are moving backward, leaving humankind in a worse state than we found it.
 
 Nonetheless, there is progress to report. Despite all the atrocities, our democracies have evolved for the better. Minority rights have become more important to policymakers, and although there are setbacks to be felt everywhere, we live in more liberal, democratic societies than we did four decades ago.
 
-It's easy to get lost in the face of major setbacks, like the devastating blows to women's rights in the US. But the public reaction to Black Lives Matter and #metoo shows that our moral standards have refined too and that we are increasingly sensitive to injustice and unequal power relations. Though democratic values are at the height of their moral punch, they are being threatened by reactionary and authoritarian bents in almost equal measure. 
+It's easy to get lost in the face of major setbacks, like the devastating blows to women's rights in the US. But the public reaction to Black Lives Matter and #metoo shows that our moral standards have refined too and that we are increasingly sensitive to injustice and unequal power relations. Though democratic values are at the height of their moral punch, they are being threatened by reactionary and authoritarian bents in almost equal measure.
 
 A similar ambivalence has gripped the digital sphere. Internet giants have gained more power than ever. They collect information and exert a growing influence on elections and other political processes. In contrast, there is the GDPR in Europe and the vision of decentralized digital infrastructure, the Web3. Especially the latter is a bearer of hope and potential a realizer of democratic ideals. And we'll now take a look precisely at this technology.
 
@@ -39,18 +40,18 @@ Although they were heralded as saviors for freedom and autonomy, the Internet an
 
 The vision of a free Web3 is opposed to this prospect. It gave us a new perspective on how we can organize socially. It holds the promise of redistributing power, creating a genuinely self-organized, decentralized economy in which everybody who participates can own a piece of the pie. Is it set in stone that Web3 delivers on its promise, however?
 
- 
+
 **One of the biggest threats to Web3 is that its promise of a self-sovereign and decentralized internet remains broken while becoming a playground for venture capitalists and early adopters.**
 
- 
+
 
 Emphasizing the importance of decentralization is a good premise for a more open and fair web. But will it suffice? A fundamental value of a truly open and democratic community is that a society must maintain a balance between individual freedom and restriction. We can only achieve personal freedom by preventing other individuals from undermining each other's ability to act.
 
- 
+
 
 This culminates in philosopher Karl Popper's idea that an open society must defend its openness if it’s not to compromise its liberal democratic foundation. Any restriction an open society accepts must ultimately increase the individual's freedom, sovereignty, and possibilities.
 
- 
+
 
 Let's take Popper's principle as a starting point as we look at how blockchain and Web3 can promote a genuinely democratic Internet. In other words, let us look at how a Web3 ecosystem can enable a fundamentally open society.
 
@@ -183,7 +184,7 @@ You might object that Proof of Stake will create an even playing field for every
 
 ## Web3: How to Create an Open Society?
 ![pattern](/uploads/pattern6-4.png)
- 
+
 In many global economies, the unequal distribution of resources is a fundamental systemic condition. But there are political institutions that can counteract these tendencies. For instance, states impose taxes, prevent monopolies, and regulate fair competition between market players. Hence, while it is not (and cannot be) the main function of a blockchain to counter inequality, it can only be the role of its governance.
 
 Some might see this as a political intervention that undermines the neutrality of an otherwise basic, neutral infrastructure. However, we must not confuse the question of neutrality and political partisanship with the question of openness and freedom. The question is how to think of basic infrastructure as democratic or open.
@@ -263,7 +264,7 @@ In many cases, DAOs can help organizations to sustain their autonomy and to incr
 
 Blockchain, a technology that enables financial autonomy and self-determination for those who use it, has been criticized for its contradictory vision. One that emphasizes the participatory virtues and self-empowerment of shareholders, users, and members. However, this vision is undermined by the reinforcing feedback loops that allow those with the biggest stakes to gain even more.
 
- 
+
 
 One of the biggest threats to Web3 is that its promise of a self-sovereign and decentralized internet remains broken while becoming a playground for venture capitalists and early adopters. A democratic internet should be sufficiently open to allow entrepreneurs and investors to do their business. But it must also give rise to ecosystems where truly democratic, self-empowering, decentralizing processes and communities can emerge.
 
@@ -303,6 +304,3 @@ One of the biggest threats to Web3 is that its promise of a self-sovereign and d
 - Rice-Oxley, Mark. “Democracy Is Good for Your Health and Heart, Major Study Finds.” The Guardian, March 13, 2019, sec. World news. https://www.theguardian.com/world/2019/mar/13/democracy-is-good-for-your-health-and-heart-major-study-finds.
 - Weyl, Eric Glen, Puja Ohlhaver, and Vitalik Buterin. “Decentralized Society: Finding Web3’s Soul.” SSRN Electronic Journal, 2022. https://doi.org/10.2139/ssrn.4105763.
 - Young, Sage D. “Will a Proof-of-Stake Ethereum Lead to More Centralization?,” May 18, 2022. https://www.coindesk.com/layer2/2022/05/18/will-a-proof-of-stake-ethereum-lead-to-more-centralization/.
-
-
-     

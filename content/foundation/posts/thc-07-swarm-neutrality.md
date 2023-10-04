@@ -17,6 +17,7 @@ This article is part of [The Hivemaker's Code](https://toolkit.ethswarm.org/) se
 - Article 5: [Anonymity in the Cryptosphere](https://blog.ethswarm.org/foundation/2023/anonymity-in-the-cryptosphere/)
 - Article 6: [Democracy and Decentralization](https://blog.ethswarm.org/foundation/2023/democracy-and-decentralization/)
 - Article 7: Is Net Neutrality Important for Blockchains?
+- Article 8: [Why Interoperability is the Bedrock of Digital Freedom](https://blog.ethswarm.org/foundation/2023/why-interoperability-is-the-bedrock-of-digital-freedom/)
 
 ## How to Balance a Challenging Demand
 ![pattern](/uploads/pattern3-7.png)
