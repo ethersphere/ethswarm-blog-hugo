@@ -20,10 +20,11 @@ This article is part of [The Hivemaker's Code](https://toolkit.ethswarm.org/) se
 - Article 8: Why Interoperability is the Bedrock of Digital Freedom
 
 
-![pattern](/uploads/pattern1-8.png)
 
 **Authors: Oliver Lukitsch, Michal Matlon, Gregor Žavcer, Thomas Fundneider, Markus Peschl, Lena Müller-Naendrup**
 
+## Why Interoperability is the Bedrock of Digital Freedom
+![pattern](/uploads/pattern1-8.png)
  
 The European Union is a remarkable project granting us many freedoms so convenient it’s all too easy to take them for granted. We can easily move our goods, our bucks, and ourselves between different countries within it. This freedom to move and provide services anywhere is the cornerstone of the democratic and open way of life and economy in Europe.
 
