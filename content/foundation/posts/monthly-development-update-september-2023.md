@@ -10,18 +10,18 @@ _template = "post"
 
 September saw a fresh stream of new releases, announcements and publications that reflect Swarm’s evolving vitality. A new [Bee 1.17.4](https://blog.ethswarm.org/foundation/2023/bee-1-17-4-pre-announcement/) is out and it comes with a sizable changelog, a **breaking change** (make sure to update your node) and **improved user experience for node operators**.
 
-The **Price Oracle** and deliverables from **Phase 4** of the storage incentives roadmap are now **on testnet**. A new version of [Swarm Desktop](https://www.ethswarm.org/build/desktop) has also been released to sync with the changes of the new Bee.
+The **[Price Oracle](https://blog.staging.ethswarm.org/foundation/2023/oracle-overview/)** and deliverables from **Phase 4** of the storage incentives roadmap are now **on testnet**. A new version of [Swarm Desktop](https://www.ethswarm.org/build/desktop) has also been released to sync with the changes of the new Bee.
 
 Jumping over to the ecosystem side – if you’re looking for a grant to help you build/upgrade your project on the Swarm network, the Full Moon grants wave is open ([apply here](https://my.ethswarm.org/grants)). You can apply for a grant of up to 10,000 DAI in BZZ. [Fairdrive Web App](https://app.fairdrive.fairdatasociety.org/) has undergone a significant UI change, and a fully decentralised vector database [FaVe](https://github.com/fairDataSociety/FaVe) has also joined Fair Data Society’s suite of offerings (note that FaVe is still under development). 
 
-Four new blogs are also available to read on [Swarm’s official blog](https://blog.ethswarm.org/) and you can now mark your calendar for the October Swarm Community Call, which will take place on 26 October at 17:00 CET.
+Four new blogs are also available to read on [Swarm’s official blog](https://blog.ethswarm.org/) and you can now [mark your calendar](https://www.addevent.com/event/Ky18866277) for the October Swarm Community Call, which will take place on 26 October at 17:00 CET.
 
 
 ## Tracks
 
 ### Bee Track 
 
-#### Release 1.17.4 is out with the following:
+#### [Release 1.17.4](https://github.com/ethersphere/bee/releases/tag/v1.17.4) is out with the following:
 * Improved logging for the pushsync and the retrieval protocols. Note: This is a breaking change so node operators need to proceed as soon as possible with upgrading their nodes.
 * Default batch type is now immutable. This ensures that stamp purchasers do not unintentionally overwrite their uploaded data by accident.
 * Swap-enable set to false by default.  A fresh install, if no other options are changed, bee start command gets the node in ultra-light mode rather than throwing an error.
@@ -35,7 +35,7 @@ Logging has been improved, offering benefits in two key aspects:
 
 
 ### Research Track
-* The Phase 4 and Phase 3 deliverables of the inclusion proofs and the Price Oracle are now being deployed to testnet, where we are assessing and making ready for a wider release. 
+* The Phase 4 and Phase 3 deliverables of the inclusion proofs and the [Price Oracle](https://blog.staging.ethswarm.org/foundation/2023/oracle-overview/) are now being deployed to testnet, where we are assessing and making ready for a wider release. 
 * We are exploring how we can assist the wider hardening phase with any research or contract-based changes that may include doubling reserve sizes, assisting changes to reward variance, etc. 
 * The solution doc for erasure codes is complete and the EPIC kickoff will begin after the ph4 mainnet release. This will be Research’s key goal between now and EOY. 
 
@@ -132,4 +132,4 @@ Logging has been improved, offering benefits in two key aspects:
 
 ### Upcoming events
 #### **[Swarm Community Call](https://www.addevent.com/event/tf17853994)**
-* Swarm Community Call, our main monthly online event, will take place on 26 October at 17:00 CET in the [Swarm Foundation Discord](https://discord.gg/PHqsVNSJ?event=1126056886773489675) ([add to calendar](https://www.addevent.com/event/Ky18866277)). Meanwhile, you are welcome to send any questions you might have for the teams building the Swarm network by using this [online form](https://airtable.com/shrBRyrMkXFsJvLS3) for them to be addressed on the call.
+* Swarm Community Call, our main monthly online event, will take place on 26 October at 17:00 CET in the [Swarm Foundation Discord](https://discord.gg/PHqsVNSJ?event=1126056886773489675) ([add to calendar](https://www.addevent.com/event/Ky18866277). Meanwhile, you are welcome to send any questions you might have for the teams building the Swarm network by using this [online form](https://airtable.com/shrBRyrMkXFsJvLS3) for them to be addressed on the call.
