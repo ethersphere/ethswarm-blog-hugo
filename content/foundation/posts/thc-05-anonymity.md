@@ -18,6 +18,7 @@ This article is part of [The Hivemaker's Code](https://toolkit.ethswarm.org/) se
 - Article 6: [Democracy and Decentralization](https://blog.ethswarm.org/foundation/2023/democracy-and-decentralization/)
 - Article 7: [Is Net Neutrality Important for Blockchains?](https://blog.ethswarm.org/foundation/2023/is-net-neutrality-important-for-blockchains/)
 - Article 8: [Why Interoperability is the Bedrock of Digital Freedom](https://blog.ethswarm.org/foundation/2023/why-interoperability-is-the-bedrock-of-digital-freedom/)
+- [Article 9: The Way Forward](https://blog.ethswarm.org/foundation/2023/the-way-forward/)
 
 ## A balancing act between crime and an open society
 ![pattern](/uploads/pattern5-0.png)
