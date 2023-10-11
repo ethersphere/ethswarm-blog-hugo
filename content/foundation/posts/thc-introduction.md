@@ -17,6 +17,8 @@ This article is part of [The Hivemaker's Code](https://toolkit.ethswarm.org/) se
 - Article 5: [Anonymity in the Cryptosphere](https://blog.ethswarm.org/foundation/2023/anonymity-in-the-cryptosphere/)
 - Article 6: [Democracy and Decentralization](https://blog.ethswarm.org/foundation/2023/democracy-and-decentralization/)
 - Article 7: [Is Net Neutrality Important for Blockchains?](https://blog.ethswarm.org/foundation/2023/is-net-neutrality-important-for-blockchains/)
+- Article 8: [Why Interoperability is the Bedrock of Digital Freedom](https://blog.ethswarm.org/foundation/2023/why-interoperability-is-the-bedrock-of-digital-freedom/)
+- [Article 9: The Way Forward](https://blog.ethswarm.org/foundation/2023/the-way-forward/)
 
 ## What is This Document About?
 
@@ -36,7 +38,7 @@ This document is a result of collaboration between:
 
 We believe that in today’s state of the decentralized, blockchain, and crypto world, it’s crucial to take a step back and look at the bigger picture. We now see an environment ripe with fierce competition, where players are motivated by extrinsic motivation - the vision of getting rich.
 
-In this regard, Swarm wants to be different. We want to approach the challenge of building a thriving ecosystem by starting from virtues and purpose. We want to think consciously about how our technology can impact and advance society. 
+In this regard, Swarm wants to be different. We want to approach the challenge of building a thriving ecosystem by starting from virtues and purpose. We want to think consciously about how our technology can impact and advance society.
 
 This is important, especially when building fully-encrypted systems like Swarm. When you can’t control what your system is used for, your options for maximizing its positive impact are limited. You have to start by creating the right set of values and working to align the ecosystem’s participants around them. You must enable its positive uses and engage people to develop an intrinsic motivation to do good.
 

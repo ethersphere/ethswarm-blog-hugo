@@ -17,6 +17,8 @@ This article is part of [The Hivemaker's Code](https://toolkit.ethswarm.org/) se
 - Article 5: Anonymity in the Cryptosphere
 - Article 6: [Democracy and Decentralization](https://blog.ethswarm.org/foundation/2023/democracy-and-decentralization/)
 - Article 7: [Is Net Neutrality Important for Blockchains?](https://blog.ethswarm.org/foundation/2023/is-net-neutrality-important-for-blockchains/)
+- Article 8: [Why Interoperability is the Bedrock of Digital Freedom](https://blog.ethswarm.org/foundation/2023/why-interoperability-is-the-bedrock-of-digital-freedom/)
+- [Article 9: The Way Forward](https://blog.ethswarm.org/foundation/2023/the-way-forward/)
 
 ## A balancing act between crime and an open society
 ![pattern](/uploads/pattern5-0.png)
@@ -37,7 +39,7 @@ This is called a "rug-pull." A developer attracts investors to a project and pul
 
 This is only one example of criminal activity in the blockchain world. Cryptocurrencies and DeFi protocols can also be used as effective money-laundering instruments. They can be used for credit card fraud, online grooming, and the exploitation of disenfranchised people for criminal action. Moreover, cryptocurrencies can be used as an anonymous, untraceable payment method on darknet markets. Like the famous, now non-existent[ Silk Road](https://en.wikipedia.org/wiki/Silk_Road_(marketplace)).
 
- 
+
 
 The anonymity of blockchain can create a safe harbor for illegal activities. Yet, it is also a vital instrument to safeguard the values of an open, democratic society. In this article, we explore the tension between anonymity/privacy and the need for policing in the cryptosphere. And we look at whether the former contradicts the latter.
 
@@ -73,11 +75,11 @@ One final note on the topic of rug pulls: Sometimes, it is easy to identify a cr
 
 At least as of 2020, there was only a little evidence that terrorist organizations have yet turned to the "cybersphere as a revenue-generating tool," according to Isaac Kfir from the Institute for Economics and Peace. Instead, they used digital platforms for propaganda and recruitment. One reason could be that terrorists see themselves as less technologically literate than national governments and their cyber intelligence services.
 
- 
 
-However, many terrorist organizations have made their members aware of cryptocurrencies as anonymous payment options. The "Islamic State" reportedly transferred Bitcoin, which was worth millions of dollars at the time, Kfir claims. 
 
- 
+However, many terrorist organizations have made their members aware of cryptocurrencies as anonymous payment options. The "Islamic State" reportedly transferred Bitcoin, which was worth millions of dollars at the time, Kfir claims.
+
+
 
 Still, for now, cryptocurrencies might be of limited use for terrorist organizations since, ultimately, their operations require goods that cannot be bought with Bitcoin and similar tokens. Moreover, the value of cryptocurrencies is volatile (even in the case of stablecoins, as Terra demonstrated). The upshot: terrorist organizations might find cryptocurrencies and blockchain assets simply too impractical for their goals.
 

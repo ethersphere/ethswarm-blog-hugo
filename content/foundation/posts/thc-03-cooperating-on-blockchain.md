@@ -17,26 +17,28 @@ This article is part of [The Hivemaker's Code](https://toolkit.ethswarm.org/) se
 - Article 5: [Anonymity in the Cryptosphere](https://blog.ethswarm.org/foundation/2023/anonymity-in-the-cryptosphere/)
 - Article 6: [Democracy and Decentralization](https://blog.ethswarm.org/foundation/2023/democracy-and-decentralization/)
 - Article 7: [Is Net Neutrality Important for Blockchains?](https://blog.ethswarm.org/foundation/2023/is-net-neutrality-important-for-blockchains/)
+- Article 8: [Why Interoperability is the Bedrock of Digital Freedom](https://blog.ethswarm.org/foundation/2023/why-interoperability-is-the-bedrock-of-digital-freedom/)
+- [Article 9: The Way Forward](https://blog.ethswarm.org/foundation/2023/the-way-forward/)
 
 ## How to Manage Commons in Digital Ecosystems?
 ![pattern](/uploads/pattern3-0.png)
 
 **Authors: Oliver Lukitsch, Michal Matlon, Gregor Žavcer, Thomas Fundneider, Markus Peschl, Lena Müller-Naendrup**
 
-How do we deal with something that’s neither privately owned nor managed by authorities on our behalf? Something that everyone, as well as no one, owns. In other words, how do we manage “commons” so that their tragedy doesn't become a reality? 
+How do we deal with something that’s neither privately owned nor managed by authorities on our behalf? Something that everyone, as well as no one, owns. In other words, how do we manage “commons” so that their tragedy doesn't become a reality?
 
 Commons are widely shared things such as goods, small-scale resources like irrigation systems, as well as more abstract and large-scale resources such as a shared language or a climate ecosystem.
 
 The issue of who takes over responsibility for something that no one owns but everyone uses has occupied political, philosophical, and psychological debates for centuries. What drives human cooperation in using the commons? And in crypto, can we collectively pursue goals in anonymous groups without clear institutionalized guidance and ownership?
 
-Social psychologists, for example, say we have mental biases shaping our cooperation. For instance, we are more likely to cooperate with people we are related to, who we think belong to the same group as us, or who look familiar to us. 
+Social psychologists, for example, say we have mental biases shaping our cooperation. For instance, we are more likely to cooperate with people we are related to, who we think belong to the same group as us, or who look familiar to us.
 
 On the other hand, economists advocating for Rational Choice Theory have claimed that our actions and decisions are always motivated by self-interest, personal preferences, and benefits.
 
-The question of human cooperation has witnessed a revival in light of the explosion of the internet. The commons evolving within the digital sphere are even less tangible and more far-reaching than what we have dealt with so far. 
+The question of human cooperation has witnessed a revival in light of the explosion of the internet. The commons evolving within the digital sphere are even less tangible and more far-reaching than what we have dealt with so far.
 
 Online networks and platforms stretch over ever-growing communities of diverse people dispersed around the globe. We connect with people we have never met and we cooperate with them extensively online. We overcome our alleged biases and together create wonders such as Wikipedia, which hosts human knowledge created purely on voluntary terms.
- 
+
 The question remains. How can we cooperate sustainably in times of increasing digital anonymity? How do we build collective trust, counter free-riding, and use shared resources responsibly? How can we replicate the success of Wikipedia?
 
 
@@ -44,23 +46,23 @@ The question remains. How can we cooperate sustainably in times of increasing di
 ![pattern](/uploads/pattern3-1.png)
 
 
-Let's come back to the topic of the commons. The depletion of the Aral Sea, once the fourth-largest lake in the world, perfectly illustrates how a shared resource falls prey to a tragedy. 
+Let's come back to the topic of the commons. The depletion of the Aral Sea, once the fourth-largest lake in the world, perfectly illustrates how a shared resource falls prey to a tragedy.
 
-Between the 1960s and 2018, the sea's surface decreased by over eighty percent, leaving behind a barren, toxic, and inhospitable desert. Millions of people and fish lost their home environment of 54 000 square kilometers of freshwater. The story of the Aral Sea is an environmental catastrophe, but even worse, it's a human-made one. And some might claim it’s a Tragedy of the Commons. 
+Between the 1960s and 2018, the sea's surface decreased by over eighty percent, leaving behind a barren, toxic, and inhospitable desert. Millions of people and fish lost their home environment of 54 000 square kilometers of freshwater. The story of the Aral Sea is an environmental catastrophe, but even worse, it's a human-made one. And some might claim it’s a Tragedy of the Commons.
 
 ![img](/uploads/blog3.png)
 *Image: NASA Goddard Space Center, https://creativecommons.org/licenses/by/2.0/*
 
-The Aral Sea's freshwater has been used for fishery and agriculture by Kazakhstan and Uzbekistan farmers for centuries. Until the Soviet leaders initiated a five-year plan of water-intensive cotton farming in the desert of Uzbekistan, the lake provided a perfectly healthy ecosystem. 
+The Aral Sea's freshwater has been used for fishery and agriculture by Kazakhstan and Uzbekistan farmers for centuries. Until the Soviet leaders initiated a five-year plan of water-intensive cotton farming in the desert of Uzbekistan, the lake provided a perfectly healthy ecosystem.
 
-As the Soviet project involved redirecting two of the largest water-supplying rivers to use for irrigation purposes, the Aral lake rapidly lost a thousand cubic kilometers of freshwater to the cotton industry of the Soviet Union. The sea is a common water resource that used to be accessible to everyone. However, as one stakeholder overused the water resource, the lake's value for others declined massively. 
+As the Soviet project involved redirecting two of the largest water-supplying rivers to use for irrigation purposes, the Aral lake rapidly lost a thousand cubic kilometers of freshwater to the cotton industry of the Soviet Union. The sea is a common water resource that used to be accessible to everyone. However, as one stakeholder overused the water resource, the lake's value for others declined massively.
 
-So what does the Tragedy of the Commons mean? In 1968, the socio-biologist Garrett Hardin published a Science article titled "The Tragedy of Commons." The article stated that the finite nature and open character of shared resources would inevitably lead to overuse and depletion. He wrote: 
+So what does the Tragedy of the Commons mean? In 1968, the socio-biologist Garrett Hardin published a Science article titled "The Tragedy of Commons." The article stated that the finite nature and open character of shared resources would inevitably lead to overuse and depletion. He wrote:
 
 "Therein is the tragedy. Each man is locked into a system that compels him to increase his herd without limit - in a world that is limited. Ruin is the destination toward which all men rush, each pursuing his own best interest in a society that believes in the freedom of the commons."
 (Hardin, G., 1968)
 
-According to Hardin, without top-down interventions and governing authorities, the self-driven individuals who use common resources will eventually be confronted with a threefold problem. 
+According to Hardin, without top-down interventions and governing authorities, the self-driven individuals who use common resources will eventually be confronted with a threefold problem.
 
 The first issue is overuse. If a shared resource is finite, one person using it decreases its value for another person. Second, as the resource is open by default, no one is excluded from its use. This makes its monitoring and governance difficult. And last, any problem increases in complexity in a large community. Decision-making is much easier in local and intimate communities compared to anonymous, large groups.
 
@@ -71,7 +73,7 @@ The symptoms of those three problems are so-called "free-riding individuals." Wh
 ## Ostrom's 8 Principles for Managing Commons
 ![pattern](/uploads/pattern3-2.png)
 
-Hardin's Tragedy of the Commons can provide a simple explanation for all kinds of social dilemmas: traffic jams, overfishing of oceans, or dirty public toilets. Nevertheless, there are examples of successful, self-governed commons and collective management systems, like the [Acequias](https://lasacequias.org/) in New Mexico, sustainably managed by ordinary people for generations. 
+Hardin's Tragedy of the Commons can provide a simple explanation for all kinds of social dilemmas: traffic jams, overfishing of oceans, or dirty public toilets. Nevertheless, there are examples of successful, self-governed commons and collective management systems, like the [Acequias](https://lasacequias.org/) in New Mexico, sustainably managed by ordinary people for generations.
 
 And one scientist decided to find out what stands behind thriving communities that use their resources responsibly. In her Nobel Prize-winning research, Elinor Ostrom concluded that the reality of human cooperation in using commons might not be as grim as Hardin has sketched.
 
@@ -80,13 +82,13 @@ Based on her decades-long research of well-managed commons, Ostrom strongly beli
 1.	**Commons require clearly defined boundaries:** It should be clear who has access to commons, under what conditions, and where they begin and end.
 2.	**Governing rules should match local needs and conditions:** Commons are context-sensitive, so people in the community should create the rules.
 3.	**Participatory decision-making:** People affected by rules are likelier to adhere to them if they have participated in defining them.
-4.	**Monitoring the commons systems and community:** The community must develop a system for checking and monitoring the community members' behavior. 
+4.	**Monitoring the commons systems and community:** The community must develop a system for checking and monitoring the community members' behavior.
 5.	**Graduated sanctions for rule violators:** Commons work best when they include systems of warnings, fines, and informal reputational consequences before banishing members from the resource for good.
 6.	**Providing accessible, low-cost means for conflict resolution:** Members should be encouraged and enabled to bring up any issue so that problems can be solved by mediation rather than ignored.
 7.	**Other authorities should recognize the commons:** Commons can only sustain themselves if their rules are recognized as legitimate by higher authorities under which the community falls.
 8.	**Commons should be embedded in larger systems:** Many commons require large-scale cooperation and widespread responsibility to be managed successfully.
 
-By outlining these principles, Ostrom illustrated how commons could be successfully managed and provided in-depth insights into why some groups fail to govern themselves. In line with Hardin's reasoning, Ostrom argued that communication and trust constitute critical challenges to group-based governance of shared resources. 
+By outlining these principles, Ostrom illustrated how commons could be successfully managed and provided in-depth insights into why some groups fail to govern themselves. In line with Hardin's reasoning, Ostrom argued that communication and trust constitute critical challenges to group-based governance of shared resources.
 
 Suppose there are neither efficient ways to monitor social behavior nor means to introduce sanctions in case of a dispute. In that case, the commons fall prey to their substractibility and openness. Free riders will then benefit from the community, and the collective overuse might initiate a tragedy.
 
@@ -104,7 +106,7 @@ Generally, the blockchain constitutes a technological infrastructure for applica
 2.	Blockchain ledgers are accessible to anyone participating in the system.
 3.	Blockchains are immutable, holding that already existing information on the blockchain can never be deleted.
 
-In addition, they are run by a distributed verification system (like “mining”), through which connected computers verify transactions added to the chain's final blocks. Joining the validation process is then rewarded, usually with a virtual currency the given community uses. The seemingly simple principle of a decentralized, non-exclusive system that rewards cooperation posits a promising scenario for the common's resources dilemma. 
+In addition, they are run by a distributed verification system (like “mining”), through which connected computers verify transactions added to the chain's final blocks. Joining the validation process is then rewarded, usually with a virtual currency the given community uses. The seemingly simple principle of a decentralized, non-exclusive system that rewards cooperation posits a promising scenario for the common's resources dilemma.
 
 ## The Immunity of the Blockchain
 
@@ -132,11 +134,11 @@ For a successful commoning process, connecting people cooperatively via transpar
 
 Being a part of the hype often overshadows the desire to understand the underlying blockchain technology, resulting in an ever-growing community run by a small enclave of blockchain-skilled people. Especially in light of this rising unbalanced exclusivity, it is essential not to forget the blockchain's original transparent and decentralized culture.
 
-Insights such as Elinor Ostrom's principles could serve as a guide for implementing blockchain technology as an infrastructure encouraging cooperation and trust. Many blockchain communities still struggle with governance, internal communication, decision mechanisms, and planning for future development. 
+Insights such as Elinor Ostrom's principles could serve as a guide for implementing blockchain technology as an infrastructure encouraging cooperation and trust. Many blockchain communities still struggle with governance, internal communication, decision mechanisms, and planning for future development.
 
 These communities could use Ostrom's principles as a framework for organizing themselves. Token-based membership models could clearly define a community's members and borders, allowing for inclusive growth and providing incentives for cooperation. And smart contracts could allow for fast, decentralized decision-making processes. Projects like [Giveth](https://giveth.io/) are already aligning themselves around creating purposeful social change.
 
-We have used these principles as a model for decentralized, value-aligned ecosystems governance in our toolkit. Their potential goes far beyond pastures and irrigation systems as we enter the new era of global cooperation. 
+We have used these principles as a model for decentralized, value-aligned ecosystems governance in our toolkit. Their potential goes far beyond pastures and irrigation systems as we enter the new era of global cooperation.
 
 As we saw, overcoming the Tragedy of the Commons is not guaranteed. However, we believe that by learning from practices tested throughout centuries, new decentralized communities can successfully sustain themselves and use their potential purposefully.
 
