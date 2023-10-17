@@ -26,7 +26,7 @@ Swarm and Dappnode, both pioneers in their respective spheres, craft a partnersh
 
 Every purchase of [Dappnode hardware](https://dappnode.com/collections/all) will be a doorway into [Swarm’s decentralised storage network](https://www.ethswarm.org/). Users are granted enough tokens to stake and run a full Bee node, enabling them to actively contribute to and benefit from the network, both through providing vital storage resources and participating in Swarm’s rewarding redistribution game.
 
-An upcoming Ask-Me-Anything (AMA) session, hosted on [DappNode's Discord](https://discord.com/events/747647430450741309/1163863260148289727) on Wednesday, October 25th, will be dedicated to engaging with the community, resolving queries, and ensuring that every DappNode user can maximize their participation and rewards in the Swarm network.
+An upcoming Ask-Me-Anything (AMA) session, hosted on [Dappnode's Discord](https://discord.com/events/747647430450741309/1163863260148289727) on Wednesday, October 25th, will be dedicated to engaging with the community, resolving queries, and ensuring that every DappNode user can maximize their participation and rewards in the Swarm network.
 
 
 ![pattern](/uploads/flayer-dappnode.png)
