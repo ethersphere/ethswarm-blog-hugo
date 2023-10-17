@@ -1,7 +1,7 @@
 +++
 banner = "/uploads/dappnode-partner.png"
 categories = [ "Ecosystem" ]
-date = 2023-10-17T13:00:01.000Z
+date = 2023-10-17T10:00:01.000Z
 description = "Dappnode empowers node operators to exert enhanced control across various blockchain networks, from validating transactions and participating in consensus mechanisms to bolstering network security, all in a seamless and autonomous manner."
 references_and_footnotes = [ ]
 title = "Swarm and Dappnode: Joining Forces to Empower Decentralised Storage"
