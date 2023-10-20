@@ -1,7 +1,7 @@
 +++
 banner = "/uploads/full-moon.png"
 categories = [ "Grants" ]
-date = 2023-00-20T00:00:01.000Z
+date = 2023-10-20T00:00:01.000Z
 description = "As the grant program expands, welcoming new projects with each wave, here's a list of FAQs to assist in navigating the program. From applying for a grant to the payout date, find the information you need below."
 references_and_footnotes = [ ]
 title = "Grants FAQs"
