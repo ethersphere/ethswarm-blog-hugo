@@ -9,12 +9,13 @@ _template = "post"
 +++
 
 
-## Core research milestones to be soon delivered all at once
+## The network is witnessing explosive growth
 
 After releasing [1.17.5](https://github.com/ethersphere/bee/releases/tag/v1.17.5) Bee version in mid-October, bringing some minor but important changes, the Bee team is now working on providing more such improvements with the next update. The team is also focusing on addressing the connectivity issue on the mainnet that predominantly nodes joining from the People’s Republic of China are experiencing. **[Swarm network](https://swarmscan.io/) is undergoing exponential growth**, currently accounting for **well over 16k active nodes**, which is a **4.01x monthly increase**, allowing for excellent levels of data replication, further decentralisation and robustness of the network in general. 
 
-## The network is witnessing explosive growth
-Meanwhile, the focal point of the research team’s efforts is channelled towards rigorous testing of the[ Price Oracle](https://blog.ethswarm.org/foundation/2023/oracle-overview/)** and meeting major milestones in the following weeks**. After increasing the internal testnet and thus improving on the accuracy of price data, the team is confident in moving the testing to the public testnet next week, expecting to see great behaviour there as well and progressing apace to soon reaching several massive research milestones all at once. **“We have everything right where we want it to be,”** said Callum Toner, praising also the community which has proved to be instrumental by providing valuable feedback and aiding the research team in identifying and addressing potential hurdles. 
+## Core research milestones to be soon delivered all at once
+
+Meanwhile, the focal point of the research team’s efforts is channelled towards rigorous testing of the[ Price Oracle](https://blog.ethswarm.org/foundation/2023/oracle-overview/) **and meeting major milestones in the following weeks**. After increasing the internal testnet and thus improving on the accuracy of price data, the team is confident in moving the testing to the public testnet next week, expecting to see great behaviour there as well and progressing apace to soon reaching several massive research milestones all at once. **“We have everything right where we want it to be,”** said Callum Toner, praising also the community which has proved to be instrumental by providing valuable feedback and aiding the research team in identifying and addressing potential hurdles. 
 
 What remains after concluding Phases 3 and 4 are erasure codes; development in that area is already under way. \
 Last but not least, the long anticipated and needed **move to the Sepolia testnet will be happening this week**, while additional testing environments will also be kept and maintained to provide a better testing process overall.
@@ -37,7 +38,7 @@ As an experiment, **a collection of one thousand NFTs** was minted to be distrib
 
 The call’s finale was dedicated to [VideoWiki](https://beta.editor.video.wiki/), a Swarm Foundation grantee that provides a versatile event-hosting platform. In VideoWiki users can host their events via so-called Rooms or Video Cast, featuring a collaborative whiteboard, shared notes, external video sharing, presentation uploads, and session recording, as well as allowing for public or private casts (in Video Cast). They also offer streaming options to platforms such as YouTube, Facebook, or Twitch.
 
-Post-session,** recordings can be stored** in either local or cloud storage, including **Swarm**’s decentralised storage. For connecting to Swarm, VideoWiki uses an extension that runs on top of **[FairOS](https://docs.fairos.fairdatasociety.org/docs/)**, a decentralised operating system. It also uses **FairOS as a basis for the creation of user accounts and pods**. When the recording is stored in either of the available options, it is ready for editing with features like trimming, speeding up, subtitle addition, and sound enhancements.
+Post-session, **recordings can be stored** in either local or cloud storage, including **Swarm**’s decentralised storage. For connecting to Swarm, VideoWiki uses an extension that runs on top of **[FairOS](https://docs.fairos.fairdatasociety.org/docs/)**, a decentralised operating system. It also uses **FairOS as a basis for the creation of user accounts and pods**. When the recording is stored in either of the available options, it is ready for editing with features like trimming, speeding up, subtitle addition, and sound enhancements.
 
 
 ## Become part of the Swarm, run a full node on Dappnode 
