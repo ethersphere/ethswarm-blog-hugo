@@ -1,9 +1,8 @@
 +++
 banner = "/uploads/scc-oct-recap.png"
 categories = [ "Events" ]
-date = 2023-10-30T00:00:00.000Z
-description = "Swarm network is undergoing exponential growth, currently accounting for well over 16k active nodes, which is a 4.01x monthly increase, allowing for excellent levels of data replication, further decentralisation and robustness of the network in general. 
-"
+date = 2023-10-29T00:00:00.000Z
+description = "Swarm network is undergoing exponential growth, currently accounting for well over 16k active nodes, which is a 4.01x monthly increase, allowing for excellent levels of data replication, further decentralisation and robustness of the network in general."
 references_and_footnotes = [ ]
 title = "Swarm Community Call, 26 October – Recap"
 _template = "post"
