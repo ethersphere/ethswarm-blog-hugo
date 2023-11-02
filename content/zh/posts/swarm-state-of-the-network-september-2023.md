@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/state-of-network-blog.png"
+hide_front = true
 categories = [ "中文" ]
 date = 2023-10-11T00:00:00.000Z
 description = "我们不妨深入探究一下Swarm网络在九月份的各项性能指标。接下来我会用详细的信息为大家展示有关单个节点收益、奖励中位数、节点地理分布等相关统计数据。通过对比九月与八月的数据，我们一起来分析分析Swarm网络的增长方式。"

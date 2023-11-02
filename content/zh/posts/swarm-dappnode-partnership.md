@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/dappnode-partner.png"
+hide_front = true
 categories = [ "中文" ]
 date = 2023-10-17T10:00:01.000Z
 description = "对于初涉该领域的人来说，Dappnode在去中心化应用（dApp）世界中扮演着举足轻重的角色，它提供了一个重新定义去中心化网络用户体验的平台。Dappnode能够帮助用户发布和管理dApps，确保用户自主管理自己的数据，并为用户提供安全、抗审查能力的应用接口。"

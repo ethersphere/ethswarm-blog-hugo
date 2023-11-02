@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/general-graphic-3.jpg"
+hide_front = true
 categories = [ "中文" ]
 date = 2023-09-26T00:00:00.000Z
 description = "Bee客户端是一款功能强大的软件，它的开发旨在实现Swarm白皮书和《The Book of Swarm》中所共同描述的要打造一个永续前行的去中心化Web3存储愿景。与Bee客户端一道发展的，是一套完善的Swarm工具和各类生态应用，它们旨在帮助开发者和内容创作者更便捷地使用Bee。"
