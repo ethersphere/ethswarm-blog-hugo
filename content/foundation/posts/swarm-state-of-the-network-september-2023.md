@@ -14,8 +14,7 @@ Let's take a dive into the Swarm network's performance metrics for September. Th
 
 ### Data Considerations: 
 
-All data in this report is based on nodes which have won the redistribution game at least once per month. While on average the number of win events per month for running a single node is greater than one, it is possible to operate a single node for a month without a win event occurring.
-
+All data in this report is based on nodes which have won the redistribution game at least once per month, nodes which have not won were not included.
 
 ### Network Total Monthly Rewards
 
