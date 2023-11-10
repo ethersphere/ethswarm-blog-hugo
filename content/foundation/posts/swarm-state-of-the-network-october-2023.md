@@ -62,7 +62,7 @@ This metric is the median win amount for each win event.
 
 ![chart-Monthly-Median-Win-Values](https://hackmd.io/_uploads/BkMHHKjQ6.png)
 
-The median win value in October was 46.84, also the highest in the six-month timeline. This suggests that the typical win value for nodes has grown considerably, aligning with the overall upward trend in the network's performance.
+The median win value in October was 46.84, also the highest in the six-month timeline. This suggests that the typical win value for nodes has grown considerably, aligning with the overall upward trend in network usage.
 
 ## Active Staking Node Monthly Average Earnings
 This metric shows the average monthly earnings for an active staking node, with active staking node defined as a staked node which has submitted at least one commit transaction within the month, regardless of whether or not they have won a reward in that month.
