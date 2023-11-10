@@ -9,6 +9,7 @@ _template = "post"
 slug="state-of-the-network-september"
 +++
 
+*11/10/23 - Correction - The average win rate for nodes in August was not greater than one.*
 
 Let's take a dive into the Swarm network's performance metrics for September. The  details below offer a window into individual node earnings, win value statistics, and the geographical node distribution. By juxtaposing September's metrics with August's data, we can explore the network's growth patterns.
 
