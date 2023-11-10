@@ -2,7 +2,7 @@
 banner = "/uploads/state-of-network-blog.png"
 categories = [ "Development updates" ]
 date = 2023-11-06T00:00:00.000Z
-description = "All data in this report is based on nodes which have won the redistribution game at least once per month. While on average the number of win events per month for running a single node is greater than one, it is possible to operate a single node for a month without a win event occurring."
+description = "Over the last six months, the Swarm network has shown substantial growth and increased activity. This is evident from the rising total monthly rewards, average and median win values, and the average earnings per active staking node. The number of active nodes, both staking and non-staking, has significantly increased, with a notable rise in active staking nodes, especially from countries like China, Germany, and Finland."
 references_and_footnotes = [ ]
 title = "State of the Network: October"
 _template = "post"
