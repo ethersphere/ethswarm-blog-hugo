@@ -78,6 +78,8 @@ This metric shows the average monthly earnings for an active staking node, with 
 
 ![chart-Avg-Total-Earnings-per-Node](https://hackmd.io/_uploads/rkmVLFjQT.png)
 
+*(Note that this metric is lower across all months than in previous reports as we have retroactively included active staking nodes which did not win within each month.)*
+
 In October, the average earnings per active staking node dipped to 14.73 xBZZ. Although this is a significant decrease from September, when taken in light of the higher average win values per win event, it is evidence of an increasingly competitive network environment driven by the influx of new staking nodes rather than of a drop in network activity.
 
 ## Total Active Staking Nodes by Month
