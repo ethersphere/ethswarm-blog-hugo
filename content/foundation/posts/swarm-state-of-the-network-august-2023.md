@@ -9,6 +9,8 @@ _template = "post"
 slug="state-of-the-network-august"
 +++
 
+*11/10/23 - Correction - The average win rate for nodes in August was not greater than one.*
+
 This report provides an in-depth overview of the state of storage incentives on the Swarm network for the month of August. Detailed below are insights into monthly rewards in BZZ tokens, single node monthly earnings, median win values, average win values, monthly unique staking nodes, and the geographic distribution of nodes. This data serves as a valuable indicator of the ongoing growth trends within the Swarm network. 
 
 
