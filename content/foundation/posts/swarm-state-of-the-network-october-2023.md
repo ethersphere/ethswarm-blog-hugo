@@ -11,7 +11,7 @@ slug="state-of-the-network-october"
 
 ### Data Considerations
 
-* In order to improve the accuracy and relevance of network metrics, we have updated our data reporting methodology to include both nodes which have one and also those which have not won within each month. 
+* In order to improve the accuracy and relevance of network metrics, we have updated our data reporting methodology to include both nodes which have won and also those which have not won within each month. 
 * "Active staking nodes" are defined as nodes which have submitted at least one commit transaction within the month in question. Nodes which are staked but have not submitted a commit transaction within the month are not counted as active.
 
 
