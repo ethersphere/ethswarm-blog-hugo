@@ -2,7 +2,7 @@
 banner = "/uploads/swarm2-0r.png"
 categories = [ "Events" ]
 date = 2023-11-20T00:00:00.000Z
-description = "Let’s come together at a virtual event on 21 December, as the winter solstice marks the rebirth of the Sun, to launch the Swarm 2.0 era together. "
+description = "Join us at an online event on 21 December, as the winter solstice marks the rebirth of the Sun, to launch the Swarm 2.0 era together"
 references_and_footnotes = [ ]
 title = "Swarm 2.0"
 _template = "post"
