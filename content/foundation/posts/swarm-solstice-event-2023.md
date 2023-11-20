@@ -22,5 +22,6 @@ Let’s come together at a **online event on 21 December**, as the winter solsti
 
 [**Mark your calendars**](https://www.addevent.com/event/lf19253018), spread the word, stay tuned for more updates and follow us on [Discord.](https://discord.gg/C2QwbveT)
 
-Thank you for being a part of the Swarm Community. 
+Thank you for being a part of the Swarm Community.
+ 
 Swarm 2.0 starts here – with you! 
