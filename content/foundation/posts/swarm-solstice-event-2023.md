@@ -1,5 +1,5 @@
 +++
-banner = "/uploads/swarm2-0.png"
+banner = "/uploads/swarm2-0r.png"
 categories = [ "Events" ]
 date = 2023-11-20T00:00:00.000Z
 description = "Let’s come together at a virtual event on 21 December, as the winter solstice marks the rebirth of the Sun, to launch the Swarm 2.0 era together. "
