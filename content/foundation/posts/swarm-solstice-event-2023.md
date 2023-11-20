@@ -9,7 +9,7 @@ _template = "post"
 +++
 
 
-## 21 December 
+#### 21 December 
 
 Swarm's creation was an act of defiance. A bold step towards a universe where digital freedom reigns supreme. Swarm is designed for those who dare to imagine a world beyond the monolithic data empires; those who believe that in order to maintain individuality only we, individuals themselves, may control our own digital identity and data; those who refuse to accept the dictate of users as products. It was created to inspire them to join the uprising! 
 
