@@ -15,7 +15,7 @@ Swarm's creation was an act of defiance. A bold step towards a universe where di
 
 As the network has been experiencing explosive growth over last few months, Swarm Foundation is proud to see that this is beginning to happen, that the word is spreading, and is more committed than ever to reaching all the remaining major milestones and delivering Swarm 2.0, the proper foundation on which the free – libre – digital world can be built, by the end of the year. But Swarm 2.0 is more than its technical aspect. It is a network, a community of users. Get your hands on the new Swarm 2.0!  
 
-<p style="text-align: center;">**#generate freedom**</p>
+#### #generate freedom
 
 Let’s come together at a **virtual event on 21 December**, as the winter solstice marks the rebirth of the Sun, **to launch the Swarm 2.0 era** together.
 
