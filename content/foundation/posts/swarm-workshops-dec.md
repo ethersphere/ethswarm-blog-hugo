@@ -10,10 +10,10 @@ _template = "post"
 
 
 
-## #generate freedom
+### #generate freedom
 
 
-The Swarm Foundation is excited to announce **two upcoming workshops** in December, designed to empower you as an independent, self-sovereign agent in the digital world. These workshops will delve into the realms of **permissionless publishing** and the **establishment of private gateways** to the decentralised Swarm network.
+The Swarm Foundation is excited to announce **two upcoming workshops** in December, designed to empower you as an independent, self-sovereign agent in the digital world. These workshops will delve into the realms of **permissionless publishing** on the decentralised Swarm network.
 
 TLDR;
 
@@ -67,7 +67,7 @@ Key Takeaways:
  
 
 
-## Join Us and Shape the Decentralised Future
+### Join Us and Shape the Decentralised Future
 
 Empower yourself to become an independent, self-sovereign agent in the digital world. Join us on 6 December and 13 December at 15.00 CET, and let's collectively pave the way for a decentralised future where control is in your hands!
 
