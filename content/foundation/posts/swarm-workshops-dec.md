@@ -19,8 +19,8 @@ TLDR;
 
 
 
-* **Workshop 1:** Decentralise Your Blogging. Learn to publish blogs on Swarm that are resistant to censorship and control.
-* **Workshop 2:** Your Gateway to Decentralisation. Discover how to set up and manage your own private gateway to the Swarm Network for enhanced security and performance.
+* **Workshop 1: Decentralise Your Blog: A Guide to Censorship-Resistant Blogging**.  Learn to publish blogs on Swarm that are resistant to censorship and control.
+* **Workshop 2: Hosting on Swarm: Setting Up a Private Swarm Gateway**. Discover how to set up and manage your own private gateway to the Swarm Network for enhanced security and performance.
 
 
 ## Decentralise Your Blog: A Guide to Censorship-Resistant Blogging
