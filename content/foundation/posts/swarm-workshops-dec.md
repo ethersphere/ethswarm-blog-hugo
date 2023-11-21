@@ -1,5 +1,5 @@
 +++
-banner = "/uploads/swarm2-workshops.png"
+banner = "/uploads/swarm-workshops.png"
 categories = [ "Events" ]
 date = 2023-11-21T00:00:00.000Z
 description = "The Swarm Foundation is excited to announce two upcoming workshops in December, designed to empower you as an independent, self-sovereign agent in the digital world. These workshops will delve into the realms of permissionless publishing and the establishment of private gateways to the decentralised Swarm network."
