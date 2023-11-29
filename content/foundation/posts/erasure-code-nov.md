@@ -97,12 +97,12 @@ The development of erasure coding on Swarm is already well underway. Our researc
 ## Sources
 
 
-https://en.wikipedia.org/wiki/Parity_bit
-Erasure Encoding for the Masses - https://towardsdatascience.com/erasure-coding-for-the-masses-2c23c74bf87e
-Error correction in general - https://www.youtube.com/watch?v=5sskbSvha9M 
-Error correction continued: https://www.youtube.com/watch?v=bqtE6Q79PPs
-Reed solomon: https://www.youtube.com/watch?v=fBRMaEAFLE0
-Hamming codes Part 1: https://www.youtube.com/watch?v=X8jsijhllIA&pp=ygUNaGFtbWluZyBjb2Rlcw%3D%3D
-Hamming codes part 2 - implementation: https://www.youtube.com/watch?v=b3NxrZOu_CE&pp=ygUNaGFtbWluZyBjb2Rlcw%3D%3D
-Groups - https://www.youtube.com/watch?v=mH0oCDa74tE
-Fields - https://www.youtube.com/watch?v=bjp4nF8TW7s 
+- https://en.wikipedia.org/wiki/Parity_bit
+- Erasure Encoding for the Masses - https://towardsdatascience.com/erasure-coding-for-the-masses-2c23c74bf87e
+- Error correction in general - https://www.youtube.com/watch?v=5sskbSvha9M 
+- Error correction continued: https://www.youtube.com/watch?v=bqtE6Q79PPs
+- Reed solomon: https://www.youtube.com/watch?v=fBRMaEAFLE0
+- Hamming codes Part 1: https://www.youtube.com/watch?v=X8jsijhllIA&pp=ygUNaGFtbWluZyBjb2Rlcw%3D%3D
+- Hamming codes part 2 - implementation: https://www.youtube.com/watch?v=b3NxrZOu_CE&pp=ygUNaGFtbWluZyBjb2Rlcw%3D%3D
+- Groups - https://www.youtube.com/watch?v=mH0oCDa74tE
+- Fields - https://www.youtube.com/watch?v=bjp4nF8TW7s 
