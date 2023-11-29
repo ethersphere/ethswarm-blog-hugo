@@ -16,9 +16,6 @@ _template = "post"
 The Swarm Foundation is excited to announce **two upcoming workshops** in December, designed to empower you as an independent, self-sovereign agent in the digital world. These workshops will delve into the realms of **permissionless publishing** on the Swarm network.
 
 TLDR;
-
-
-
 * **Workshop 1: Decentralise Your Blog: A Guide to Censorship-Resistant Blogging**.  Learn to publish blogs on Swarm that are resistant to censorship and control.
 * **Workshop 2: Hosting on Swarm: Setting Up a Private Swarm Gateway**. Discover how to set up and manage your own private gateway to the Swarm Network for enhanced security and performance.
 
@@ -31,16 +28,17 @@ TLDR;
 
 **[Add to Calendar](https://www.addevent.com/event/sU19334495)**
 
+
 In this workshop, we'll explore the future of decentralised, permissionless and censorship-resistant publishing. You'll learn how to create a blog from scratch on the decentralised Swarm network, offering a robust alternative to conventional web hosting.
 
- 
+#### Requirements 
+No programming skills needed. Options available for both GUI and CLI users, catering to all preferences. 
 
-Key Takeaways:
-
-1. **Learn the Process:** Build a blog from the ground up on the Swarm network.
-2. **Seamless Transition:** Migrate content from platforms like Jekyll or Hugo.
-3. **Customisation:** Personalise your blog's aesthetics.
-4. **Explore Features:** Explore unique functionalities such as cryptocurrency tipping, storage cost support and private commenting.
+#### Key Takeaways:
+1. **Learn the Process:** Discover how to create a blog from scratch on the Swarm decentralised network, offering a robust alternative to traditional web hosting.
+2. **Censorship-Resistant Backup:** Understand how to backup existing content from Jekyll or Hugo, enabling a seamless transition to a Web3 environment.
+3. **Customisation:** Explore how to tailor the look and feel of your blog to align with your personal or brand aesthetics.
+4. **Explore Features:** Delve into unique functionalities like a tipping system that enables readers to directly reward your content with cryptocurrency, a donation feature to manage storage costs, and an interactive commenting system.
 
 
 ## Hosting on Swarm: Setting Up a Private Swarm Gateway
@@ -53,12 +51,10 @@ Key Takeaways:
 
 For content creators and developers, this workshop is a deep dive into decentralised hosting solutions. Learn to set up a private Swarm gateway to enhance the security and performance of your decentralised applications (dApps), platforms or web pages.
 
- 
+ #### Requirements 
+A basic level of programming knowledge is required to participate effectively in this workshop.
 
-Key Takeaways:
-
-
-
+### Key Takeaways:
 1. **Explore the Basics:** Understand hosting with Swarm's decentralised architecture.
 2. **Gateway Request Cycle:** Learn the intricacies of gateway requests, ENS names and Swarm CIDs.
 3. **Setup and Configuration:** Practical guidance on establishing a private Swarm gateway.
