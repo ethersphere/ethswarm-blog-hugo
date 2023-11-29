@@ -54,7 +54,7 @@ For content creators and developers, this workshop is a deep dive into decentral
  #### Requirements 
 A basic level of programming knowledge is required to participate effectively in this workshop.
 
-### Key Takeaways:
+#### Key Takeaways:
 1. **Explore the Basics:** Understand hosting with Swarm's decentralised architecture.
 2. **Gateway Request Cycle:** Learn the intricacies of gateway requests, ENS names and Swarm CIDs.
 3. **Setup and Configuration:** Practical guidance on establishing a private Swarm gateway.
