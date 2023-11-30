@@ -7,12 +7,12 @@ Content is hosted on Forestry.
 ## Setup
 
 - Install `node` and `npm`
-- Install Hugo 
+- Install Hugo
   - Linux , WSL on windows: `sudo snap install hugo`
   - Mac: `brew install hugo`
   - Windows: Using `scoop` or `choco`
-    - `choco install hugo-extended` 
-    - `scoop install hugo-extended`   
+    - `choco install hugo-extended`
+    - `scoop install hugo-extended`
 
 ## Development
 
@@ -50,7 +50,7 @@ npm run build
 Run the command in the project root directory:
 
 ```bash
-hugo -D --gc && npx -y pagefind --source public
+hugo -D --gc && npx -y pagefind --site public
 ```
 
 # Local Search

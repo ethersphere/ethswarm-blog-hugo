@@ -3,10 +3,14 @@
     <img
       src="{{ . | relURL }}"
       alt=""
-      class="object-cover w-full aspect-video"
+      class="aspect-video w-full rounded-[4px] object-cover"
     />
   {{ else }}
-    <img src="/default.png" alt="" class="object-cover w-full aspect-video" />
+    <img
+      src="/default.png"
+      alt=""
+      class="aspect-video w-full rounded-[4px] object-cover"
+    />
   {{ end }}
 
 
@@ -28,7 +32,7 @@
           </p>
         </div>
       </a>
-      <div class="flex items-center mt-6 space-x-3 text-xs text-gray-500">
+      <div class="mt-6 flex items-center space-x-3 text-xs text-gray-500">
         <span>{{ .Date.Format "Jan 2" }}</span>
 
         {{ partial "partials/tag.html" . }}
