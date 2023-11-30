@@ -7,10 +7,10 @@
   <a
     {{ if $term }}
       class="px-3 py-2 mt-[2px] transition duration-150 hover:bg-gray-900
-      hover:text-gray-100 whitespace-nowrap"
+      hover:text-gray-100 whitespace-nowrap rounded-[4px]"
     {{ else }}
       class="px-3 py-2 mt-[2px] text-gray-100 transition duration-150
-      bg-gray-900 whitespace-nowrap"
+      bg-gray-900 whitespace-nowrap rounded-[4px]"
     {{ end }}
     href="{{ "/" | relLangURL }}"
   >
@@ -22,10 +22,10 @@
     <a
       {{ if eq $term ($key | humanize) }}
         class="px-3 py-2 text-gray-100 transition duration-150 bg-gray-900
-        whitespace-nowrap"
+        whitespace-nowrap rounded-[4px]"
       {{ else }}
         class="px-3 py-2 transition duration-150 hover:bg-gray-900
-        hover:text-gray-100 whitespace-nowrap"
+        hover:text-gray-100 whitespace-nowrap rounded-[4px]"
       {{ end }}
       href="{{ "/c/" | relLangURL }}{{ $key | urlize }}"
     >
