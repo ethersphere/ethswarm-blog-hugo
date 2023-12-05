@@ -36,7 +36,7 @@ And to wrap it all up, we have a host of exciting events in the pipeline: from [
 ### Research Track
 * SPECS template of sections to be updated is underway for the end of the year to give full clarity of the system 
 * Ph4 and the Oracle are being released 48 hours later than initially communicated due to a testing environment change. This release will bring massive security and pricing benefits to the network 
-* Erasure codes is nearing its debut onto the testnet 
+* [Erasure codes](https://blog.ethswarm.org/foundation/2023/erasure-coding-supercharges-swarm/) is nearing its debut onto the testnet 
 
 
 ### JS Track
