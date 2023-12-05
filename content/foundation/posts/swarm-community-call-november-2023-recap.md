@@ -1,5 +1,5 @@
 +++
-banner = "/uploads/scc-oct-recap.png"
+banner = "/uploads/scc-recap-november.png"
 categories = [ "Events" ]
 date = 2023-12-05T00:00:00.000Z
 description = "The November Swarm Community Call came packed with great news. The network has grown to almost 20,000 nodes, showing an incredible influx over the last couple of months."
