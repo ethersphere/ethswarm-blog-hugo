@@ -24,7 +24,7 @@ And to wrap it all up, we have a host of exciting events in the pipeline: from [
 ## Tracks
 
 ### Bee Track
-* Release 1.17.6, with many hardening issues being tackled. Highlights of the release:
+* Release [v.1.17.6](https://github.com/ethersphere/bee/releases/tag/v1.17.6), with many hardening issues being tackled. Highlights of the release:
     * The focus has been mostly on improving connectivity of nodes across the network and bringing performance improvements to chunk caching operations.
     * Addition of a new DB command that will perform a chunk validation of the chunkstore, similar to the optional step in the compaction command.
     * The retrieval protocol now has a similar multiplexing capability, where multiple parallel requests are fired from a forwarder peer that can directly access the neighbourhood of a chunk.
@@ -40,27 +40,28 @@ And to wrap it all up, we have a host of exciting events in the pipeline: from [
 
 
 ### JS Track
-#### Bee-JS
+#### [Bee-JS](https://github.com/ethersphere/bee-js/)
 * Adds global batches endpoint
 * Upload size is now unlimited
 * Re-adds standardised BeeResponseError
 * Adds Utils functions to reverse-calculate depth and amount based on gigabytes and days
 
-#### Swarm-CLI
-* Upgrades to latest Bee-JS for fixes
-* Adds new manifest commands (create, add, remove, sync, merge)
-
-#### Comment system
+##### Comment system
 * Adds reply mechanism
 * Adds Moderation mechanism (not censorship)
 * Can be embedded anywhere
 
-#### Donation component
+##### Donation component
 * Adds automated top-up support
 * Adds manual donation support
 * Can be embedded anywhere
 
-#### Gateway Proxy
+#### [Swarm-CLI](https://github.com/ethersphere/swarm-cli)
+* Upgrades to latest Bee-JS for fixes
+* Adds new manifest commands (create, add, remove, sync, merge)
+
+
+#### [Gateway Proxy](https://github.com/ethersphere/gateway-proxy)
 * Adds HOMEPAGE configuration to set default homepage to a Swarm hash
 * Adds REMAP configuration to set arbitrary human-friendly names to Swarm hashes
 * Makes the ALLOWLIST more secure by fixing a few issues that allowed bypassing it
@@ -118,7 +119,7 @@ And to wrap it all up, we have a host of exciting events in the pipeline: from [
 
 ##### Doctor Bee
 * A TUI to generate health report for a bee node
-* First version of Doctor Bee released – [https://github.com/rampall/doctor-bee](https://github.com/rampall/doctor-bee)
+* First version of [Doctor Bee](https://github.com/rampall/doctor-bee) released
 * Includes UI/UX improvements based on feedback from the community
 
 
@@ -134,7 +135,7 @@ And to wrap it all up, we have a host of exciting events in the pipeline: from [
 
 
 
-#### Events:
+### Events:
 ##### Swarm Community Call – November 2023
 * The Swarm Community Call, our main monthly online event, was held on 30 November. You can read a recap blog post about it [here](https://blog.ethswarm.org/foundation/2023/swarm-community-call-30-november-recap/).
 
@@ -142,10 +143,10 @@ And to wrap it all up, we have a host of exciting events in the pipeline: from [
 
 #### Upcoming events
 
-##### Workshop: [Decentralise Earth Observation! ](https://blog.ethswarm.org/foundation/2023/decentralize-earth-observation/)
+##### **Workshop: [Decentralise Earth Observation! ](https://blog.ethswarm.org/foundation/2023/decentralize-earth-observation/)**
 * [Decentralise Earth Observation! ](https://blog.ethswarm.org/foundation/2023/decentralize-earth-observation/)European Space Agency Phi-lab and Web3 technologies workshop
 
-##### Workshop: [“Decentralise Your Blog](https://blog.ethswarm.org/foundation/2023/swarm-workshops-permissionless-publishing/): A Guide to Censorship-Resistant Blogging
+##### **Workshop: [“Decentralise Your Blog](https://blog.ethswarm.org/foundation/2023/swarm-workshops-permissionless-publishing/): A Guide to Censorship-Resistant Blogging**
 * **6 December** on [Discord](https://discord.com/channels/799027393297514537/966664597186699304): a workshop [“Decentralise Your Blog](https://blog.ethswarm.org/foundation/2023/swarm-workshops-permissionless-publishing/): A Guide to Censorship-Resistant Blogging”. Learn to publish blogs on Swarm that are resistant to censorship and control. No command line knowledge needed. [Add to Calendar](https://www.addevent.com/event/sU19334495)
 
 
