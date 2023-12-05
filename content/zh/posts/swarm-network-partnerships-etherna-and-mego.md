@@ -2,7 +2,7 @@
 banner = "/uploads/swarm-partnerships.png"
 categories = [ "中文" ]
 hide_front = true
-date = 2023-08-24T12:00:00.000Z
+date = 2023-12-04T12:00:00.000Z
 description = "对于活动爱好者来说，这里有一则激动人心的消息：Swarm基金会已与文娱活动生态中的三家组织StreamETH, Etherna 和 Mego 开展合作。他们正在一起颠覆传统，推动文娱行业进入一个新时代。让我们一探究竟！"
 references_and_footnotes = [ ]
 title = " Swarm创新文娱领域：与StreamETH、Etherna和Mego开展深入合作"
