@@ -6,7 +6,7 @@ description = "In this comprehensive report, we delve into the key metrics and t
 references_and_footnotes = [ ]
 title = "State of the Network: November"
 _template = "post"
-slug="state-of-the-network-november-zh"
+slug="state-of-the-network-november"
 +++
 
 In this comprehensive report, we delve into the key metrics and trends that have shaped the Swarm network throughout November. This month's analysis brings a focus on various critical aspects of the network, including the total active staking nodes, connectable nodes, winning nodes, and the geographic distribution of active nodes. Additionally, we explore the network's total monthly rewards, average and median win values, and the average earnings per active staking node. Join us as we dissect the numbers and trends that define the Swarm network, reflecting its ongoing evolution and expanding global footprint in the decentralized storage landscape.
