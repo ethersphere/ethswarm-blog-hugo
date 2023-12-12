@@ -13,9 +13,9 @@ In this comprehensive report, we delve into the key metrics and trends that have
 
 ## Total Active Staking Nodes
 
-The "Active staking node" metric has been redefined starting in November as any full node with a greater than zero reserve size. It is currently measured from a single snapshot from the [Swarmscan network dump API](https://api.swarmscan.io/v1/network/dump) early the following month.
+The "active staking node" metric has been redefined starting in November as any full node with a greater than zero reserve size (as it can be assumed that having a greater than zero reserve size is an indication that a node is actively participating in the redistribution game). It is currently measured from a single snapshot from the [Swarmscan network dump API](https://api.swarmscan.io/v1/network/dump) early each following month.
 
-Due to events on the network [in early December](https://discord.com/channels/799027393297514537/816617743688007702/1182285582882312233), the actual number of active staking nodes in November is likely higher than the value reported here as this month's report's snapshot was taken following the network events. In future reports we aim to move away from using a single snapshot in order to more accurately capture network data. 
+Due to events on the network [in early December](https://discord.com/channels/799027393297514537/816617743688007702/1182285582882312233), the actual number of active staking nodes in November is likely higher than the value reported here as this month's report's snapshot was taken following the network events in early December. In future reports we aim to move away from using a single snapshot in order to more accurately capture network data. 
 
 Take note that this affects metrics which are derived in part from this metric, such as "Active Staking Node Monthly Average Earnings" and "Total Active Staking Nodes by Country". 
 
@@ -31,7 +31,7 @@ Take note that this affects metrics which are derived in part from this metric, 
 
 ![chart-Total-Active-Staking-Nodes](/uploads/chart-Total-Active-Staking-Nodes-November.png)
 
-November saw a decrease in active staking nodes to 7,541, however as stated above, the actual number of staking nodes in November is likely under-reported.   
+November saw a decrease in active staking nodes to 7,541, however as stated above, the actual number of staking nodes in November is likely under-represented from this network data snapshot.   
 
 ## Total Connectable Nodes
 
@@ -48,7 +48,7 @@ This metric shows the total number of nodes which are connectable each month, in
 
 ![chart-Total-Connectable-Nodes-by-Month](/uploads/chart-Total-Active-Nodes-by-Month-November.png)
 
-November marked a new high with 17273 total active nodes, surpassing October's record. This continuous growth signifies a robust expansion in the network's overall reach and activity levels.
+November marked a new high with 17,273 total active nodes, surpassing October's record. This continuous growth signifies a robust expansion in the network's overall reach and activity levels.
 
 ## Total Winning Nodes 
 
@@ -69,7 +69,7 @@ November saw a new peak with 2,787 active staking nodes winning at least once, c
 
 ## Total Active Staking Nodes by Country
 
-This metric shows the total number of active staking nodes across the top four countries and all other countries aggregated into the "Other" category, as well as the remaining nodes in the "Unknown" category.
+This metric shows the total number of active staking nodes across the top four countries and all other countries aggregated into the "Other" category, as well nodes for which country data is missing in the "Unknown" category.
  
 
 |               | China | Germany | Finland | Unknown | United States | Other |
@@ -83,7 +83,7 @@ This metric shows the total number of active staking nodes across the top four c
 
 ![Total Staking Nodes by Country(4).png](/uploads/Total-Active-Staking-Nodes-by-Country.png)
 
-November observed a redistribution in active staking nodes across countries, with China still leading, albeit with a reduced count compared to October. This change reflects a dynamic and evolving geographical distribution of network participants. The the numbers reported here should be considered in light of the issues described in the section on the "Total Active Staking Nodes" metric above. 
+November observed a redistribution in active staking nodes across countries, with China still leading, albeit with a reduced count compared to October. This change reflects a dynamic and evolving geographical distribution of network participants. The numbers reported here should be considered in light of the issues described in the section on the "Total Active Staking Nodes" metric at the top of this article. 
 
 ## Network Total Monthly Rewards
 
@@ -149,7 +149,7 @@ This metric shows the average monthly earnings for an active staking node.
 
 ![chart-Avg-Total-Earnings-per-Node](/uploads/chart-Avg-Total-Earnings-per-Node-November.png)
 
-In November, the average earnings per active staking node increased to 19.707 xBZZ. Taking into consideration what has been mentioned in the section above on the "Total Active Staking Nodes" metric, it is likely that that the average earnings this month deviate from the value reported here.
+In November, the average earnings per active staking node increased to 19.707 xBZZ. Taking into consideration what has been mentioned in the section above on the "Total Active Staking Nodes" metric, it is likely that that the actual average earnings this month deviate somewhat from the value reported here.
 
 ## Conclusion
 
