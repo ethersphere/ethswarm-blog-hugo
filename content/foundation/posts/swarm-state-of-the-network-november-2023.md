@@ -21,12 +21,12 @@ This metric shows the total rewards paid out across the entire network for each 
 
 | Month     | Total Network Rewards (xBZZ) |
 |-----------|------------------------------|
-| June      | 26655                        |
-| July      | 34839                        |
-| August    | 135927                       |
-| September | 147825                       |
-| October   | 152868                       |
-| **November**  | **148617**                       |
+| June      | 26,655                        |
+| July      | 34,839                        |
+| August    | 13,5927                       |
+| September | 147,825                       |
+| October   | 152,868                       |
+| **November**  | **148,617**                       |
 
 ![chart-Total-Network-Monthly-Rewards](/uploads/chart-Total-Network-Monthly-Rewards-November.png)
 
@@ -87,12 +87,12 @@ This metric shows the total active staking nodes by month.
 
 | Month     | Total Active Staking Nodes |
 |-----------|----------------------------|
-| June      | 2482                       |
-| July      | 2657                       |
-| August    | 4368                       |
-| September | 4574                       |
-| October   | 10367                      |
-| **November**  | **20868**                      |
+| June      | 2,482                       |
+| July      | 2,657                       |
+| August    | 4,368                       |
+| September | 4,574                       |
+| October   | 10,367                      |
+| **November**  | **20,868**                      |
 
 ![chart-Total-Active-Staking-Nodes](/uploads/chart-Total-Active-Staking-Nodes-November.png)
 
@@ -104,12 +104,12 @@ This metric shows the total number of unique active staking nodes which have won
 
 | Month     | Total Winning Nodes |
 |-----------|----------------------|
-| June      | 1415                 |
-| July      | 1541                 |
-| August    | 1993                 |
-| September | 2125                 |
-| October   | 2462                 |
-| **November**  | **2787**                 |
+| June      | 1,415                 |
+| July      | 1,541                 |
+| August    | 1,993                 |
+| September | 2,125                 |
+| October   | 2,462                 |
+| **November**  | **2,787**                 |
 
 ![chart-Number-of-Winning-Staking-Nodes-by-Month](/uploads/chart-Number-of-Winning-Staking-Nodes-by-Month-November.png)
 
@@ -122,12 +122,12 @@ This metric shows the total number of active staking nodes across the top four c
 
 |               | China | Germany | Finland | Unknown | United States | Other |
 |---------------|-------|---------|---------|---------|---------------|-------|
-| June          | 1062  | 409     | 609     | 230     | 9             | 163   |
-| July          | 1172  | 445     | 630     | 224     | 7             | 179   |
-| August        | 855   | 1481    | 1611    | 267     | 7             | 147   |
-| September     | 574   | 2046    | 1607    | 217     | 8             | 123   |
-| October       | 6242  | 2042    | 1543    | 175     | 282           | 91    |
-| **November**      | **16145** | **2225**    | **1961**    | **37**      | **363**           | **137**   |
+| June          | 1,062  | 409     | 609     | 230     | 9             | 163   |
+| July          | 1,172  | 445     | 630     | 224     | 7             | 179   |
+| August        | 855   | 1,481    | 1,611    | 267     | 7             | 147   |
+| September     | 574   | 2,046    | 1,607    | 217     | 8             | 123   |
+| October       | 6,242  | 2,042    | 1,543    | 175     | 282           | 91    |
+| **November**      | **16,145** | **2,225**    | **1,961**    | **37**      | **363**           | **137**   |
 
 ![Total Staking Nodes by Country.png](/uploads/Total-Active-Staking-Nodes-by-Country.png)
 
