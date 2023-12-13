@@ -12,7 +12,7 @@ In this comprehensive analysis of the Swarm network's performance over recent mo
 
 ### Data Considerations
 
-* The "Active staking node" metric has been redefined starting in November as any full node with a greater than zero reserve size at some point in the month. This has not been retroactively applied to past months, but will be the definition used in future months. 
+The "Active staking node" metric has been redefined starting in November as any full node with a greater than zero reserve size at some point in the month. This has not been retroactively applied to past months, but will be the definition used in future months. 
 
 ## Network Total Monthly Rewards
 
