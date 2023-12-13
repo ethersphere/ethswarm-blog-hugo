@@ -9,81 +9,11 @@ _template = "post"
 slug="state-of-the-network-november"
 +++
 
-In this comprehensive report, we delve into the key metrics and trends that have shaped the Swarm network throughout November. This month's analysis brings a focus on various critical aspects of the network, including the total active staking nodes, connectable nodes, winning nodes, and the geographic distribution of active nodes. Additionally, we explore the network's total monthly rewards, average and median win values, and the average earnings per active staking node. Join us as we dissect the numbers and trends that define the Swarm network, reflecting its ongoing evolution and expanding global footprint in the decentralized storage landscape.
+In this comprehensive analysis of the Swarm network's performance over recent months, we delve into various key metrics that offer insights into the network's health and growth. The report covers a range of data, including total monthly rewards, median and average win values, as well as the average earnings for active staking nodes. We also examine the increasing number of active staking nodes, both globally and by country, providing a detailed view of the network's expanding reach. These metrics collectively paint a vivid picture of the Swarm network's current state and its evolving dynamics within the decentralized storage space.
 
-## Total Active Staking Nodes
+### Data Considerations
 
-The "active staking node" metric has been redefined starting in November as any full node with a greater than zero reserve size (as it can be assumed that having a greater than zero reserve size is an indication that a node is actively participating in the redistribution game). It is currently measured from a single snapshot from the [Swarmscan network dump API](https://api.swarmscan.io/v1/network/dump) early each following month.
-
-Due to events on the network [in early December](https://discord.com/channels/799027393297514537/816617743688007702/1182285582882312233), the actual number of active staking nodes in November is likely higher than the value reported here as this month's report's snapshot was taken following the network events in early December. In future reports we aim to move away from using a single snapshot in order to more accurately capture network data. 
-
-Take note that this affects metrics which are derived in part from this metric, such as "Active Staking Node Monthly Average Earnings" and "Total Active Staking Nodes by Country". 
-
-
-| Month     | Total Active Staking Nodes |
-|-----------|----------------------------|
-| June      | 2482                       |
-| July      | 2657                       |
-| August    | 4368                       |
-| September | 4574                       |
-| October   | 10367                      |
-| November  | 7541                       |
-
-![chart-Total-Active-Staking-Nodes](/uploads/chart-Total-Active-Staking-Nodes-November.png)
-
-November saw a decrease in active staking nodes to 7,541, however as stated above, the actual number of staking nodes in November is likely under-represented from this network data snapshot.   
-
-## Total Connectable Nodes
-
-This metric shows the total number of nodes which are connectable each month, including both active staking nodes, inactive staking nodes, and non-staking nodes. In contrast with the "Total Active Staking Nodes" metric, this value is not snapshot based, and includes the cumulative connectable nodes which were reachable at any time over the entire month. 
-
-| Month     | Total Active Nodes |
-|-----------|---------------------|
-| June      | 4002                |
-| July      | 4221                |
-| August    | 4554                |
-| September | 5107                |
-| October   | 16424               |
-| November  | 17273               |
-
-![chart-Total-Connectable-Nodes-by-Month](/uploads/chart-Total-Active-Nodes-by-Month-November.png)
-
-November marked a new high with 17,273 total active nodes, surpassing October's record. This continuous growth signifies a robust expansion in the network's overall reach and activity levels.
-
-## Total Winning Nodes 
-
-This metric shows the total number of unique nodes which have won at least once within the month.
-
-| Month     | Total Winning Nodes |
-|-----------|----------------------|
-| June      | 1415                 |
-| July      | 1541                 |
-| August    | 1993                 |
-| September | 2125                 |
-| October   | 2462                 |
-| November  | 2787                 |
-
-![chart-Number-of-Winning-Staking-Nodes-by-Month](/uploads/chart-Number-of-Winning-Staking-Nodes-by-Month-November.png)
-
-November saw a new peak with 2,787 active staking nodes winning at least once, continuing the upward trend observed in recent months.  
-
-## Total Active Staking Nodes by Country
-
-This metric shows the total number of active staking nodes across the top four countries and all other countries aggregated into the "Other" category, as well nodes for which country data is missing in the "Unknown" category.
- 
-
-|               | China | Germany | Finland | Unknown | United States | Other |
-|---------------|-------|---------|---------|---------|---------------|-------|
-| June          | 1062  | 409     | 609     | 230     | 9             | 163   |
-| July          | 1172  | 445     | 630     | 224     | 7             | 179   |
-| August        | 855   | 1481    | 1611    | 267     | 7             | 147   |
-| September     | 574   | 2046    | 1607    | 217     | 8             | 123   |
-| October       | 6242  | 2042    | 1543    | 175     | 282           | 91    |
-| November      | 3588  | 1908    | 1701    | 16      | 273           | 55    |
-
-![Total Staking Nodes by Country(4).png](/uploads/Total-Active-Staking-Nodes-by-Country.png)
-
-November observed a redistribution in active staking nodes across countries, with China still leading, albeit with a reduced count compared to October. This change reflects a dynamic and evolving geographical distribution of network participants. The numbers reported here should be considered in light of the issues described in the section on the "Total Active Staking Nodes" metric at the top of this article. 
+* The "Active staking node" metric has been redefined starting in November as any full node with a greater than zero reserve size at some point in the month. This has not been retroactively applied to past months, but will be the definition used in future months. 
 
 ## Network Total Monthly Rewards
 
@@ -98,7 +28,7 @@ This metric shows the total rewards paid out across the entire network for each 
 | October   | 152868                       |
 | November  | 148617                       |
 
-![chart-Total-Network-Monthly-Rewards](/uploads/chart-Total-Network-Monthly-Rewards-November.png)
+![chart-Total-Network-Monthly-Rewards](https://hackmd.io/_uploads/SJkzEFs76.png)
 
 In November, the Swarm network distributed a total of 148,617 xBZZ in rewards. While this marks a slight decrease from October's peak, it still represents one of the higher monthly payouts, reflecting sustained network activity and engagement.
 
@@ -114,13 +44,13 @@ This metric is the median win amount for each win event.
 | October   | 46.84                     |
 | November  | 46.83                     |
 
-![chart-Monthly-Median-Win-Values](/uploads/chart-Monthly-Median-Win-Values-November.png)
+![chart-Monthly-Median-Win-Values](https://hackmd.io/_uploads/BkMHHKjQ6.png)
 
 The median win value in November was 46.83, closely paralleling October's value. This consistency in median values suggests a stable and significant reward size for typical win events in the network.
 
 
 ## Monthly Average Win Values
-This metric is the average win amount for each win event. 
+This metric is the average win amount for each win event.
 
 | Month     | Average Win Values (xBZZ) |
 |-----------|----------------------------|
@@ -131,12 +61,12 @@ This metric is the average win amount for each win event.
 | October   | 62.09                      |
 | November  | 47.41                      |
 
-![chart-Monthly-Average-Win-Values](/uploads/chart-Monthly-Average-Win-Values-November.png)
+![chart-Monthly-Average-Win-Values](https://hackmd.io/_uploads/rJxKVto7p.png)
 
 For November, the average win value was 47.41 xBZZ. This indicates a slight decrease from October's all-time high but still shows a substantial value, signifying robust individual win events and consistent network participation.
 
 ## Active Staking Node Monthly Average Earnings
-This metric shows the average monthly earnings for an active staking node. 
+This metric shows the average monthly earnings for an active staking node.
 
 | Month     | Avg Total Earnings per Node (xBZZ) |
 |-----------|------------------------------------|
@@ -145,12 +75,64 @@ This metric shows the average monthly earnings for an active staking node.
 | August    | 31.11                              |
 | September | 32.31                              |
 | October   | 14.73                              |
-| November  | 19.707                             |
+| November  | 7.12                             |
 
-![chart-Avg-Total-Earnings-per-Node](/uploads/chart-Avg-Total-Earnings-per-Node-November.png)
+![chart-Avg-Total-Earnings-per-Node](https://hackmd.io/_uploads/rkmVLFjQT.png)
 
-In November, the average earnings per active staking node increased to 19.707 xBZZ. Taking into consideration what has been mentioned in the section above on the "Total Active Staking Nodes" metric, it is likely that that the actual average earnings this month deviate somewhat from the value reported here.
+In November, the average earnings per active staking node decreased to 7.12 xBZZ. The decrease in average earnings per node is reflective of the recent dramatic growth in the number of active staking nodes, perhaps reflecting growing interest in the Swarm network from node operators.
+
+## Total Active Staking Nodes by Month
+
+This metric shows the total active staking nodes by month. 
+
+| Month     | Total Active Staking Nodes |
+|-----------|----------------------------|
+| June      | 2482                       |
+| July      | 2657                       |
+| August    | 4368                       |
+| September | 4574                       |
+| October   | 10367                      |
+| November  | 20868                      |
+
+![chart-Total-Active-Staking-Nodes](https://hackmd.io/_uploads/SJL7DKima.png)
+
+November saw a significant increase in active staking nodes, rising to 20,868, which is a growth of just over 100% from the previous month. This continues the recent trend of rapid growth in the number of active staking nodes.
+
+## Total Winning Nodes by Month
+
+This metric shows the total number of unique active staking nodes which have won at least once within the month.
+
+| Month     | Total Winning Nodes |
+|-----------|----------------------|
+| June      | 1415                 |
+| July      | 1541                 |
+| August    | 1993                 |
+| September | 2125                 |
+| October   | 2462                 |
+| November  | 2787                 |
+
+![chart-Number-of-Winning-Staking-Nodes-by-Month](https://hackmd.io/_uploads/r10a8Ysma.png)
+
+November saw a new peak with 2,787 unique active staking nodes winning at least once, continuing the upward trend observed in recent months. 
+
+## Total Active Staking Nodes by Country
+
+This metric shows the total number of active staking nodes across the top four countries and all other countries aggregated into the "Other" category, as well as the remaining nodes in the "Unknown" category.
+ 
+
+|               | China | Germany | Finland | Unknown | United States | Other |
+|---------------|-------|---------|---------|---------|---------------|-------|
+| June          | 1062  | 409     | 609     | 230     | 9             | 163   |
+| July          | 1172  | 445     | 630     | 224     | 7             | 179   |
+| August        | 855   | 1481    | 1611    | 267     | 7             | 147   |
+| September     | 574   | 2046    | 1607    | 217     | 8             | 123   |
+| October       | 6242  | 2042    | 1543    | 175     | 282           | 91    |
+| November      | 16145 | 2225    | 1961    | 37      | 363           | 137   |
+
+![Total Staking Nodes by Country(4).png](https://hackmd.io/_uploads/B1yOfFomT.png)
+
+November observed a shift in the distribution of active staking nodes across countries, with China continuing to lead and experiencing a significant increase in node growth. Notably, Finland and the USA also saw moderate increases in node counts since October. This shift reflects the dynamic and evolving geographic distribution of network participants.
 
 ## Conclusion
 
-The Swarm network has demonstrated considerable growth and vitality over the past six months, as evidenced by the evolving total monthly rewards, average and median win values, and the earnings per active staking node. The number of active nodes, both staking and non-staking, has continued to rise, signalling a growing global interest in the Swarm network. These trends not only signify an active and expanding network but also highlight the evolving nature of the Swarm ecosystem and its increasing significance in the decentralized storage space. 
+The Swarm network has demonstrated remarkable growth and vitality over the past six months, as evidenced by the evolving total monthly rewards, average and median win values, and the earnings per active staking node. The number of active nodes, both staking and non-staking, has continued to rise, signalling a growing global interest in the Swarm network. These trends not only signify an active and expanding network but also highlight the evolving nature of the Swarm ecosystem and its increasing significance in the decentralized storage space.
