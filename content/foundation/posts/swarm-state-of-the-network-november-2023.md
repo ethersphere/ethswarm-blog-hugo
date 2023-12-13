@@ -8,12 +8,11 @@ title = "State of the Network: November"
 _template = "post"
 slug="state-of-the-network-november"
 +++
-
 In this comprehensive analysis of the Swarm network's performance over recent months, we delve into various key metrics that offer insights into the network's health and growth. The report covers a range of data, including total monthly rewards, median and average win values, as well as the average earnings for active staking nodes. We also examine the increasing number of active staking nodes, both globally and by country, providing a detailed view of the network's expanding reach. These metrics collectively paint a vivid picture of the Swarm network's current state and its evolving dynamics within the decentralized storage space.
 
 ### Data Considerations
 
-The "Active staking node" metric has been redefined starting in November as any full node with a greater than zero reserve size at some point in the month. This has not been retroactively applied to past months, but will be the definition used in future months. 
+* The "Active staking node" metric has been redefined starting in November as any full node with a greater than zero reserve size at some point in the month. This has not been retroactively applied to past months, but will be the definition used in future months. 
 
 ## Network Total Monthly Rewards
 
@@ -28,7 +27,7 @@ This metric shows the total rewards paid out across the entire network for each 
 | October   | 152868                       |
 | November  | 148617                       |
 
-![chart-Total-Network-Monthly-Rewards](https://hackmd.io/_uploads/SJkzEFs76.png)
+![chart-Total-Network-Monthly-Rewards](/uploads/chart-Total-Network-Monthly-Rewards-November.png)
 
 In November, the Swarm network distributed a total of 148,617 xBZZ in rewards. While this marks a slight decrease from October's peak, it still represents one of the higher monthly payouts, reflecting sustained network activity and engagement.
 
@@ -44,7 +43,7 @@ This metric is the median win amount for each win event.
 | October   | 46.84                     |
 | November  | 46.83                     |
 
-![chart-Monthly-Median-Win-Values](https://hackmd.io/_uploads/BkMHHKjQ6.png)
+![chart-Monthly-Median-Win-Values](/uploads/chart-Monthly-Median-Win-Values-November.png)
 
 The median win value in November was 46.83, closely paralleling October's value. This consistency in median values suggests a stable and significant reward size for typical win events in the network.
 
@@ -61,7 +60,7 @@ This metric is the average win amount for each win event.
 | October   | 62.09                      |
 | November  | 47.41                      |
 
-![chart-Monthly-Average-Win-Values](https://hackmd.io/_uploads/rJxKVto7p.png)
+![chart-Monthly-Average-Win-Values](/uploads/chart-Monthly-Average-Win-Values-November.png)
 
 For November, the average win value was 47.41 xBZZ. This indicates a slight decrease from October's all-time high but still shows a substantial value, signifying robust individual win events and consistent network participation.
 
@@ -77,7 +76,7 @@ This metric shows the average monthly earnings for an active staking node.
 | October   | 14.73                              |
 | November  | 7.12                             |
 
-![chart-Avg-Total-Earnings-per-Node](https://hackmd.io/_uploads/rkmVLFjQT.png)
+![chart-Avg-Total-Earnings-per-Node](/uploads/chart-Avg-Total-Earnings-per-Node-November.png)
 
 In November, the average earnings per active staking node decreased to 7.12 xBZZ. The decrease in average earnings per node is reflective of the recent dramatic growth in the number of active staking nodes, perhaps reflecting growing interest in the Swarm network from node operators.
 
@@ -94,7 +93,7 @@ This metric shows the total active staking nodes by month.
 | October   | 10367                      |
 | November  | 20868                      |
 
-![chart-Total-Active-Staking-Nodes](https://hackmd.io/_uploads/SJL7DKima.png)
+![chart-Total-Active-Staking-Nodes](/uploads/chart-Total-Active-Staking-Nodes-November.png)
 
 November saw a significant increase in active staking nodes, rising to 20,868, which is a growth of just over 100% from the previous month. This continues the recent trend of rapid growth in the number of active staking nodes.
 
@@ -111,7 +110,7 @@ This metric shows the total number of unique active staking nodes which have won
 | October   | 2462                 |
 | November  | 2787                 |
 
-![chart-Number-of-Winning-Staking-Nodes-by-Month](https://hackmd.io/_uploads/r10a8Ysma.png)
+![chart-Number-of-Winning-Staking-Nodes-by-Month](/uploads/chart-Number-of-Winning-Staking-Nodes-by-Month-November.png)
 
 November saw a new peak with 2,787 unique active staking nodes winning at least once, continuing the upward trend observed in recent months. 
 
@@ -129,7 +128,7 @@ This metric shows the total number of active staking nodes across the top four c
 | October       | 6242  | 2042    | 1543    | 175     | 282           | 91    |
 | November      | 16145 | 2225    | 1961    | 37      | 363           | 137   |
 
-![Total Staking Nodes by Country(4).png](https://hackmd.io/_uploads/B1yOfFomT.png)
+![Total Staking Nodes by Country.png](/uploads/Total-Active-Staking-Nodes-by-Country.png)
 
 November observed a shift in the distribution of active staking nodes across countries, with China continuing to lead and experiencing a significant increase in node growth. Notably, Finland and the USA also saw moderate increases in node counts since October. This shift reflects the dynamic and evolving geographic distribution of network participants.
 
