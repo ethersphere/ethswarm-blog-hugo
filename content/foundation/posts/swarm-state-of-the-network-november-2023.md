@@ -26,7 +26,7 @@ This metric shows the total rewards paid out across the entire network for each 
 | August    | 135927                       |
 | September | 147825                       |
 | October   | 152868                       |
-| November  | 148617                       |
+| **November**  | **148617**                       |
 
 ![chart-Total-Network-Monthly-Rewards](/uploads/chart-Total-Network-Monthly-Rewards-November.png)
 
@@ -42,7 +42,7 @@ This metric is the median win amount for each win event.
 | August    | 43.97                     |
 | September | 44.62                     |
 | October   | 46.84                     |
-| November  | 46.83                     |
+| **November**  | **46.83**                     |
 
 ![chart-Monthly-Median-Win-Values](/uploads/chart-Monthly-Median-Win-Values-November.png)
 
@@ -59,7 +59,7 @@ This metric is the average win amount for each win event.
 | August    | 41.45                      |
 | September | 46.52                      |
 | October   | 62.09                      |
-| November  | 47.41                      |
+| **November**  | **47.41**                      |
 
 ![chart-Monthly-Average-Win-Values](/uploads/chart-Monthly-Average-Win-Values-November.png)
 
@@ -75,7 +75,7 @@ This metric shows the average monthly earnings for an active staking node.
 | August    | 31.11                              |
 | September | 32.31                              |
 | October   | 14.73                              |
-| November  | 7.12                             |
+| **November**  | **7.12**                             |
 
 ![chart-Avg-Total-Earnings-per-Node](/uploads/chart-Avg-Total-Earnings-per-Node-November.png)
 
@@ -92,7 +92,7 @@ This metric shows the total active staking nodes by month.
 | August    | 4368                       |
 | September | 4574                       |
 | October   | 10367                      |
-| November  | 20868                      |
+| **November**  | **20868**                      |
 
 ![chart-Total-Active-Staking-Nodes](/uploads/chart-Total-Active-Staking-Nodes-November.png)
 
@@ -109,11 +109,11 @@ This metric shows the total number of unique active staking nodes which have won
 | August    | 1993                 |
 | September | 2125                 |
 | October   | 2462                 |
-| November  | 2787                 |
+| **November**  | **2787**                 |
 
 ![chart-Number-of-Winning-Staking-Nodes-by-Month](/uploads/chart-Number-of-Winning-Staking-Nodes-by-Month-November.png)
 
-November saw a new peak with 2,787 unique active staking nodes winning at least once, continuing the upward trend observed in recent months. 
+November saw a new peak with 2,787 unique active staking nodes winning at least once, continuing the upward trend observed in recent months. Note that there are a total of approximately 3,450 chances to win each month, which puts a ceiling on the possible total winning nodes per month.
 
 ## Total Active Staking Nodes by Country
 
@@ -127,7 +127,7 @@ This metric shows the total number of active staking nodes across the top four c
 | August        | 855   | 1481    | 1611    | 267     | 7             | 147   |
 | September     | 574   | 2046    | 1607    | 217     | 8             | 123   |
 | October       | 6242  | 2042    | 1543    | 175     | 282           | 91    |
-| November      | 16145 | 2225    | 1961    | 37      | 363           | 137   |
+| **November**      | **16145** | **2225**    | **1961**    | **37**      | **363**           | **137**   |
 
 ![Total Staking Nodes by Country.png](/uploads/Total-Active-Staking-Nodes-by-Country.png)
 
