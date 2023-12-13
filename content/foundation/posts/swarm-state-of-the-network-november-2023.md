@@ -8,7 +8,8 @@ title = "State of the Network: November"
 _template = "post"
 slug="state-of-the-network-november"
 +++
-In this comprehensive analysis of the Swarm network's performance over recent months, we delve into various key metrics that offer insights into the network's health and growth. The report covers a range of data, including total monthly rewards, median and average win values, as well as the average earnings for active staking nodes. We also examine the increasing number of active staking nodes, both globally and by country, providing a detailed view of the network's expanding reach. These metrics collectively paint a vivid picture of the Swarm network's current state and its evolving dynamics within the decentralized storage space.
+
+In this detailed analysis, we focus on the Swarm network's performance in November, placing it in context with data from recent months to highlight trends and changes. This report explores a variety of critical metrics, including total monthly rewards, median and average win values, and the average earnings per active staking node. We also delve into the increasing number of active staking nodes, examining their distribution globally. 
 
 ### Data Considerations
 
