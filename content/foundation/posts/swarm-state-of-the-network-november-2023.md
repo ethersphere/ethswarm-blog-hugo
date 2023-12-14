@@ -13,7 +13,7 @@ In this detailed analysis, we focus on the Swarm network's performance in Novemb
 
 ### Data Considerations
 
-The "Active staking node" metric has been redefined starting in November as any full node with a greater than zero reserve size at some point in the month. This has not been retroactively applied to past months, but will be the definition used in future months. 
+The "Active staking node" metric has been redefined as any full node with a greater than zero reserve size at some point in the month. This has not been retroactively applied to past months, but will be the definition used in future months. 
 
 ## Network Total Monthly Rewards
 
@@ -135,4 +135,4 @@ November observed a shift in the distribution of active staking nodes across cou
 
 ## Conclusion
 
-The Swarm network has demonstrated remarkable growth and vitality over the past six months, as evidenced by the evolving total monthly rewards, average and median win values, and the earnings per active staking node. The number of active nodes, both staking and non-staking, has continued to rise, signalling a growing global interest in the Swarm network. These trends not only signify an active and expanding network but also highlight the evolving nature of the Swarm ecosystem and its increasing significance in the decentralized storage space.
+The Swarm network has demonstrated remarkable growth and vitality over the past six months, as evidenced by the evolving total monthly rewards, average and median win values, and the earnings per active staking node. The number of active nodes, both staking and non-staking, has continued to rise, signalling a growing global interest in the Swarm network. These trends not only signify an active and expanding network but also highlight the evolving nature of the Swarm ecosystem and its increasing significance in the decentralised storage space.
