@@ -7,7 +7,7 @@ description = "Swarm研发团队很高兴地宣布，他们正在积极推进将
 references_and_footnotes = [ ]
 title = "引入纠删码大幅提升Swarm数据保护能力"
 _template = "post"
-slug="erasure-code-zh"
+slug= "erasure-code-zh"
 +++
 
 # 引入纠删码大幅提升Swarm数据保护能力
@@ -101,9 +101,9 @@ Swarm上的纠删码开发工作正稳步推进。我们的研发团队正在全
 - 维基百科 - https://en.wikipedia.org/wiki/Parity_bit
 - 纠删码入门 - https://towardsdatascience.com/erasure-coding-for-the-masses-2c23c74bf87e
 - 纠错码概述 - https://www.youtube.com/watch?v=5sskbSvha9M
-- 纠错码续篇：https://www.youtube.com/watch?v=bqtE6Q79PPs
-- Reed solomon编码：https://www.youtube.com/watch?v=fBRMaEAFLE0
-- Hamming编码第一部分：https://www.youtube.com/watch?v=X8jsijhllIA&pp=ygUNaGFtbWluZyBjb2Rlcw%3D%3D
-- Hamming编码第二部分 - 实现：https://www.youtube.com/watch?v=b3NxrZOu_CE&pp=ygUNaGFtbWluZyBjb2Rlcw%3D%3D
+- 纠错码续篇：- https://www.youtube.com/watch?v=bqtE6Q79PPs
+- Reed solomon编码：- https://www.youtube.com/watch?v=fBRMaEAFLE0
+- Hamming编码第一部分：- https://www.youtube.com/watch?v=X8jsijhllIA&pp=ygUNaGFtbWluZyBjb2Rlcw%3D%3D
+- Hamming编码第二部分 - 实现：- https://www.youtube.com/watch?v=b3NxrZOu_CE&pp=ygUNaGFtbWluZyBjb2Rlcw%3D%3D
 - Groups - https://www.youtube.com/watch?v=mH0oCDa74tE
 - Fields - https://www.youtube.com/watch?v=bjp4nF8TW7s
