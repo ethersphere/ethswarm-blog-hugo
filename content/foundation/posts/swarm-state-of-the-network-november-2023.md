@@ -46,7 +46,7 @@ This metric is the median win amount for each win event.
 
 ![chart-Monthly-Median-Win-Values](/uploads/chart-Monthly-Median-Win-Values-November.png)
 
-The median win value in November was 46.83, closely paralleling October's value. This consistency in median values suggests a stable and significant reward size for typical win events in the network.
+The median win value in November was 46.83 xBZZ, closely paralleling October's value. This consistency in median values suggests a stable and significant reward size for typical win events in the network.
 
 
 ## Monthly Average Win Values
