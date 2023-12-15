@@ -54,7 +54,7 @@ Swarm研发团队很高兴地宣布，他们正在积极推进将[纠删码（Er
 
 在这个例子中，假设我们将N值设定为2，K值设为1。我们必须将8KB的图像文件分割成2个块（N），并额外添加1个块（K）。然后，在加入了重构原始数据所需的冗余数据后，源数据在这3个块中进行重排。每个块被编码为源数据大小的1/2（1/N）。
 
-![](https://blog.ethswarm.org/uploads/erasure-coding-01.png)
+![Erasure Code 01](/uploads/erasure-coding-01.png)
 
 现在，我们总共存储了12KB的数据。只要我们能够获得这3个编码块中的任意2个，我们就可以使用这些块来解码回原始的源文件。
 
@@ -62,11 +62,11 @@ Swarm研发团队很高兴地宣布，他们正在积极推进将[纠删码（Er
 
 例如，我们可以将K值改为4。在这种情况下，我们可以容忍最多4个块的丢失，而不仅仅是1个！
 
-![](https://blog.ethswarm.org/uploads/erasure-coding-02.png)
+![Erasure Code 02](/uploads/erasure-coding-02.png)
 
 值得注意的是，只要我们至少还保留着2个块（N），具体丢失哪些块并不重要。即使其中任意4个块被擦除，我们仍然能够重构出原始数据。只有当我们丢失超过4个块（K）时，原始数据才会真正丢失。
 
-![](https://blog.ethswarm.org/uploads/erasure-coding-03.png)
+![Erasure Code 03](/uploads/erasure-coding-03.png)
 
 ## 纠删码的优势
 
@@ -74,7 +74,7 @@ Swarm研发团队很高兴地宣布，他们正在积极推进将[纠删码（Er
 
 纠删码允许我们在使用更少的磁盘空间的同时，实现与单纯数据复制相同甚至更高程度的数据保护。让我们通过一个具体的例子来深入了解为什么。假设我们使用一个N=2，K=2的纠删码方案来保护一个8KB的文件：
 
-![](https://blog.ethswarm.org/uploads/erasure-coding-04.png)
+![Erasure Code 04](/uploads/erasure-coding-04.png)
 
 在这个例子中，原始文件为8KB，编码后的磁盘空间为16KB，我们可以容忍最多两个数据块的擦除。相比之下，在数据复制方案中，如果我们只能使用相同大小的磁盘空间，那么我们只能存储两份原始数据，并且只能容忍丢失一份数据副本。
 
