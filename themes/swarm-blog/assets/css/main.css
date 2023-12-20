@@ -100,6 +100,10 @@
     @apply font-serif;
   }
 
+  .content table strong {
+    @apply font-sans;
+  }
+
   .content a {
     @apply underline;
   }

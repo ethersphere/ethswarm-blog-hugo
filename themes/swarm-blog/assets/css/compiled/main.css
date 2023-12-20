@@ -1182,6 +1182,10 @@ aside ul a:hover {
   font-family: "Source Serif 4 18pt", ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
 }
 
+.content table strong {
+  font-family: "Inter var", ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
 .content a {
   text-decoration-line: underline;
 }
