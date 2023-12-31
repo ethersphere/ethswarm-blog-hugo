@@ -18,7 +18,7 @@ Viktor Trón, one of Swarm’s co-founders, set the stage with his introductory 
 
 Additionally, **Callum Toner** from the Swarm Foundation’s (SF) Research Track emphasised that Swarm 2.0 represents a perfect storage system with incentives that aligns supply and demand. “This is also what really sets Web 2.0 and Web3 apart, the underpinned incentives,” Callum added.
 
-Moreover, the implementation of **erasure codes** adds a whole new level of data availability to the network. With a **99.999999%** **availability assurance** Swarm guarantees [data availability](https://papers.ethswarm.org/#) that easily rivals even the biggest incumbents. Erasure codes can make up for all the swings in the state of the network, always ensuring perfect uploads and downloads. 
+Moreover, the implementation of **erasure codes** adds a whole new level of data availability to the network. With a **99.999999%** **availability assurance** Swarm guarantees [data availability](https://blog.ethswarm.org/foundation/2023/erasure-coding-supercharges-swarm/) that easily rivals even the biggest incumbents. Erasure codes can make up for all the swings in the state of the network, always ensuring perfect uploads and downloads. 
 
 Add hardened privacy and security mechanisms, and you get a Swarm network that is ready for enterprise-level adoption.
 
