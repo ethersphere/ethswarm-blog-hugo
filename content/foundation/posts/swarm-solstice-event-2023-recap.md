@@ -90,11 +90,11 @@ At the same time, the event was an opportunity to showcase some of the more prom
 
 In the following segment, SF’s director, Gregor Žavcer, delved into the profound and ongoing impact of AI on society. Using an AI-generated video of himself, he highlighted how major AI players are still perpetuating the data-hoarding practices adopted from Web 2.0 companies.
 
-_“This not only limits our freedom but creates a power imbalance. And it’s not just about privacy, it’s about keeping what is valuable to us safe,” he warned. This is the point where decentralised AI can make a difference. 
+“This not only limits our freedom but creates a power imbalance. And it’s not just about privacy, it’s about keeping what is valuable to us safe,” he warned. This is the point where decentralised AI can make a difference. 
 
-It has the power to return to the data owners the value it creates, all while respecting their privacy and human rights. _“This is where Swarm shines. It’s not just another tech platform, it’s a movement. A movement that stands for privacy, data ownership and ethical ways to make data work for us,” AI Gregor concluded. 
+It has the power to return to the data owners the value it creates, all while respecting their privacy and human rights. “This is where Swarm shines. It’s not just another tech platform, it’s a movement. A movement that stands for privacy, data ownership and ethical ways to make data work for us,” AI Gregor concluded. 
 
-Switching back to real life, he emphasised the importance of keeping the data open, immutable and verifiable in an age of rising censorship, AI-generated content and the flood of fake news. _“Now more than ever, it is becoming important to have an infrastructure that is open, decentralised, censorship-resistant, immutable and a public good on top of which we can actually build the digital future we want to live in,” he added, making a firm case for Swarm’s continuous relevance.
+Switching back to real life, he emphasised the importance of keeping the data open, immutable and verifiable in an age of rising censorship, AI-generated content and the flood of fake news. “Now more than ever, it is becoming important to have an infrastructure that is open, decentralised, censorship-resistant, immutable and a public good on top of which we can actually build the digital future we want to live in,” he added, making a firm case for Swarm’s continuous relevance.
 
 
 ## Science fiction dreams coming true
