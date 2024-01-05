@@ -12,7 +12,7 @@ The December release of **[Bee 1.18.2](https://github.com/ethersphere/bee/releas
 
 The **Research Track** successfully concluded Phases 3 and 4 of the storage incentives roadmap, enhancing system security and network decentralisation. Erasure codes are currently in the testnet phase, with plans for a mainnet release.
 
-The **Fair Data Protocol team** has improved the UI in the Fairdrive Web App and separated the main and the development [login methods](https://github.com/fairDataSociety/fairdrive-theapp/pull/570). The main app uses Metamask authentication for new users, and the development app retains full functionality. 
+The UI in the Fairdrive Web App has been updated, with a separation between the main and development [login methods](https://github.com/fairDataSociety/fairdrive-theapp/pull/570). The main app now uses Metamask authentication for new users, while the development app retains full functionality.
 
 **Swarm also has a [new website](https://www.ethswarm.org/)** and there’s a new dedicated subpage for **[Swarm Research Papers](https://papers.ethswarm.org/)**. 
 
