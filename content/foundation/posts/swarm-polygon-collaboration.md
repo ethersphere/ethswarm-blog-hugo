@@ -27,5 +27,3 @@ In the spirit of collaboration and strengthening ties between Polygon and the Sw
 
 ## Contributing to the [“Decentralise Earth Observation” manifesto!](https://decentraliseeo.ethswarm.org/)
 Further committing to the shared vision between the Swarm Foundation and Polygon Village, Marco Grendel joined the team of experts curated by the Swarm Foundation to draft with the European Space Agency a joint manifesto on the convergence between AI, Web3 and Earth Observation. The manifesto outlines a roadmap of activities to bring Web3 and AI to space, and will be published on 21 December 2023. Other members of the working group include: Muhammed Tanrıkulu from ENS Labs, Elad Verbin, Founding Partner at Lunar Ventures, Nicolas Longepe, EO Data Scientist at the European Space Agency and Sabrina Ricci, AI Ecosystem Manager at the European Space Agency. 
-
-For more information contact Costanza Gallo costanza@ethswarm.org
