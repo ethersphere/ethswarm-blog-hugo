@@ -10,7 +10,7 @@ _template = "post"
 
 In an exciting turning point, the Swarm Foundation unveils a stepping stone collaboration with Polygon Village, the force in blockchain scalability and interoperability. This collaboration is set to catalyse the growth of both ecosystems, underscoring Polygon Lab's remarkable contributions to the blockchain world, and remarking on Swarm Network’s role in the World Computer. 
 
-The Polygon Village-Swarm Foundation collaboration will take place over different steps. The first three steps of the collaboration to unveil today are around ecosystem efforts, project mentorship*, and joint activities with the European Space Agency.
+The Polygon Village-Swarm Foundation collaboration will take place over different steps. The first three steps of the collaboration to unveil today are around ecosystem efforts, project mentorship, and joint activities with the European Space Agency.
 
 ## Joining ecosystems 
 The first step is a convergence of innovative projects under the umbrella of the Swarm 2.0 Grant Wave & Data Sponsorship program and access to the Polygon Village Voucher program.
