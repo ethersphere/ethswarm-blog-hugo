@@ -1,7 +1,7 @@
 +++
 banner = "/uploads/viktors-blog.jpeg"
 categories = [ "Development updates" ]
-date = 2024-01-10T00:00:00.000Z
+date = 2050-01-10T00:00:00.000Z
 description = "In this month's analysis, we turn our attention to the Swarm network's performance in December, comparing it with previous months to draw insights into evolving trends and developments. Our report delves into key metrics such as total monthly rewards, median and average win values, and the average earnings per active staking node. Notably, we'll discuss the network's adaptation to an increasingly competitive staking landscape, highlighting the resilience and efficiency of Swarm's economic model and pricing mechanism."
 references_and_footnotes = [ ]
 title = "State of the Network: December"
@@ -15,7 +15,7 @@ In this month's analysis, we turn our attention to the Swarm network's performan
 
 ### Data Considerations
 
-The "Active staking node" metric is defined as any full node with a reserve size greater than zero at any point in the month. This definition, introduced last month, provides a more accurate reflection of active participation in the network.
+The "Active staking node" metric is defined as any full node with a reserve size greater than zero which has submitted a commit transaction during the month in question. This definition, introduced last month, provides a more accurate reflection of active participation in the network.
 
 ## Network Total Monthly Rewards
 
@@ -32,7 +32,7 @@ This metric shows the total rewards paid out across the entire network for each 
 
 ![chart-Total-Network-Monthly-Rewards](/uploads/chart-Total-Network-Monthly-Rewards-December.png)
 
-In December, a record 159,865 xBZZ in rewards were issued to node operators, representing a moderate increase in network utilisation. This growth in rewards, fueled by demand for data storage services, demonstrates the network's healthy utilisation and efficiency.  
+In December, a record 159,865 xBZZ in rewards were issued to node operators, representing a moderate increase in network utilisation. This growth in rewards, fuelled by demand for data storage services, demonstrates the network's healthy utilisation and efficiency.  
 
 ## Monthly Median Win Values
 
