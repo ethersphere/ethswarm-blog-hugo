@@ -68,7 +68,7 @@ To build further on the decentralised nature of the project, the Swarm network i
 
 For this purpose, SF has published all of its most **[relevant papers](https://papers.ethswarm.org/)** for anyone interested in building on and expanding Swarm’s tech. This includes the **Whitepaper**, **The Book of Swarm**, **Swarm specification** and the **Erasure Coding** **paper** (publishing pending). 
 
-The Foundation has also launched a **[Fellowship programme](https://www.google.com/url?q=https://my.ethswarm.org/fellowships&sa=D&source=docs&ust=1703852106404615&usg=AOvVaw0GSzRRBUaemwfKuEBlZZ7i)** targeting highly motivated teams aiming to build an alternative client for the network. 
+The Foundation has also launched a **[Fellowship programme](https://my.ethswarm.org/fellowships)** targeting highly motivated teams aiming to build an alternative client for the network. 
 
 The final piece of the community-centred approach is including the community in not only submitting **[Swarm improvement proposals (SWIPs)](https://www.ethswarm.org/contribute)** but evaluating them as well. This inclusive approach will enrich the network's development, enhancing its utility and uniqueness, as explained by Niki Papadatou from Swarm Foundation.
 
