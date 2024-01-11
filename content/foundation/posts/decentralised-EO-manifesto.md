@@ -4,7 +4,7 @@ categories = [ "Ecosystem" ]
 date = 2024-01-11T00:00:00.000Z
 description = "The Swarm Foundation, in collaboration with ESA Φ-lab, is excited to announce an upcoming workshop designed to foster groundbreaking collaborations between the Web3 and Earth Observation (EO) communities. "
 references_and_footnotes = [ ]
-title = "In an unprecedented move to integrate web3, AI, and Earth Observation (EO) technologies, the Swarm Foundation in collaboration with ESA Φ-lab organised a workshop for web3, AI and Earth Observation experts whose the results are proudly unveiled in the Decentralised EO Manifesto."
+title = "The Swarm Foundation Announces Groundbreaking Decentralised EO Manifesto"
 _template = "post"
 +++
 
