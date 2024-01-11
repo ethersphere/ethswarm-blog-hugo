@@ -100,7 +100,7 @@ This metric shows the total active staking nodes by month.
 
 ![chart-Total-Active-Staking-Nodes](/uploads/chart-Total-Active-Staking-Nodes-December.png)
 
-December saw a reduction in the number of active staking nodes to 8,374. This adjustment aligns with Swarm's ongoing efforts to optimize network performance and resource utilization, further cementing
+December saw a reduction in the number of active staking nodes to 8,374. See the section on staking nodes by country later in this article for a more detailed breakdown of the global changes in staking nodes.
  
 ## Total Winning Nodes by Month
 
