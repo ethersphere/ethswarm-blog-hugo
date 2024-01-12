@@ -8,7 +8,7 @@ title = "The Swarm Foundation Announces Groundbreaking Decentralised EO Manifest
 _template = "post"
 +++
 
-In an unprecedented move to integrate web3, AI, and Earth Observation (EO) technologies, the Swarm Foundation in collaboration with ESA Φ-lab organised a workshop for web3, AI and Earth Observation experts whose the results are proudly unveiled in the [Decentralised EO Manifesto](https://decentraliseeo.ethswarm.org/). This manifesto marks a significant step towards a collaborative future between the Web3 and EO communities.
+In an unprecedented move to integrate web3, AI, and Earth Observation (EO) technologies, the Swarm Foundation in collaboration with ESA Φ-lab organised a workshop for web3, AI, and Earth Observation experts whose the results are proudly unveiled in the [Decentralised EO Manifesto](https://decentraliseeo.ethswarm.org/). This manifesto marks a significant step towards a collaborative future between the Web3 and EO communities.
 
 ## Premises of the Manifesto
 
