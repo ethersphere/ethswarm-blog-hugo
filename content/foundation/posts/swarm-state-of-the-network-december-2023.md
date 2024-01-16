@@ -71,7 +71,7 @@ The average win value in December climbed to 57.75 xBZZ, reflecting an increase 
 
 ## Total Active Staking Nodes by Month 
 
-This metric shows the total nodes actively staking each month, as measured by whether the node has submitted a commit transaction within the month. Due to network churn, and as there may be some neighbourhoods not chosen to issue commit transactions for the given month, this metric is not 100% accurate. It is however a very valuable metric for understanding trends in network dynamics.
+This metric shows the total nodes actively staking each month, as measured by whether the node has submitted a commit transaction within the month. Due to network churn, and as there may be some neighbourhoods not chosen to issue commit transactions for the given month, this metric may not capture every single node which is operating on the network within the month. It is however a very valuable metric for understanding trends in network dynamics and is a good representation of the actual state of the network.
 
 
 | Month     | Total Active Staking Nodes |
