@@ -12,8 +12,9 @@ slug="state-of-the-network-november"
 In this detailed analysis, we focus on the Swarm network's performance in November, placing it in context with data from recent months to highlight trends and changes. This report explores a variety of critical metrics, including total monthly rewards, median and average win values, and the average earnings per active staking node. We also delve into the increasing number of active staking nodes, examining their distribution globally. 
 
 ### Data Considerations
+The definition for active staking has been reverted to nodes which have submitted at least one commit transaction within the month in question, relevant figures have been updated accordingly. (Edit - 1/15/24) 
 
-The "Active staking node" metric has been redefined as any full node with a greater than zero reserve size at some point in the month. This has not been retroactively applied to past months, but will be the definition used in future months. 
+~~The "Active staking node" metric has been redefined as any full node with a greater than zero reserve size at some point in the month. This has not been retroactively applied to past months.~~
 
 ## Network Total Monthly Rewards
 
@@ -75,11 +76,11 @@ This metric shows the average monthly earnings for an active staking node.
 | August    | 31.11                              |
 | September | 32.31                              |
 | October   | 14.73                              |
-| **November**  | **7.12**                             |
+| **November**  | **8.12**                             |
 
 ![chart-Avg-Total-Earnings-per-Node](/uploads/chart-Avg-Total-Earnings-per-Node-November.png)
 
-In November, the average earnings per active staking node decreased to 7.12 xBZZ. The decrease in average earnings per node is reflective of the recent dramatic growth in the number of active staking nodes, perhaps reflecting growing interest in the Swarm network from node operators.
+In November, the average earnings per active staking node decreased to 8.12 xBZZ. The decrease in average earnings per node is reflective of the recent dramatic growth in the number of active staking nodes, perhaps reflecting growing interest in the Swarm network from node operators.
 
 ## Total Active Staking Nodes by Month
 
@@ -92,11 +93,11 @@ This metric shows the total active staking nodes by month.
 | August    | 4,368                       |
 | September | 4,574                       |
 | October   | 10,367                      |
-| **November**  | **20,868**                      |
+| **November**  | **18,297**                      |
 
 ![chart-Total-Active-Staking-Nodes](/uploads/chart-Total-Active-Staking-Nodes-November.png)
 
-November saw a significant increase in active staking nodes, rising to 20,868, which is a growth of just over 100% from the previous month. This continues the recent trend of rapid growth in the number of active staking nodes.
+November saw a significant increase in active staking nodes, rising to 18,297, which is a growth of just over 100% from the previous month. This continues the recent trend of rapid growth in the number of active staking nodes.
 
 ## Total Winning Nodes by Month
 
@@ -127,9 +128,9 @@ This metric shows the total number of active staking nodes across the top four c
 | August        | 855   | 1,481    | 1,611    | 267     | 7             | 147   |
 | September     | 574   | 2,046    | 1,607    | 217     | 8             | 123   |
 | October       | 6,242  | 2,042    | 1,543    | 175     | 282           | 91    |
-| **November**      | **16,145** | **2,225**    | **1,961**    | **37**      | **363**           | **137**   |
+| **November**      | **14,270** | **1,976**    | **1,531**    | **113**      | **344**           | **63**   |
 
-![Total Staking Nodes by Country.png](/uploads/Total-Active-Staking-Nodes-by-Country.png)
+![Total Staking Nodes by Country.png](/uploads/Total-Active-Staking-Nodes-by-Country-November.png)
 
 November observed a shift in the distribution of active staking nodes across countries, with China continuing to lead and experiencing a significant increase in node growth. Notably, Finland and the USA also saw moderate increases in node counts since October. This shift reflects the dynamic and evolving geographic distribution of network participants.
 

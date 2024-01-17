@@ -1,7 +1,7 @@
 +++
 banner = "/uploads/viktors-blog.jpeg"
 categories = [ "Development updates" ]
-date = 2050-01-10T00:00:00.000Z
+date = 2024-01-16T00:00:00.000Z
 description = "In this month's analysis, we turn our attention to the Swarm network's performance in December, comparing it with previous months to draw insights into evolving trends and developments. Our report delves into key metrics such as total monthly rewards, median and average win values, and the average earnings per active staking node. Notably, we'll discuss the network's adaptation to an increasingly competitive staking landscape, highlighting the resilience and efficiency of Swarm's economic model and pricing mechanism."
 references_and_footnotes = [ ]
 title = "State of the Network: December"
@@ -13,9 +13,9 @@ slug="state-of-the-network-december"
 
 In this month's analysis, we turn our attention to the Swarm network's performance in December, comparing it with previous months to draw insights into evolving trends and developments. Our report delves into key metrics such as total monthly rewards, median and average win values, and the average earnings per active staking node. Notably, we'll discuss the network's adaptation to an increasingly competitive staking landscape, highlighting the resilience and efficiency of Swarm's economic model and pricing mechanism.
 
-### Data Considerations
+## Data Considerations 
 
-The "Active staking node" metric is defined as any full node with a reserve size greater than zero which has submitted a commit transaction during the month in question. This definition, introduced last month, provides a more accurate reflection of active participation in the network.
+The definitions of active staking nodes has reverted to nodes which have submitted a commit transaction at least within the month. See below for more details.
 
 ## Network Total Monthly Rewards
 
@@ -32,7 +32,7 @@ This metric shows the total rewards paid out across the entire network for each 
 
 ![chart-Total-Network-Monthly-Rewards](/uploads/chart-Total-Network-Monthly-Rewards-December.png)
 
-In December, a record 159,865 xBZZ in rewards were issued to node operators, representing a moderate increase in network utilisation. This growth in rewards, fuelled by demand for data storage services, demonstrates the network's healthy utilisation and efficiency.  
+In December, a record 159,865 xBZZ in rewards was issued to node operators, representing a moderate increase in network utilisation. This growth in winnings, fuelled by demand for data storage services, demonstrates a continuing trend of growth in network utilisation.  
 
 ## Monthly Median Win Values
 
@@ -49,7 +49,7 @@ This metric is the median win amount for each win event.
 
 ![chart-Monthly-Median-Win-Values](/uploads/chart-Monthly-Median-Win-Values-December.png)
 
-December saw a slight increase in the median win value to 48.06 xBZZ, demonstrating a consistent and reliable reward size for win events.
+December saw a slight increase in the median win value to 48.06 xBZZ, demonstrating a consistent pattern in average reward size for win events.
 
 ## Monthly Average Win Values
 
@@ -66,28 +66,13 @@ This metric is the average win amount for each win event.
 
 ![chart-Monthly-Average-Win-Values](/uploads/chart-Monthly-Average-Win-Values-December.png)
 
-The average win value in December climbed to 57.75 xBZZ, reflecting an increase from November and underscoring the network's dynamic reward system and self sustaining economic model.
+The average win value in December climbed to 57.75 xBZZ, reflecting an increase from November.
 
-## Active Staking Node Monthly Average Earnings
 
-This metric shows the average monthly earnings for an active staking node.
+## Total Active Staking Nodes by Month 
 
-| Month     | Avg Total Earnings per Node (xBZZ) |
-|-----------|------------------------------------|
-| July      | 13.11                              |
-| August    | 31.11                              |
-| September | 32.31                              |
-| October   | 14.73                              |
-| November  | 7.12                               |
-| **December** | **19.10**                    |
+This metric shows the total nodes actively staking each month, as measured by whether the node has submitted a commit transaction within the month. Due to network churn, and as there may be some neighbourhoods not chosen to issue commit transactions for the given month, this metric may not capture every single node which is operating on the network within the month. It is however a very valuable metric for understanding trends in network dynamics and is a good representation of the actual state of the network.
 
-![chart-Avg-Total-Earnings-per-Node](/uploads/chart-Avg-Total-Earnings-per-Node-December.png)
-
-December observed an increase in average earnings per active staking node to 19.10 xBZZ. This rise, amidst a decrease in the total number of nodes, is demonstrative of the network's economic model working properly and adjusting rewards in response to an increase in staking competition.
-
-## Total Active Staking Nodes by Month
-
-This metric shows the total active staking nodes by month. 
 
 | Month     | Total Active Staking Nodes |
 |-----------|----------------------------|
@@ -95,12 +80,30 @@ This metric shows the total active staking nodes by month.
 | August    | 4,368                       |
 | September | 4,574                       |
 | October   | 10,367                      |
-| November  | 20,868                      |
-| **December** | **8,374**               |
+| November  | 18,297           |
+| **December** | **12,891**               |
 
 ![chart-Total-Active-Staking-Nodes](/uploads/chart-Total-Active-Staking-Nodes-December.png)
 
-December saw a reduction in the number of active staking nodes to 8,374. See the section on staking nodes by country later in this article for a more detailed breakdown of the global changes in staking nodes.
+December saw a reduction in the number of active staking nodes to 12,891. See the section on staking nodes by country later in this article for a more detailed breakdown of the global changes in staking nodes.
+
+
+## Active Node Monthly Average Earnings
+
+This metric shows the average monthly earnings for a participating staking node.
+
+| Month     | Avg Total Earnings per Node (xBZZ) |
+|-----------|------------------------------------|
+| July      | 13.11                              |
+| August    | 31.11                              |
+| September | 32.31                              |
+| October   | 14.73                              |
+| November  | 8.12                               |
+| **December** | **12.40**                    |
+
+![chart-Avg-Total-Earnings-per-Node](/uploads/chart-Avg-Total-Earnings-per-Node-December.png)
+
+December observed an increase in average earnings per active staking node to 12.40 xBZZ. This rise, amidst a decrease in the total number of nodes, is demonstrative of the network's economic model adapting in response to an increase in staking competition.
  
 ## Total Winning Nodes by Month
 
@@ -129,15 +132,15 @@ This metric shows the total number of active staking nodes across various countr
 | August        | 855   | 1,481    | 1,611    | 267     | 7             | 147   |
 | September     | 574   | 2,046    | 1,607    | 217     | 8             | 123   |
 | October       | 6,242  | 2,042    | 1,543    | 175     | 282           | 91    |
-| November      | 16,145 | 2,225    | 1,961    | 37      | 363           | 137   |
-| **December**   |  **4,730**|  **1,732**  |**1,580**  | **13** | **275**  | **44**   |
+| November      | 14,270 | 1,976    | 1,531    | 113      | 344           | 63   |
+| **December**   |  **8,333**|  **2,001**  |**1,919**  | **265** | **312**  | **61**   |
 
 
 ![Total Staking Nodes by Country](/uploads/Total-Active-Staking-Nodes-by-Country-December.png)
 
-In December, there was a notable reshuffling in the distribution of active staking nodes, with a significant reduction in China and adjustments across other regions. This redistribution reflects the network's dynamic nature and adaptable economic model.
+In December, there was a notable reshuffling in the distribution of active staking nodes, with a significant reduction in China and smaller adjustments across other regions. This redistribution reflects the network's dynamic nature and continually evolving global footprint.
 
 ## Conclusion
 
-Over the last six months, the Swarm network has shown considerable resilience and adaptability. The shifts in total monthly rewards, win values, and the average earnings per node underscore a network that is not only growing but also evolving in its economic dynamics and network utilisation. The changing landscape of active node across different countries highlights Swarm's influence in the decentralized storage space. These developments point towards an active, expanding, and diversifying network.
+Over the last six months, the Swarm network has shown considerable resilience and adaptability. The shifts in total monthly rewards, win values, and the average earnings per node underscore a network that is not only growing but also evolving in its economic dynamics and network utilisation. The changing landscape of active nodes across different countries highlights Swarm's influence in the decentralized storage space. These developments point towards an active, expanding, and diversifying network.
 
