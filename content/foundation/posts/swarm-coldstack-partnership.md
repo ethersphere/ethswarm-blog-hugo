@@ -1,7 +1,7 @@
 +++
 banner = "/uploads/coldstack.png"
 categories = [ "Ecosystem" ]
-date = 2024-01-18T13:00:01.000Z
+date = 2024-01-18T00:00:01.000Z
 description = "Partnering with ColdStack, we're merging our strengths to amplify the impact of decentralised technologies in the Web3 ecosystem."
 references_and_footnotes = [ ]
 title = "Swarm Unveils Partnership with ColdStack"
