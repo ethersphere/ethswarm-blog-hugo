@@ -13,7 +13,7 @@ Swarm Foundation is proud to share its tech team’s internal agenda for the nex
 
 Through this shared and transparent understanding, we aim to further the Foundation’s purpose to support the Swarm network to thrive and provide the infrastructure necessary for a decentralised web.
 
-We would like to invite our community, stakeholders and ecosystem to join the discussion in our Discord server, where we opened a new channel specifically to announce progress and new milestones.
+We would like to invite our community, stakeholders, and ecosystem to join the discussion in our Discord server, where we opened a new channel specifically to announce progress and new milestones.
 
 The roadmap is a living document. This means that the Swarm Foundation always has 2–4 milestones worked out in detail, while also planning more “vague” milestones further in the future. Currently, four milestones have been announced.
 
@@ -43,4 +43,4 @@ Uploading and downloading bigger files and datasets is optimised.
 
 Time Estimate: To be confirmed
 
-More milestones will be added as the previous ones are achieved. Follow the progress on [progress.ethswarm.org](https://progress.ethswarm.org/) and join our Discord server and get all the latest announcements.
+More milestones will be added as the previous ones are achieved. Follow the progress on [progress.ethswarm.org](https://progress.ethswarm.org/) and join our Discord server to get all the latest announcements.
