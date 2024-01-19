@@ -15,7 +15,7 @@ The Swarm Ecosystem team has **created a brand new** [**Twitter account **](http
 
 As you probably know, **the fourth round of Swarm grants was a success**. We are happy to see all the new interesting Swarm use cases coming to life every day. **You can** [**check this blog**](https://medium.com/ethereum-swarm/the-final-countdown-announcing-the-4th-round-of-swarm-grant-recipients-5a973a82b17a) **post** and see it for yourself.
 
-Below you’ll find all that’s been happening in Swarm for the last month. Dive right in and see what your favorite Swarm track has been up to.
+Below you’ll find all that’s been happening in Swarm for the last month. Dive right in and see what your favourite Swarm track has been up to.
 
 # **Bee Track**
 
