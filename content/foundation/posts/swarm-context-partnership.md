@@ -4,7 +4,7 @@ categories = [ "Ecosystem" ]
 date = 2024-01-25T13:00:01.000Z
 description = "Context Protocol is a Web3 Semantic Layer and, as the first step of this partnership, it will integrate its storage infrastructure with the Swarm Network. "
 references_and_footnotes = [ ]
-title = "Context Protocol migrates to the Swarm Network"
+title = "Context Protocol Integrates the Swarm Network"
 _template = "post"
 +++
 
@@ -13,7 +13,7 @@ _template = "post"
 To celebrate the first Swarm Community Call of 2024, the Swarm Foundation announces a partnership in two steps with [Context Protocol](https://www.ctx.xyz/). 
 
 
-## Migration to the Swarm Network
+## Swarm Network Integration
 
 Context Protocol is a Web3 Semantic Layer and, as the first step of this partnership, it will integrate its storage infrastructure with the Swarm Network. This move aims to establish a common language for data, ensuring it is understandable and usable in any application, thereby marking a new era in data interoperability.
 
