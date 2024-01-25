@@ -15,7 +15,7 @@ To celebrate the first Swarm Community Call of 2024, the Swarm Foundation announ
 
 ## Migration to the Swarm Network
 
-Context Protocol is a Web3 Semantic Layer** **and, as the first step of this partnership, it will integrate its storage infrastructure with the Swarm Network. This move aims to establish a common language for data, ensuring it is understandable and usable in any application, thereby marking a new era in data interoperability.
+Context Protocol is a Web3 Semantic Layer and, as the first step of this partnership, it will integrate its storage infrastructure with the Swarm Network. This move aims to establish a common language for data, ensuring it is understandable and usable in any application, thereby marking a new era in data interoperability.
 
 In fact, its semantic decentralised data storage system allows users to deploy smart contracts, known as Context Documents, to store their data securely on the Swarm Network. Coupled with a Naming Registry, Context Protocol provides a unique identifier for each account within the ecosystem. 
 
