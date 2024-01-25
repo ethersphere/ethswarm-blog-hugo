@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/zoomerok.webp"
+images = [ "/uploads/zoomerok.webp" ]
 categories = [ "Grants" ]
 date = 2021-10-06T22:00:00.000Z
 description = "Empowering digital freedom by giving users full control over their data."
@@ -40,10 +41,10 @@ Fellow readers! There will be another round of grants coming up in the next few 
 
 **What kind of projects are eligible to apply for a Swarm grant?**
 
-* Experimental and playful
-* Interoperable with other applications
-* Giving the user control over data
-* Aligned with [principles.fairdatasociety.org](https://principles.fairdatasociety.org/)
-* Free and open source
+- Experimental and playful
+- Interoperable with other applications
+- Giving the user control over data
+- Aligned with [principles.fairdatasociety.org](https://principles.fairdatasociety.org/)
+- Free and open source
 
 Be sure to follow us on [Twitter](https://twitter.com/ethswarmhive) and join our [Discord](https://discord.gg/mQ7xfgqu) to catch the latest announcements about Swarm grant updates and slot information.

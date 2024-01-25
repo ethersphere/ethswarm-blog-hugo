@@ -1,5 +1,6 @@
 +++
 banner = ""
+images = [ "" ]
 categories = [ "Development updates" ]
 date = 2021-02-09T04:00:00.000Z
 description = "The beginning of 2021 was busy as always. After a short New Years’ Eve break, the team dived right back into work and we are happy to share two new releases — the new release of Swarm Bee and the Alpha release of the bee-js libraries."
@@ -7,7 +8,6 @@ references_and_footnotes = [ ]
 title = "Monthly Development Update — January 2021"
 _template = "post"
 +++
-
 
 The beginning of 2021 was busy as always. After a short New Years’ Eve break, the team dived right back into work and we are happy to share two new releases — the [new release of Swarm Bee](http://bit.ly/36SYJEq) and the Alpha release of the [bee-js libraries](https://medium.com/ethereum-swarm/meet-bee-js-a-javascript-library-for-swarm-794631bd98f9).
 

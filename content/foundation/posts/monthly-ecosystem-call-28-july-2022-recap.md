@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/storage-incentives-ama.png"
+images = [ "/uploads/storage-incentives-ama.png" ]
 categories = [ "Events" ]
 date = 2022-08-01T16:00:00.000Z
 description = "On 28 July 2022, the Swarm network Discord hosted the main Swarm network community event, the Monthly Ecosystem Call. The first to take the microphone was Bee Product Lead, Attila Gaszo."

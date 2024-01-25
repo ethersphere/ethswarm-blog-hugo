@@ -1,5 +1,6 @@
 +++
 banner = ""
+images = [ "" ]
 categories = [ "Development updates" ]
 date = 2021-06-02T04:00:00.000Z
 description = "The long-awaited Bee v0.6 release is here. With it, some really important changes have been made. Bee node operators must update their nodes if they want to stay part of the network and be able to continue to participate in the airdrop."
@@ -7,7 +8,6 @@ references_and_footnotes = [ ]
 title = "Important notice to all Bee node operators — the Bee v0.6 release is live. Update your nodes asap!"
 _template = "post"
 +++
-
 
 The long-awaited Bee v0.6 release is here. With it, some really important changes have been made. **Bee node operators must update their nodes if they want to stay part of the network and be able to continue to participate in the airdrop.**
 

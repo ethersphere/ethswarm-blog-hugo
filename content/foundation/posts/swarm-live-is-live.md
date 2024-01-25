@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/1-2.webp"
+images = [ "/uploads/1-2.webp" ]
 categories = [ "Events" ]
 date = 2020-12-01T16:00:00.000Z
 description = "Swarm Live was launched on Tuesday, 24 November 2020. All the polished, new, and improved features were discussed in detail at the Swarm Live online event, where the team presented not only what’s new, but also many other interesting topics, the Swarm incentives among them."
@@ -14,8 +15,8 @@ _TL; DR: Swarm has released a new update to Bee: Swarm Live has increased stabil
 
 Swarm Live was launched on Tuesday, 24 November 2020. All the polished, new, and improved features were discussed in detail at the [Swarm Live online event](https://ethswarm.medium.com/swarm-live-event-programme-announcement-d71176c6e8cd), where the team presented not only what’s new, but also many other interesting topics, the Swarm incentives among them.
 
-[**Release notes and documentation__](https://github.com/ethersphere/bee/releases)**  
-\**[**Re-watch the event on the Twitter live stream**](https://twitter.com/ethswarm/status/1331219946865532929)
+[\*\*Release notes and documentation\_\_](https://github.com/ethersphere/bee/releases)**
+\*\*[**Re-watch the event on the Twitter live stream\*\*](https://twitter.com/ethswarm/status/1331219946865532929)
 
 ![](/uploads/1-2.webp)
 

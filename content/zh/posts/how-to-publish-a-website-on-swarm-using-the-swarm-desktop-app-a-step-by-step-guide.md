@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/how-to_website.png"
+images = [ "/uploads/how-to_website.png" ]
 hide_front = true
 categories = [ "中文" ]
 date = 2023-03-28T22:00:00.000Z

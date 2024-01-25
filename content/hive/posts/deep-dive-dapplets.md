@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/dapplets.png"
+images = [ "/uploads/dapplets.png" ]
 categories = [ "Grants" ]
 date = 2021-10-12T22:00:00.000Z
 description = "Embed information over popular platforms without censorship"
@@ -58,4 +59,4 @@ Being an open-source, decentralised augmented web platform, Dapplets is providin
 
 _Disclaimer: The Deep Dive blog posts are an informative overview of some of the initiatives who build on Swarm and take ownership of the protocol. Projects subject to Deep Dives are independent and autonomous from the Swarm Foundation and Association. Sometimes they are their grantees, but their work is neither audited or endorsed by the aforementioned organisations. Use at your own risk, due your own due diligence._
 
-# 
+#

@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/Swarm-summit.png"
+images = [ "/uploads/Swarm-summit.png" ]
 categories = [ "Events" ]
 date = 2023-06-07T04:00:00.000Z
 description = "It has been three long years since our last gathering in the vibrant city of Madrid, where ideas sparked, connections were made, and the Swarm community came together."
@@ -7,7 +8,6 @@ references_and_footnotes = [ ]
 title = "Anticipating the buzz: The return of the Swarm Virtual Summit"
 _template = "post"
 +++
-
 
 ## The wait is over: the return of the Swarm Summit
 

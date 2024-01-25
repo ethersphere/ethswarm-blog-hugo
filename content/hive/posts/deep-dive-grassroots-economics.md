@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/grassroots.webp"
+images = [ "/uploads/grassroots.webp" ]
 categories = [ "Grants" ]
 date = 2021-11-04T23:00:00.000Z
 description = "Community Inclusion Currencies to Reignite Economic Activity"

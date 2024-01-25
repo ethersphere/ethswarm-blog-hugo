@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/hive1.png"
+images = [ "/uploads/hive1.png" ]
 categories = [ "Ecosystem" ]
 date = 2022-03-13T23:00:00.000Z
 description = "The text below is a recap of Viktor Tron’s talk from the We Are Millions Hackathon (WAM) and Festival. "
@@ -30,10 +31,10 @@ In the data economy participants need to discover and connect with each other an
 
 These data exchanges are based on the four “i”s:
 
-* They must be inclusive (everyone must have access to it through zero-cost participation and with no gatekeepers to discriminate between the users).
-* Data must have integrity (is private; data, its attributes and source have provable provenance),
-* Incentivisation is crucial for these data-exchanging systems to remain self-sustaining by balancing the supply and demand side of the equation.
-* Impartiality provides an unbiased infrastructure.
+- They must be inclusive (everyone must have access to it through zero-cost participation and with no gatekeepers to discriminate between the users).
+- Data must have integrity (is private; data, its attributes and source have provable provenance),
+- Incentivisation is crucial for these data-exchanging systems to remain self-sustaining by balancing the supply and demand side of the equation.
+- Impartiality provides an unbiased infrastructure.
 
 ![](/uploads/vik2.png)
 
@@ -49,9 +50,9 @@ He rounded the talk off with how the planned incentives scheme will enable the S
 
 **Join Swarm’s community**
 
-* **Follow community news on** [**Twitter**](https://twitter.com/ethswarmhive)**, and development news** [**here**](https://twitter.com/ethswarm)**.**
-* **Discussions about Swarm can be found on** [**Reddit**](https://www.reddit.com/r/ethswarm/)**.**
-* **All tech support and other channels have moved to** [**Discord**](https://discord.gg/wdghaQsGq5)**!**
-* **Please feel free to reach out via info@ethswarm.org**
-* **Swarm up your inbox with the monthly newsletter!** [**Subscribe here**](https://www.ethswarm.org/newsletter.html)**.**
-* **Subscribe to** [**Swarm’s YouTube channel**](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos)**.**
+- **Follow community news on** [**Twitter**](https://twitter.com/ethswarmhive)**, and development news** [**here**](https://twitter.com/ethswarm)**.**
+- **Discussions about Swarm can be found on** [**Reddit**](https://www.reddit.com/r/ethswarm/)**.**
+- **All tech support and other channels have moved to** [**Discord**](https://discord.gg/wdghaQsGq5)**!**
+- **Please feel free to reach out via info@ethswarm.org**
+- **Swarm up your inbox with the monthly newsletter!** [**Subscribe here**](https://www.ethswarm.org/newsletter.html)**.**
+- **Subscribe to** [**Swarm’s YouTube channel**](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos)**.**

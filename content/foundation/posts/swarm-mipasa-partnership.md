@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/mipasa.png"
+images = [ "/uploads/mipasa.png" ]
 categories = [ "Ecosystem" ]
 date = 2023-08-01T00:00:00.000Z
 description = "Free access to data and the ability to convert it into beneficial insights for further societal advancement form the bedrock of a flourishing community. Recognising this, Swarm Foundation has forged a partnership with Unbounded Network Foundation and MiPasa to streamline the flow of information, making data more readily accessible and easy to mould."
@@ -7,7 +8,6 @@ references_and_footnotes = [ ]
 title = "Boundless data with boundless possibilities: Swarm partners with MiPasa"
 _template = "post"
 +++
-
 
 Free access to data and the ability to convert it into beneficial
 insights for further societal advancement form the bedrock of a
@@ -38,7 +38,7 @@ the Swarm network, they will become much more resilient against loss or
 inaccessibility, mitigating the risks of network blackouts or
 censorship.
 
-*"We believe that there are boundless possibilities and potential in
+_"We believe that there are boundless possibilities and potential in
 allowing people to easily store and access data, open it to the world,
 and in addition to sharing the code/models and the results of the models
 -- share these using Swarm. This way others can collaboratively utilise
@@ -46,7 +46,7 @@ the work that has already been done, calculations that have already been
 performed, and add value by testing, reusing and/or verifying. Combining
 computation, analytics with decentalised storage and global access is a
 key milestone that both projects needed to create a global,
-collaborative and borderless data and analytics ecosystem together,"*
+collaborative and borderless data and analytics ecosystem together,"_
 stresses Jonathan Levi from MiPasa.
 
 ## About Unbounded Network

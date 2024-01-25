@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/winamp-png.webp"
+images = [ "/uploads/winamp-png.webp" ]
 categories = [ "Ecosystem" ]
 date = 2021-11-06T23:00:00.000Z
 description = "If you started to listen to mp3s at the turn of the century, there’s a very good chance you did it on Winamp. The iconic music player has amassed an almost cult-like following that persists to this day. No wonder someone was bound to show up and decide to bring it to life in a Web3 setting."
@@ -50,8 +51,8 @@ Use a[ swarm-cli](https://github.com/ethersphere/swarm-cli) command to download 
 
 There will be two files in the downloaded folder:
 
-* index.html
-* retro.mp3
+- index.html
+- retro.mp3
 
 Add your own mp3 files to the folder and then edit the \`index.html\` file for the initial playlist as a javascript object (called `initialTracks`). The \`metadata\` and the \`duration\` fields are optional.
 

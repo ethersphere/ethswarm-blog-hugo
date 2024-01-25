@@ -1,5 +1,6 @@
 +++
 banner = ""
+images = [ "" ]
 categories = [ ]
 date = 2022-06-04T04:00:00.000Z
 description = "Swarm Foundation is proud to announce that the Bee mainnet soft launch will happen on 13 June 2021. And immediately following it, the BZZ public token sale is scheduled to happen on 14 June 2021 via CoinList."
@@ -12,9 +13,9 @@ Swarm Foundation is proud to announce that the **Bee mainnet soft launch will ha
 
 # **Token sale info:**
 
-* Where: [https://coinlist.co/swarm](https://coinlist.co/swarm "https://coinlist.co/swarm")
-* When: 14–15 June 2021
-* How: Eligible individuals can [register for the token sale here](https://coinlist.co/swarm)
+- Where: [https://coinlist.co/swarm](https://coinlist.co/swarm "https://coinlist.co/swarm")
+- When: 14–15 June 2021
+- How: Eligible individuals can [register for the token sale here](https://coinlist.co/swarm)
 
 # **From Görli BZZ to real BZZ**
 

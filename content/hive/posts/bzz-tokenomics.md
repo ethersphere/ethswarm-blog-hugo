@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/bzz.webp"
+images = [ "/uploads/bzz.webp" ]
 categories = [ ]
 date = 2021-10-25T04:00:00.000Z
 description = "This blog is for all you BZZ holders, node operators, Swarm riders and anyone else who is interested in decentralised data ownership. The goal is to provide all the essential info on the topic of Swarm’s tokenomics."
@@ -10,7 +11,7 @@ _template = "post"
 
 In recent weeks, there has been continuous interest from the Swarm community in learning more about the project’s tokenomics. This blog is for all you BZZ holders, node operators, Swarm riders and anyone else who is interested in decentralised data ownership. The goal is to provide all the essential info on the topic of Swarm’s tokenomics.
 
-Before we jump in, a short recap for the newcomers. Swarm is a decentralised storage and communications network for a digital sovereign society; a native base layer service of the Ethereum web3 stack. The Swarm foundation conducted a [**successful BZZ token sale**](https://coinlist.co/swarm) in June 2021, accompanied by the mainnet release of **Swarm 1.0__. These are two major milestones in the development of the Swarm network and its ecosystem, in which BZZ plays a major role**.**
+Before we jump in, a short recap for the newcomers. Swarm is a decentralised storage and communications network for a digital sovereign society; a native base layer service of the Ethereum web3 stack. The Swarm foundation conducted a [**successful BZZ token sale**](https://coinlist.co/swarm) in June 2021, accompanied by the mainnet release of **Swarm 1.0\_\_. These are two major milestones in the development of the Swarm network and its ecosystem, in which BZZ plays a major role**.\*\*
 
 # Use of the BZZ token
 
@@ -36,15 +37,15 @@ The current supply stands at a little over 67.3 million BZZ (you can check the e
 
 The initial mints were delegated to various pools. Here is the breakdown of the token delegations:
 
-* **Token sale — 32.8 million BZZ (50%)** reserved for private (BZZ 27.6 mio) and public (BZZ 5.17 mio) sales.
-* **Ecosystem — 15.98 million BZZ (24%)**:
+- **Token sale — 32.8 million BZZ (50%)** reserved for private (BZZ 27.6 mio) and public (BZZ 5.17 mio) sales.
+- **Ecosystem — 15.98 million BZZ (24%)**:
 
-1\.) Infrastructure for layer 1 solutions  
-2\.) Ecosystem — development, airdrops, grants  
+1\.) Infrastructure for layer 1 solutions
+2\.) Ecosystem — development, airdrops, grants
 3\.) Donations
 
-* **Team rewards — 12.5 million BZZ (19%)** for present and future team members.
-* **Swarm Foundation — 4.9 million BZZ (7%)** for protocol, network and business development, marketing and community support.
+- **Team rewards — 12.5 million BZZ (19%)** for present and future team members.
+- **Swarm Foundation — 4.9 million BZZ (7%)** for protocol, network and business development, marketing and community support.
 
 All tokens are transferable as of August 2nd 2021.
 

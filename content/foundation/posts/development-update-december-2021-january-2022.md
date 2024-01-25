@@ -1,5 +1,6 @@
 +++
 banner = ""
+images = [ "" ]
 categories = [ "Development updates" ]
 date = 2022-02-04T23:00:00.000Z
 description = "With 2021 behind us, the Swarm team entered the new year at the usual pace, working hard to make Swarm features complete by the end of the year."
@@ -7,7 +8,6 @@ references_and_footnotes = [ ]
 title = "Development Update — December 2021 & January 2022"
 _template = "post"
 +++
-
 
 With 2021 behind us, the Swarm team entered the new year at the usual pace, working hard to make Swarm features complete by the end of the year.
 

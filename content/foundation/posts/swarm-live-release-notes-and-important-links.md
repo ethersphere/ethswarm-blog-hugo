@@ -1,5 +1,6 @@
 +++
 banner = ""
+images = [ "" ]
 categories = [ "Development updates" ]
 date = 2020-12-09T16:00:00.000Z
 description = "As you probably know, we released the “Swarm Live” version of Swarm on 24 November 2020. This version has a lot more stability and improved performance, and it also has all the high-level features of the Swarm 1.0 release."
@@ -7,7 +8,6 @@ references_and_footnotes = [ ]
 title = "Swarm Live — Release notes and important links"
 _template = "post"
 +++
-
 
 As you probably know, we released the “Swarm Live” version of Swarm on 24 November 2020. This version has a lot more stability and improved performance, and it also has all the high-level features of the Swarm 1.0 release.
 

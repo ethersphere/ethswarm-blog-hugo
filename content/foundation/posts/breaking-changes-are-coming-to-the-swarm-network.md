@@ -1,5 +1,6 @@
 +++
 banner = ""
+images = [ "" ]
 categories = [ "Development updates" ]
 date = 2022-09-13T04:00:00.000Z
 description = "his release will activate the first phase of the upgraded storage incentives. It is the first step that will later open the doors to rewarding node operators for providing storage to the network."
@@ -7,7 +8,6 @@ references_and_footnotes = [ ]
 title = "Breaking changes are coming to the Swarm network"
 _template = "post"
 +++
-
 
 **On 13th September** the Swarm Foundation will begin **the biggest upgrade** to the Swarm network since its mainnet launch in 2021. This release will activate **the first phase of the upgraded storage incentives**. It is the first step that **will later open the doors to rewarding** **node operators** for providing storage to the network.
 

@@ -1,9 +1,10 @@
 +++
 banner = "/uploads/scc_recap-march.png"
+images = [ "/uploads/scc_recap-march.png" ]
 categories = [ "Events" ]
 date = 2023-04-03T22:00:00.000Z
 description = """
-The Swarm Community Call began with a round of updates. 
+The Swarm Community Call began with a round of updates.
 """
 references_and_footnotes = [ ]
 title = "Swarm Community Call, 30 March — Recap"
@@ -26,7 +27,7 @@ Once the storage incentives roadmap is complete and the robustness of the core u
 
 An important part of any project today is its documentation. Right now, the [documentation related to the Swarm network](https://docs.ethswarm.org/docs/) is in the process of being thoroughly reorganised to better reflect what Swarm is and to offer the community better resources.
 
-According to **Noah Maizels** from Developer Relations, he is currently reorganising the documentation into three sections: the first will be aimed at those who want to _learn_ about Swarm in general, the second will be dedicated to _develope_rs and the third to _node operators_. To better engage the Swarm community in this ongoing process, a bounty will soon be available to anyone who is interested in giving detailed feedback on improving the docs.
+According to **Noah Maizels** from Developer Relations, he is currently reorganising the documentation into three sections: the first will be aimed at those who want to _learn_ about Swarm in general, the second will be dedicated to _develope_rs and the third to \_node operators_. To better engage the Swarm community in this ongoing process, a bounty will soon be available to anyone who is interested in giving detailed feedback on improving the docs.
 
 Another goal that Noah is focusing on with the developers is to enhance the communication with the node operator community. Together they are creating a survey focused on developers and node operators to learn more about what they are trying to do with Swarm, what kind of issues are they running into, and on what the developers should focus on next.
 

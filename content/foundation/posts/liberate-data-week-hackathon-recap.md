@@ -1,5 +1,6 @@
 +++
 banner = ""
+images = [ "" ]
 categories = [ "Events" ]
 date = 2021-02-17T04:00:00.000Z
 description = "If you attended the Liberate Data hackathon last week, then you’ll know we had an amazing time. We were truly humbled by the participation and the support shown"

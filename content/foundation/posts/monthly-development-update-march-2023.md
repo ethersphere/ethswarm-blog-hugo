@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/devupdate-3.png"
+images = [ "/uploads/devupdate-3.png" ]
 categories = [ "Development updates" ]
 date = 2023-04-04T22:00:00.000Z
 description = "Bee client is now version 1.13.0 and is bringing breaking changes. This includes the upgrade of the go-libp2p, which uses a new format for the p2p keys. The update will exclude nodes from storage incentives unless they have enough balance to cover at least five storage-incentives-related transactions."
@@ -7,7 +8,6 @@ references_and_footnotes = [ ]
 title = "Monthly Development Update – March 2023"
 _template = "post"
 +++
-
 
 ## The go-libp2p has been upgraded
 

@@ -1,5 +1,6 @@
 +++
 banner = ""
+images = [ "" ]
 categories = [ "Development updates" ]
 date = 2021-04-29T04:00:00.000Z
 description = """
@@ -10,7 +11,6 @@ references_and_footnotes = [ ]
 title = "Bee Dashboard"
 _template = "post"
 +++
-
 
 **_TLDR; Try out_** [**_Bee Dashboard_**](https://github.com/ethersphere/bee-dashboard) **_which can help you set up your Bee node, monitor its status, and perform actions like uploading files and cashing out cheques. Special thanks to our contributors_** [**_matmertz25_**](https://github.com/matmertz25)**_,_** [**_centerorbit_**](https://github.com/centerorbit) **_, and_** [**_tmm360_**](https://github.com/tmm360)
 
@@ -24,29 +24,29 @@ The Bee Dashboard is a web app that can help you set up your Bee node. It connec
 
 ![](/uploads/1-7.webp)
 
-*Bee Dashboard can help you to troubleshoot your Bee node*
+_Bee Dashboard can help you to troubleshoot your Bee node_
 
 Once your node is working, the status page will show information about your node such as the version of your Bee node, Ethereum Address, or your PSS public key.
 
 ![](/uploads/2-8.png)
 
-*Once your node is running properly, you can see details like your Ethereum address or PSS public key*
+_Once your node is running properly, you can see details like your Ethereum address or PSS public key_
 
 This is all we asked for when we proposed the bounty. However, [matmertz25](https://github.com/matmertz25) did not stop there and built extra functionality like uploading and downloading files, exploring the peer connections, and even managing the node accounting.
 
 ![](/uploads/3-5.png)
 
-*With Bee Dashboard, you can upload and download files*
+_With Bee Dashboard, you can upload and download files_
 
 ![](/uploads/4-6.png)
 
-*In the Peers tab, you will see how your node is connected to the network*
+_In the Peers tab, you will see how your node is connected to the network_
 
 The accounting feature is especially attractive for everyone participating in the [Rise of the Bee airdrop](https://medium.com/ethereum-swarm/swarm-is-airdropping-1-000-000-bzz-bd3b706918d3). You can now use a user interface to see your peer balances and cash out any outstanding cheques.
 
 ![](/uploads/5-4.png)
 
-*The Accounting page helps you manage the financial part of Bee. You can cash out your earnings from other peers*
+_The Accounting page helps you manage the financial part of Bee. You can cash out your earnings from other peers_
 
 **How do I run it?**
 

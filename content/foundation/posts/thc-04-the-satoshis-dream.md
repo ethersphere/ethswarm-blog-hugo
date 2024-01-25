@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/THC-the-satoshis-dream.png"
+images = [ "/uploads/THC-the-satoshis-dream.png" ]
 categories = [ "Ecosystem" ]
 date = 2023-09-06T00:00:01.000Z
 description = "On February 11th, 2009, shortly after 10 p.m., a user with the pseudonym Satoshi Nakamoto wrote a post on the Peer to Peer Foundation forum. He announced that he had developed a new, decentralized online cash system. Satoshi’s idea was to remove trust from the process of paying.  "
@@ -8,8 +9,8 @@ title = "The Satoshi’s Dream"
 _template = "post"
 +++
 
-
 This article is part of [The Hivemaker's Code](https://toolkit.ethswarm.org/) series:
+
 - Article 1: [Introduction](https://blog.ethswarm.org/foundation/2023/the-hivemakers-code-introduction/)
 - Article 2: [How do Ecosystems Grow?](https://blog.ethswarm.org/foundation/2023/the-hivemakers-code-how-do-ecosystems-grow/)
 - Article 3: [Cooperating on Blockchain](https://blog.ethswarm.org/foundation/2023/cooperating-on-blockchain/)
@@ -21,6 +22,7 @@ This article is part of [The Hivemaker's Code](https://toolkit.ethswarm.org/) se
 - [Article 9: The Way Forward](https://blog.ethswarm.org/foundation/2023/the-way-forward/)
 
 ## Is Blockchain Really Zero-Trust?
+
 ![pattern](/uploads/pattern4-0.png)
 
 **Authors: Oliver Lukitsch, Michal Matlon, Gregor Žavcer, Thomas Fundneider, Markus Peschl, Lena Müller-Naendrup**
@@ -35,11 +37,9 @@ Fast forward to 2022, and we still don’t know who Satoshi is. His creation, Bi
 
 Our whole human society is built on trust. We trust complete strangers to such a degree, that if we started questioning it, virtually all of our daily activities would become impossible. At the same time, the main motto of the crypto world became “removing the need for trust”. So what does this mean for the future of human interactions? And why does this topic surface now, on the cusp of an ongoing fusion of the physical and virtual worlds in which we live?
 
-
-
 ## The Digital Trust
-![pattern](/uploads/pattern4-1.png)
 
+![pattern](/uploads/pattern4-1.png)
 
 The topic of trust is central to social ecosystems and thus even more so to today’s digital ecosystems. Because they exist in a virtual world, they enable a huge social space with almost unfathomable possibilities for interaction. At the same time, however, precisely because they exist in the virtual world, they are extremely vulnerable. They are connected to a worldwide network - the Internet, accessible from any place, from New York to Ghana. This means that at any time, they can be attacked remotely, by hidden agents who can access and steal sensitive and valuable data.
 
@@ -53,10 +53,8 @@ Some philosophers like Judith Baker, propose that this is a rational approach. A
 
 Another popular argument says that trust can make you resistant to change your views with new evidence. For instance, believing that a close relative would not harm anyone could make you resist the truth that they are actually a murderer. Trust and rationality seem to come apart.
 
-
-
-
 ## To Trust or to Zero-Trust?
+
 ![pattern](/uploads/pattern4-2.png)
 
 There are two approaches that makers of digital ecosystems can take towards solving the question of trust. On the one hand, they can embrace the risk that trust normally entails and take the so-called “trust-risk” approach. On the other hand, they can dispense with trust altogether, taking a “zero-trust approach”.
@@ -67,10 +65,8 @@ Let’s take a closer look at these approaches and think about how to deal with 
 
 When looking at our future, can we still speak of trust at all? And who is it that we acknowledge as the object of our trust? How can we find our way out of the choice between trusting blindly and removing trust completely?
 
-
-
-
 ## Different Notions of Trust  
+
 ![pattern](/uploads/pattern4-3.png)
 
 When talking about digital ecosystems, we can distinguish between two concepts of trust:
@@ -79,7 +75,6 @@ When talking about digital ecosystems, we can distinguish between two concepts o
 2. Non-interpersonal trust, which you place in institutions, government, A.I., or yourself
 
 While we could say that even in the second case, there is always a person who we have to trust in the end, it’s worthwhile to consider this difference. As current developments show, we have to think more and more about the trust we put into technologies such as AI or blockchain, so that we don’t have to trust the other users.
-
 
 ## What is Needed to Trust Someone
 
@@ -103,10 +98,8 @@ For digital ecosystems, reliance and security are major concerns. Trust, on the 
 
 How to reconcile both the enhanced reliability of a system with enabling trust between humans is a fundamental question for building purposeful and enabling digital ecosystems. In times when trust in other people and institutions is so low in our societies, we should strive for design decisions that start repairing this divide and build up social capital - the fundamental building block of a well-working society.
 
-
-
-
 ## Technology Can’t Be Trusted (Literally)
+
 ![pattern](/uploads/pattern4-5.png)
 Returning to Satoshi Nakamoto’s post from earlier and the events it spawned since it’s clear by now that blockchain is an ideal place to explore the question of trust in the digital world. Blockchain technology is often credited with making trust obsolete, but at the same time, some credit it with enabling, redirecting, or replacing trust. What is it then?
 
@@ -121,6 +114,7 @@ So in the context of blockchain, we might say that the technology is reliable an
 But how can we trust anyone if we lack any closer, contextual knowledge about the people we transact with on the blockchain? Is trust even necessary in this situation? Or do we just feel, as Satoshi described it, that trust is redundant and we can simply rely on the system in place?
 
 ## The Human Face of Blockchain
+
 ![pattern](/uploads/pattern4-6.png)
 
 Our answer to the question of whether blockchain-based systems can be trustworthy will change depending on what part of the system we look at.
@@ -136,6 +130,7 @@ But staying with the third point, our trust in the ecosystem might actually have
 We need to distinguish between experts such as engineers and regular users of blockchain technology. Because interpersonal trust becomes important anytime we rely on experts who build, evolve, or maintain digital ecosystems. In a nutshell, the average non-expert user must trust the expert simply due to a lack of knowledge.
 
 ## Trust in Blockchain is Trust in Experts
+
 ![pattern](/uploads/pattern4-7.png)
 
 Since the 1970s, it has become an intellectual fashion to think differently about how our thoughts are infused with meaning. Hilary Putnam, a philosopher and computer scientist, coined the term “linguistic division of labor”. What happens in this division of labor?
@@ -151,6 +146,7 @@ Even if the system is really built in a way that makes trust fully redundant, ma
 This means that if we want to use the full potential of blockchain to improve the world where relevant, we probably won’t be able to convince people to trust in the technology itself. It’s the experts that will have to be convincing and be considered trustworthy by people, to begin with. So the success of blockchain actually depends on trust, even if its core technology is trust-less.
 
 ## Can you Trust the Boundaries?
+
 ![pattern](/uploads/pattern4-8.png)
 
 Another place where trust comes into play are the boundaries of the blockchain infrastructure. Practically speaking, people who engage with blockchain today are still interacting with many additional actors like regulators, centralized exchanges, or potential attackers.
@@ -161,12 +157,12 @@ Some proponents of Web3 envision a world without fiat currencies and therefore s
 
 **[Box: The three value propositions of blockchain and how they handle trust]**
 
-
-1.	Trust requires the reliable commitment and goodwill of individuals, so blockchain eliminates the need for trust: there is no risk of interactions being compromised by malicious intent on the chain.
-2.	Trust is just a judgment of reliability, therefore the blockchain enables trust: we can trust that the technology renders fraud impossible.
-3.	Blockchain technology enables the replacement of individual actors with a collective trustee. Therefore, the blockchain enables trust, as the entire decentralized network "vouches" that the transactions on the chain have not been compromised.
+1. Trust requires the reliable commitment and goodwill of individuals, so blockchain eliminates the need for trust: there is no risk of interactions being compromised by malicious intent on the chain.
+2. Trust is just a judgment of reliability, therefore the blockchain enables trust: we can trust that the technology renders fraud impossible.
+3. Blockchain technology enables the replacement of individual actors with a collective trustee. Therefore, the blockchain enables trust, as the entire decentralized network "vouches" that the transactions on the chain have not been compromised.
 
 ## What Drives and Prevents Trust in Blockchain Ecosystems?
+
 ![pattern](/uploads/pattern4-9.png)
 
 So far, we talked about what trust means in the context of blockchain-based digital ecosystems. Now, let’s take a look at what needs to be done to enable and encourage trust while using this “trust-less” infrastructure.
@@ -181,13 +177,14 @@ Especially proponents of crypto-anarchism hold the idea that laws would ideally 
 
 However, Werbach suggests the regulatory environment is not something we can ignore, because it just realistically will (and according to our opinion, should) exist. Instead, he says that blockchain technology poses three questions:
 
-1.	What laws does blockchain supplement?
-2.	What laws does it complement?
-3.	Which laws can it substitute?
+1. What laws does blockchain supplement?
+2. What laws does it complement?
+3. Which laws can it substitute?
 
 We must answer these questions in ways that allow for freedom of expression, ideas, and innovation, yet provide for a trusting ecosystem that draws in new users.
 
 ### Sanctions Don’t Lead to Trust
+
 Blockchain technology provides for a trust-less environment. Yet, the ecosystems that are built on such technology might actually aim for increasing trust between their users by using reputation and sanction mechanisms.
 
 However, psychological studies have shown that an environment that sanctions people who don’t cooperate doesn’t increase the trust within a group. Instead, they diminish trust. This suggests that the mere presence of a sanctioning system can make people dependent on the system to police behavior – and therefore reduces the need for trust, to begin with.
@@ -195,6 +192,7 @@ However, psychological studies have shown that an environment that sanctions peo
 A similar, yet desirable effect might be driven by blockchain technology. As the original Bitcoin whitepaper argues, the blockchain enables its users not to rely on trust. It is, however, one thing to make trust redundant and quite another thing to actively discourage trust. Any ecosystem based on the blockchain should therefore pay attention to how its trustless technology is used to enable the interaction between its users.
 
 ## Trust and knowledge-sharing in the digital domain
+
 ![pattern](/uploads/pattern4-10.png)
 
 To conclude, we believe that blockchain-based ecosystems must overcome a paradox to succeed.
@@ -208,17 +206,18 @@ That means trust is essential for the exchange of knowledge. Any ecosystem that 
 Trust in a community is, therefore, an essential enabler for its growth and emergence of any knowledge-driven digital ecosystem. And we need to keep that in mind when designing new ecosystems, where people will interact in the future.
 
 ## Key Insights
+
 ![pattern](/uploads/pattern4-11.png)
 
-* In a digital ecosystem, trust is essential for its adoption by new users.
-* Trust is an enabler for knowledge sharing in organizations, which leads to more innovation.
-* Trustless technology can diminish trust between its users because they gain a tendency to fully rely on the system to prevent bad behavior.
-* Trust without risk is perhaps preferable to zero-trust when designing digital ecosystems.
-* Even though blockchain technology is trustless at its core, people still need to trust the ecosystem based on it - the developers, experts, and other stakeholders.
-* Ecosystems built on the blockchain shouldn’t only rely on their trust-less on-chain infrastructure, but actively promote trust among users to flourish.
-
+- In a digital ecosystem, trust is essential for its adoption by new users.
+- Trust is an enabler for knowledge sharing in organizations, which leads to more innovation.
+- Trustless technology can diminish trust between its users because they gain a tendency to fully rely on the system to prevent bad behavior.
+- Trust without risk is perhaps preferable to zero-trust when designing digital ecosystems.
+- Even though blockchain technology is trustless at its core, people still need to trust the ecosystem based on it - the developers, experts, and other stakeholders.
+- Ecosystems built on the blockchain shouldn’t only rely on their trust-less on-chain infrastructure, but actively promote trust among users to flourish.
 
 ## Essential References
+
 ![pattern](/uploads/pattern4-12.png)
 
 Baier, Annette. 1986. “Trust and Antitrust.” Ethics 96 (2): 231–60.

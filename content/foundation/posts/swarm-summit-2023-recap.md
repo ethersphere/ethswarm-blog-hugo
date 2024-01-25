@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/Swarm-summit.png"
+images = [ "/uploads/Swarm-summit.png" ]
 categories = [ "Events" ]
 date = 2023-07-04T04:00:00.000Z
 description = "As the summer light symbolically vanquished the darkness on 21 June, Swarm network kicked off its three-day Swarm Virtual Summit. This year, the network's global community gathered in the virtual world, giving all its diverse members a chance to watch and listen to leading voices and keen enthusiasts across different fields on the online stage."
@@ -7,7 +8,6 @@ references_and_footnotes = [ ]
 title = "Swarm Virtual Summit – Swarm is ready. Ready to grow."
 _template = "post"
 +++
-
 
 ## Day 1\*
 
@@ -26,7 +26,7 @@ The summit opened with the latest news in the Swarm network. In the last six mon
 - Reduced freezing in redistribution game
 - Reliable network, 0% error rate for data retrieval
 
-*“We have been through every stress test; we've already scaled up thousands of nodes in the network; we've had doublings; we've had everything and that 0% has been maintained,”* Callum Toner from the Research Track stressed. And with better syncing, multiple stamps per chunk, pinning of files and more, Swarm provides a stable foundation for a plethora of future use cases, Callum added.
+_“We have been through every stress test; we've already scaled up thousands of nodes in the network; we've had doublings; we've had everything and that 0% has been maintained,”_ Callum Toner from the Research Track stressed. And with better syncing, multiple stamps per chunk, pinning of files and more, Swarm provides a stable foundation for a plethora of future use cases, Callum added.
 
 #### The new edition of the Book of Swarm is out
 
@@ -58,6 +58,7 @@ During the first day of the summit the Swarm Foundation also announced four new 
 [Watch video](https://swarm.streameth.org/session/ND3WE8)
 
 ### Talks
+
 #### Bringing Nextcloud to Swarm
 
 In his talk, Björn Magalhães from MetaProvide discussed the possibilities of how 400,000 of already existing Nextcloud-servers could be used with Swarm for decentralised data-storage, blockchain interaction, and Bee node hosting. The demo focused on how you can connect your self-hosted Nextcloud instance to Swarm and leverage the potential of a decentralised storage network. Also, Nextcloud wallet-login is currently in the works that in the future could take advantage of Swarm’s native token, BZZ.
@@ -148,7 +149,7 @@ Mark Engelhardt from AMG DAO talks about the big promises blockchain gaming intr
 
 Over 100 million tonnes of perfectly edible food are discarded every year. Balint Drahota demonstrates how the two companies he’s involved in, Essence Food and Fair Food Data, upcycle the available food and help make the logistics chain involved in food distribution much more traceable and transparent.
 
-[Watch here](https://swarm.streameth.org/session/TDPL3X) 
+[Watch here](https://swarm.streameth.org/session/TDPL3X)
 
 #### The importance of resisting censorship: how activists can use blockchain as a tool
 
@@ -161,6 +162,7 @@ A panel discussion with Nadya Tolokonnikova (PussyRiot), Mike Bonnano (The Yes M
 The summit’s last day was a vivid and interesting mix of topics that spanned across AI in blockchain, big brain data NFTs and importance of UX in decentralisation.
 
 ### Talks
+
 #### Hey, AI, write my smart contract
 
 Sasha Pitkevich gives an unapologetic talk about what AI today can do for a blockchain delivery team. No magic, no false promises, real facts and examples. Hint: AI is a big help, but it needs a friendly human to help it as well.
@@ -184,7 +186,6 @@ Barbara R. Lőrincz from [solarpunk.buzz](https://solarpunk.buzz/) talks about t
 Alain Papazoglou and Philippe Pérou from [Kredeum](https://www.kredeum.com/) demonstrate how WordPress users can plug their WordPress archive to the Swarm network and easily mint and sell NFTs in a personally curated marketplace.
 
 [Watch here](https://swarm.streameth.org/session/BUGXSL)
-
 
 #### Making NFTs unstoppable on Swarm
 
@@ -216,4 +217,4 @@ Achieving decentralisation is not easy. But we can dramatically increase the abi
 
 [Watch here](https://swarm.streameth.org/session/YL3ZCY)
 
-\**All talks are not yet available in the archive. The blogpost will be updated once they are.*
+\*_All talks are not yet available in the archive. The blogpost will be updated once they are._

@@ -1,5 +1,6 @@
 +++
 banner = ""
+images = [ "" ]
 categories = [ ]
 date = 2022-05-12T04:00:00.000Z
 description = "Based on this, in Q1 of 2022, efforts were dedicated to creating a fluid and easy user experience when setting up a Bee node on the majority of operating systems."
@@ -26,18 +27,18 @@ To achieve the goal of creating an easy node setup process, the development team
 
 Here’s what you can expect from the new Bee options:
 
-* **Ultra-light node**
+- **Ultra-light node**
 
 Running an ultra-light node will give you limited functionalities. It will immediately connect to the Swarm network, but will only allow you to download files. Files cannot be uploaded to the network, and the node is also excluded from any incentive scheme. The ultra-light node can always be upgraded to a light-node.
 
-* **Light node**
+- **Light node**
 
 Once you set up your wallet and top it up with some BZZ tokens, your ultra-light node will upgrade to a light-node. A light node will allow you to:
 
-* access data from the network
-* store data on the network
-* manage postage stamps
-* manage a chequebook
+- access data from the network
+- store data on the network
+- manage postage stamps
+- manage a chequebook
 
 A light-node **does not earn any incentives**, since it does not participate in forwarding or storing chunks for other members of the Swarm network. This is a very resource-friendly software and can be run on your personal computer.
 
@@ -63,8 +64,8 @@ There are already several Swarm working tools available that make it possible to
 
 Everything needed for an easy gateway setup is completed and available:
 
-* It is possible to run a full node or a light node as a gateway node.
-* The [gateway-proxy](https://github.com/ethersphere/gateway-proxy) solution is available to make the deployment of gateways easy and the management of postage stamps automated. This solution is based on our experience of running gateway nodes.
+- It is possible to run a full node or a light node as a gateway node.
+- The [gateway-proxy](https://github.com/ethersphere/gateway-proxy) solution is available to make the deployment of gateways easy and the management of postage stamps automated. This solution is based on our experience of running gateway nodes.
 
 **Current status:**
 

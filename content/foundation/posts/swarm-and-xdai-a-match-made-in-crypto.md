@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/1-3.png"
+images = [ "/uploads/1-3.png" ]
 categories = [ "Tutorials" ]
 date = 2021-06-30T04:00:00.000Z
 description = "With the launch of its mainnet, Swarm has reached what is probably the most important milestone in its existence. The Ethereum mainnet, however, is very expensive for the sort of transactions Swarm Bee generates. So Swarm has opted to use xDAI as a scaling solution."
@@ -12,7 +13,7 @@ _With the launch of its mainnet, Swarm has reached what is probably the most imp
 
 xDAI is an Ethereum Virtual Machine compatible blockchain. Unlike the Ethereum mainnet, it is a proof-of-stake network. This means that instead of having to resort to proof-of-work to mine blocks, validators agree on the veracity of the chain. Thanks to this, gas costs and transaction times are drastically lower than with the Ethereum mainnet. xDAI is bridged to the Ethereum mainnet, exactly what Swarm needs to operate the network.
 
-> **_xBZZ Token contract address on xDAI:  
+> **_xBZZ Token contract address on xDAI:
 > 0xdBF3Ea6F5beE45c02255B2c26a16F300502F68da_**
 
 [https://blockscout.com/xdai/mainnet/tokens/0xdBF3Ea6F5beE45c02255B2c26a16F300502F68da/token-transfers](https://blockscout.com/xdai/mainnet/tokens/0xdBF3Ea6F5beE45c02255B2c26a16F300502F68da/token-transfers "https://blockscout.com/xdai/mainnet/tokens/0xdBF3Ea6F5beE45c02255B2c26a16F300502F68da/token-transfers")
@@ -25,7 +26,7 @@ On Swarm, nodes collaborate in storing and routing chunks of data, partially mot
 
 Important to know: when a new node is started, it will need some xDAI to deploy the chequebook. By sending BZZ over OmniBridge, a tiny bit of xDAI is added to the account on the xDAI network. This xDAI can be used as gas to pay for the node’s chequebook deployment.
 
-Currently, Swarm is the most bridged token xDAI with 25k token holders.  
+Currently, Swarm is the most bridged token xDAI with 25k token holders.
 [https://blockscout.com/xdai/mainnet/bridged-tokens/eth](https://blockscout.com/xdai/mainnet/bridged-tokens/eth "https://blockscout.com/xdai/mainnet/bridged-tokens/eth")
 
 # Be careful

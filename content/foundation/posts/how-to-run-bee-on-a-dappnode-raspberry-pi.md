@@ -1,5 +1,6 @@
 +++
 banner = ""
+images = [ "" ]
 categories = [ "Tutorials" ]
 date = 2020-12-21T16:00:00.000Z
 description = "Using a Raspberry Pi makes running a Bee node cheap and reliable. With DappNode, installing Bee is a breeze."
@@ -16,10 +17,10 @@ Using a Raspberry Pi makes running a Bee node cheap and reliable. With DappNode,
 
 # Here are the minimum requirements of your Raspberry Pi for running a Bee node:
 
-* Raspberry model: 4, 3B+
-* Raspberry RAM: 8GB, 4GB
-* Micro SD free space: 64 GB or more
-* Connectivity to the Rpi
+- Raspberry model: 4, 3B+
+- Raspberry RAM: 8GB, 4GB
+- Micro SD free space: 64 GB or more
+- Connectivity to the Rpi
 
 There are tons of reasons why you should install your Bee node as soon as possible, but these are the main two:
 
@@ -28,9 +29,9 @@ There are tons of reasons why you should install your Bee node as soon as possib
 
 Of course, there are many other reasons:
 
-* Being part of a revolution
-* Supporting Swarm’s mission
-* Enabling a Fair data economy
+- Being part of a revolution
+- Supporting Swarm’s mission
+- Enabling a Fair data economy
 
 … but let’s focus on the task at hand and dive into the how-to!
 
@@ -60,9 +61,9 @@ The first thing you need to do is to install DAppNode to your Raspberry Pi. This
 
 **Step 2.4:** Now update your link with the right IP address
 
-* [http://9b07a6cfde615a0b.dyndns.dappnode.io:8092/?id=xxxxx](http://9b07a6cfde615a0b.dyndns.dappnode.io:8092/?id=xxxxx "http://9b07a6cfde615a0b.dyndns.dappnode.io:8092/?id=xxxxx")
-* to
-* [http://192.168.1.22:8092/](http://192.168.1.4:8092/?id=PBF3r3BunRxuERCL#WuXs+qogtSNrx/3+sAr2xM4T1/DkxFbMF3+8DaRthso=)?id=xxxxx
+- [http://9b07a6cfde615a0b.dyndns.dappnode.io:8092/?id=xxxxx](http://9b07a6cfde615a0b.dyndns.dappnode.io:8092/?id=xxxxx "http://9b07a6cfde615a0b.dyndns.dappnode.io:8092/?id=xxxxx")
+- to
+- [http://192.168.1.22:8092/](http://192.168.1.4:8092/?id=PBF3r3BunRxuERCL#WuXs+qogtSNrx/3+sAr2xM4T1/DkxFbMF3+8DaRthso=)?id=xxxxx
 
 **Step 2.5:** Download .ovpn file
 
@@ -90,12 +91,12 @@ The last step is very straightforward. Similar to the Google App Store or iTunes
 
 Your Bee node is now installed and running. However, there are still a few things you need to do to finish the process. You need to add some gBZZ to your ETH address. To add gBZZ to your ETH address follow this process:
 
-* Go to the bzzaar via the link as provided in your bee logs (DAppnode/Packages/Bee/Logs -> [https://bzz.ethswarm.org/?transaction=buy&amount=10&slippage=30&receiver=](https://bzz.ethswarm.org/?transaction=buy&amount=10&slippage=30&receiver= "https://bzz.ethswarm.org/?transaction=buy&amount=10&slippage=30&receiver=")<youraddress>)
-* Connect the Bzzaar to your MetaMask wallet on the Goerli test chain (upper right)
-* Use the get g-eth button on the bzzaar to get g-eth on your node and metamask account
-* Press the Exchange button to mint gBzz into the node’s account
-* Approve the transaction in your MetaMask
-* Wait a bit and the node should be able to proceed.
+- Go to the bzzaar via the link as provided in your bee logs (DAppnode/Packages/Bee/Logs -> [https://bzz.ethswarm.org/?transaction=buy&amount=10&slippage=30&receiver=](https://bzz.ethswarm.org/?transaction=buy&amount=10&slippage=30&receiver= "https://bzz.ethswarm.org/?transaction=buy&amount=10&slippage=30&receiver=")<youraddress>)
+- Connect the Bzzaar to your MetaMask wallet on the Goerli test chain (upper right)
+- Use the get g-eth button on the bzzaar to get g-eth on your node and metamask account
+- Press the Exchange button to mint gBzz into the node’s account
+- Approve the transaction in your MetaMask
+- Wait a bit and the node should be able to proceed.
 
 This concludes your Bee node installation. Your node will now start connecting to other nodes and data will be saved to your Raspberry Pi. You can [check the balance of your gBZZ here](http://bee.dappnode:6060/chequebook/balance), and [your earned gBZZ cheques here](http://bee.dappnode:6060/chequebook/cheque).
 

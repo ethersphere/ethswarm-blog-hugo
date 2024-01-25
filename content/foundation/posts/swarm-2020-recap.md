@@ -1,5 +1,6 @@
 +++
 banner = ""
+images = [ "" ]
 categories = [ ]
 date = 2021-01-22T04:00:00.000Z
 description = "As 2020 is becoming a thing of the past, it is time to evaluate what Swarm achieved throughout the year and share its plans for this year."
@@ -16,13 +17,13 @@ In 2020, a new Swarm Network was created, parallel to the “old” Swarm networ
 
 However, each release was not only a Bee release. With each release, the organization and community also grew and became better organised.
 
-1. June 2020 — [**Swarm Alpha release**  
+1. June 2020 — [**Swarm Alpha release**
    ](https://www.youtube.com/watch?v=BHDfzzWVVK0&list=PL6fQnFAjtuY9TfTMm5GYqgscQ_6a7LE8A)This release lay down strong foundations and the Bee client base protocols.
-2. August 2020 — [**Swarm Summer release**](https://www.reddit.com/r/ethswarm/comments/ik0xm6/swarm_bee_v020_is_out/)  
+2. August 2020 — [**Swarm Summer release**](https://www.reddit.com/r/ethswarm/comments/ik0xm6/swarm_bee_v020_is_out/)
    New features were added and bugs from the Alpha release were resolved.
-3. September 2020 — [**Swarm Beta release**](https://www.youtube.com/watch?v=ScHLjSoRNN0&list=PL6fQnFAjtuY8U4svnRmlNXpblOTxI56xj)  
+3. September 2020 — [**Swarm Beta release**](https://www.youtube.com/watch?v=ScHLjSoRNN0&list=PL6fQnFAjtuY8U4svnRmlNXpblOTxI56xj)
    With this release, new features for dApp developers were enabled.
-4. November 2020 — [**Swarm Live release**](https://www.youtube.com/watch?v=Mdymc1p82qA&list=PL6fQnFAjtuY_E2e8AR0YGYGR7jES3g-QK)  
+4. November 2020 — [**Swarm Live release**](https://www.youtube.com/watch?v=Mdymc1p82qA&list=PL6fQnFAjtuY_E2e8AR0YGYGR7jES3g-QK)
    Improved stability, improved performance. All high-level features of Swarm 1.0 were implemented and released with the Live release.
 
 # Book Of Swarm

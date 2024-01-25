@@ -1,5 +1,6 @@
 +++
 banner = ""
+images = [ "" ]
 categories = [ "Development updates" ]
 date = 2021-09-09T04:00:00.000Z
 description = """
@@ -10,7 +11,6 @@ references_and_footnotes = [ ]
 title = "Monthly Development Update — August 2021"
 _template = "post"
 +++
-
 
 In August, a new mainnet release happened, fixing bugs from the initial Swarm 1.0 release, and improving the performance and stability of the network. Some new features were added too. Make sure to [update your nodes](https://docs.ethswarm.org/docs/working-with-bee/upgrading-bee/) and check the [release notes](https://github.com/ethersphere/bee).
 

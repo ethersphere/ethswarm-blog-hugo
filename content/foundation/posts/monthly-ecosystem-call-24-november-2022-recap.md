@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/storage-incentives-ama.png"
+images = [ "/uploads/storage-incentives-ama.png" ]
 categories = [ "Events" ]
 date = 2022-11-28T04:00:00.000Z
 description = "End of the month is here, and as is now the habit, last Thursday was reserved for the Monthly Ecosystem Call"
@@ -12,8 +13,8 @@ End of the month is here, and as is now the habit, last Thursday was reserved fo
 
 During the upgrade, [two sets of issues were identified during the public testing of Phase 2](https://medium.com/ethereum-swarm/storage-incentives-timeline-update-26ab959d8ca3):
 
-* Reserve Commitment Sampler: consensus between nodes in a given neighbourhood is not always given.
-* Localstore and pull-sync: synchronisation with the previous reserve commitment sampler encounters some issues.
+- Reserve Commitment Sampler: consensus between nodes in a given neighbourhood is not always given.
+- Localstore and pull-sync: synchronisation with the previous reserve commitment sampler encounters some issues.
 
 These behaviours of the reserve commitment sampler and localstore have an impact on the fairness of the Schelling redistribution game. You can read more about the Schelling game and why it is important in [**Daniel A. Nagy’s latest blogpost**](https://medium.com/ethereum-swarm/the-mechanics-of-swarm-networks-storage-incentives-3bf68bf64ceb).
 
