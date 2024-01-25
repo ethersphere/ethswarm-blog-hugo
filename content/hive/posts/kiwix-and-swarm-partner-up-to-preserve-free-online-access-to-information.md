@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/kiwi.webp"
+images = [ "/uploads/kiwi.webp" ]
 categories = [ "Ecosystem" ]
 date = 2022-03-10T23:00:00.000Z
 description = "The world is facing extreme uncertainty amidst a socio-economic crisis, and censorship is ramping up to levels never seen before."

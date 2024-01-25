@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/scc_recap-july-2023.png"
+images = [ "/uploads/scc_recap-july-2023.png" ]
 categories = [ "Events" ]
 date = 2023-08-02T00:00:00.000Z
 description = "For those who missed out on our monthly gathering on Discord, with the latest news, retrospective and a debate on features and future plans, here is a short recap of July's Swarm Community Call."
@@ -48,13 +49,13 @@ included in the Swarm's software **to make it better**. One such
 proposal has already been created and concerns the implementation of
 erasure coding, which helps protect against errors and data corruption.
 
-*"We want to make a lot of system- and very user-centric changes and not
+_"We want to make a lot of system- and very user-centric changes and not
 reference just the roadmap, which is influenced predominantly by our
 research, or Bee ideas, or business development. The important thing is,
 we need to deliver for the users and there\'s no better way to do that
 than for our users to actually tell us what their problems are and what
 makes the product better ... We want the user feedback and to actually
-make those improvements sooner rather than later,"* Callum succinctly
+make those improvements sooner rather than later,"_ Callum succinctly
 laid out the logic behind SWIPs.
 
 ## Better Swarm, better docs

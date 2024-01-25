@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/how-to_website.png"
+images = [ "/uploads/how-to_website.png" ]
 categories = [ "Tutorials" ]
 date = 2023-03-28T22:00:00.000Z
 description = "TL;DR: This guide will walk you through the process of publishing a website on Swarm using the Swarm Desktop App. You’ll learn how to install the app, fund your account, upload your website, and connect an ENS domain for a user-friendly experience. By following these steps, you’ll be able to host a censorship-resistant website on decentralised storage and make it easily accessible for users."
@@ -14,9 +15,9 @@ _template = "post"
 
 Swarm Desktop App serves as a personal access point to the Swarm network, enabling interaction with content hosted on Swarm. The app allows you to:
 
-* Store (upload and download) files to decentralised storage (Swarm)
-* Securely and privately send files to others
-* Easily host and manage HTML websites.
+- Store (upload and download) files to decentralised storage (Swarm)
+- Securely and privately send files to others
+- Easily host and manage HTML websites.
 
 ## Install Swarm Desktop App and Fund Your Account
 

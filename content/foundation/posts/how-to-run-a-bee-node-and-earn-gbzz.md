@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/1-3.webp"
+images = [ "/uploads/1-3.webp" ]
 categories = [ "Tutorials" ]
 date = 2021-02-26T04:00:00.000Z
 description = "As we head towards the Swarm 1.0 release, we are working hard on expanding the network as much as possible. We are happy to see that the number of active Bee nodes is bigger day by day and the reality of a truly decentralized world computer is closer than ever."
@@ -16,10 +17,10 @@ At the latest count, the Swarm network consists of +4000 nodes.
 
 Because:
 
-* you are contributing to our mission for a fully decentralized web3,
-* you are enabling a fair data economy,
-* you are helping the internet to become censorship-resistant,
-* **AND(!) you will also profit.**
+- you are contributing to our mission for a fully decentralized web3,
+- you are enabling a fair data economy,
+- you are helping the internet to become censorship-resistant,
+- **AND(!) you will also profit.**
 
 Currently, we are running Swarm on the testnet and you can only earn gBZZ tokens. But the moment we switch to mainnet, you will have a data-rich and well-connected Bee node that will earn real BZZ from day one.
 

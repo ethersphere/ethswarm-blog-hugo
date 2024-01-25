@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/nfts.png"
+images = [ "/uploads/nfts.png" ]
 categories = [ "Ecosystem" ]
 date = 2022-02-21T04:00:00.000Z
 description = "As the pace of technological evolution quickens and intensifies, it also exerts an increasing influence on all spheres of life, including art."

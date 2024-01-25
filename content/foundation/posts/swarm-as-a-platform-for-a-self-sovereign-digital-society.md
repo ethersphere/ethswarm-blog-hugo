@@ -1,5 +1,6 @@
 +++
 banner = ""
+images = [ "" ]
 categories = [ "Events" ]
 date = 2022-03-14T04:00:00.000Z
 description = "The text below is a recap of Viktor Tron’s talk from the We Are Millions Hackathon (WAM) and Festival. You can listen to the entire talk here."
@@ -30,10 +31,10 @@ In the data economy participants need to discover and connect with each other an
 
 These data exchanges are based on the four “i”s:
 
-* They must be inclusive (everyone must have access to it through zero-cost participation and with no gatekeepers to discriminate between the users).
-* Data must have integrity (is private; data, its attributes and source have provable provenance),
-* Incentivisation is crucial for these data-exchanging systems to remain self-sustaining by balancing the supply and demand side of the equation.
-* Impartiality provides an unbiased infrastructure.
+- They must be inclusive (everyone must have access to it through zero-cost participation and with no gatekeepers to discriminate between the users).
+- Data must have integrity (is private; data, its attributes and source have provable provenance),
+- Incentivisation is crucial for these data-exchanging systems to remain self-sustaining by balancing the supply and demand side of the equation.
+- Impartiality provides an unbiased infrastructure.
 
 ![](/uploads/0_uwxouloczrwowrc8.png)
 

@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/fdsw.png"
+images = [ "/uploads/fdsw.png" ]
 hide_front = true
 categories = [ "中文" ]
 date = 2023-03-23T23:00:00.000Z

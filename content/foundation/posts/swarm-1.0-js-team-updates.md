@@ -1,5 +1,6 @@
 +++
 banner = ""
+images = [ "" ]
 categories = [ "Development updates" ]
 date = 2021-07-02T04:00:00.000Z
 description = """
@@ -9,7 +10,6 @@ references_and_footnotes = [ ]
 title = "Swarm 1.0: JS Team Updates"
 _template = "post"
 +++
-
 
 _Last month, Swarm released Bee 1.0, and finalised its token sale. During this incredibly busy week, other projects and tools were released. In this article, you will find an overview of the tools and projects the Bee-JS team has published._
 

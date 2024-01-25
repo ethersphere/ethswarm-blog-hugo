@@ -1,5 +1,6 @@
 +++
 banner = ""
+images = [ "" ]
 categories = [ "Development updates" ]
 date = 2021-04-09T04:00:00.000Z
 description = "March was as busy as always. The team was focusing on bug fixes and performance enhancements. A new version of the bee-js was released and a new Swarm release is around the corner, too."
@@ -7,7 +8,6 @@ references_and_footnotes = [ ]
 title = "Monthly Development Update — March 2021"
 _template = "post"
 +++
-
 
 March was as busy as always. The team was focusing on bug fixes and performance enhancements. A new version of the bee-js was released and a new Swarm release is around the corner, too.
 

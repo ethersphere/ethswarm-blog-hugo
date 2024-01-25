@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/swarm.webp"
+images = [ "/uploads/swarm.webp" ]
 categories = [ "Events" ]
 date = 2021-01-25T04:00:00.000Z
 description = """
@@ -45,8 +46,8 @@ The goal of the event is for participants to learn how to install and run their 
 
 There are two ways to apply for the hackathon:
 
-* As a predefined team
-* As an individual
+- As a predefined team
+- As an individual
 
 If you signed up for the hackathon as an individual (and you don’t intend to work on a project alone), you will need to find a team and join them on a project. The best way to do so is via the official hackathon [Telegram channel](https://t.me/joinchat/LTr8vBf8JshNlAD3m9BGJQ), where you can introduce yourself and pitch your skills to other people.
 
@@ -56,32 +57,32 @@ If you signed up for the hackathon as an individual (and you don’t intend to w
 
 ## Rules and guidelines for building dApps:
 
-* dApps must use Swarm features (incentives)
-* All dApps must be open-source
-* Users must be the owners of their data
-* All dApps must be aligned with [Fair Data Society principles](https://principles.fairdatasociety.org/)
-* Each prototype or mock-up presented at the Swarm hackathon must be an original work.
+- dApps must use Swarm features (incentives)
+- All dApps must be open-source
+- Users must be the owners of their data
+- All dApps must be aligned with [Fair Data Society principles](https://principles.fairdatasociety.org/)
+- Each prototype or mock-up presented at the Swarm hackathon must be an original work.
 
 ## Thin dApps ideas — wish list & suggestion:
 
-* Reddit PoC
-* Music player (playlist sharing smart folder)
-* Markup editor
-* Video player/playlist management
-* Photo Gallery (iPhoto-like clone)
-* Uncensorable twitter-like service for news
-* Auto updater for Bee node
-* Backup data
-* Magic wormhole — encrypted peer-to-peer file exchange without server [example](https://pypi.org/project/magic-wormhole/)
-* Connect any devices to Fairdrive
+- Reddit PoC
+- Music player (playlist sharing smart folder)
+- Markup editor
+- Video player/playlist management
+- Photo Gallery (iPhoto-like clone)
+- Uncensorable twitter-like service for news
+- Auto updater for Bee node
+- Backup data
+- Magic wormhole — encrypted peer-to-peer file exchange without server [example](https://pypi.org/project/magic-wormhole/)
+- Connect any devices to Fairdrive
 
 ## Data-driven ideas — wish list & suggestion:
 
-* OpenStreetMaps visualiser on Swarm
-* Ethereum state on Swarm
-* Project Gutenberg on Swarm
-* Public Domain Movies
-* Open Science Logs
+- OpenStreetMaps visualiser on Swarm
+- Ethereum state on Swarm
+- Project Gutenberg on Swarm
+- Public Domain Movies
+- Open Science Logs
 
 # The jury & judging criteria
 
@@ -89,18 +90,18 @@ The jury will consist of some of the brightest minds in the Ethereum and Cypherp
 
 The final decisions of the judges are to be based on the following parameters:
 
-* Data interoperability: explain how the user’s data is owned by the user, and how this enables fluid GUI experiences over different apps.
-* Technology: How technically impressive was the feature? Was the technical problem the team tackled difficult? Did it use a particularly clever technique or did it use many different components?
-* Completion: Does the feature work? Did the team achieve everything they wanted?
-* Vision: What is the overall idea of the submission, and how does it add value to Swarm’s vision? Is the code useful for future dapp developers?
+- Data interoperability: explain how the user’s data is owned by the user, and how this enables fluid GUI experiences over different apps.
+- Technology: How technically impressive was the feature? Was the technical problem the team tackled difficult? Did it use a particularly clever technique or did it use many different components?
+- Completion: Does the feature work? Did the team achieve everything they wanted?
+- Vision: What is the overall idea of the submission, and how does it add value to Swarm’s vision? Is the code useful for future dapp developers?
 
 The judges will assign a score to each parameter. They will weigh the criteria equally. The winners of the hackathon will be the three teams with the highest total scores.
 
 # Prizes for the winning teams
 
-* 1st place: 5.000,00 BZZ tokens
-* 2nd place: 3.000,00 BZZ tokens
-* 3rd place: 1.000,00 BZZ tokens
+- 1st place: 5.000,00 BZZ tokens
+- 2nd place: 3.000,00 BZZ tokens
+- 3rd place: 1.000,00 BZZ tokens
 
 # Product presentation
 
@@ -112,20 +113,20 @@ A short break will follow for the jury to evaluate the projects. The winning tea
 
 ## Documentation:
 
-* [Swarm documentation](https://docs.ethswarm.org/docs/)
-* [Fairdrive documentation](https://gitlab.com/linumlabs/Fairdrive)
-* [GetLoginETH documentation](https://gitlab.com/linumlabs/GetLoginETH)
-* [Bee.js documentation](https://github.com/ethersphere/bee-js)
-* [Fair.os documentation](https://fairos.io/)
-* [Fair.os API reference](https://fairos.io/bzz/fairos.eth/docs/fairOS-dfs/api-reference)
-* [FDS.js documentation](https://github.com/fairDataSociety/fds.js)
-* [Fair Data Society principles](https://principles.fairdatasociety.org/)
+- [Swarm documentation](https://docs.ethswarm.org/docs/)
+- [Fairdrive documentation](https://gitlab.com/linumlabs/Fairdrive)
+- [GetLoginETH documentation](https://gitlab.com/linumlabs/GetLoginETH)
+- [Bee.js documentation](https://github.com/ethersphere/bee-js)
+- [Fair.os documentation](https://fairos.io/)
+- [Fair.os API reference](https://fairos.io/bzz/fairos.eth/docs/fairOS-dfs/api-reference)
+- [FDS.js documentation](https://github.com/fairDataSociety/fds.js)
+- [Fair Data Society principles](https://principles.fairdatasociety.org/)
 
 ## Official communication & tech-support channel
 
 All technical support and other questions will be answered by the team via the official hackathon channel. Please make sure you follow that channel at all times for important announcements, programme updates and similar.
 
-* Telegram [Swarm Bee Support Group](https://t.me/joinchat/LTr8vBf8JshNlAD3m9BGJQ)
+- Telegram [Swarm Bee Support Group](https://t.me/joinchat/LTr8vBf8JshNlAD3m9BGJQ)
 
 # Agenda for the week
 

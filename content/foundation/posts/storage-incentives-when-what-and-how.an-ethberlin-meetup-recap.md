@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/ethberlin.jpeg"
+images = [ "/uploads/ethberlin.jpeg" ]
 categories = [ "Events" ]
 date = 2022-09-22T04:00:00.000Z
 description = "On 14 September 2022 the Swarm Foundation hosted a meetup titled “Storage incentives: The missing piece to make blockchains complete”. The event took place during EthBerlin at the famous c-bas"
@@ -44,12 +45,12 @@ Therefore, the Swarm Foundation supports initiatives and projects that promote t
 
 To round off his presentation, Gregor recapped the plans for the future:
 
-* Creating a strong network that supports big file uploads
-* Growing the ecosystem by promoting permissionless publishing, supporting NFT metadata storage and continuing with the Great Data Upload project
-* Developing decentralised service networks and enabling fair data economy
-* Increasing decentralisation in the ecosystem (launch of purposeful DAOs)
-* Supporting [WAM (We Are Millions)](https://www.wearemillions.online/) hackathon
-* Organising the Swarm Summit
+- Creating a strong network that supports big file uploads
+- Growing the ecosystem by promoting permissionless publishing, supporting NFT metadata storage and continuing with the Great Data Upload project
+- Developing decentralised service networks and enabling fair data economy
+- Increasing decentralisation in the ecosystem (launch of purposeful DAOs)
+- Supporting [WAM (We Are Millions)](https://www.wearemillions.online/) hackathon
+- Organising the Swarm Summit
 
 # Why do we need decentralised storage and storage incentives?
 

@@ -1,5 +1,6 @@
 +++
 banner = ""
+images = [ "" ]
 categories = [ ]
 date = 2021-10-01T04:00:00.000Z
 description = ""
@@ -28,10 +29,10 @@ The audit identified twelve security-relevant risks with varying severity levels
 
 For optimal progress, coverage and tracking of issues, the work was split into four separate work packages:
 
-* Threat-Modelling Exercise to determine the exact scope
-* Penetration Tests & Source Code Audits against Ethswarm bee
-* Penetration Tests & Delta Code Audits against bee-clef/clef
-* Smart Contract Audits against Swarm-related Solidity files
+- Threat-Modelling Exercise to determine the exact scope
+- Penetration Tests & Source Code Audits against Ethswarm bee
+- Penetration Tests & Delta Code Audits against bee-clef/clef
+- Smart Contract Audits against Swarm-related Solidity files
 
 White-box methods were applied in the project. Cure53 were given access to all relevant material, including the source code behind various components and detailed documentation. Most importantly, several meetings and mini-workshops with the Swarm team were held to facilitate comprehensive understanding of the objectives and technical traits of the objects subject to this review.
 

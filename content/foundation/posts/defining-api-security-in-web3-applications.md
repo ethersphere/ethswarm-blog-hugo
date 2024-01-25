@@ -1,5 +1,6 @@
 +++
 banner = ""
+images = [ "" ]
 categories = [ "Tutorials" ]
 date = 2021-12-09T04:00:00.000Z
 description = "The Swarm Bee team is excited to announce that an initial version of the Restricted API feature is available and ready for experimentation!"
@@ -22,10 +23,10 @@ It is undesirable for a malevolent actor to be able to access all of a node’s 
 
 It’s worth noting that for the moment the following endpoints will remain unrestricted:
 
-* /health
-* /metrics
-* /readiness
-* /debug/*
+- /health
+- /metrics
+- /readiness
+- /debug/\*
 
 # Getting Started
 
@@ -45,8 +46,8 @@ With the restricted API mode enabled, we can obtain our first security token by 
 
     curl -X POST http://localhost:1633/auth \-H 'Content-Type: application/json' \-H 'Authorization: Basic :<your_base64_basic_auth>' \-d'{"role":"consumer","expiry":3600}'
 
-Where the `role` is one of the predefined roles (consumer, creator, maintainer or accountant), and `expiry` defines the lifetime of the issued token (in seconds).  
-The value of `your_base64_basic_auth` is the value of the`- admin-password` parameter prefixed with a `:` character and base64 encoded (ex. `base64(':passwd1')` where `passwd1` is the value specified as`- admin-password`).  
+Where the `role` is one of the predefined roles (consumer, creator, maintainer or accountant), and `expiry` defines the lifetime of the issued token (in seconds).
+The value of `your_base64_basic_auth` is the value of the`- admin-password` parameter prefixed with a `:` character and base64 encoded (ex. `base64(':passwd1')` where `passwd1` is the value specified as`- admin-password`).
 The returned result is in the form of:
 
     {"key":"<the_super_secret_access_token>"}

@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/coldstack.png"
+images = [ "/uploads/coldstack.png" ]
 categories = [ "Ecosystem" ]
 date = 2024-01-18T00:00:01.000Z
 description = "Partnering with ColdStack, we're merging our strengths to amplify the impact of decentralised technologies in the Web3 ecosystem."
@@ -11,7 +12,6 @@ _template = "post"
 ## Uniting for a Decentralised Vision
 
 As Swarm Foundation, our mission is to shape a self-sovereign global society through decentralized data storage and distribution. Partnering with [ColdStack](https://coldstack.io/), we're merging our strengths to amplify the impact of decentralised technologies in the Web3 ecosystem.
-
 
 ## Integrating ColdStack with Swarm
 

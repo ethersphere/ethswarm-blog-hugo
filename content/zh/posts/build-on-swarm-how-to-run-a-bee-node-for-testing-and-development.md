@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/how-to-run-a-bee-node.png"
+images = [ "/uploads/how-to-run-a-bee-node.png" ]
 hide_front = true
 categories = [ "中文" ]
 date = 2023-04-11T22:00:00.000Z

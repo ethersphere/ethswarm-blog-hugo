@@ -1,5 +1,6 @@
 +++
 banner = ""
+images = [ "" ]
 categories = [ "Development updates" ]
 date = 2022-03-04T23:00:00.000Z
 description = "There’s no rest for the wicked and February has kept the Swarm team busy as always. A new Bee client release saw the light of day, as have three new releases from the BeeJS team. But the main focus of the entire Swarm team is to realise Milestone 2 of the technical roadmap, announced last December, in sync with the specified timeline."
@@ -7,7 +8,6 @@ references_and_footnotes = [ ]
 title = "Monthly Development Update — February 2022"
 _template = "post"
 +++
-
 
 There’s no rest for the wicked and February has kept the Swarm team busy as always. A new Bee client release saw the light of day, as have three new releases from the BeeJS team. But the main focus of the entire Swarm team is to realise Milestone 2 of the technical roadmap, [announced last December](https://medium.com/ethereum-swarm/announcing-the-swarm-foundation-technical-milestones-e66bba8dc6b), in sync with the specified timeline.
 

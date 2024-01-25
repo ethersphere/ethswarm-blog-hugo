@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/grant.webp"
+images = [ "/uploads/grant.webp" ]
 categories = [ "Grants" ]
 date = 2021-10-21T04:00:00.000Z
 description = "Swarm Association is proud to announce yet another round of grantees, with great project ideas that show the diversity of use cases for Swarm. Read short descriptions of what new grantees are working on here below."
@@ -30,7 +31,7 @@ A project that starts with a strategy NFT card game and ends with gamification o
 
 What better way to launch a dApp than by exemplifying its utility in the beautiful and remote setting of Bali? Galileo is a decentralised map that allows you to personalise your own version without collecting your information or tracking your personal ventures. The point of this grant is to show how maps can be easily upgraded and personalised. Bonus: linking spots to transactions (eg. make bookings) where the map creator gets a small commission. In essence, this is the start of a decentralised version of this: [https://techcrunch.com/2021/08/30/thatch-using-3m-round-to-put-travel-creators-on-the-map/](https://techcrunch.com/2021/08/30/thatch-using-3m-round-to-put-travel-creators-on-the-map/ "https://techcrunch.com/2021/08/30/thatch-using-3m-round-to-put-travel-creators-on-the-map/")
 
-@SmileyLemon_
+@SmileyLemon\_
 
 # NIFTSY
 

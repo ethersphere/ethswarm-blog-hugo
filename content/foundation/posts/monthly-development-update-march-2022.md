@@ -1,5 +1,6 @@
 +++
 banner = ""
+images = [ "" ]
 categories = [ "Development updates" ]
 date = 2022-04-04T22:00:00.000Z
 description = "March was marked by the WAM hackathon, organised by Fair Data Society in partnership with Swarm. Three weeks of talks, demos and presentations connected artists, gamers, developers and activists in an effort to build a better Web. Important partnerships were forged, like the one between Kiwix and Swarm that will see the whole of Wikipedia uploaded to Swarm’s decentralised storage."
@@ -7,7 +8,6 @@ references_and_footnotes = [ ]
 title = "Monthly Development Update — March 2022"
 _template = "post"
 +++
-
 
 March was marked by the [WAM hackathon](https://www.wearemillions.online/), organised by [Fair Data Society](https://fairdatasociety.org/) in partnership with Swarm. Three weeks of talks, demos and presentations connected artists, gamers, developers and activists in an effort to build a better Web. Important partnerships were forged, like the one between [Kiwix and Swarm that will see the whole of Wikipedia uploaded to Swarm’s decentralised storage](https://medium.com/@ethswarmhive/kiwix-and-swarm-partner-up-to-preserve-free-online-access-to-information-b8a30b2b0af4).
 

@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/live.webp"
+images = [ "/uploads/live.webp" ]
 categories = [ "Events" ]
 date = 2020-11-17T16:00:00.000Z
 description = "Swarm Live is the last official release before the final product release. It has all the high-level features in place."
@@ -18,12 +19,12 @@ This time it will be short & sweet. Two and a half hours packed with useful info
 
 **The Programme:**
 
-* The event starts with an awesome special guest, who will be kept secret until the event.
-* Rinke will explain Swarm incentives in detail and make a very interesting announcement.
-* Janos will describe what’s new in the Swarm Live release and present Swarm’s vision for the ecosystem integration.
-* Eduardo Antuña Díez (DAppNode Project Lead) will demonstrate the simplicity of installing a Bee node with DAppNode.
-* Attila will present the newly established Swarm JS team and talk about their goals and progress.
-* You will witness a PSS Zero-Leak messaging demo by Dan.
-* You will get an opportunity to make another Swarm grant application.
+- The event starts with an awesome special guest, who will be kept secret until the event.
+- Rinke will explain Swarm incentives in detail and make a very interesting announcement.
+- Janos will describe what’s new in the Swarm Live release and present Swarm’s vision for the ecosystem integration.
+- Eduardo Antuña Díez (DAppNode Project Lead) will demonstrate the simplicity of installing a Bee node with DAppNode.
+- Attila will present the newly established Swarm JS team and talk about their goals and progress.
+- You will witness a PSS Zero-Leak messaging demo by Dan.
+- You will get an opportunity to make another Swarm grant application.
 
 Of course, there will be plenty of other exciting topics, too. You are invited to [RSVP for the event ](https://swarm-gateways.net/bzz:/live.swarm.eth/)and meet us live on 24 November 2020.

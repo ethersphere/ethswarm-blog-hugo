@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/storage-incentives-ama.png"
+images = [ "/uploads/storage-incentives-ama.png" ]
 categories = [ "Events" ]
 date = 2022-12-07T04:00:00.000Z
 description = "The October Monthly Ecosystem Call focused on the storage incentives upgrade (the progress so far) and Swarm network’s ecosystem."

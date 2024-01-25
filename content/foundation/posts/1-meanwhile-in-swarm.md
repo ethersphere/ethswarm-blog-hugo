@@ -1,5 +1,6 @@
 +++
 banner = ""
+images = [ "" ]
 categories = [ "Development updates" ]
 date = 2021-11-17T04:00:00.000Z
 description = "A lot has happened since the last update. The Bee team implemented important changes to the network: check out the Bee 1.3.0 release. "
@@ -8,14 +9,13 @@ title = "#1 Meanwhile in Swarm"
 _template = "post"
 +++
 
-
 A lot has happened since the last update. The Bee team implemented important changes to the network: [**check out the Bee 1.3.0 release **](https://github.com/ethersphere/bee/releases/tag/v1.3.0)and, please, update your Bee nodes to the latest version if you haven’t done so already. All you need to know can be found **in Elad Nachmias’s** [**blog post here**](https://medium.com/ethereum-swarm/the-swarm-is-moving-on-or-dont-fall-behind-e2738fbb1d41).
 
 The Swarm Ecosystem team has **created a brand new** [**Twitter account **](https://twitter.com/ethswarmhive)to keep you up to date with news from projects building on Swarm, grant recipients, and much more. [**Make sure to follow this one**](https://twitter.com/ethswarmhive) **to be in-the-know.**
 
 As you probably know, **the fourth round of Swarm grants was a success**. We are happy to see all the new interesting Swarm use cases coming to life every day. **You can** [**check this blog**](https://medium.com/ethereum-swarm/the-final-countdown-announcing-the-4th-round-of-swarm-grant-recipients-5a973a82b17a) **post** and see it for yourself.
 
-Below you’ll find all that’s been happening in Swarm for the last month. Dive right in and see what your favorite Swarm track has been up to.
+Below you’ll find all that’s been happening in Swarm for the last month. Dive right in and see what your favourite Swarm track has been up to.
 
 # **Bee Track**
 

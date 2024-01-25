@@ -1,5 +1,6 @@
 +++
 banner = ""
+images = [ "" ]
 categories = [ "Events" ]
 date = 2021-08-21T04:00:00.000Z
 description = "As you probably know, the Swarm Summer School is happening next week, starting on Monday 23 August 2021. This blog post will present the programme and schedule for the week, to illustrate the dynamics and what to expect."
@@ -10,10 +11,10 @@ _template = "post"
 
 _TL;DR_
 
-_- the school starts on Monday, 23 August 2021 (each day from 15:00 to 18:00 CET)  
-\- each day has lectures and workshops  
-\- days are divided into topics (social, business, tech, legal, and demo day)  
-\- speakers from the Swarm team and outside Swarm Association  
+_- the school starts on Monday, 23 August 2021 (each day from 15:00 to 18:00 CET)
+\- each day has lectures and workshops
+\- days are divided into topics (social, business, tech, legal, and demo day)
+\- speakers from the Swarm team and outside Swarm Association
 \- check the schedule and programme timetable at the end of the document_
 
 As you probably know, the Swarm Summer School is happening next week, starting on **Monday 23 August 2021**. This blog post will present the programme and schedule for the week, to illustrate the dynamics and what to expect.
@@ -24,11 +25,11 @@ Before we continue, please make sure you register for the event. [You can do thi
 
 As usual, Swarm Association has made sure to have interesting speakers from within and outside the organisation. The week is structured so that each day focuses on specific topics, all of them relevant to people who project on Swarm. Here are the topics:
 
-* Day 1 — Social
-* Day 2 — Business
-* Day 3 — Technology
-* Day 4 — Legal
-* Day 5 — Demo day
+- Day 1 — Social
+- Day 2 — Business
+- Day 3 — Technology
+- Day 4 — Legal
+- Day 5 — Demo day
 
 Fasten your seatbelt as we dive into the school days one by one and introduce the speakers and why you should be listening to their talks. Finally, the blog concludes with the exact schedule and programme timetable.
 
@@ -116,36 +117,36 @@ The actual start of this talk depends on the number of demos and presentations. 
 
 **Day 1 (Social)**
 
-* 14:45 : Intro vibes by plur.buzz
-* 15:00 : Alexis Roussel, founder of Vie Numerique — Digital integrity
-* 15:30 : Melanie Rieback, founder Radically Open Security — New cooperative models
-* 16:30 : Workshop: Michiel de Jong — Building data-aware decentralised solutions
+- 14:45 : Intro vibes by plur.buzz
+- 15:00 : Alexis Roussel, founder of Vie Numerique — Digital integrity
+- 15:30 : Melanie Rieback, founder Radically Open Security — New cooperative models
+- 16:30 : Workshop: Michiel de Jong — Building data-aware decentralised solutions
 
 **Day 2 (Business)**
 
-* 14:45 : Intro vibes by plur.buzz
-* 15:00 : Elad Verbin, CEO of Lunar Ventures — The paradigm shifts of Web3
-* 16:00 : Workshop: Rinke Hendriksen, Product Owner at Swarm — How to develop your tokenomics
+- 14:45 : Intro vibes by plur.buzz
+- 15:00 : Elad Verbin, CEO of Lunar Ventures — The paradigm shifts of Web3
+- 16:00 : Workshop: Rinke Hendriksen, Product Owner at Swarm — How to develop your tokenomics
 
 **Day 3 (Tech)**
 
-* 14:45 : Intro vibes by plur.buzz
-* 15:00 : Viktor Tron — Decentralised service networks
-* 16:00 : Gregor Žavcer — Grow your adoption through Fairdrive with demo
-* 17:00 : Workshop: Mustafa Mahmutovic — Connecting to Fairdrive
+- 14:45 : Intro vibes by plur.buzz
+- 15:00 : Viktor Tron — Decentralised service networks
+- 16:00 : Gregor Žavcer — Grow your adoption through Fairdrive with demo
+- 17:00 : Workshop: Mustafa Mahmutovic — Connecting to Fairdrive
 
 **Day 4 (Legal)**
 
-* 14:45 : Intro vibes by plur.buzz
-* 15:00 : Fatemeh Fannizadeh + Silke Elrifai — Legal tips for crypto startups
-* 16:00 : Workshop: Alexander Partin — GDPR, data processing & protection
+- 14:45 : Intro vibes by plur.buzz
+- 15:00 : Fatemeh Fannizadeh + Silke Elrifai — Legal tips for crypto startups
+- 16:00 : Workshop: Alexander Partin — GDPR, data processing & protection
 
 **Day 5 — Demo Day**
 
-* 14:45 : Intro vibes by plur.buzz
-* 15:00 : Summer School participant demos
-* 16:30 : Grantees demos
-* 17:30 : Closing talk and prizes
+- 14:45 : Intro vibes by plur.buzz
+- 15:00 : Summer School participant demos
+- 16:30 : Grantees demos
+- 17:30 : Closing talk and prizes
 
-See you at the Swarm Summer School!  
+See you at the Swarm Summer School!
 Swarm Team

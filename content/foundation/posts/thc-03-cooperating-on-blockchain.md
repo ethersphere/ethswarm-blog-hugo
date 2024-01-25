@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/THC-cooperating-on-blockchain.png"
+images = [ "/uploads/THC-cooperating-on-blockchain.png" ]
 categories = [ "Ecosystem" ]
 date = 2023-08-30T00:00:01.000Z
 description = "How do we deal with something that’s neither privately owned nor managed by authorities on our behalf? Something that everyone, as well as no one, owns. In other words, how do we manage “commons” so that their tragedy doesn't become a reality? "
@@ -8,8 +9,8 @@ title = "Cooperating on Blockchain"
 _template = "post"
 +++
 
-
 This article is part of [The Hivemaker's Code](https://toolkit.ethswarm.org/) series:
+
 - Article 1: [Introduction](https://blog.ethswarm.org/foundation/2023/the-hivemakers-code-introduction/)
 - Article 2: [How do Ecosystems Grow?](https://blog.ethswarm.org/foundation/2023/the-hivemakers-code-how-do-ecosystems-grow/)
 - Article 3: Cooperating on Blockchain
@@ -21,6 +22,7 @@ This article is part of [The Hivemaker's Code](https://toolkit.ethswarm.org/) se
 - [Article 9: The Way Forward](https://blog.ethswarm.org/foundation/2023/the-way-forward/)
 
 ## How to Manage Commons in Digital Ecosystems?
+
 ![pattern](/uploads/pattern3-0.png)
 
 **Authors: Oliver Lukitsch, Michal Matlon, Gregor Žavcer, Thomas Fundneider, Markus Peschl, Lena Müller-Naendrup**
@@ -41,17 +43,16 @@ Online networks and platforms stretch over ever-growing communities of diverse p
 
 The question remains. How can we cooperate sustainably in times of increasing digital anonymity? How do we build collective trust, counter free-riding, and use shared resources responsibly? How can we replicate the success of Wikipedia?
 
-
 ## The Depletion of the Aral Sea: A Tragedy of Commons
-![pattern](/uploads/pattern3-1.png)
 
+![pattern](/uploads/pattern3-1.png)
 
 Let's come back to the topic of the commons. The depletion of the Aral Sea, once the fourth-largest lake in the world, perfectly illustrates how a shared resource falls prey to a tragedy.
 
 Between the 1960s and 2018, the sea's surface decreased by over eighty percent, leaving behind a barren, toxic, and inhospitable desert. Millions of people and fish lost their home environment of 54 000 square kilometers of freshwater. The story of the Aral Sea is an environmental catastrophe, but even worse, it's a human-made one. And some might claim it’s a Tragedy of the Commons.
 
 ![img](/uploads/blog3.png)
-*Image: NASA Goddard Space Center, https://creativecommons.org/licenses/by/2.0/*
+_Image: NASA Goddard Space Center, https://creativecommons.org/licenses/by/2.0/_
 
 The Aral Sea's freshwater has been used for fishery and agriculture by Kazakhstan and Uzbekistan farmers for centuries. Until the Soviet leaders initiated a five-year plan of water-intensive cotton farming in the desert of Uzbekistan, the lake provided a perfectly healthy ecosystem.
 
@@ -68,9 +69,8 @@ The first issue is overuse. If a shared resource is finite, one person using it 
 
 The symptoms of those three problems are so-called "free-riding individuals." Whenever an individual can't be excluded from a community resource, they might be seduced to stop contributing to it or regulating their behavior. And the only solution to this tendency is to devise an effective way of communicating, monitoring, and sanctioning within the group.
 
-
-
 ## Ostrom's 8 Principles for Managing Commons
+
 ![pattern](/uploads/pattern3-2.png)
 
 Hardin's Tragedy of the Commons can provide a simple explanation for all kinds of social dilemmas: traffic jams, overfishing of oceans, or dirty public toilets. Nevertheless, there are examples of successful, self-governed commons and collective management systems, like the [Acequias](https://lasacequias.org/) in New Mexico, sustainably managed by ordinary people for generations.
@@ -79,14 +79,14 @@ And one scientist decided to find out what stands behind thriving communities th
 
 Based on her decades-long research of well-managed commons, Ostrom strongly believed that groups are capable of avoiding the tragedy of the commons without requiring direct top-down regulation. Based on her findings, Ostrom created a list of eight principles for managing commons that can be applied both in the physical and digital worlds.
 
-1.	**Commons require clearly defined boundaries:** It should be clear who has access to commons, under what conditions, and where they begin and end.
-2.	**Governing rules should match local needs and conditions:** Commons are context-sensitive, so people in the community should create the rules.
-3.	**Participatory decision-making:** People affected by rules are likelier to adhere to them if they have participated in defining them.
-4.	**Monitoring the commons systems and community:** The community must develop a system for checking and monitoring the community members' behavior.
-5.	**Graduated sanctions for rule violators:** Commons work best when they include systems of warnings, fines, and informal reputational consequences before banishing members from the resource for good.
-6.	**Providing accessible, low-cost means for conflict resolution:** Members should be encouraged and enabled to bring up any issue so that problems can be solved by mediation rather than ignored.
-7.	**Other authorities should recognize the commons:** Commons can only sustain themselves if their rules are recognized as legitimate by higher authorities under which the community falls.
-8.	**Commons should be embedded in larger systems:** Many commons require large-scale cooperation and widespread responsibility to be managed successfully.
+1. **Commons require clearly defined boundaries:** It should be clear who has access to commons, under what conditions, and where they begin and end.
+2. **Governing rules should match local needs and conditions:** Commons are context-sensitive, so people in the community should create the rules.
+3. **Participatory decision-making:** People affected by rules are likelier to adhere to them if they have participated in defining them.
+4. **Monitoring the commons systems and community:** The community must develop a system for checking and monitoring the community members' behavior.
+5. **Graduated sanctions for rule violators:** Commons work best when they include systems of warnings, fines, and informal reputational consequences before banishing members from the resource for good.
+6. **Providing accessible, low-cost means for conflict resolution:** Members should be encouraged and enabled to bring up any issue so that problems can be solved by mediation rather than ignored.
+7. **Other authorities should recognize the commons:** Commons can only sustain themselves if their rules are recognized as legitimate by higher authorities under which the community falls.
+8. **Commons should be embedded in larger systems:** Many commons require large-scale cooperation and widespread responsibility to be managed successfully.
 
 By outlining these principles, Ostrom illustrated how commons could be successfully managed and provided in-depth insights into why some groups fail to govern themselves. In line with Hardin's reasoning, Ostrom argued that communication and trust constitute critical challenges to group-based governance of shared resources.
 
@@ -94,17 +94,16 @@ Suppose there are neither efficient ways to monitor social behavior nor means to
 
 Ostrom's principles particularly highlight the need for communication within and beyond the community, the centrality of participatory decision-making processes, and transparency among the community members and processes.
 
+## Blockchain: A Contested Common  
 
-
-## Blockchain: A Contested Common   
 ![pattern](/uploads/pattern3-3.png)
 So how do these principles translate into the digital world? We could say that the blockchain is a new kind of shared resource. One which might bear the potential to circumvent the tragedy of the commons by embodying principles similar to those Ostrom suggested.
 
 Generally, the blockchain constitutes a technological infrastructure for applications such as cryptocurrencies, decentralized data storage platforms, and smart contracts systems. Simply said, blockchains are continuously growing, immutable ledgers that contain information about transactions. As they are digital and online by nature, blockchains generally have three qualities:
 
-1.	Blockchains are decentralized, as the ledger containing information is not centrally stored but distributed among all the participants.
-2.	Blockchain ledgers are accessible to anyone participating in the system.
-3.	Blockchains are immutable, holding that already existing information on the blockchain can never be deleted.
+1. Blockchains are decentralized, as the ledger containing information is not centrally stored but distributed among all the participants.
+2. Blockchain ledgers are accessible to anyone participating in the system.
+3. Blockchains are immutable, holding that already existing information on the blockchain can never be deleted.
 
 In addition, they are run by a distributed verification system (like “mining”), through which connected computers verify transactions added to the chain's final blocks. Joining the validation process is then rewarded, usually with a virtual currency the given community uses. The seemingly simple principle of a decentralized, non-exclusive system that rewards cooperation posits a promising scenario for the common's resources dilemma.
 
@@ -120,11 +119,10 @@ Secondly, blockchain systems facilitate communication and promote complete trans
 
 Thirdly, while scaling beyond the local level has been a challenge for common resource projects, blockchain commons benefit from a large-scale network effect.
 
-Thus, applying blockchain technology to organize human cooperation might enable us to introduce new times of commoning. Times in which people from all over the world, far beyond the local scale, can jointly contribute to and benefit from one resource.  
-
-
+Thus, applying blockchain technology to organize human cooperation might enable us to introduce new times of commoning. Times in which people from all over the world, far beyond the local scale, can jointly contribute to and benefit from one resource.
 
 ## Blockchains in Light of Ostrom's Principles
+
 ![pattern](/uploads/pattern3-5.png)
 However, blockchain technology does not come with a risk-free recipe for commoning success. As Ostrom argued, the way a community cooperates depends on the nature of the shared resources and the conditions in which the community exists.
 
@@ -142,19 +140,18 @@ We have used these principles as a model for decentralized, value-aligned ecosys
 
 As we saw, overcoming the Tragedy of the Commons is not guaranteed. However, we believe that by learning from practices tested throughout centuries, new decentralized communities can successfully sustain themselves and use their potential purposefully.
 
-
 ## Key Insights
+
 ![pattern](/uploads/pattern3-6.png)
 
-* Commons are widely shared resources susceptible to overuse by individuals.
-* Online networks create a new type of commons that needs to be managed.
-* Elinor Ostrom's eight principles distill how sustainably managed commons are run by their communities.
-* Blockchain could help us overcome the commons’ issue through transparency by default and embedding trust in the system.
-* Distributed, digital communities can embrace Ostrom's principles to govern themselves and develop purposefully.
-
-
+- Commons are widely shared resources susceptible to overuse by individuals.
+- Online networks create a new type of commons that needs to be managed.
+- Elinor Ostrom's eight principles distill how sustainably managed commons are run by their communities.
+- Blockchain could help us overcome the commons’ issue through transparency by default and embedding trust in the system.
+- Distributed, digital communities can embrace Ostrom's principles to govern themselves and develop purposefully.
 
 ## References
+
 ![pattern](/uploads/pattern3-8.png)
 Broodje, Jaap. 2020. “The Success of the Commons.” The Connectivist (blog). November 17, 2020. https://theconnectivist.wordpress.com/2020/11/17/the-success-of-the-commons/.
 

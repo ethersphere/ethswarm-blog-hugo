@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/desktopap.png"
+images = [ "/uploads/desktopap.png" ]
 categories = [ "Tutorials" ]
 date = 2021-07-20T22:00:00.000Z
 description = "Running the Swarm Desktop App (Beta) in light mode lets you upload files, folders or websites to the Swarm network. To do that you first need to buy postage stamps."

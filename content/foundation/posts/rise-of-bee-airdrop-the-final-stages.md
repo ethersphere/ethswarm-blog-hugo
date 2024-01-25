@@ -1,5 +1,6 @@
 +++
 banner = ""
+images = [ "" ]
 categories = [ ]
 date = 2021-07-16T04:00:00.000Z
 description = "Swarm Foundation is happy to announce the next stage of the Airdrop: the selection of trusted nodes."
@@ -20,8 +21,8 @@ In this blog post, Swarm announces two important changes with respect to the fin
 
 Due to the overwhelming success of the testnet and the seriously gigantic scale of the response to our call for node operators, the selection of trusted nodes has been expanded to a more appropriate number. Here are some quick stats:
 
-* A massive **10.251.552** cheques were cashed with a non-zero value
-* Over **302.000** nodes deployed chequebooks and cashed out at least one cheque from a peer
+- A massive **10.251.552** cheques were cashed with a non-zero value
+- Over **302.000** nodes deployed chequebooks and cashed out at least one cheque from a peer
 
 The goal of the airdrop was not only to reward those node operators who helped run the test network, but also to get BZZ in as many hands as possible so node operators can start running their Bees on mainnet and use the network for upload and download of data.
 

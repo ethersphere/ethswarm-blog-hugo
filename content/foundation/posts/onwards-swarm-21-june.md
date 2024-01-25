@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/onwards-swarm.webp"
+images = [ "/uploads/onwards-swarm.webp" ]
 categories = [ "Events" ]
 date = 2022-06-10T04:00:00.000Z
 description = "Join us on the summer solstice, 21 June 2022 at 16:00 CET and share the excitement as we gather to announce a special release"
@@ -14,8 +15,8 @@ As always, there will be an after-event opportunity to chat and hang out on [Dis
 
 # Where and when
 
-* **When:** 21 June 2022 at 16:00 CET
-* **Where:** This will be an online event, streamed on [YouTube](https://youtu.be/jn4rkKjNFg4).
+- **When:** 21 June 2022 at 16:00 CET
+- **Where:** This will be an online event, streamed on [YouTube](https://youtu.be/jn4rkKjNFg4).
 
 All the event details will come in the following weeks, so follow Swarm network’s social media channels and never miss a thing.
 

@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/devcon-archive.webp"
+images = [ "/uploads/devcon-archive.webp" ]
 categories = [ "Ecosystem" ]
 date = 2022-10-25T04:00:00.000Z
 description = "Hosting the Devcon archive on the Swarm network is part of Swarm network’s mission to make Web3 more decentralised and censorship-resistant while empowering digital freedom. "

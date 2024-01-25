@@ -1,5 +1,6 @@
 +++
 banner = ""
+images = [ "" ]
 categories = [ "Development updates" ]
 date = 2022-05-04T22:00:00.000Z
 description = "April was the month of spring cleaning for different tracks around Swarm. The Bee client saw a patch release to fix some critical issues, while the BeeJS team also cleared up some minor bugs with the new Bee-js release. On the ecosystem side, the Swarm community near and far got treated to a Monthly Ecosystem Call."
@@ -7,7 +8,6 @@ references_and_footnotes = [ ]
 title = "Monthly Development Update — April 2022"
 _template = "post"
 +++
-
 
 April was the month of spring cleaning for different tracks around Swarm. The Bee client saw a patch release to fix some critical issues, while the BeeJS team also cleared up some minor bugs with the new Bee-js release. On the ecosystem side, the Swarm community near and far got treated to a Monthly Ecosystem Call.
 

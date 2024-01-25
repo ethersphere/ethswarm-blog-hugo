@@ -1,5 +1,6 @@
 +++
 banner = ""
+images = [ "" ]
 categories = [ ]
 date = 2021-02-15T04:00:00.000Z
 description = "Yes, you read it right. Swarm is giving out 1 million BZZ tokens to the people who already run a Bee node on the testnet. We call this airdrop “The Rise of Bee”."

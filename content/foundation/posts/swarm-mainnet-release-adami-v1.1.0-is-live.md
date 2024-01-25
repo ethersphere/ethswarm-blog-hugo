@@ -1,5 +1,6 @@
 +++
 banner = ""
+images = [ "" ]
 categories = [ "Development updates" ]
 date = 2021-08-23T22:00:00.000Z
 description = "On 21 June 2021, Swarm released its first mainnet client. Today, Swarm is releasing a new version 1.1.0, fixing bugs and adding four new features."
@@ -7,7 +8,6 @@ references_and_footnotes = [ ]
 title = "Swarm Mainnet Release — Adami v1.1.0 is live!"
 _template = "post"
 +++
-
 
 On 21 June 2021, Swarm released its first mainnet client. Today, Swarm is releasing a new version 1.1.0, fixing bugs and adding four new features.
 

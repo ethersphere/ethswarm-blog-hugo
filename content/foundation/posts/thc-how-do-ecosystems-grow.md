@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/THC-ecosystems-grow.png"
+images = [ "/uploads/THC-ecosystems-grow.png" ]
 categories = [ "Ecosystem" ]
 date = 2023-06-25T23:00:00.000Z
 description = "In 1993, James F. Moore published an article in Harvard Business Review. Inside, he presented an idea that was quite unusual at that time. He claimed that business networks, consisting of interacting companies, products, and users, could be understood similarly to natural ecosystems"
@@ -8,8 +9,8 @@ title = "The Hivemaker's code: How do Ecosystems Grow?"
 _template = "post"
 +++
 
-
 This article is part of [The Hivemaker's Code](https://toolkit.ethswarm.org/) series:
+
 - Article 1: [Introduction](https://blog.ethswarm.org/foundation/2023/the-hivemakers-code-introduction/)
 - Article 2: How do Ecosystems Grow?
 - Article 3: [Cooperating on Blockchain](https://blog.ethswarm.org/foundation/2023/cooperating-on-blockchain/)
@@ -21,7 +22,9 @@ This article is part of [The Hivemaker's Code](https://toolkit.ethswarm.org/) se
 - [Article 9: The Way Forward](https://blog.ethswarm.org/foundation/2023/the-way-forward/)
 
 ## How do Ecosystems Grow?
+
 ![pattern](/uploads/pattern0.png)
+
 ### All By Themselves.
 
 **Authors: Oliver Lukitsch, Michal Matlon, Gregor Žavcer, Thomas Fundneider, Markus Peschl, Lena Müller-Naendrup**
@@ -42,8 +45,8 @@ But is it justified to call today’s heavily digitized socioeconomic systems �
 
 To answer these questions, we take a brief detour to the basic principles of evolutionary ecology, Darwinism, and the concept of niche creation. The latter, in particular, is critical to understanding why a digital ecosystem can be genuinely alive and exhibit ecological characteristics initially considered unique to biological ecosystems.
 
-
 ## What is Life Anyway?
+
 ![pattern](/uploads/pattern1-1.png)
 
 ### Autonomy and Self-Organization
@@ -60,7 +63,6 @@ On the contrary, life was created by no one and for nothing. If it were not self
 
 The biologists Humberto Maturana and Francisco Varela coined the term “autopoiesis” to capture this fundamental feature of life. According to them, life does not only create and organize itself. It also creates its very own domains of meaning, its niches. In doing so, it can sustain its unstable internal state against an unstable environment. Hence, life creates its very own environmental conditions for sustaining itself.
 
-
 ### Bottom-Up Versus Top-Down: The Emergence of Life Forms
 
 To a large extent, life is the engine of its own creativity. Life is profoundly autonomous. Since there can be nothing that transcends life and gives it form and meaning, there is only one “direction of creation”: life arose from the bottom-up. It just “emerged” from the self-reproducing patterns of interacting molecules.
@@ -71,8 +73,8 @@ You might argue that there actually is something that shapes life, a force great
 
 But is the course of evolution really determined by an external force? Is natural selection a substitute for the idea of a higher being, who was said to have formed all living things on earth? We will show you in a moment that even Darwin rejected the notion that natural selection is the sole driving force of evolution.
 
-
 ## Misconceiving Darwin  
+
 ![pattern](/uploads/pattern1-2.png)
 Charles Darwin is as influential as he is misunderstood. He famously maintained that only the fittest survive. This claim is often interpreted as meaning that only the "strongest" survive. Just think of majestic lions and clever apes that dominate their ecosystems.
 
@@ -87,7 +89,6 @@ Natural selection is a mechanism that selects already existing shapes and forms 
 Random mutation is often given as one part of the explanation. Yet, it forms only one piece of the puzzle resulting in a vast and increasing complexity of organisms. To make things worse, biologists consider it a highly effective survival strategy to stick with simplicity, be small, and produce lots of offspring at speed. It’s a strategy that works flawlessly for the amoeba but fails the elephant.
 
 Being small, simple, and highly reproductive will always be effective for life. Bacteria will continue to populate our planet even after more complex life forms have become extinct. It is puzzling enough that complexity emerges at all. Therefore biology must explain why the forces of evolution cause more complexity in nature on earth, not less. Why is it feasible to evolve for large, complex, ecologically sensitive organisms like us?
-
 
 ### The Problem of the Heap. Natural Drift as its Solution.
 
@@ -111,8 +112,8 @@ To give an example, think of the evolution of some skeletal structure that will,
 
 At some point in time, a distant descendant of the original creature will suddenly have a subtly different skeletal endowment than its immediate ancestor. The latter looks like a promising flyer, but he isn’t. For the former, however, it will be just enough to get it up into the air. Only then can we speak of a new organic feature that can be selected for its novel purpose.
 
-
 ## Niches Spawn Niches, Spawn Niches…
+
 ![pattern](/uploads/pattern1-3.png)
 The above story also affects how we think about ecological niches. Every organism on our planet occupies a niche. Niches provide a space where an organism has little competition for resources because it adapts to its environment in ways other organisms can't. It's simply a "nice place" for any organism to be. More importantly, you could say that an organism's niche defines its functions and place in nature - its purpose.
 
@@ -124,7 +125,6 @@ One thing is remarkable about this fact. Archaea are very primitive organisms. O
 
 It's no accident that more organized and complex organisms live this way. The reason is that living organisms provide potential niches for other organisms to occupy. They increase the number of contexts in which other species can accidentally use novel traits, thus giving them meaning.
 
-
 ### A Short Story About Evolution
 
 Imagine a free-swimming protozoan, a single-cell organism. It happens to develop a property that allows it to firmly attach itself to rocks in the ocean where it lives. Its offspring also stick to the seafloor and consume anything that washes up in their direction. Soon, all rocks on the seafloor are covered by this new species.
@@ -135,8 +135,8 @@ This example shows how a new niche is created. The environment didn’t cause th
 
 This case shows that life creates the potential for new niches. It is a catalyst for the emergence of new life forms, and exponentially so. Biodiversity creates more biodiversity - potential new niches proliferate as species occupy previous niches.
 
-
 ## Niches in Human Ecosystems and the Economy
+
 ![pattern](/uploads/pattern1-4.png)
 
 So what does all of this have to do with the economy? Evolutionary biologist Robert Cazzolla Gatti and his colleagues have explored how to translate the story above to the human context.
@@ -157,7 +157,6 @@ Think of the first organisms that were capable of photosynthesis. Their emergenc
 
 Genuinely new niches create an entirely new context. This is why niche emergence is said to have an "autocatalytic" (self-enabling) dynamic. That is, niche emergence leads to more niche emergence, as the biologist Stuart Kauffman argued.
 
-
 ### Life Enables Novelty
 
 Take, for example, the invention of the personal computer, which, in turn, enabled the creation of word processors. The creation of word processors then led to an explosion of files, subsequently promoting the exchange of files. According to Stuart Kauffman, this was ultimately the basis for developing the internet protocol.
@@ -168,8 +167,8 @@ To summarize, there is a clear difference between the emergence of new niches an
 
 Both phenomena have their place in nature, culture, and economics. However, any project which aims to change society (be it an analog or a digital one) must pay attention to the idea that novelty evolves only when enabling the cascading dynamics of niche emergence.
 
-
 ## Conclusion: Niche Creation is a Foundation of Living Digital Ecosystems
+
 ![pattern](/uploads/pattern1-5.png)
 Life's ability to create new niches is a fundamental feature of biology. It is the lifeblood of evolution and the biological possibility to develop new life forms and meanings.
 
@@ -185,7 +184,6 @@ The idea that Web 2.0 is a living ecosystem seems far-fetched. It is a stretched
 
 But what about the prospects for Web3? Aren't decentralized infrastructure and the possibility of strengthening the autonomy of individual users the right way to breathe life into a digital system?
 
-
 ### A Living Web3
 
 There is a case to be made for designing Web3 ecosystems that strive for liveliness. Living ecosystems are truly decentralized ecosystems. Nothing truly steers an ecosystem. Nobody imposes values onto an ecosystem precisely as planned, even though it can be designed for a purpose. Nobody wholly owns or controls it.
@@ -194,8 +192,8 @@ One of our next articles on Web3 and democratic values shows that blockchain-bas
 
 On the contrary, a truly decentralized and living blockchain ecosystem will have the much-needed characteristics to resist the tendency toward centralization. After all, a living system is a place that creates more autonomy and creates new niches. To live means to let live. Any Web3 ecosystem that allows its members to live and grow on their own terms has paved the way for its own liveliness.
 
-
 ## Keystone Species: A Critical Enabler Revisited
+
 ![pattern](/uploads/pattern1-6.png)
 In the 1960s, the biologist Robert Paine carried out a series of studies to show how predators influence the diversity of species in an ecosystem. What happens if they are removed? Does the number of species increase if top-level predators prey less on ecosystem members?
 
@@ -219,45 +217,35 @@ We can also use the concept of keystone species when thinking about the creation
 
 One way to overcome this problem is to identify one such keystone species, a specific user group, and invest most of the organization’s energy into attracting these users. Their presence will, in turn, attract the other groups and enable the rest of the value chain to complete itself.
 
-
 ## Key Insights
+
 ![pattern](/uploads/pattern1-7.png)
 
-
-* Living digital ecosystems should be decentralized, just like living biological ecosystems.
-* Living digital ecosystems provide the framework for ever new niches.
-* A purely “selectivist” approach to enabling the creation of new niches deteriorates the autonomy of an ecosystem’s members.
-
+- Living digital ecosystems should be decentralized, just like living biological ecosystems.
+- Living digital ecosystems provide the framework for ever new niches.
+- A purely “selectivist” approach to enabling the creation of new niches deteriorates the autonomy of an ecosystem’s members.
 
 ## References
+
 ![pattern](/uploads/pattern1-8.png)
 Cattani, G. and M. Mastrogiorgio (Eds.) (2021). New developments in evolutionary innovation. Novelty creation in a serendipitous economy. Oxford: Oxford University Press.
 
 Cazzolla Gatti, Roberto, Brian Fath, Wim Hordijk, Stuart Kauffman, and Robert Ulanowicz. 2018. “Niche Emergence as an Autocatalytic Process in the Evolution of Ecosystems.” Journal of Theoretical Biology 454: 110–17. https://doi.org/10.1016/j.jtbi.2018.05.038.
 
-
 Cazzolla Gatti, Roberto, Roger Koppl, Brian D. Fath, Stuart Kauffman, Wim Hordijk, and Robert E. Ulanowicz. 2020. “On the Emergence of Ecological and Economic Niches.” Journal of Bioeconomics 22 (2): 99–127. https://doi.org/10.1007/s10818-020-09295-4.
-
 
 Gould, Stephen Jay, and Richard Lewontin. 1979. “The Spandrels of San Marco and the Panglossian Paradigm: A Critique of the Adaptationist Programme.” Proceedings of the Royal Society B: Biological Sciences 205: 581–89.
 
-
 Kauffman, S.A. (1993). The origins of order: Self-organisation and selection in evolution. Oxford: Oxford University Press.
-
 
 Kauffman, S.A. (2014). Prolegomenon to patterns in evolution. BioSystems 123(2014), 3–8.
 
-
 Kauffman, S.A. (2016). Humanity in a creative universe. New York: Oxford University Press.
-
 
 Koppl, R., S. Kauffman, T. Felin, and G. Longo (2014). Economics for a creative world. Journal of Institutional Economics 2014, 1–31.
 
-
 Humberto R. Maturana and Francisco Varela. 1987. The Tree of Knowledge: The Biological Roots of Human Understanding. Boston: Shambhala Press.
 
-
 Paine, Robert T. 1966. “Food Web Complexity and Species Diversity.” The American Naturalist 100 (910): 65–75.
-
 
 Stoltzfus, Arlin. 1999. “On the Possibility of Constructive Neutral Evolution.” Journal of Molecular Evolution 49 (2): 169–81. https://doi.org/10.1007/PL00006540.

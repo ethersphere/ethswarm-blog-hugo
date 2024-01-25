@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/bee-req.png"
+images = [ "/uploads/bee-req.png" ]
 categories = ["Tutorials"]
 date = 2023-05-18T04:00:00Z
 description = "Over the last several months the Bee dev team has been hard at work with the rollout of the storage incentives system which will ensure that node operators who share their disk space with the network will get rewarded. Along the way the dev team has been continually testing various aspects of the health of the network and monitoring community feedback in order to diagnose any issues. One issue which has come up is that of node performance. Some node operators may be missing out on earning storage incentives due to insufficient hardware performance. To address this issue, we’ve put together this guide for benchmarking node performance so node operators can make sure that their nodes are running optimally."

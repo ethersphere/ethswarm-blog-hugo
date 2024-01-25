@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/funds.webp"
+images = [ "/uploads/funds.webp" ]
 categories = [ ]
 date = 2021-02-07T04:00:00.000Z
 description = "Swarm Association is pleased to announce the successful completion of its private fundraiser that ended with the recent Swarm Live release, raising USD 6 million."
@@ -10,9 +11,9 @@ _template = "post"
 
 ![](https://miro.medium.com/max/1400/1*R5ralPFBVK6-63XGiqEziw.png)
 
-* Swarm reached an important fundraising goal, completing a $6m private fundraising round.
-* The secured funds will result in Swarm version 1.0, to be released in Q2 this year. [We are hiring](https://swarm.ethereum.org/).
-* Bitcoin Suisse supported Swarm in facilitating the private fundraiser.
+- Swarm reached an important fundraising goal, completing a $6m private fundraising round.
+- The secured funds will result in Swarm version 1.0, to be released in Q2 this year. [We are hiring](https://swarm.ethereum.org/).
+- Bitcoin Suisse supported Swarm in facilitating the private fundraiser.
 
 **Zug, Switzerland — 6 February 2021**
 
