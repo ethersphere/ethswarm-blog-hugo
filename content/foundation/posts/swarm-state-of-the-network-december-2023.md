@@ -11,7 +11,7 @@ slug="state-of-the-network-december"
 
 
 
-In this month's analysis, we turn our attention to the Swarm network's performance in December, comparing it with previous months to draw insights into evolving trends and developments. Our report delves into key metrics such as total monthly rewards, median and average win values, and the average earnings per active staking node. Notably, we'll discuss the network's adaptation to an increasingly competitive staking landscape, highlighting the resilience and efficiency of Swarm's economic model and pricing mechanism.
+In this month's analysis, we will turn our attention to the Swarm network's performance in December, comparing it with previous months to draw insights into evolving trends and developments. Our report delves into key metrics such as total monthly rewards, median and average win values, and the average earnings per active staking node. Notably, we'll discuss the network's adaptation to an increasingly competitive staking landscape, highlighting the resilience and efficiency of Swarm's economic model and pricing mechanism.
 
 ### Data Considerations
 
