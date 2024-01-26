@@ -1,6 +1,6 @@
-
 +++
 banner = "/uploads/bee-map.webp"
+images = [ "/uploads/bee-map.webp" ]
 categories = [ "Tutorials" ]
 date = 2021-03-22T04:00:00.000Z
 description = "Only one month after we announced the 1 million BZZ tokens airdrop, the Swarm network has grown immensely."

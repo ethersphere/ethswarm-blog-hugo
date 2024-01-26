@@ -1,11 +1,13 @@
 +++
 banner = "/uploads/wiki-1.png"
+images = [ "/uploads/wiki-1.png" ]
 categories = ["Ecosystem"]
 date = 2022-06-20T22:00:00Z
 description = "The Swarm Association is announcing a 50,000 DAI “Wikipedia on Swarm ”prize (paid in BZZ) for a solution that observes a Wikipedia offline archive and uploads it to the Swarm network"
 title = "Announcing: 50k DAI prize to make Wikipedia unstoppable"
 
 +++
+
 **The Swarm Association is announcing a** [**50,000 DAI "Wikipedia on Swarm" prize**](http://gitcoin.co/issue/28926) **(paid in BZZ) for a solution that observes a Wikipedia offline archive and uploads it to the Swarm network.** The goal is to allow for Wikipedia in any language to be easily uploaded to the Swarm network, making it resilient to the potential grip of censorship.
 
 # A push for freedom of information

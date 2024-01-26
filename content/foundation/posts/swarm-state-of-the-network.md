@@ -1,5 +1,6 @@
 +++
 banner = ""
+images = [ "" ]
 categories = [ "Development updates" ]
 date = 2021-11-17T04:00:00.000Z
 description = "A lot has happened since the last update. The Bee team implemented important changes to the network: check out the Bee 1.3.0 release. "
@@ -7,7 +8,6 @@ references_and_footnotes = [ ]
 title = "#1 Meanwhile in Swarm"
 _template = "post"
 +++
-
 
 A lot has happened since the last update. The Bee team implemented important changes to the network: [**check out the Bee 1.3.0 release **](https://github.com/ethersphere/bee/releases/tag/v1.3.0)and, please, update your Bee nodes to the latest version if you haven’t done so already. All you need to know can be found **in Elad Nachmias’s** [**blog post here**](https://medium.com/ethereum-swarm/the-swarm-is-moving-on-or-dont-fall-behind-e2738fbb1d41).
 

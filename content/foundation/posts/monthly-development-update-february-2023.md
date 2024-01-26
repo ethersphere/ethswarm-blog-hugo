@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/devupdatefeb.png"
+images = [ "/uploads/devupdatefeb.png" ]
 categories = [ "Development updates" ]
 date = 2023-03-04T23:00:00.000Z
 description = """
@@ -9,7 +10,6 @@ references_and_footnotes = [ ]
 title = "Monthly Development Update –  February 2023"
 _template = "post"
 +++
-
 
 February was a big month for the Swarm network. The price of postage stamps has been recalibrated with the release of Bee [**1.12.0**](https://github.com/ethersphere/bee/releases/tag/v1.12.0), which marks a major milestone for Swarm's self-sustaining network. The Research Track has also completed **the documentation for** [**Phase 4**](https://blog.ethswarm.org/foundation/2022/towards-the-world-computer.-the-swarm-network-upgrade-has-started./), which details the work of this phase of the Storage incentives roadmap.
 

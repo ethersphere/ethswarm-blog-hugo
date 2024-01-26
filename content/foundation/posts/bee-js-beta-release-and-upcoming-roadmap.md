@@ -1,5 +1,6 @@
 +++
 banner = ""
+images = [ "" ]
 categories = [ ]
 date = 2021-03-04T04:00:00.000Z
 description = "Only one month after our alpha release, we are happy to announce the beta release of Bee-js. It’s a Javascript library which exposes the Bee functionalities and makes it easy to use in web projects."

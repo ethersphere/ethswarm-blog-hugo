@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/peers.webp"
+images = [ "/uploads/peers.webp" ]
 categories = [ "Development updates" ]
 date = 2021-11-08T04:00:00.000Z
 description = "The Bee team has been working hard on measuring and identifying key problems in the swarm DHT these last few months."
@@ -7,7 +8,6 @@ references_and_footnotes = [ ]
 title = "The Swarm is Moving On (or: Don’t Fall Behind) By Elad Nachmias"
 _template = "post"
 +++
-
 
 The Bee team has been working hard on measuring and identifying key problems in the swarm DHT these last few months. As promised in a previous blog post, we’ve finally pulled the trigger with v1.3.0 on a change that ostracises nodes without a stable blockchain connection from the network. This was just the herald of a series of software automatisms put in place to ensure that we can provide a good service level contract for our users.
 

@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/sun.webp"
+images = [ "/uploads/sun.webp" ]
 categories = [ "Development updates" ]
 date = 2020-12-04T04:00:00.000Z
 description = """
@@ -10,7 +11,6 @@ references_and_footnotes = [ ]
 title = "The sun is setting for the old Swarm network"
 _template = "post"
 +++
-
 
 ![](https://miro.medium.com/max/1300/1*9s602o6H3bfoc6JliTMMLg.jpeg =650x365)
 

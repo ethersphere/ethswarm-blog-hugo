@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/eladv.webp"
+images = [ "/uploads/eladv.webp" ]
 categories = [ "Ecosystem" ]
 date = 2021-10-28T22:00:00.000Z
 description = "“The most powerful force is social collaboration and Swarm will empower thousands of developers to create a rich ecosystem to supercharge our lives.”"
@@ -12,11 +13,11 @@ _template = "post"
 
 **_TL;DR:_**
 
-* _In 2024 Swarm will be a fully decentralised world database, an unstoppable machine powered by microtransactions._
-* _The key economic insight is that hosting will be supported by users, enabling open innovation, interoperability and lowering the barriers for colonies._
-* _Developers will not need a profit model in advance; this will completely change how they work, how they make money, and what the end users will get._
-* _It will also give engineers much more powerful tools to work with than what centralised solutions offer right now._
-* _To build a project on Swarm, plan for what features Swarm will provide in three years’ time, not what it offers today._
+- _In 2024 Swarm will be a fully decentralised world database, an unstoppable machine powered by microtransactions._
+- _The key economic insight is that hosting will be supported by users, enabling open innovation, interoperability and lowering the barriers for colonies._
+- _Developers will not need a profit model in advance; this will completely change how they work, how they make money, and what the end users will get._
+- _It will also give engineers much more powerful tools to work with than what centralised solutions offer right now._
+- _To build a project on Swarm, plan for what features Swarm will provide in three years’ time, not what it offers today._
 
 In the first part of his talk, [**Elad Verbin**](https://twitter.com/verbine) took a look at how to build a startup on Swarm. As he admits, building a startup in today’s complex world takes time: there are mistakes and numerous iterations. _“Before you’re finished the world has moved on. So you need to look at how the world will look three years from now,”_ he adds.
 
@@ -96,5 +97,5 @@ _Elad is the lead scientist and founding partner at Lunar Ventures, a VC fund th
 
 You can find Elad Verbin’s talk in full at [**Swarm’s YouTube channel**](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/videos). All the Swarm Summer School talks have been uploaded for you to watch in case you missed the event.
 
-* You can watch the entire talk [**here**](https://www.youtube.com/watch?v=ywuoWpRAT88)**.**
-* Enjoy more interesting videos from [**Swarm’s Summer School ‘21**](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/playlists).
+- You can watch the entire talk [**here**](https://www.youtube.com/watch?v=ywuoWpRAT88)**.**
+- Enjoy more interesting videos from [**Swarm’s Summer School ‘21**](https://www.youtube.com/channel/UCu6ywn9MTqdREuE6xuRkskA/playlists).

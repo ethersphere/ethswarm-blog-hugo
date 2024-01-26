@@ -1,5 +1,6 @@
 +++
 banner = ""
+images = [ "" ]
 categories = [ "Development updates" ]
 date = 2022-05-17T04:00:00.000Z
 description = "This latest release is an accumulation of a lot of work done in the last couple of months by the team. We’ve improved and refactored substantial amount of components and areas of the codebase as well as fixed a few critical bugs"
@@ -7,7 +8,6 @@ references_and_footnotes = [ ]
 title = "Bee v1.6 Release"
 _template = "post"
 +++
-
 
 The Swarm Foundation has just released Bee v1.6! **Please update your nodes!**
 

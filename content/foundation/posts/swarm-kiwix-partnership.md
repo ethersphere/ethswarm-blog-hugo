@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/kiwix-partner.png"
+images = [ "/uploads/kiwix-partner.png" ]
 categories = [ "Ecosystem" ]
 date = 2023-08-02T13:00:00.000Z
 description = "The Swarm Foundation is proud to announce the second phase of its partnership with Kiwix, an offline data storer, marking another decisive step in creating a thriving and value-driven ecosystem. Kiwix and the Swarm Foundation initially partnered in 2022 to bring an offline copy of Wikipedia on the Swarm Network."
@@ -21,9 +22,9 @@ available data.
 [**Watch the presentation from Swarm Virtual
 Summit**](https://swarm.streameth.org/session/88NEY8)
 
-*"The internet is fragmenting and we need to look at a near future
+_"The internet is fragmenting and we need to look at a near future
 where not all information is available to everyone. And we need to find
-new ways to counter this,"* Stephane-Coillet Matillon, CEO and
+new ways to counter this,"_ Stephane-Coillet Matillon, CEO and
 co-founder of Kiwix, emphasises the reason why they decided to level up
 the partnership.
 

@@ -1,5 +1,6 @@
 +++
 banner = ""
+images = [ "" ]
 categories = [ "Development updates" ]
 date = 2022-11-20T23:00:00.000Z
 description = "The upgrade of the Swarm network storage incentives, which began on 13 September, is now in full swing. Both, Phase 2 and 3 of the upgrade, are currently undergoing extensive testing: Phase 2 on the public testnet and Phase 3 on a closed testnet."
@@ -7,7 +8,6 @@ references_and_footnotes = [ ]
 title = "Storage incentives — Timeline update"
 _template = "post"
 +++
-
 
 The upgrade of the Swarm network storage incentives, which began on 13 September, is now in full swing. Both, Phase 2 and 3 of the upgrade, are currently undergoing extensive testing: Phase 2 on the public testnet and Phase 3 on a closed testnet.
 

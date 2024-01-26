@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/danis-blog.jpeg"
+images = [ "/uploads/danis-blog.jpeg" ]
 hide_front = true
 categories = [ "中文" ]
 date = 2023-05-18T04:00:00.000Z

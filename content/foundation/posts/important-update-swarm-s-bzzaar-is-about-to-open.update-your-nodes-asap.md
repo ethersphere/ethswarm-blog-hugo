@@ -1,5 +1,6 @@
 +++
 banner = ""
+images = [ "" ]
 categories = [ "Development updates" ]
 date = 2022-02-08T04:00:00.000Z
 description = "Swarm is about to take a giant step closer to the mainnet release by deploying a new release of Swarm. The upcoming release (estimated Tuesday, 9 February, 09:00 CET) includes, among others, an integration with Bzzaar (on Goerli)."
@@ -7,7 +8,6 @@ references_and_footnotes = [ ]
 title = "Important update: Swarm’s Bzzaar is about to open. Update your nodes asap."
 _template = "post"
 +++
-
 
 Swarm is about to take a giant step closer to the mainnet release by deploying a new release of Swarm. The upcoming release **(estimated Tuesday, 9 February, 09:00 CET)** includes, among others, an integration with [Bzzaar](https://bzz.ethswarm.org/) (on Goerli).
 

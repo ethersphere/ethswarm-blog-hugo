@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/how-to-run-a-bee-node.png"
+images = [ "/uploads/how-to-run-a-bee-node.png" ]
 categories = [ "Tutorials" ]
 date = 2023-04-11T22:00:00.000Z
 description = "Running a Bee node is essential for building decentralised applications on the Swarm network. However, as a developer, it is often convenient to work in an environment where interactions with the node/network can be tested rapidly and without putting the node’s storage data or the user’s tokens at risk."
@@ -24,18 +25,18 @@ When a Bee node is run in developer mode, it creates an instance with volatile p
 
 ### Prerequisites
 
-* Ports `1633` and `1635`must be free and available
+- Ports `1633` and `1635`must be free and available
 
 ### Step 1: Install `bee` on your system
 
 1. Using the [Installer packages](https://docs.ethswarm.org/docs/installation/install)
-   * Ubuntu/Debian (*.deb)
-   * CentOS (*.rpm)
-   * MacOS (brew)
+   - Ubuntu/Debian (\*.deb)
+   - CentOS (\*.rpm)
+   - MacOS (brew)
 2. Use the [installer script](https://docs.ethswarm.org/docs/installation/manual) which automatically detects your execution environment and installs the latest stable version of `bee` on your computer
-   * Linux (bee-linux-*)
-   * MacOS (bee-darwin-*)
-   * Windows (bee-windows-*)
+   - Linux (bee-linux-\*)
+   - MacOS (bee-darwin-\*)
+   - Windows (bee-windows-\*)
 3. [Build from source](https://docs.ethswarm.org/docs/installation/build-from-source) on all systems.
 
 You can download the most recent bee packages here: [https://github.com/ethersphere/bee/releases/latest](https://github.com/ethersphere/bee/releases/latest "https://github.com/ethersphere/bee/releases/latest")
@@ -45,7 +46,7 @@ You can download the most recent bee packages here: [https://github.com/ethersph
 Open a terminal window and run:
 
     bee dev
-    
+
      (                      *        )  (
      )\ )                 (  *    ( /(  )\ )
     (()/(   (    (   (    )\))(   )\())(()/(   (
@@ -54,10 +55,10 @@ Open a terminal window and run:
      |   \ | __|\ \ / /  |  \/  | / _ \ |   \ | __|
      | |) || _|  \ V /   | |\/| || (_) || |) || _|
      |___/ |___|  \_/    |_|  |_| \___/ |___/ |___|
-    
-    
+
+
     Starting in development mode
-    
+
     "time"="2023-03-08 13:55:59.008839" "level"="info" "logger"="node/localstore" "msg"="database capacity" "chunks"=1000000 "~size(GB)"=20.29025
     "time"="2023-03-08 13:55:59.008726" "level"="info" "logger"="node" "msg"="starting debug api server" "address"="[::]:1635"
     "time"="2023-03-08 13:55:59.022163" "level"="info" "logger"="node" "msg"="starting api server" "address"="[::]:1633"
@@ -70,9 +71,9 @@ Great! Our bee node is now running in `dev` mode. You can now safely interact wi
 
 ### Prerequisites
 
-* Docker must be already be installed
-* `node` >= `16`
-* Ports `1633` and `1635` must be free and already, but blocked from external connections
+- Docker must be already be installed
+- `node` >= `16`
+- Ports `1633` and `1635` must be free and already, but blocked from external connections
 
 ### Step 1: Install Bee Factory
 
@@ -114,12 +115,12 @@ Much like `bee-factory`, [FDP Play](https://github.com/fairDataSociety/fdp-play)
 
 ### Prerequisites
 
-* Docker must be already installed
-* `node` >= `16`
-* Ports `1633`, `1635` and `9090` must be free and available
+- Docker must be already installed
+- `node` >= `16`
+- Ports `1633`, `1635` and `9090` must be free and available
 
 ### Step 1: Install FDP Play
-    
+
     npm install -g @fairdatasociety/fdp-play
 
 ### Step 2: Using FDP Play

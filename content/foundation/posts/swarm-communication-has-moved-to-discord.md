@@ -1,5 +1,6 @@
 +++
 banner = ""
+images = [ "" ]
 categories = [ ]
 date = 2021-02-18T04:00:00.000Z
 description = "We invite you to join our discussions and become an active member of our wonderful community."
@@ -7,7 +8,6 @@ references_and_footnotes = [ ]
 title = "Swarm communication has moved to Discord"
 _template = "post"
 +++
-
 
 For the last few weeks, the Swarm community has been growing rapidly. Hordes of people have come to join the network in its early stages.
 

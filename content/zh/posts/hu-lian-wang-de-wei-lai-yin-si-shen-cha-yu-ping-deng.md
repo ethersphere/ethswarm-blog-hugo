@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/viktors-blog.jpeg"
+images = [ "/uploads/viktors-blog.jpeg" ]
 hide_front = true
 categories = [ "中文" ]
 date = 2023-05-20T04:00:00.000Z

@@ -1,5 +1,6 @@
 +++
 banner = ""
+images = [ "" ]
 categories = [ "Development updates" ]
 date = 2021-11-26T04:00:00.000Z
 description = "The Swarm Bee Team is proud to announce the release of Bee v1.4.0. It includes a major change to the protocol behaviour that will improve network resilience significantly. You must update your nodes to this latest version or they will no longer be part of the network."
@@ -7,7 +8,6 @@ references_and_footnotes = [ ]
 title = "Bee v1.4.0 Release"
 _template = "post"
 +++
-
 
 The Swarm Bee Team is proud to announce the release of Bee v1.4.0. It includes a major change to the protocol behaviour that will improve network resilience significantly. **You must update your nodes to this latest version or they will no longer be part of the network.**
 

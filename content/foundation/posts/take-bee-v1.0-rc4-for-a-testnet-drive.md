@@ -1,5 +1,6 @@
 +++
 banner = ""
+images = [ "" ]
 categories = [ "Development updates" ]
 date = 2021-06-20T04:00:00.000Z
 description = "Today, the Swarm team is releasing Bee v1.0-rc4. Node operators who have been running testnet nodes can now update to this new version. Take this opportunity to participate in the final days of the airdrop campaign."
@@ -7,7 +8,6 @@ references_and_footnotes = [ ]
 title = "Take Bee v1.0-rc4 for a testnet drive"
 _template = "post"
 +++
-
 
 Today, the Swarm team is releasing Bee v1.0-rc4. Node operators who have been running testnet nodes can now update to this new version. Take this opportunity to participate in the final days of the airdrop campaign.
 

@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/desktopap.png"
+images = [ "/uploads/desktopap.png" ]
 categories = [ "Tutorials" ]
 date = 2021-06-20T22:00:00.000Z
 description = "Go to the official Swarm Desktop webpage and download the installer. Run it and wait for the process to finish. Everything should be automatic and the node should set up by itself. A successful installation is indicated by the green status icon in the bottom left-hand side corner."
@@ -22,21 +23,21 @@ To upload data to the network you will need to upgrade your Bee node to light mo
 
 You can use different providers to create your RCP endpoint; this example uses Getblock.
 
-* Go to [https://getblock.io](https://getblock.io "https://getblock.io") and create a free account
-* Choose the + Create new API key option and name your API key.
-* When the API key is created click API Key Settings
+- Go to [https://getblock.io](https://getblock.io "https://getblock.io") and create a free account
+- Choose the + Create new API key option and name your API key.
+- When the API key is created click API Key Settings
 
 ![](/uploads/api.png)
 
-* **Press Generate Endpoint**
-* Choose: Blockchain Gnosis Chain
-* API Interface JSON-RPC
-* Network: Mainnet
-* Press Create
+- **Press Generate Endpoint**
+- Choose: Blockchain Gnosis Chain
+- API Interface JSON-RPC
+- Network: Mainnet
+- Press Create
 
 ![](/uploads/endpoint.png)
 
-* An RPC URL will be generated and it should look similar to the one in the picture below. Copy the RPC URL and go back to the Swarm Desktop app
+- An RPC URL will be generated and it should look similar to the one in the picture below. Copy the RPC URL and go back to the Swarm Desktop app
 
 ![](/uploads/congrats.webp)
 
@@ -60,9 +61,9 @@ Now that your RPC endpoint is set up you need to top up your account with xDAI a
 
 There are three different ways of doing so:
 
-* Top-up with a bank card
-* Use DAI (uses your existing crypto)
-* Use a gift code
+- Top-up with a bank card
+- Use DAI (uses your existing crypto)
+- Use a gift code
 
 ## Top-up via Credit Card
 
@@ -92,13 +93,13 @@ Fill the fields with the following information and click “Save”:
 
 **Network name:** Gnosis
 
-\**New RPC URL: **[https://rpc.gnosischain.com](https://rpc.gnosischain.com "https://rpc.gnosischain.com")
+\*\*New RPC URL: \*\*[https://rpc.gnosischain.com](https://rpc.gnosischain.com "https://rpc.gnosischain.com")
 
 **Chain ID:** 0x64
 
 **Symbol:** xDai
 
-\**Block Explorer URL: **[https://blockscout.com/xdai/mainnet](https://blockscout.com/xdai/mainnet "https://blockscout.com/xdai/mainnet")
+\*\*Block Explorer URL: \*\*[https://blockscout.com/xdai/mainnet](https://blockscout.com/xdai/mainnet "https://blockscout.com/xdai/mainnet")
 
 Use the [xDAI Bridge](https://bridge.xdaichain.com/) to transfer the DAI in your Metamask from the Ethereum network to the Gnosis Chain. It may take a few minutes before they appear. From there you can transfer the xDAI to your node’s wallet funding address.
 
@@ -126,17 +127,17 @@ Click on the address under the “Funding wallet address” to copy it. Now you 
 
 If you have a gift code, you can redeem it to top-up your node:
 
-* Go to the “Info” tab and click “Setup wallet”
-* Connect to the RPC endpoint
-* Choose the “Use a gift code” option
+- Go to the “Info” tab and click “Setup wallet”
+- Connect to the RPC endpoint
+- Choose the “Use a gift code” option
 
 ![](/uploads/11.png)
 
-* Enter your gift code and click “Proceed”
+- Enter your gift code and click “Proceed”
 
 ![](/uploads/12.png)
 
-* Click “Send all your funds to your node”
+- Click “Send all your funds to your node”
 
 ![](/uploads/13.png)
 
@@ -154,14 +155,14 @@ When your node is restarted, you can check the Info tab to see if the Mode param
 
 Running a light node allows you to:
 
-* Access content on the Swarm network,
-* Store data on the Swarm network:
-* files
-* folders
-* websites
-* Manage your postage stamps
-* Manage your checkbook
-* Manage your feeds
+- Access content on the Swarm network,
+- Store data on the Swarm network:
+- files
+- folders
+- websites
+- Manage your postage stamps
+- Manage your checkbook
+- Manage your feeds
 
 Note: **Running a bee light node will not earn you any incentives**, since your node does not participate in forwarding or storing chunks for other members of the Swarm network. To earn incentives you need to run a full node.
 

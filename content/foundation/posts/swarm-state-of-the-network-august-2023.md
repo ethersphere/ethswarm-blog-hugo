@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/state-of-network-blog.png"
+images = [ "/uploads/state-of-network-blog.png" ]
 categories = [ "Development updates" ]
 date = 2023-09-13T00:00:00.000Z
 description = "This report provides an in-depth overview of the state of storage incentives on the Ethswarm network for the month of August. Detailed below are insights into monthly rewards in BZZ tokens, single node monthly earnings, median win values, average win values, monthly unique staking nodes, and the geographic distribution of nodes."
@@ -9,28 +10,27 @@ _template = "post"
 slug="state-of-the-network-august"
 +++
 
-*11/10/23 - Correction - The average win rate for nodes in August was not greater than one.*
+_11/10/23 - Correction - The average win rate for nodes in August was not greater than one._
 
-This report provides an in-depth overview of the state of storage incentives on the Swarm network for the month of August. Detailed below are insights into monthly rewards in BZZ tokens, single node monthly earnings, median win values, average win values, monthly unique staking nodes, and the geographic distribution of nodes. This data serves as a valuable indicator of the ongoing growth trends within the Swarm network. 
+This report provides an in-depth overview of the state of storage incentives on the Swarm network for the month of August. Detailed below are insights into monthly rewards in BZZ tokens, single node monthly earnings, median win values, average win values, monthly unique staking nodes, and the geographic distribution of nodes. This data serves as a valuable indicator of the ongoing growth trends within the Swarm network.
 
+### Data limitations:
 
-### Data limitations: 
-
-* All data is based on nodes which have won the redistribution game at least once per month. 
-* The data from March is incomplete as it began being collected from March 12th.
+- All data is based on nodes which have won the redistribution game at least once per month.
+- The data from March is incomplete as it began being collected from March 12th.
 
 ### Network Total Monthly Rewards
 
 This metric is the total monthly rewards paid out across the entire network.
 
-| Month  | Total Rewards (BZZ)  |
-| ------ | -------------- |
-| March  | 12822      |
-| April  | 20503    |
-| May    | 21423   |
-| June   | 26655     |
-| July   | 34839    |
-| August | 135927     |
+| Month  | Total Rewards (BZZ) |
+| ------ | ------------------- |
+| March  | 12822               |
+| April  | 20503               |
+| May    | 21423               |
+| June   | 26655               |
+| July   | 34839               |
+| August | 135927              |
 
 ![](https://hackmd.io/_uploads/r16vtuR03.png)
 
@@ -40,14 +40,14 @@ The BZZ rewards have seen a consistent rise over the months, with August display
 
 This metric is the average total winnings per staking node per month.
 
-| Month  | Average Earnings (BZZ)  |
-| ------ | ---------------- |
-| March  | 12.68            |
-| April  | 14.30            |
-| May    | 14.85            |
-| June   | 18.84            |
-| July   | 22.61            |
-| August | 68.20            |
+| Month  | Average Earnings (BZZ) |
+| ------ | ---------------------- |
+| March  | 12.68                  |
+| April  | 14.30                  |
+| May    | 14.85                  |
+| June   | 18.84                  |
+| July   | 22.61                  |
+| August | 68.20                  |
 
 ![](https://hackmd.io/_uploads/ryQsY_RC2.png)
 
@@ -57,14 +57,14 @@ Average earnings for nodes in August showed an uptick, indicating the potential 
 
 This metric is the median win amount for each win event.
 
-| Month  | Median Win Value (BZZ)  |
-| ------ | ----------------- |
-| March  | 6.32              |
-| April  | 6.32              |
-| May    | 6.40              |
-| June   | 8.29              |
-| July   | 9.63              |
-| August | 43.97             |
+| Month  | Median Win Value (BZZ) |
+| ------ | ---------------------- |
+| March  | 6.32                   |
+| April  | 6.32                   |
+| May    | 6.40                   |
+| June   | 8.29                   |
+| July   | 9.63                   |
+| August | 43.97                  |
 
 ![](https://hackmd.io/_uploads/ryMdKu00h.png)
 
@@ -74,14 +74,14 @@ The median win values have gradually increased, with a noticeable jump in August
 
 This metric is the average win amount for each win event.
 
-| Month  | Average Win Value (BZZ)  |
-| ------ | ------------------ |
-| March  | 6.78               |
-| April  | 7.60               |
-| May    | 8.29               |
-| June   | 10.14              |
-| July   | 12.07              |
-| August | 41.45              |
+| Month  | Average Win Value (BZZ) |
+| ------ | ----------------------- |
+| March  | 6.78                    |
+| April  | 7.60                    |
+| May    | 8.29                    |
+| June   | 10.14                   |
+| July   | 12.07                   |
+| August | 41.45                   |
 
 ![](https://hackmd.io/_uploads/rk8uFuRC3.png)
 
@@ -122,16 +122,17 @@ This metric is defined as the total number of unique nodes (both staking and non
 This data represents both staking and non-staking nodes, and so gives a picture of the growth of the all network participants.
 
 ### Staking Nodes by Country
+
 This metric shows the number of unique staking nodes per month in the top five countries (including "Unknown").
 
-|                  | April | May  | June | July | August |
-|------------------|-------|------|------|------|--------|
-| China            | 474   | 489  | 437  | 593  | 216    |
-| Finland          | 438   | 412  | 418  | 417  | 846    |
-| Germany          | 296   | 266  | 299  | 280  | 798    |
-| Unknown          | 128   | 121  | 110  | 103  | 31     |
-| Belgium          | 41    | 74   | 59   | 70   | 39     |
-| France           | 28    | 24   | 29   | 22   | 0      |
+|         | April | May | June | July | August |
+| ------- | ----- | --- | ---- | ---- | ------ |
+| China   | 474   | 489 | 437  | 593  | 216    |
+| Finland | 438   | 412 | 418  | 417  | 846    |
+| Germany | 296   | 266 | 299  | 280  | 798    |
+| Unknown | 128   | 121 | 110  | 103  | 31     |
+| Belgium | 41    | 74  | 59   | 70   | 39     |
+| France  | 28    | 24  | 29   | 22   | 0      |
 
 ![](https://hackmd.io/_uploads/Hy9JkZykT.png)
 

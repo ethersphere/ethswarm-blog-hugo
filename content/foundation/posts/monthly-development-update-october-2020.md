@@ -1,5 +1,6 @@
 +++
 banner = ""
+images = [ "" ]
 categories = [ "Development updates" ]
 date = 2020-11-05T16:00:00.000Z
 description = "October was a very busy month for the Swarm team. While the developers worked hard on the Swarm Live release, which is to be announced on 24 November 2020, the comms team spent their time restructuring the way they work. The HR team was busy too and onboarded a few brilliant and experienced developers who will be a nice addition to the existing dev team."
@@ -7,7 +8,6 @@ references_and_footnotes = [ ]
 title = "Monthly Development Update — October 2020"
 _template = "post"
 +++
-
 
 October was a very busy month for the Swarm team. While the developers worked hard on the **Swarm Live release**, which **is to be announced on 24 November 2020**, the comms team spent their time restructuring the way they work. The HR team was busy too and onboarded a few brilliant and experienced developers who will be a nice addition to the existing dev team.
 

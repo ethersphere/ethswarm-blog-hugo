@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/1.webp"
+images = [ "/uploads/1.webp" ]
 categories = [ ]
 date = 2021-01-16T04:00:00.000Z
 description = "If you attended the Swarm Live release online event, you probably know that all the research in recent months has paid massive dividends. We have made significant improvements and now have a very good idea of how the Swarm incentives will work. "

@@ -1,5 +1,6 @@
 +++
 banner = ""
+images = [ "" ]
 categories = [ "Development updates" ]
 date = 2021-08-11T04:00:00.000Z
 description = "July was paved with learning for the Swarm team. The Swarm 1.0 release was deployed to the mainnet for the first time and close observation on performance, bugs, and stability issues was needed to make sure everything is working as it should."
@@ -7,7 +8,6 @@ references_and_footnotes = [ ]
 title = "Monthly Development Update — July 2021"
 _template = "post"
 +++
-
 
 July was paved with learning for the Swarm team. The Swarm 1.0 release was deployed to the mainnet for the first time and close observation on performance, bugs, and stability issues was needed to make sure everything is working as it should.
 

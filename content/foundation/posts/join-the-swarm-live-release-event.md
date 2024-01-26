@@ -1,5 +1,6 @@
 +++
 banner = ""
+images = [ "" ]
 categories = [ "Events" ]
 date = 2020-11-04T16:00:00.000Z
 description = "Swarm is happy to announce yet another important milestone on the roadmap: Swarm Live. This special occasion will be celebrated with another online event, where all the new, improved, and polished features will be presented. "

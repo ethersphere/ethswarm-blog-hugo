@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/bee-1-17-0.png"
+images = [ "/uploads/bee-1-17-0.png" ]
 categories = [ "Development updates" ]
 date = 2023-08-03T00:00:00.000Z
 description = "Bee 1.17 is here! This update represents a significant step forward in terms of increased ease of code maintainability and reduced time for new feature development. With the storage incentives rollout nearing completion, the team has in recent months focused on the completion of the 1.17 update. The update will go live by the end of this week, and since it is a breaking update at the protocol level, all node operators should make sure to update their nodes."
@@ -7,14 +8,15 @@ references_and_footnotes = [ ]
 title = "Bee 1.17 Paves the Way for the Future of Swarm"
 _template = "post"
 +++
+
 gi
-***⚠️IMPORTANT⚠️**: After the 1.17 release node operators should make sure to **update their nodes** as it is a breaking release and the update is required to keep participating in the network. Note that the update for a single
+**\*⚠️IMPORTANT⚠️**: After the 1.17 release node operators should make sure to **update their nodes** as it is a breaking release and the update is required to keep participating in the network. Note that the update for a single
 node may take up to 25 minutes on slower drives. Also it is **strongly
 recommended** for nodes running on a shared physical disk to only update
 a single node at a time, since concurrently updating nodes on the same
 physical disk can lead to exponentially longer update times. See the
 [<u>release notes</u>](https://github.com/ethersphere/bee/releases) for
-more details after 1.17 goes live.*
+more details after 1.17 goes live.\*
 
 Bee 1.17 is here! This update represents a significant step forward in
 terms of increased ease of code maintainability and reduced time for new

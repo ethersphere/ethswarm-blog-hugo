@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/6-THC.png"
+images = [ "/uploads/6-THC.png" ]
 categories = [ "Ecosystem" ]
 date = 2023-09-20T00:00:01.000Z
 description = "The world we live in today is unjust. Glaring inequalities exist between the global North and the South, but also within European economies. All this can make it challenging to feel like there is progress happening. It seems we are moving backward, leaving humankind in a worse state than we found it."
@@ -8,8 +9,8 @@ title = "Democracy and Decentralization"
 _template = "post"
 +++
 
-
 This article is part of [The Hivemaker's Code](https://toolkit.ethswarm.org/) series:
+
 - Article 1: [Introduction](https://blog.ethswarm.org/foundation/2023/the-hivemakers-code-introduction/)
 - Article 2: [How do Ecosystems Grow?](https://blog.ethswarm.org/foundation/2023/the-hivemakers-code-how-do-ecosystems-grow/)
 - Article 3: [Cooperating on Blockchain](https://blog.ethswarm.org/foundation/2023/cooperating-on-blockchain/)
@@ -26,7 +27,6 @@ This article is part of [The Hivemaker's Code](https://toolkit.ethswarm.org/) se
 
 **Authors: Oliver Lukitsch, Michal Matlon, Gregor Žavcer, Thomas Fundneider, Markus Peschl, Lena Müller-Naendrup**
 
-
 The world we live in today is unjust. Glaring inequalities exist between the global North and the South, but also within European economies. All this can make it challenging to feel like there is progress happening. It seems we are moving backward, leaving humankind in a worse state than we found it.
 
 Nonetheless, there is progress to report. Despite all the atrocities, our democracies have evolved for the better. Minority rights have become more important to policymakers, and although there are setbacks to be felt everywhere, we live in more liberal, democratic societies than we did four decades ago.
@@ -41,21 +41,13 @@ Although they were heralded as saviors for freedom and autonomy, the Internet an
 
 The vision of a free Web3 is opposed to this prospect. It gave us a new perspective on how we can organize socially. It holds the promise of redistributing power, creating a genuinely self-organized, decentralized economy in which everybody who participates can own a piece of the pie. Is it set in stone that Web3 delivers on its promise, however?
 
-
 **One of the biggest threats to Web3 is that its promise of a self-sovereign and decentralized internet remains broken while becoming a playground for venture capitalists and early adopters.**
-
-
 
 Emphasizing the importance of decentralization is a good premise for a more open and fair web. But will it suffice? A fundamental value of a truly open and democratic community is that a society must maintain a balance between individual freedom and restriction. We can only achieve personal freedom by preventing other individuals from undermining each other's ability to act.
 
-
-
 This culminates in philosopher Karl Popper's idea that an open society must defend its openness if it’s not to compromise its liberal democratic foundation. Any restriction an open society accepts must ultimately increase the individual's freedom, sovereignty, and possibilities.
 
-
-
 Let's take Popper's principle as a starting point as we look at how blockchain and Web3 can promote a genuinely democratic Internet. In other words, let us look at how a Web3 ecosystem can enable a fundamentally open society.
-
 
 ## Blockchain Oligarchies
 
@@ -73,8 +65,8 @@ Many idealists (“regens” in internet slang), however, help build blockchain 
 
 But even looking at the community as a whole and disregarding the uneven distribution of power and value, various blockchain communities don't seem to have the best inclusivity track record.
 
-
 ## Inclusivity and Web3
+
 ![pattern](/uploads/pattern6-1.png)
 
 In his 2022 study, Koray Caliskan, a Strategic Design and Management professor at the New School, investigated a blockchain community called Electra. Specifically, how power was distributed and organized in its ecosystem.
@@ -89,7 +81,6 @@ This was evident when Electra temporarily collapsed and was almost instantly rev
 
 However, Electra's community was more than just an appendix to its technological assets. Within only a few days, the community was able to re-establish their currency under a different name – Electra Protocol (XEP). The episode is a vital sign of the liveliness and autonomy of a community that effectively lost its founder and visionary. But it is also worthwhile to take a closer look at how this reorganization occurred.
 
-
 ### Blockchain Democracy in Practice
 
 That's why it's worth taking a closer look at how the Electra ecosystem is regulated and controlled. It is a notable exception here as well. While in many crypto communities, the Bitcointalk Forum and Twitter are considered essential venues for their affairs, for Electra, the role of Discord is of the greatest importance.
@@ -100,8 +91,7 @@ Electra's Discord platform had only around 360 members, involving only a fractio
 
 However, in the case of Electra, it is hard to get invited to Discord. Also, once invited, new users only have weak contribution rights. In the beginning, a member can only read and post. Decision-making authority, or the power to change and shape critical decisions, is a privilege of an even smaller minority within the Discord. Moreover, the moderators in the forum can silence members who act too "impulsively" – they can remove their right to post content on the platform.
 
-Therefore, the political process within Electra more closely resembles the democratic organization of traditional Western political parties than the grassroots democratic organization often referred to as the vision of Web3. There is tension between the original vision and the actual governance of a blockchain. Let's take a closer look at this tension.   
-
+Therefore, the political process within Electra more closely resembles the democratic organization of traditional Western political parties than the grassroots democratic organization often referred to as the vision of Web3. There is tension between the original vision and the actual governance of a blockchain. Let's take a closer look at this tension.
 
 ### The Difference Between Ownership and User Agency
 
@@ -117,8 +107,8 @@ The case of Electra shows that you can tick all the boxes of ownership by using 
 
 There are two non-exclusive ways to solve the tension above. The first is to set up governance structures that organize the blockchain so that no accumulation of power can happen. The second is to use a blockchain protocol that does not favor users with considerable power.
 
-
 ## Proof of Work, Proof of Stake, Proof of Personhood
+
 ![pattern](/uploads/pattern6-2.png)
 
 A major obstacle for any blockchain prevents it from unleashing its democratic and power disseminating potential. This potential is undercut by how blockchains enable open participation in its consensus mechanism while simultaneously preventing “Sybil attacks.”
@@ -145,8 +135,7 @@ Your anonymity is thereby compromised, at least to a certain extent, which contr
 
 The second phase is all about minting. The minting pool consists of everyone who received a PoP token in the setup phase. In the minting phase, anybody who is part of the minting pool can create new blocks and thus also mint new coins.
 
- In Proof of Stake, staking more coins means an increased chance of being able to mint new blocks and receiving the reward. Proof of Personhood, however, means that everybody who received a PoP token has an equal chance of minting new blocks.
-
+In Proof of Stake, staking more coins means an increased chance of being able to mint new blocks and receiving the reward. Proof of Personhood, however, means that everybody who received a PoP token has an equal chance of minting new blocks.
 
 ### Shortcomings of PoS
 
@@ -172,8 +161,8 @@ In the recent[ paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=410576
 
 These allow specific entities (souls), whether individuals or organizations, to build up a reputation through valuable interactions with others by releasing soulbound tokens with a verifiable tie to their originating souls. In the case of progressive staking, these souls could be the units to which the stake is bound. Perhaps it could also require that the participating soul has a certain reputation level.
 
-
 ## Fairness and Openness as Conflicting Democratic Values
+
 ![pattern](/uploads/pattern6-3.png)
 
 Blockchain certainly has economic promises. In part, the public awareness and hype about blockchain can be traced back to its financial promise. Yet Web3 promises to establish a worldwide web that its users own, where the agency of single stakeholders such as corporations and states is limited, while the agency of a majority of users can grow. That’s the democratic promise of blockchain.
@@ -182,8 +171,8 @@ Blockchain technology is consistent with the idea of a fundamentally decentraliz
 
 You might object that Proof of Stake will create an even playing field for everyone, regardless. After all, the system does apply the same rules to all the users.
 
-
 ## Web3: How to Create an Open Society?
+
 ![pattern](/uploads/pattern6-4.png)
 
 In many global economies, the unequal distribution of resources is a fundamental systemic condition. But there are political institutions that can counteract these tendencies. For instance, states impose taxes, prevent monopolies, and regulate fair competition between market players. Hence, while it is not (and cannot be) the main function of a blockchain to counter inequality, it can only be the role of its governance.
@@ -216,7 +205,6 @@ On the other hand, there’s the notion of “positive liberty.” It means that
 
 Since this notion of liberty is usually not preferred in libertarian thought, it has rarely been used as a framework for designing cryptocurrency networks. While Bitcoin and Ethereum are designed as permissionless and decentralized, the reality is that the power within them has become quite concentrated. Because the designs of the networks didn’t include additional mechanisms for maintaining a more equal distribution of power, as seen through the lens of positive freedom.
 
-
 ### The DAO Democracy
 
 So far, we have emphasized the role of a blockchain protocol as a keystone for digital ecosystems, in which an open society (thus based on democratic values) can flourish. The focus was on how technology can enable such values.
@@ -227,11 +215,9 @@ New crypto communities are now often adopting [DAOs](https://en.wikipedia.org/wi
 
 However, it seems that DAOs face the same challenges as any other democratic system in the physical world. Voting turnouts can be low, as members don’t have enough time or expertise to stay informed and make frequent judgments on complex topics. Power can get concentrated in the hands of the few.
 
-
 Some have suggested that DAOs should look for inspiration in how traditional democratic governments work instead of trying to reinvent the wheel. Based on these learnings, they could strive to make voting less frequent and only touch upon the most important issues. They could allow people to elect transparent representatives with predictable term lengths. These representatives could then employ expert managers to take care of everyday responsibilities.
 
 While taking the best from what we already know about democratic governance, DAOs could use their blockchain-based, digital form to amplify the positives and mitigate the negatives. For example, by employing tools to transparently track the actions of the representatives and fostering open communication.
-
 
 ### The Tenet for an Open Blockchain Ecosystem
 
@@ -265,14 +251,11 @@ In many cases, DAOs can help organizations to sustain their autonomy and to incr
 
 Blockchain, a technology that enables financial autonomy and self-determination for those who use it, has been criticized for its contradictory vision. One that emphasizes the participatory virtues and self-empowerment of shareholders, users, and members. However, this vision is undermined by the reinforcing feedback loops that allow those with the biggest stakes to gain even more.
 
-
-
 One of the biggest threats to Web3 is that its promise of a self-sovereign and decentralized internet remains broken while becoming a playground for venture capitalists and early adopters. A democratic internet should be sufficiently open to allow entrepreneurs and investors to do their business. But it must also give rise to ecosystems where truly democratic, self-empowering, decentralizing processes and communities can emerge.
 
-
 ## Key insights
-![pattern](/uploads/pattern6-5.png)
 
+![pattern](/uploads/pattern6-5.png)
 
 - The crypto sphere has the disposition to exacerbate inequality and create oligopolies and crypto-aristocracies.
 - Openness does not (necessarily) lead to more inclusivity and fairness
@@ -287,8 +270,8 @@ One of the biggest threats to Web3 is that its promise of a self-sovereign and d
 - DAOs face the same challenges as traditional democracies.
 - They can learn from how these challenges were solved in the physical world by implementing transparent, representative democratic structures.
 
-
 ## References
+
 ![pattern](/uploads/pattern6-6.png)
 
 - Borge, Maria, Eleftherios Kokoris-Kogias, Philipp Jovanovic, Linus Gasser, Nicolas Gailly, and Bryan Ford. 2017. “Proof-of-Personhood: Redemocratizing Permissionless Cryptocurrencies.” In _2017 IEEE European Symposium on Security and Privacy Workshops (EuroS PW)_, 23–26.[ https://doi.org/10.1109/EuroSPW.2017.46](https://doi.org/10.1109/EuroSPW.2017.46).

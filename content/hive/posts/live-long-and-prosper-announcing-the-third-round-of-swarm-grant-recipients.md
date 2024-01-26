@@ -1,5 +1,6 @@
 +++
 banner = ""
+images = [ "" ]
 categories = [ "Grants" ]
 date = 2021-08-26T04:00:00.000Z
 description = "This year has seen the Swarm project advancing at great pace towards launch, and Swarm Association is excited to announce a new round of grant recipients that will be taking the network to new places"
@@ -12,11 +13,11 @@ This year has seen the Swarm project advancing at great pace towards launch, and
 
 **What kind of projects are eligible to apply for a Swarm grant?**
 
-* Experimental and playful
-* Interoperable with other applications
-* Giving the user control over data
-* Aligned with[ principles.fairdatasociety.org](http://principles.fairdatasociety.org/)
-* Free and open source
+- Experimental and playful
+- Interoperable with other applications
+- Giving the user control over data
+- Aligned with[ principles.fairdatasociety.org](http://principles.fairdatasociety.org/)
+- Free and open source
 
 After receiving grant applications for 18 incredible projects, Swarm Association is pleased to announce the following 7 that will officially become a part of Swarm. Let’s get to it!
 

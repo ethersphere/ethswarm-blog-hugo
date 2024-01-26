@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/THC-introduction.png"
+images = [ "/uploads/THC-introduction.png" ]
 categories = [ "Ecosystem" ]
 date = 2023-06-24T23:00:00.000Z
 description = "The document you’re about to read will help you create a living digital ecosystem. It’s divided into two parts."
@@ -8,8 +9,8 @@ title = "The Hivemaker's code: Introduction"
 _template = "post"
 +++
 
-
 This article is part of [The Hivemaker's Code](https://toolkit.ethswarm.org/) series:
+
 - Article 1: Introduction
 - Article 2: [How do Ecosystems Grow](https://blog.ethswarm.org/foundation/2023/the-hivemakers-code-how-do-ecosystems-grow/)
 - Article 3: [Cooperating on Blockchain](https://blog.ethswarm.org/foundation/2023/cooperating-on-blockchain/)
@@ -33,8 +34,9 @@ You’ll start by defining your vision and purpose, then build foundations, unde
 In the second part, you’ll find multiple articles that will help you understand the topics essential for ecosystem builders. You’ll learn about ecosystems, human cooperation, trust, neutrality, and open society. Rather than being an exhaustive curriculum, the articles are a loosely connected journey that opens you up to a broader context and gives you theoretical foundations for building your project.
 
 This document is a result of collaboration between:
-* Swarm - decentralized storage and communication system for a sovereign digital society
-* theLivingCore - knowledge and innovation architects rooted in cognitive science
+
+- Swarm - decentralized storage and communication system for a sovereign digital society
+- theLivingCore - knowledge and innovation architects rooted in cognitive science
 
 We believe that in today’s state of the decentralized, blockchain, and crypto world, it’s crucial to take a step back and look at the bigger picture. We now see an environment ripe with fierce competition, where players are motivated by extrinsic motivation - the vision of getting rich.
 

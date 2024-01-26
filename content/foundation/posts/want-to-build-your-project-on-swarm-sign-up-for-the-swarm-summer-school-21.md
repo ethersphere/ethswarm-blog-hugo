@@ -1,5 +1,6 @@
 +++
 banner = ""
+images = [ "" ]
 categories = [ ]
 date = 2021-08-17T04:00:00.000Z
 description = "The Swarm Association is organising a series of lectures and workshops called the Swarm Summer School. Sign up and don’t miss your chance to learn directly from the team."

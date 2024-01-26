@@ -1,5 +1,6 @@
 +++
 banner = ""
+images = [ "" ]
 categories = [ "Development updates" ]
 date = 2021-07-15T04:00:00.000Z
 description = "Last month was an amazing one for the Swarm team and the Swarm Foundation. Two very important milestones were achieved, and it’s fair to say they marked the beginning of a new era of Swarm."
@@ -7,7 +8,6 @@ references_and_footnotes = [ ]
 title = "Monthly Development Update — June 2021"
 _template = "post"
 +++
-
 
 Last month was an amazing one for the Swarm team and the Swarm Foundation. Two very important milestones were achieved, and it’s fair to say they marked the beginning of a new era of Swarm.
 

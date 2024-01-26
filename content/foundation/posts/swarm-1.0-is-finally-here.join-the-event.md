@@ -1,5 +1,6 @@
 +++
 banner = ""
+images = [ "" ]
 categories = [ "Events" ]
 date = 2021-06-15T04:00:00.000Z
 description = "Swarm Foundation is proud to announce that Swarm 1.0 is live on mainnet. This special release will be celebrated with an online event, Swarm One, where the developer teams will explain everything users need to know about the first mainnet release and what to expect in the future."
@@ -12,7 +13,7 @@ Swarm Foundation is proud to announce that Swarm 1.0 is live on mainnet. This sp
 
 # **Register for the Swarm One event!**
 
-**When:** 21 June 2021 at 15:00 CET  
+**When:** 21 June 2021 at 15:00 CET
 **Where:** [register for the event here](https://bit.ly/3cFNIsI)
 
 # **About Swarm 1.0**

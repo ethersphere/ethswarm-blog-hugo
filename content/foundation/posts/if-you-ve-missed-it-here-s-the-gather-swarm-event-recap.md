@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/gather-swarm.webp"
+images = [ "/uploads/gather-swarm.webp" ]
 categories = [ "Events" ]
 date = 2021-12-24T04:00:00.000Z
 description = "The Gather, Swarm! event is now behind us. It was the first-ever for the team behind Swarm to meet with the community in the metaverse and to present what they have up their sleeves for the following year. "
@@ -38,12 +39,12 @@ Since this is a completely novel problem to solve, it will take some time to get
 
 Next up was the head of Swarm’s JS team, Attila , to show the audience how to host unstoppable content in Swarm with the help of currently available products:
 
-* Bee
-* Gateway
-* Swarm-CLI
-* Chrome extension
-* Dashboard
-* Bee-JS
+- Bee
+- Gateway
+- Swarm-CLI
+- Chrome extension
+- Dashboard
+- Bee-JS
 
 The team simplified hosting and accessing content on Swarm through the introduction of bzz.link functionality. This allows you to host your content on a simple address that looks something like [https://swarm.bzz.link](https://swarm.bzz.link "https://swarm.bzz.link"). This functionality is available with all of the five products, which offer different levels of control and ease of use, Attila concluded.
 
@@ -99,11 +100,11 @@ It will be a chance for the attendees to meet, connect, interact, collaborate, i
 
 The last spot on the roster was reserved for Swarm Foundation’s director, **Gregor Žavcer**. In his recap of the year he touched on some of the proud moments for Swarm:
 
-* A testnet launch with 450,000 nodes
-* The token launch, followed by public fundraising
-* The mainnet launch
-* Four major Bee client updates
-* Exceptional wave of grantees, such as [Dapplets](https://medium.com/ethereum-swarm/using-web-augmentation-to-break-the-monopoly-of-user-attention-b05ea95cc0cb), Etherna, Waggle, Envelop and [Nectar](https://medium.com/ethereum-swarm/deep-dive-nectar-a0eff707f975)
+- A testnet launch with 450,000 nodes
+- The token launch, followed by public fundraising
+- The mainnet launch
+- Four major Bee client updates
+- Exceptional wave of grantees, such as [Dapplets](https://medium.com/ethereum-swarm/using-web-augmentation-to-break-the-monopoly-of-user-attention-b05ea95cc0cb), Etherna, Waggle, Envelop and [Nectar](https://medium.com/ethereum-swarm/deep-dive-nectar-a0eff707f975)
 
 These are just some of the highlights that 2021 was full of. Looking to the future, according to Gregor the coming year will bring new support structures for Swarm’s ecosystem and you can expect many new use cases, dApps and innovation.
 

@@ -1,5 +1,6 @@
 +++
 banner = ""
+images = [ "" ]
 categories = [ "Development updates" ]
 date = 2021-10-08T04:00:00.000Z
 description = "Today, Swarm Foundation is releasing a new version of Bee, the Swarm network client. It is being tested by the growing testergroup that can be found on Discord. Among the updates, the recommendations of the Cure53 audit were implemented."
@@ -7,7 +8,6 @@ references_and_footnotes = [ ]
 title = "Bee v1.2.0 Release"
 _template = "post"
 +++
-
 
 Today, Swarm Foundation is releasing a new version of Bee, the Swarm network client. It is being tested by the growing testergroup that can be found on Discord. Among the updates, the recommendations of the [Cure53 audit](https://medium.com/ethereum-swarm/cure53-audit-report-results-9d9d1b683eaf) were implemented.
 

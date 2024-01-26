@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/mm.png"
+images = [ "/uploads/mm.png" ]
 categories = [ "Tutorials" ]
 date = 2022-07-12T04:00:00.000Z
 description = " This tutorial will explain how to bridge MakerDAO DAI from Ethereum Mainnet to Gnosis Chain, using the Gnosis Chain bridge."
@@ -8,7 +9,6 @@ title = "How to… Bridge DAI from Ethereum Mainnet to Gnosis Chain"
 slug = "how-to-bridge-dai-to-gnosis"
 _template = "post"
 +++
-
 
 Your Bee node uses the Gnosis Chain network to buy postage stamps, to keep your files and data alive in the Swarm network, and to participate in bandwidth incentives, amongst other things. In order to use the Gnosis Chain network, you must pay for transaction fees or ‘gas’ in its native token, xDAI. This tutorial will explain how to bridge MakerDAO DAI from Ethereum Mainnet to Gnosis Chain, using the Gnosis Chain bridge.
 

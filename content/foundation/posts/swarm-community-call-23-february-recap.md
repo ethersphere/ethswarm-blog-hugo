@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/scc-recap-img.png"
+images = [ "/uploads/scc-recap-img.png" ]
 categories = [ "Events" ]
 date = 2023-03-02T23:00:00.000Z
 description = "The main topic of the February Swarm Community Call was the postage stamp price calibration, which took place on 22 February. The recalibration increased the price of storage by 6000x"
@@ -11,10 +12,10 @@ _template = "post"
 
 **TL;DR**
 
-* Storage price recalibration by 6000x
-* Data Upload Sponsorships
-* First public registries are starting to evolve on Swarm
-* Dig deep into the Schelling game with the MonSI app
+- Storage price recalibration by 6000x
+- Data Upload Sponsorships
+- First public registries are starting to evolve on Swarm
+- Dig deep into the Schelling game with the MonSI app
 
 ## Storage price recalibration by 6000x
 

@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/storage-incentives-ama.png"
+images = [ "/uploads/storage-incentives-ama.png" ]
 categories = [ "Events" ]
 date = 2022-10-07T04:00:00.000Z
 description = "The September Monthly Ecosystem Call was dedicated to storage incentives — their upgrade roadmap, specific launch dates and their different features, such as the price oracle."
@@ -54,8 +55,8 @@ For her part, **Costanza Gallo** had a special announcement — the winners of t
 
 The winners are:
 
-* 1st prize (DAI 20,000) — [igar1991](https://gitcoin.co/igar1991)
-* 2nd prize (DAI 10,000) — [rndlabs](https://github.com/rndlabs/fds-wikipedia)
+- 1st prize (DAI 20,000) — [igar1991](https://gitcoin.co/igar1991)
+- 2nd prize (DAI 10,000) — [rndlabs](https://github.com/rndlabs/fds-wikipedia)
 
 This still leaves 20,000 DAI in the pot, Costanza pointed out, that will be used to refine the Wikipedia on Swarm. She finished her part with a demo of the [Wiki game](https://en.wikipedia.org/wiki/Wikipedia:Wiki_Game) using the winning solution which utilises Wikipedia stored on the Swarm network.
 
@@ -71,9 +72,9 @@ For the next couple of months, they will refine the concept and try to make an a
 
 The next Monthly Ecosystem Call will be on 27 October. You can look forward to:
 
-* Announcement of the mainnet release dates for Phase 2 and Phase 3
-* Strategies for stakers
-* Updates from Devcon VI
-* Updated from World Ethical Data Forum (WEDF)
-* Nextcloud plugin demo
-* WAM 2.0 announcement
+- Announcement of the mainnet release dates for Phase 2 and Phase 3
+- Strategies for stakers
+- Updates from Devcon VI
+- Updated from World Ethical Data Forum (WEDF)
+- Nextcloud plugin demo
+- WAM 2.0 announcement

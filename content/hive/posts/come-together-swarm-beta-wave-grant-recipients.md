@@ -1,5 +1,6 @@
 +++
 banner = ""
+images = [ "" ]
 categories = [ "Grants" ]
 date = 2020-12-30T16:00:00.000Z
 description = """
@@ -17,11 +18,11 @@ At Swarm Beta, we announced the second Swarm grants call which concluded at the 
 
 Grant calls up to 1.0 are by design quite loose and exploratory in nature as we are interested in grant applications along these lines:
 
-* Experimental and playful.
-* Interoperable with other applications.
-* Giving the user control over data.
-* Aligned with [principles.fairdatasociety.org](http://principles.fairdatasociety.org/) .
-* Free and open source.
+- Experimental and playful.
+- Interoperable with other applications.
+- Giving the user control over data.
+- Aligned with [principles.fairdatasociety.org](http://principles.fairdatasociety.org/) .
+- Free and open source.
 
 The grant amounts given correspond to effort estimates expressed by grant applicants for reaching their first milestone where DAI 10k was the maximum possible amount. Where contacts are missing, the applicants did not want their names disclosed publicly.
 
@@ -77,9 +78,9 @@ Grant amount: DAI 10k (in BZZ)
 
 This grant application doesn’t need a long description as there’s truth in the “there are 10 types of people in this world, those who understand binary and those who don’t” meme. For the 1 in 10, here’s a summary:
 
-* A minimal Swarm node implementation targeting IoT devices using the RISC-V instruction set.
-* Perform a Swarm node handshake from a qemu hive rev b vm [https://www.sifive.com/boards/hifive1-rev-b](https://www.sifive.com/boards/hifive1-rev-b "https://www.sifive.com/boards/hifive1-rev-b")
-* RISC-V is the one and only open-source, rentier-free instruction set architecture, eg: [https://www.techrepublic.com/article/risc-v-what-it-is-and-what-benefits-it-can-provide-to-your-organization/](https://www.techrepublic.com/article/risc-v-what-it-is-and-what-benefits-it-can-provide-to-your-organization/ "https://www.techrepublic.com/article/risc-v-what-it-is-and-what-benefits-it-can-provide-to-your-organization/")
+- A minimal Swarm node implementation targeting IoT devices using the RISC-V instruction set.
+- Perform a Swarm node handshake from a qemu hive rev b vm [https://www.sifive.com/boards/hifive1-rev-b](https://www.sifive.com/boards/hifive1-rev-b "https://www.sifive.com/boards/hifive1-rev-b")
+- RISC-V is the one and only open-source, rentier-free instruction set architecture, eg: [https://www.techrepublic.com/article/risc-v-what-it-is-and-what-benefits-it-can-provide-to-your-organization/](https://www.techrepublic.com/article/risc-v-what-it-is-and-what-benefits-it-can-provide-to-your-organization/ "https://www.techrepublic.com/article/risc-v-what-it-is-and-what-benefits-it-can-provide-to-your-organization/")
 
 For the other half… Imagine Swarm in every fridge, TV, or IoT device. Let the smallness of the solution not fool you as to how big the impact is.
 

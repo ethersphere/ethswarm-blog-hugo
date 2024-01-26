@@ -1,5 +1,6 @@
 +++
 banner = ""
+images = [ "" ]
 categories = [ "Development updates" ]
 date = 2021-02-05T04:00:00.000Z
 description = "As you probably know, the JavaScript team is one of the latest additions to the Ethereum Swarm organization. The team has been working relentlessly and here are the first fruits of their work."
@@ -7,7 +8,6 @@ references_and_footnotes = [ ]
 title = "Meet Bee-js — a JavaScript library for Swarm"
 _template = "post"
 +++
-
 
 As you probably know, the JavaScript team is one of the latest additions to the Ethereum Swarm organization. The team has been working relentlessly and here are the first fruits of their work.
 
