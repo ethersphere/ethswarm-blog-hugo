@@ -29,9 +29,7 @@ If all goes according to plan, erasure codes should be on mainnet this week.
 
 ## Earth Observation Manifesto and new partnerships
 
-Swarm is continuously expanding its ecosystem and an important part of those efforts is to 
-
-store the world’s valuable public data in the Swarm network (The Great Data Upload initiative). A part of this effort is also the recently forged partnership with **[Polygon Village and the European Space Agency that resulted in the Decentralised Earth Observation Manifesto](https://blog.ethswarm.org/foundation/2024/the-swarm-foundation-announces-groundbreaking-decentralised-eo-manifesto/)**. 
+Swarm is continuously expanding its ecosystem and an important part of those efforts is to store the world’s valuable public data in the Swarm network (The Great Data Upload initiative). A part of this effort is also the recently forged partnership with **[Polygon Village and the European Space Agency that resulted in the Decentralised Earth Observation Manifesto](https://blog.ethswarm.org/foundation/2024/the-swarm-foundation-announces-groundbreaking-decentralised-eo-manifesto/)**. 
 
 _“It was truly an exciting moment, not only for the Swarm Foundation, but for the entire community because I think it's one of the first times that such an important institution has opened up to the public,”_ Costanza Gallo explained.
 
@@ -54,4 +52,4 @@ He also announced a **[new bounty](https://app.dework.xyz/swarm-41421/main-space
 
 **The third and final segment** was reserved for community members from AlienRobotNinja, Saikat Karmakar and Nate Mamman, who demonstrated their Python module designed to interact with the Bee API. It allows users to perform various operations like buying postage stamps, creating and managing tags, and uploading and downloading files and data. 
 
-A lively debate ensued during the AMA round, already hinting at the **next** month’s Community Call topics. Don’t miss it **on 29 February at 17:00 CET on Swarm Discord**. Save the date – it’s a special one! – and see you then.
+A lively debate ensued during the AMA round, already hinting at the **next** month’s Community Call topics. Don’t miss it **on 29 February at 17:00 CET on Swarm Discord**. [Save the date](https://www.addevent.com/event/hc20053366) – it’s a special one! – and see you then.
