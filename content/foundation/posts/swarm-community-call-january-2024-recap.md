@@ -24,8 +24,6 @@ The addition of [erasure coding](https://papers.ethswarm.org/p/erasure/) is one 
 
 According to Callum Toner, it goes beyond that. **One could cut the Swarm network in half and everything would still work perfectly. “This is a key differentiating factor [for Swarm]. It’s a massive, massive product performance upgrade. This functionally works and really does transform the product ,”** he added excitedly. At the same time, erasure coding enables Swarm to avoid massive overhead that comes from the duplication of data used for redundancy.
 
-If all goes according to plan, erasure codes should be on mainnet this week.
-
 
 ## Earth Observation Manifesto and new partnerships
 
