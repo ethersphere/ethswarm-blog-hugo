@@ -80,7 +80,7 @@ The average earnings per active staking node increased to 13.89 xBZZ in January.
 
 ## Total Active Staking Nodes by Month
 
-This metric shows the total active staking nodes by month.
+This metric shows the total active staking nodes by month. "Active nodes" are nodes which have submitted a commit transaction at least once within the month (this metric does not measure nodes which have been actively participating in neighbourhoods not chosen within the month). 
 
 | Month     | Total Active Staking Nodes |
 |-----------|----------------------------|
