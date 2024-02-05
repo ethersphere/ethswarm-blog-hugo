@@ -4,7 +4,7 @@
 banner = "/uploads/full-moon.png"
 images = [ "/uploads/full-moon.png" ]
 categories = [ "Development updates" ]
-date = 2024-02-05T00:00:00.000Z
+date = 2024-02-07T00:00:00.000Z
 description = "In our latest monthly report, we examine the performance of the Swarm network for January, continuing our ongoing analysis of the network's dynamics. This month, we again report on key metrics such as total network rewards, win values, active staking nodes, and geographic distribution of nodes to understand the network's current state and emerging trends."
 references_and_footnotes = [ ]
 title = "State of the Network: January"
