@@ -4,7 +4,7 @@
 banner = "/uploads/full-moon.png"
 images = [ "/uploads/full-moon.png" ]
 categories = [ "Development updates" ]
-date = 2024-02-07T00:00:00.000Z
+date = 2024-02-06T00:00:00.000Z
 description = "In our latest monthly report, we examine the performance of the Swarm network for January, continuing our ongoing analysis of the network's dynamics. This month, we again report on key metrics such as total network rewards, win values, active staking nodes, and geographic distribution of nodes to understand the network's current state and emerging trends."
 references_and_footnotes = [ ]
 title = "State of the Network: January"
@@ -80,7 +80,7 @@ The average earnings per active staking node increased to 13.89 xBZZ in January.
 
 ## Total Active Staking Nodes by Month
 
-This metric shows the total active staking nodes by month. "Active nodes" are nodes which have submitted a commit transaction at least once within the month (this metric does not measure nodes which have been actively participating in neighbourhoods not chosen within the month). 
+This metric shows the total active staking nodes by month. "Active nodes" are nodes which have submitted a commit transaction at least once within the month (this metric does not measure nodes which have been actively participating in neighbourhoods not chosen within the month).
 
 | Month     | Total Active Staking Nodes |
 |-----------|----------------------------|
@@ -115,7 +115,7 @@ The total number of unique active staking nodes that won at least once rose to 2
 ## Total Active Staking Nodes by Country
 
 This metric shows the total number of active staking nodes across the top four countries and all other countries aggregated into the "Other" category, as well as the remaining nodes in the "Unknown" category.
- 
+
 
 |               | China  | Germany | Finland | Unknown | United States | Other |
 |---------------|--------|---------|---------|---------|---------------|-------|
