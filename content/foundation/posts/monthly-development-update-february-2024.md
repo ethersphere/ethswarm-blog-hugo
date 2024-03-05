@@ -52,7 +52,7 @@ To wrap it all up, discussions and the subsequent vote on **the fate of Swarm’
 #### [Swarm-CLI](https://github.com/ethersphere/swarm-cli)
 * Released version 2.8.0, which speeds up manifest commands by calculating hashes locally instead of fetching data from the network.
 
-[BMT-JS](https://github.com/fairDataSociety/bmt-js)
+#### [BMT-JS](https://github.com/fairDataSociety/bmt-js)
 * The prototype of chunked streaming, a.k.a “unlimited uploads”, is working and [can be tried out experimentally](https://github.com/fairDataSociety/bmt-js/pull/24/files). It provides a cross environment solution for uploading files of any size, even with very limited heap memory size.
 
 
