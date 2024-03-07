@@ -41,17 +41,22 @@ If you happen to be in Asia in April, team members from the Swarm Foundation wil
 Last but not least, **The Book of Swarm** is now **available in soft or hard physical copy**. 
 
 
-## Community talk – A one-click Bee node; get to know your chunks; start your Web3 developer journey with Swarm
+## Community talks
 
+### Visualizing Swarm Hashes, Node Addresses and Neighborhoods
 As part of the regular Community Talk segment, Áron Soós showed a wonderfully informative video on how chunks, Swarm’s smallest unit of data, actually function in the network.
 
 Watch the demo [here](https://www.youtube.com/watch?v=NJS14Rbcz3k).
 
+### Bee on DigitalOcean, a one-click install
 He also gave a short and equally informative demo on how to spin up a full Bee node with the help of DigitalOcean’s one-click installer.
 
 Watch the demo [here](https://www.youtube.com/watch?v=sm3JjHpeHyE).
 
-The last presentation was reserved for AgorApp’s Ethan Clime. Their upcoming course delves into Swarm feeds, the data structures that enable publishers to stream content on the Swarm network. It has a great interactive environment where you can test what you have learned on the fly! If you’re new to Swarm, you can check out their **[introductory course](https://agorapp.dev/course/introduction-to-ethereum-swarm)** that looks at BeeJS in more detail.     
+### New Swarm course
+The last presentation was reserved for AgorApp’s Ethan Clime. Their upcoming course delves into Swarm feeds, the data structures that enable publishers to stream content on the Swarm network. It has a great interactive environment where you can test what you have learned on the fly! If you’re new to Swarm, you can check out their **[introductory course](https://agorapp.dev/course/introduction-to-ethereum-swarm)** that looks at Bee-JS in more detail.     
+
+### Neighborhood Doublings & Setting Target Neighborhoods
 
 Due to technical difficulties, the announced educational video by Noah Maizels, a guide dedicated to understanding [neighbourhood doublings and setting target neighbourhoods to be able to optimise reward chances](https://www.youtube.com/watch?v=0Uli66yqudk) while also contributing to overall network health, was postponed, but it will featured at the **next Community Call**, which will be on **28 March** – [add to calendar](https://www.addevent.com/event/Ey20419663). 
 
