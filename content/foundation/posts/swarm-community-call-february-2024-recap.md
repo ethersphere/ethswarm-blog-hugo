@@ -28,9 +28,9 @@ Three SWIPs (Swarm Improvement Proposals) were presented during the call.
 
 - [The second proposal](https://github.com/ethersphere/SWIPs/pull/44) focuses on making storage within the Swarm network more cost-effective and efficient by doubling the reserve size. This would increase the overall storage capacity of the Swarm network either by reducing the number of nodes required, or achieving greater storage with the same number of nodes. Since this would require additional compute and storage from the node operators, your input on this proposal is vital. 
 
-If you’re a node operator, don’t hesitate to give your thoughts on [Discord](https://discord.com/channels/799027393297514537/801438093927776286) or [GitHub](https://github.com/ethersphere).
-
 - [The third SWIP](https://github.com/ethersphere/SWIPs/pull/42) was presented by Antonio Gonzalo. It focuses on using the Swarm network’s infrastructure to ensure higher security levels for on-chain data storage. He detailed how Swarm could be used for storing data, particularly from Layer 2 networks. The emphasis of the SWIP is on **maintaining data integrity and availability** via a stake-based mechanism of insurer nodes, which would ensure that data uploads are genuine and not manipulated by malicious actors.  
+
+If you’re a node operator, don’t hesitate to give your thoughts on [Discord](https://discord.com/channels/799027393297514537/801438093927776286) or [GitHub](https://github.com/ethersphere).
 
 
 ## The future of the bonding curve is in your hands!
