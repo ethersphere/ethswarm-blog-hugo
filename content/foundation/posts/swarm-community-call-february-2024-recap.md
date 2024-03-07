@@ -24,9 +24,9 @@ Three SWIPs (Swarm Improvement Proposals) were presented during the call.
 
 Črt Ahlin gave an overview of two, both currently in the development phase and awaiting integration into the repository: 
 
-- [The first proposal, centred on responsible neighbourhood splits](https://github.com/ethersphere/SWIPs/pull/43), aims to prevent data loss during storage radius expansions. The SWIP proposes socially responsible node behaviour, where nodes only expand their storage radius when sufficient "SR nodes" are available to secure the remaining data, avoiding data loss and erosion of trust in the Swarm network. 
+- [The first proposal](https://github.com/ethersphere/SWIPs/pull/43), centred on responsible neighbourhood splits, aims to prevent data loss during storage radius expansions. The SWIP proposes socially responsible node behaviour, where nodes only expand their storage radius when sufficient "SR nodes" are available to secure the remaining data, avoiding data loss and erosion of trust in the Swarm network. 
 
-- [The second proposal focuses on making storage within the Swarm network more cost-effective and efficient by doubling the reserve size](https://github.com/ethersphere/SWIPs/pull/44). This would increase the overall storage capacity of the Swarm network either by reducing the number of nodes required, or achieving greater storage with the same number of nodes. Since this would require additional compute and storage from the node operators, your input on this proposal is vital. 
+- [The second proposal](https://github.com/ethersphere/SWIPs/pull/44) focuses on making storage within the Swarm network more cost-effective and efficient by doubling the reserve size. This would increase the overall storage capacity of the Swarm network either by reducing the number of nodes required, or achieving greater storage with the same number of nodes. Since this would require additional compute and storage from the node operators, your input on this proposal is vital. 
 
 If you’re a node operator, don’t hesitate to give your thoughts on [Discord](https://discord.com/channels/799027393297514537/801438093927776286) or [GitHub](https://github.com/ethersphere).
 
