@@ -136,4 +136,4 @@ The geographic distribution of active staking nodes in February showed subtle sh
 
 ## Conclusion
 
-February's metrics underscore a period of continued maturation and adjustment for the Swarm network. While there was a very slight decrease in total monthly, there were increases in median and average win values, along with a rise in the number of winning and active staking nodes. The geographical distribution of nodes continues to highlight the global nature of the Swarm network, emphasizing its appeal across different regions.  
+February's metrics underscore a period of continued maturation and adjustment for the Swarm network. While there was a very slight decrease in total monthly rewards, there were increases in median and average win values, along with a rise in the number of winning and active staking nodes. The geographical distribution of nodes continues to highlight the global nature of the Swarm network, emphasizing its appeal across different regions.  
