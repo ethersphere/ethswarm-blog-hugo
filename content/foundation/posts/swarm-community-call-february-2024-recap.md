@@ -35,7 +35,7 @@ If you’re a node operator, don’t hesitate to give your thoughts on [Discord]
 
 ## The future of the bonding curve is in your hands!
 
-The announcement segment of the call came with some big news. The most substantial is the beginning of the discussions and the subsequent vote on **the fate of Swarm’s bonding curve**. In about two weeks, there will be an official announcement on Swarm Foundation’s [blog site](https://blog.ethswarm.org/) with more details on how the vote should happen. The plan is to **open the voting process on the next community call on 28 March **and **close it on 25 April**. If the community decides that the bonding curve should go, it will be deprecated on 4 May. 
+The announcement segment of the call came with some big news. The most substantial is the beginning of the discussions and the subsequent vote on **the fate of Swarm’s bonding curve**. In about two weeks, there will be an official announcement on Swarm Foundation’s [blog site](https://blog.ethswarm.org/) with more details on how the vote should happen. The plan is to **open the voting process on the next community call on 28 March** and **close it on 25 April**. If the community decides that the bonding curve should go, it will be deprecated on 4 May. 
 
 The next important announcement is that the **Swarm Summit is scheduled from 20 to 21 June in an IRL-online** format, and you can already start preparing your submissions. Also, the Swarm team will be at EthZurich giving a talk about censorship resistance, and Sándor A. Nagy, Solarpunk CEO, will be presenting at this year’s NFT. NYC conference on 5 April on how to store NFTs safely with Swarm.
 
