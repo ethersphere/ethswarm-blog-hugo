@@ -5,13 +5,15 @@ banner = "/uploads/state-of-network-graphic-7-24.png"
 images = [ "/uploads/state-of-network-graphic-7-24.png" ]
 categories = [ "Development updates" ]
 date = 2024-03-07T00:00:00.000Z
-description = ""
+description = "
+In the latest instalment of our ongoing series detailing the metrics of the Swarm network, we delve into data from February. This comprehensive overview provides the Swarm community with a clear picture of the network's performance, including key statistics such as total monthly rewards, median and average win values, monthly earnings for active staking nodes, and the geographical distribution of these nodes. February's data reveals the continuation of existing trends and subtle shifts in network activity, rewards distribution, and global participation. By examining these metrics, we aim to offer a thorough understanding of the Swarm network's current state and continuing evolution."
 references_and_footnotes = [ ]
 title = "State of the Network: February"
 _template = "post"
 slug="state-of-the-network-february"
 +++
 
+In the latest instalment of our ongoing series detailing the metrics of the Swarm network, we delve into data from February. This comprehensive overview provides the Swarm community with a clear picture of the network's performance, including key statistics such as total monthly rewards, median and average win values, monthly earnings for active staking nodes, and the geographical distribution of these nodes. February's data reveals the continuation of existing trends and subtle shifts in network activity, rewards distribution, and global participation. By examining these metrics, we aim to offer a thorough understanding of the Swarm network's current state and continuing evolution. 
 
 ## Network Total Monthly Rewards
 
