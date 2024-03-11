@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/scc-feb-recap.png"
+images = [ "/uploads/scc-feb-recap.png" ]
 categories = [ "Events" ]
 date = 2024-03-07T00:00:00.000Z
 description = "The February call started with an overview of the latest updates to the Swarm network. According to Niki Papadatou, node operators can now use a local scanning tool (available over an API endpoint)."
