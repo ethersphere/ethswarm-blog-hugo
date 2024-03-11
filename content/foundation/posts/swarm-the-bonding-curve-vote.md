@@ -23,7 +23,7 @@ The bonding curve is a mathematical function that automatically adjusts the toke
 
 However, after almost three years, it’s now time for the community of token holders to decide which direction they would like Swarm to take.
 
-*Timeline*
+### Timeline
 * Announcement of the vote: 29 February
 * Voting opens: 28 March
 * Voting closes: 25 April
