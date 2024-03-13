@@ -57,7 +57,7 @@ Watch the demo [here](https://www.youtube.com/watch?v=sm3JjHpeHyE).
   
 
 ### Neighbourhood Doublings & Setting Target Neighbourhoods
-Due to technical difficulties, the scheduled educational video by Noah Maizels— a guide dedicated to understanding neighbourhood doublings and setting target neighbourhoods to be able to optimise reward chances while also contributing to overall network health—has been postponed to the next Call. 
+Due to technical difficulties, the scheduled educational video by Noah Maizels—a guide dedicated to understanding neighbourhood doublings and setting target neighbourhoods to be able to optimise reward chances while also contributing to overall network health—has been postponed to the next Call. 
 
 You can watch the video [here](https://www.youtube.com/watch?v=0Uli66yqudk). 
 
