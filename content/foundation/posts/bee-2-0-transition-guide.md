@@ -58,7 +58,7 @@ To stake your Sepolia node you will also need to obtain some Sepolia BZZ (sBZZ).
 To do so, first make sure you have selected the Sepolia chain in your browser wallet and then navigate to [this trading pair](https://app.uniswap.org/swap?outputCurrency=0x543dDb01Ba47acB11de34891cD86B675F04840db&inputCurrency=ETH&chain=sepolia) on Uniswap. 
 
 ⚠️ 
-*Make certain that you have selected the option to view testnet networks in your browswer wallet and have changed your network to the Sepolia network before continuing. The specifics of this may differ depending on which browser wallet you use.* 
+*Make certain that you have selected the option to view testnet networks in your browser wallet and have changed your network to the Sepolia network before continuing. The specifics of this may differ depending on which browser wallet you use.* 
 ⚠️ 
 
 ![H1ShrJLp6](https://hackmd.io/_uploads/B1rOgJTTa.png)
