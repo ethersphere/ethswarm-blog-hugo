@@ -1,8 +1,8 @@
 
 
 +++
-banner = "/uploads/swarm2-0.png"
-images = [ "/uploads/swarm2-0.png" ]
+banner = "/uploads/transition-guide-cover.png"
+images = [ "/uploads/transition-guide-cover.png" ]
 categories = [ "Development updates" ]
 date = 2024-03-14T00:00:00.000Z
 description = "A Bee 2.0 transition guide for staking node operators, uploaders, & Swarm testnet users."
