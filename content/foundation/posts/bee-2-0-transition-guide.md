@@ -28,21 +28,21 @@ Moreover, it is recommended that uploaders allow their postage stamp batches for
 
 ### Staking Node Operators
 
-Bee 2.0 includes important upgrades to the localstore store which include various upgrades to chunk syncing, caching, and other areas. These changes have the potential to reduce the incidences of freezes for staking node operators along with other general performance improvements. For those reasons, and also because the 2.0 release ***includes breaking changes***, it is important that staking node operators take note of the release date and get ready to update their nodes as soon as the release goes live. Make sure to mark the date on your calendar and prepare to update your nodes.
+Bee 2.0 includes important upgrades to the localstore which include various upgrades to chunk syncing, caching, and other areas. These changes have the potential to reduce the incidences of freezes for staking node operators along with other general performance improvements. For those reasons, and also because the 2.0 release ***includes breaking changes***, it is important that staking node operators take note of the March 26th release date and get ready to update their nodes as soon as the release goes live. Make sure to mark the date on your calendar and prepare to update your nodes.
 
 
 ### Goerli Testnet Users
 
-Along with improvements to the Bee client itself, the 2.0 release also marks the completion of the Swarm testnet's transition from the Goerli testnet to its successor, the Sepolia testnet. Users who have uploaded data with Sepolia nodes which they wish to preserve should make certain to backup their data ASAP, and testnet node operators should make sure to switch over to Sepolia as well. 
+Along with improvements to the Bee client itself, the 2.0 release also marks the completion of the Swarm testnet's transition from the Goerli testnet to its successor, the Sepolia testnet. Users who have uploaded data with Sepolia nodes which they wish to preserve should make certain to back-up their data ASAP, and testnet node operators should make sure to switch over to Sepolia as well. 
 
-To update your node to run on Sepolia, update `bootnode` with the address shown below:
+To update your node to run on Sepolia, update `bootnode` with the address shown below...
 
 ```
 bootnode: /dnsaddr/sepolia.testnet.ethswarm.org
 blockchain-rpc-endpoint: wss://sepolia.infura.io/ws/v3/<API-KEY>
 ```
 
-Make sure that you have replaced the `blockchain-rpc-endpoint` with a Sepolia testnet RPC endpoint. 
+...and make sure that you have also replaced the `blockchain-rpc-endpoint` with a Sepolia testnet RPC endpoint. 
 
 After modifying these settings, start your node and check the logs for these messages:
 
