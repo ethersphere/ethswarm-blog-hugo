@@ -17,14 +17,14 @@ Bee 2.0 goes live in less than two weeks, so we've put together this short guide
 
 ### Encrypted Data Uploaders 
 
-⚠️ *TLDR: All pre-2.0 encrypted uploads must be backed-up before 2.0 release and re-uploaded after release and postage stamp batches of encrypted uploads should be allowed to expire.* ⚠️
+⚠️ *TLDR: All pre-2.0 encrypted uploads must be backed-up before the 2.0 release and re-uploaded after release, and postage stamp batches of encrypted uploads should be allowed to expire.* ⚠️
 
 
 The 2.0 release includes important upgrades to file encryption that address vulnerabilities and optimise data security and privacy. These upgrades include breaking changes which require that encrypted data uploads made prior to Bee 2.0 must be downloaded prior to the 2.0 release and then re-uploaded using the newly updated encryption method. 
 
 To do so, simply download and back-up any encrypted uploads at any time before the 2.0 release on March 26, 2024, and then re-upload them after updating your node to the 2.0 client after release.
 
-Moreover, it is recommended that uploaders allow their postage stamp batches for pre-2.0 encrypted uploads to expire so that encrypted files affected by the vulnerability go offline. Newly uploaded encrypted files with post 2.0 clients will not be affected by the vulnerability.
+Moreover, it is recommended that uploaders allow their postage stamp batches for pre-2.0 encrypted uploads to expire so that encrypted files affected by the vulnerability go offline. Newly uploaded encrypted files with post-2.0 clients will not be affected by the vulnerability.
 
 ### Staking Node Operators
 
@@ -57,9 +57,9 @@ To stake your Sepolia node you will also need to obtain some Sepolia BZZ (sBZZ).
 
 To do so, first make sure you have selected the Sepolia chain in your browser wallet and then navigate to [this trading pair](https://app.uniswap.org/swap?outputCurrency=0x543dDb01Ba47acB11de34891cD86B675F04840db&inputCurrency=ETH&chain=sepolia) on Uniswap. 
 
-:::warning
-Make certain that you have selected the option to view testnet networks in your browswer wallet and have changed your network to the Sepolia network before continuing. The specifics of this may differ depending on which browser wallet you use. 
-:::
+⚠️ 
+*Make certain that you have selected the option to view testnet networks in your browswer wallet and have changed your network to the Sepolia network before continuing. The specifics of this may differ depending on which browser wallet you use.* 
+⚠️ 
 
 ![H1ShrJLp6](https://hackmd.io/_uploads/B1rOgJTTa.png)
 
