@@ -17,13 +17,14 @@ Bee 2.0 goes live in less than two weeks, so we've put together this short guide
 
 ### Encrypted Data Uploaders 
 
-⚠️ *TLDR: All pre-2.0 encrypted uploads must be backed-up before 2.0 release and re-uploaded after release.* ⚠️
+⚠️ *TLDR: All pre-2.0 encrypted uploads must be backed-up before 2.0 release and re-uploaded after release and postage stamp batches of encrypted uploads should be allowed to expire.* ⚠️
 
 
 The 2.0 release includes important upgrades to file encryption that address vulnerabilities and optimise data security and privacy. These upgrades include breaking changes which require that encrypted data uploads made prior to Bee 2.0 must be downloaded prior to the 2.0 release and then re-uploaded using the newly updated encryption method. 
 
 To do so, simply download and back-up any encrypted uploads at any time before the 2.0 release on DATE, and then re-upload them after updating your node to the 2.0 client after the release.
 
+Moreover, it is recommended that uploaders allow their postage stamp batches for pre-2.0 encrypted uploads to expire so that encrypted files affected by the vulnerability go offline. Newly uploaded encrypted files with post 2.0 clients will not be affected by the vulnerability.
 
 ### Staking Node Operators
 
