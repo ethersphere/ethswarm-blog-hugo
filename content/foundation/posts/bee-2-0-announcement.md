@@ -3,9 +3,9 @@ banner = "/uploads/2.0-release.png"
 images = [ "/uploads/2.0-release.png" ]
 categories = [ "Development updates" ]
 date = 2024-03-15T00:00:00.000Z
-description = "With less than two weeks until the launch of Bee 2.0 on March 26th, now is a time of great anticipation for the Swarm community and decentralised storage enthusiasts around the globe. This release is not just an update, it's a major step forward in our journey towards creating a more fair, censorship-resistant, and user-driven internet. Bee 2.0 introduces world class data retrievability with the addition of erasure coding - a cutting edge data protection technology, along with widespread improvements to stability, security, and privacy."
+description = "With less than two weeks until the launch of Bee 2.0 on March 26th, now is a time of great anticipation for the Swarm community and decentralised storage enthusiasts around the globe. This release is not just an update, it's a major step forward in our journey towards creating a more fair, censorship-resistant, and user-driven internet. Bee 2.0 introduces world class data retrievability with the addition of erasure coding - a powerful and cost effective data protection technology, along with widespread improvements to stability, security, and privacy."
 references_and_footnotes = [ ]
-title = "Announcing Bee 2.0: Pioneering Next-gen Decentralised Storage"
+title = "Announcing Bee 2.0: Pioneering Decentralised Storage"
 _template = "post"
 slug="announcing-bee-2.0-pioneering-next-gen-decentralised-storage"
 +++
@@ -13,7 +13,7 @@ slug="announcing-bee-2.0-pioneering-next-gen-decentralised-storage"
 
 With less than two weeks until the launch of Bee 2.0 on March 26th, now is a time of great anticipation for the Swarm community and decentralised storage enthusiasts around the globe. **This release is not just an update**, it's a major step forward in our journey towards creating a more fair, censorship-resistant, and user-driven internet. 
 
-Bee 2.0 reinforces Swarm's role as a decentralised storage pioneer with the introduction of world class data retrievability enabled by the addition of [erasure coding — a cutting edge data protection technology](https://blog.ethswarm.org/foundation/2023/erasure-coding-supercharges-swarm/). The 2.0 update also includes a significant upgrade to user experience through widespread changes that bring improvements to stability, security, and privacy. 
+Bee 2.0 reinforces Swarm's role as a decentralised storage pioneer with the introduction of world class data retrievability enabled by the addition of [erasure coding — a powerful and cost effective data protection technology](https://blog.ethswarm.org/foundation/2023/erasure-coding-supercharges-swarm/). The 2.0 update also includes a significant upgrade to user experience through widespread changes that bring improvements to stability, security, and privacy. 
 
 ## The Journey So Far
 
@@ -28,29 +28,25 @@ The above technological developments have also been made against a backdrop of r
 
 The new developments being introduced in Bee 2.0 fall into four broad categories alongside other more minor changes. First is the introduction of the new erasure coding feature, second are widespread improvements to the Bee client's localstore, third is the transition from the Goerli testnet to Sepolia, and finally fourth is an upgrade to encrypted uploads. For a complete breakdown of all the changes included in the 2.0 release, please refer to [2.0 release notes on the releases page for the bee repo](https://github.com/ethersphere/bee/releases). Below we take a closer look at each of these developments and their significance:
 
-**1. Erasure Coding for Swarm Uploads**
+### **1. Erasure Coding for Swarm Uploads**
 
-- **What is Erasure Coding?** A sophisticated data protection method that ensures high data retrievability at a fraction of the cost of full data replication.
-- **Why it Matters:**  This technology ensures that data uploaded to Swarm is always retrievable, even if some data chunks are lost, providing a robust solution for data retrievability.
+Erasure coding is a data protection approach which ensures high data retrievability at a fraction of the cost of full data replication. It ensures that data uploaded to Swarm is retrievable even if some data chunks are lost, providing a robust solution for data retrievability.
 
-**2. Localstore Improvements**
+### **2. Localstore Improvements**
 
-The localstore is a vital component of the Bee client which is responsible for managing the data stored by the Bee client. 
+The localstore is a vital component of the Bee client which is responsible for managing the data stored by the Bee client. The 2.0 release includes improvements to chunk syncing which help to reduce freezes and ensure data consistency of chunks within neighbourhoods. The improvements made to the localstore address previous issues affecting node operations, ensuring a smoother and more reliable user experience for node operators.
 
-- **Optimised Chunk Syncing:** Improvements to chunk syncing reduce freezes and ensure data consistency.
-- **Enhancing Reliability:** These improvements address previous issues with node operations, ensuring a smoother and more reliable user experience for node operators.
+### **3. Transition from Goerli to Sepolia**
 
-**3. The Sepolia Upgrade**
+As the Goerli testnet winds down, Swarm is making its transition to the newer Sepolia testnet. Users are encouraged to promptly update their testnet nodes to use Sepolia. This is a routine but vital upgrade for the the continuation of Bee development.
 
-- **Transition to Sepolia:** As the Goerli testnet winds down, Swarm is making its transition to the newer Sepolia testnet. Users are encouraged to promptly update their testnet nodes to use Sepolia. 
+⚠️ *[See the 2.0 transition guide for more info on the transition process.](https://blog.ethswarm.org/foundation/2024/bee-2-0-transition-guide/).* 
 
-⚠️ *[See the 2.0 transition guide for more info](https://blog.ethswarm.org/foundation/2024/bee-2-0-transition-guide/).* 
+### **4. Encryption Vulnerability Fix**
 
-**4. Encryption Upgrade for Uploads**
+A vulnerability affecting encrypted uploads was reported which allowed for 8 bytes of an encrypted chunk to be revealed. The 2.0 update includes a fix for this so that the entire chunk is securely encrypted. This vulnerability affects all encrypted uploads made with Bee clients prior to the 2.0 version. To address this issue, uploaders of encrypted files prior to the 2.0 release should back up their uploaded files, allow the associated postage stamps to expire, and then do another encrypted upload of the files with a post 2.0 client to guarantee the security of the uploaded data. 
 
-- **Security Enhancement:** An upgraded encryption method strengthens data privacy by addressing vulnerabilities in the encryption method. 
-
-⚠️ *Note that this requires a re-upload of pre-2.0 encrypted files to guarantee the security of those files. [See the 2.0 transition guide for more info.](https://blog.ethswarm.org/foundation/2024/bee-2-0-transition-guide/)* 
+⚠️ *[See the 2.0 transition guide for more info on protecting your encrypted uploads.](https://blog.ethswarm.org/foundation/2024/bee-2-0-transition-guide/)*
 
 ## Major Improvements to User Experience
 
