@@ -3,25 +3,25 @@ banner = ""
 images = [ "" ]
 categories = [ "Development updates" ]
 date = 2021-12-12T23:00:00.000Z
-description = "Swarm Foundation is proud to share its tech team’s internal agenda for the next 12 months. The aim is to create predictability in the development tracks and the wider organisation as well as help coordinate between the Foundation’s efforts and the efforts deployed to the broader Swarm community."
+description = "Swarm Foundation is proud to share the internal agenda of its tech team’s for the upcoming 12 months. The aim is to create predictability in the development tracks and the wider organisation as well as help coordinate between the Foundation’s efforts and the efforts deployed to the broader Swarm community."
 references_and_footnotes = [ ]
 title = "Announcing The Swarm Foundation Technical Milestones"
 _template = "post"
 +++
 
-Swarm Foundation is proud to share its tech team’s internal agenda for the next 12 months. The aim is to create predictability in the development tracks and the wider organisation as well as help coordinate between the Foundation’s efforts and the efforts deployed to the broader Swarm community.
+Swarm Foundation is proud to share the internal agenda of its tech team for the upcoming 12 months. The aim is to create predictability in the development tracks and the wider organisation as well as help coordinate between the Foundation’s efforts and the efforts deployed to the broader Swarm community.
 
 Through this shared and transparent understanding, we aim to further the Foundation’s purpose to support the Swarm network to thrive and provide the infrastructure necessary for a decentralised web.
 
 We would like to invite our community, stakeholders, and ecosystem to join the discussion in our Discord server, where we opened a new channel specifically to announce progress and new milestones.
 
-The roadmap is a living document. This means that the Swarm Foundation always has 2–4 milestones worked out in detail, while also planning more “vague” milestones further in the future. Currently, four milestones have been announced.
+The roadmap is a living document, with the Swarm Foundation consistently detailing 2–4 milestones while also planning more “vague” milestones for the future. Currently, four milestones have been officially announced.
 
-This is a short overview of the milestones, for the full detail head over to [progress.ethswarm.org](https://progress.ethswarm.org/).
+This is a short overview of the milestones; for the full details, head over to [progress.ethswarm.org](https://progress.ethswarm.org/).
 
 # Host unstoppable content on Swarm
 
-Uploading and downloading content such as websites or nft-data is optimised and predictable. This functionality can be accessed through all Swarm products: Bee, gateway, swarm-cli, chrome extension, Dashboard, bee-js.
+Uploading and downloading content, such as websites or NFT, data is optimised and predictable. This functionality can be accessed through all Swarm products: Bee, gateway, swarm-cli, chrome extension, Dashboard, and bee-js.
 
 Completed: Q4 2021
 
@@ -43,4 +43,4 @@ Uploading and downloading bigger files and datasets is optimised.
 
 Time Estimate: To be confirmed
 
-More milestones will be added as the previous ones are achieved. Follow the progress on [progress.ethswarm.org](https://progress.ethswarm.org/) and join our Discord server to get all the latest announcements.
+More milestones will be added as the previous ones are achieved. Stay updated on the progress by visiting [progress.ethswarm.org](https://progress.ethswarm.org/), and join our Discord server to get all the latest announcements.

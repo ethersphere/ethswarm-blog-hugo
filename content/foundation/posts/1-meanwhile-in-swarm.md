@@ -27,7 +27,7 @@ Below you’ll find all that’s been happening in Swarm for the last month. Div
 **Released two new versions of** [**Bee-js**](https://github.com/ethersphere/bee-js)**, the latest is v2.1.1**
 
 - Bee v1.3 version compatibility
-- Support for topup and dilute postage stamp operations
+- Support for top-up and dilute postage stamp operations
 - Increased maximum PSS target length
 - Support for retrievability check endpoint
 
