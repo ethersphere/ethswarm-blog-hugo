@@ -23,7 +23,7 @@ Bee 2.0 goes live in less than two weeks on March 26th, so we've put together th
 
 The 2.0 release includes important upgrades to file encryption that address vulnerabilities and optimise data security and privacy. These upgrades include breaking changes which require that encrypted data uploads made prior to Bee 2.0 must be downloaded before the 2.0 release and then re-uploaded using the updated encryption method. 
 
-To do so, simply download and back up any encrypted uploads at any time before the 2.0 release on DATE, and then re-upload them after updating your node to the 2.0 client following the release.
+To do so, simply download and back up any encrypted uploads at any time before the 2.0 release on March 26th, and then re-upload them after updating your node to the 2.0 client following the release.
 
 
 ### Staking Node Operators
