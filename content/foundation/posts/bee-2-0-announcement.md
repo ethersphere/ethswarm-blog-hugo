@@ -13,11 +13,11 @@ slug="announcing-bee-2.0-pioneering-next-gen-decentralized-storage"
 
 With less than two weeks until the launch of Bee 2.0 on March 26th, now is a time of great anticipation for the Swarm community and decentralized storage enthusiasts around the globe. This release is not just an update, it's a major step forward in our journey towards creating a more fair, censorship-resistant, and user-driven internet. 
 
-Bee 2.0 reinforces Swarm's role as a decentralised storage pioneer with the introduction of world class data retrievability enabled by the addition of [erasure coding — a cutting edge data protection technology](https://blog.ethswarm.org/foundation/2023/erasure-coding-supercharges-swarm/). The 2.0 update also brings significant improvements to user experience through widespread changes that bring improvements to stability, security, and privacy. 
+Bee 2.0 reinforces Swarm's role as a decentralised storage pioneer with the introduction of world class data retrievability enabled by the addition of [erasure coding — a cutting edge data protection technology](https://blog.ethswarm.org/foundation/2023/erasure-coding-supercharges-swarm/). The 2.0 update also includes a significant upgrade to user experience through widespread changes that bring improvements to stability, security, and privacy. 
 
 ## The Journey So Far
 
-Bee 2.0 represents the culmination of months of significant technical advances as well as broader growth of the Swarm ecosystem. On the technical side, development of the Bee client has been marked by substantial refactoring to enhance code maintainability and facilitate the development of new features. These developments laid the foundation for the significant upgrades in the 2.0 release, including the new erasure coding feature which forms the cornerstone of the release. 
+Bee 2.0 represents the culmination of months of significant technical advances as well as the broader growth of the Swarm ecosystem. On the technical side, development of the Bee client has been marked by substantial refactoring to enhance code maintainability and facilitate the development of new features. These developments laid the foundation for the significant upgrades in the 2.0 release, including the new erasure coding feature which forms the cornerstone of the release. 
 
 Parallel to the refactoring has been the rollout of the [postage stamp price oracle](https://blog.ethswarm.org/foundation/2023/oracle-overview/) which enables dynamic pricing based on network usage — a key component for Swarm's self-sustaining economic system. The release of the price oracle also marks the completion of [Swarm's storage incentives system](https://blog.ethswarm.org/foundation/2022/the-mechanics-of-swarm-networks-storage-incentives/).
 
