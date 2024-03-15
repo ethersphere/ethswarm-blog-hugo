@@ -11,7 +11,7 @@ slug="announcing-bee-2.0-pioneering-next-gen-decentralised-storage"
 +++
 
 
-With less than two weeks until the launch of Bee 2.0 on March 26th, now is a time of great anticipation for the Swarm community and decentralised storage enthusiasts around the globe. This release is not just an update, it's a major step forward in our journey towards creating a more fair, censorship-resistant, and user-driven internet. 
+With less than two weeks until the launch of Bee 2.0 on March 26th, now is a time of great anticipation for the Swarm community and decentralised storage enthusiasts around the globe. **This release is not just an update**, it's a major step forward in our journey towards creating a more fair, censorship-resistant, and user-driven internet. 
 
 Bee 2.0 reinforces Swarm's role as a decentralised storage pioneer with the introduction of world class data retrievability enabled by the addition of [erasure coding — a cutting edge data protection technology](https://blog.ethswarm.org/foundation/2023/erasure-coding-supercharges-swarm/). The 2.0 update also includes a significant upgrade to user experience through widespread changes that bring improvements to stability, security, and privacy. 
 
