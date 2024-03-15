@@ -25,7 +25,7 @@ The 2.0 release includes important upgrades to file encryption that address vuln
 
 To do so, simply download and back up any encrypted uploads at any time before the 2.0 release on March 26th, and then re-upload them after updating your node to the 2.0 client following the release.
 
-Furthermore, any postage batches which have been used for encrypted uploads prior to the 2.0 release should be allowed to expire in order to allow vulnerable files to go offline.
+Moreover, it is recommended that uploaders allow their postage stamp batches for pre-2.0 encrypted uploads to expire so that encrypted files affected by the vulnerability go offline. Newly uploaded encrypted files with post 2.0 clients will not be affected by the vulnerability.
 
 ### Staking Node Operators
 
