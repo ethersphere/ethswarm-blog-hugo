@@ -3,15 +3,15 @@ banner = "/uploads/2.0-release.png"
 images = [ "/uploads/2.0-release.png" ]
 categories = [ "Development updates" ]
 date = 2024-03-15T00:00:00.000Z
-description = "With less than two weeks until the launch of Bee 2.0 on March 26th, now is a time of great anticipation for the Swarm community and decentralized storage enthusiasts around the globe. This release is not just an update, it's a major step forward in our journey towards creating a more fair, censorship-resistant, and user-driven internet. Bee 2.0 introduces world class data retrievability with the addition of erasure coding - a cutting edge data protection technology, along with widespread improvements to stability, security, and privacy."
+description = "With less than two weeks until the launch of Bee 2.0 on March 26th, now is a time of great anticipation for the Swarm community and decentralised storage enthusiasts around the globe. This release is not just an update, it's a major step forward in our journey towards creating a more fair, censorship-resistant, and user-driven internet. Bee 2.0 introduces world class data retrievability with the addition of erasure coding - a cutting edge data protection technology, along with widespread improvements to stability, security, and privacy."
 references_and_footnotes = [ ]
-title = "Announcing Bee 2.0: Pioneering Next-gen Decentralized Storage"
+title = "Announcing Bee 2.0: Pioneering Next-gen Decentralised Storage"
 _template = "post"
-slug="announcing-bee-2.0-pioneering-next-gen-decentralized-storage"
+slug="announcing-bee-2.0-pioneering-next-gen-decentralised-storage"
 +++
 
 
-With less than two weeks until the launch of Bee 2.0 on March 26th, now is a time of great anticipation for the Swarm community and decentralized storage enthusiasts around the globe. This release is not just an update, it's a major step forward in our journey towards creating a more fair, censorship-resistant, and user-driven internet. 
+With less than two weeks until the launch of Bee 2.0 on March 26th, now is a time of great anticipation for the Swarm community and decentralised storage enthusiasts around the globe. This release is not just an update, it's a major step forward in our journey towards creating a more fair, censorship-resistant, and user-driven internet. 
 
 Bee 2.0 reinforces Swarm's role as a decentralised storage pioneer with the introduction of world class data retrievability enabled by the addition of [erasure coding — a cutting edge data protection technology](https://blog.ethswarm.org/foundation/2023/erasure-coding-supercharges-swarm/). The 2.0 update also includes a significant upgrade to user experience through widespread changes that bring improvements to stability, security, and privacy. 
 
@@ -69,6 +69,6 @@ The Bee 2.0 release is about more than just technical enhancements, it's about s
 
 As the March 26th release date for Bee 2.0 gets closer, we're stepping into an exciting new chapter for decentralised storage. This update is a big deal for the Swarm ecosystem and for the world of decentralised storage as a whole. With Bee 2.0, we're not just updating software, we're building the foundation for a better online world. And we wouldn't have ever been able to get this far without the amazing support from the Swarm community, so we'd like to take this opportunity to say thanks for the hard work of the community of Swarm developers, node operators, and decentralised storage enthusiasts. 
 
-And if you're not yet a part of the Swarm, then we invite you to join us in this exciting new chapter. Whether you're a seasoned node operator, a developer, or simply intrigued by the potential of decentralized storage, there's never been a better time to be part of the Swarm ecosystem. Join the conversation on [the official Discord server](https://discord.gg/cRPBKXNpKW), and follow [the official Ethswarm account](https://twitter.com/ethswarm) to make sure you're always caught up on the latest news.
+And if you're not yet a part of the Swarm, then we invite you to join us in this exciting new chapter. Whether you're a seasoned node operator, a developer, or simply intrigued by the potential of decentralised storage, there's never been a better time to be part of the Swarm ecosystem. Join the conversation on [the official Discord server](https://discord.gg/cRPBKXNpKW), and follow [the official Ethswarm account](https://twitter.com/ethswarm) to make sure you're always caught up on the latest news.
 
 Stay tuned for more updates, and thank you for being an integral part of this journey!
