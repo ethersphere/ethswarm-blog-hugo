@@ -28,7 +28,7 @@ To do so, simply download and back up any encrypted uploads at any time before t
 
 ### Staking Node Operators
 
-Bee 2.0 encompasses significant upgrades to the localstore, including various upgrades to chunk syncing, caching, and other areas. These improvements have the potential to minimise the incidences of freezes for staking node operators, alongside other general performance enhancements. Given these reasons and the ***inclusion of breaking changes*** in the 2.0 release, it is crucial for staking node operators to take note of the release date and get ready to update their nodes as soon as the release goes live. Make sure to mark the date on your calendar and prepare to update your nodes.
+Bee 2.0 encompasses significant upgrades to the localstore, including various upgrades to chunk syncing, caching, and other areas. These improvements have the potential to minimise the incidences of freezes for staking node operators, alongside other general performance enhancements. Given these reasons and the ***inclusion of breaking changes*** in the 2.0 release, it is crucial for staking node operators to take note of the March 26th release date and get ready to update their nodes as soon as the release goes live. 
 
 
 ### Goerli Testnet Users
@@ -79,4 +79,4 @@ And now you're good to go!
 
 ## Join the Swarm!
 
-If you have any remaining questions about how to prepare for the Bee 2.0 launch, join the Swarm over the official Discord server. Hop on into the [`node-operators` channel](https://discord.com/channels/799027393297514537/811553590170353685), where you'll find fellow Swarm node operators and support team members ready to assist you. 
+If you have any remaining questions about how to prepare for the Bee 2.0 launch, join the Swarm over the official Discord server. Hop on into the [node-operators](https://discord.com/channels/799027393297514537/811553590170353685) channel, where you'll find fellow Swarm node operators and support team members ready to assist you. 
