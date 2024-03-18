@@ -44,7 +44,9 @@ As the Goerli testnet winds down, Swarm is making its transition to the newer Se
 
 ### **4. Encryption Vulnerability Fix**
 
-A vulnerability affecting encrypted uploads was reported which allowed for 8 bytes of an encrypted chunk to be revealed. The 2.0 update includes a fix for this so that the entire chunk is securely encrypted. This vulnerability affects all encrypted uploads made with Bee clients prior to the 2.0 version. To address this issue, uploaders of encrypted files prior to the 2.0 release should back up their uploaded files, allow the associated postage stamps to expire, and then do another encrypted upload of the files with a post 2.0 client to guarantee the security of the uploaded data. 
+A vulnerability affecting encrypted uploads was reported which allowed for 8 bytes of an encrypted chunk to be revealed. The 2.0 update includes a fix for this so that the entire chunk is securely encrypted. 
+
+The fix is a simple one-line change, however it is not backwards compatible. To address this issue, uploaders of encrypted files prior to the 2.0 release should back up their uploaded files, allow the associated postage stamps to expire, and then do another encrypted upload of the files with a post 2.0 client to guarantee the security of the uploaded data. 
 
 ⚠️ *[See the 2.0 transition guide for more info on protecting your encrypted uploads.](https://blog.ethswarm.org/foundation/2024/bee-2-0-transition-guide/)*
 
