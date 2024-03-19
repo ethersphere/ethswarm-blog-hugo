@@ -3,7 +3,7 @@ banner = "/uploads/2.0-release.png"
 images = [ "/uploads/2.0-release.png" ]
 categories = [ "Development updates" ]
 date = 2024-03-15T00:00:00.000Z
-description = "With less than two weeks until the launch of Bee 2.0 on March 26th, now is a time of great anticipation for the Swarm community and decentralised storage enthusiasts around the globe. This release is not just an update; it signifies a major leap forward in our journey towards creating a more fair, censorship-resistant, and user-driven internet."
+description = "With just a week left until the launch of Bee 2.0 on March 26th, now is a time of great anticipation for the Swarm community and decentralised storage enthusiasts around the globe. This release is not just an update; it signifies a major leap forward in our journey towards creating a more fair, censorship-resistant, and user-driven internet."
 references_and_footnotes = [ ]
 title = "Announcing Bee 2.0: Pioneering Decentralised Storage"
 _template = "post"
@@ -11,30 +11,30 @@ slug="announcing-bee-2.0-pioneering-next-gen-decentralised-storage"
 +++
 
 
-With less than two weeks until the launch of Bee 2.0 on March 26th, now is a time of great anticipation for the Swarm community and decentralised storage enthusiasts around the globe. **This release is not just an update**; it signifies a major leap forward in our journey towards creating a more fair, censorship-resistant, and user-driven internet. 
+With just a week left until the launch of Bee 2.0 on March 26th, now is a time of great anticipation for the Swarm community and decentralised storage enthusiasts around the globe. **This release is not just an update**; it signifies a major leap forward in our journey towards creating a more fair, censorship-resistant, and user-driven internet. 
 
 Bee 2.0 reinforces Swarm's position as a trailblazer in decentralised storage by introducing world-class data retrievability through the incorporation of [erasure coding—a powerful and cost effective data protection technology](https://blog.ethswarm.org/foundation/2023/erasure-coding-supercharges-swarm/). Additionally, the 2.0 update enhances the user experience with comprehensive changes aimed at improving stability, security, and privacy across the board. 
 
 ## The Journey So Far
 
-Bee 2.0 marks the culmination of months of significant technical advancements and the broader growth of the Swarm ecosystem. On the technical side, the development of the Bee client has undergone substantial refactoring to improve code maintainability and facilitate the development of new features. These efforts laid the foundation for the substantial upgrades introduced in the 2.0 release, including the new erasure coding feature serving as the cornerstone of this milestone. 
+Bee 2.0 marks the culmination of months of significant technical advancements and the broader growth of the Swarm ecosystem. On the technical side, the development of the Bee client has undergone substantial refactoring to improve code maintainability and facilitate the development of new features. These efforts laid the foundation for the substantial upgrades introduced in the 2.0 release, including the new erasure coding feature serving as the cornerstone of this release. 
 
 Parallel to the refactoring efforts, the rollout of the [postage stamp price oracle](https://blog.ethswarm.org/foundation/2023/oracle-overview/) has been underway. This feature enables dynamic pricing based on network usage, constituting a key component for Swarm's self-sustaining economic system. The release of the price oracle also marks the completion of [Swarm's storage incentives system](https://blog.ethswarm.org/foundation/2022/the-mechanics-of-swarm-networks-storage-incentives/).
 
-The above technological developments have unfolded amidst rapid growth within the Swarm network. [Thousands of staking nodes](https://swarmscan.io/) are actively contributing to a vibrant, expanding global community, alongside the [continuously evolving storage incentives economy](https://blog.staging.ethswarm.org/foundation/2024/state-of-the-network-february/). The same period also witnessed the growing prominence of [SWIPs (Swarm Improvement Proposals)](https://github.com/ethersphere/SWIPs/pulls), highlighting the shift to a more decentralised, community-driven development process.
+The above technological developments have unfolded amidst rapid growth of the Swarm network. [Thousands of staking nodes](https://swarmscan.io/) are actively contributing to a vibrant, expanding global community, alongside the [continuously evolving storage incentives economy](https://blog.staging.ethswarm.org/foundation/2024/state-of-the-network-february/). The same period also witnessed the growing prominence of [SWIPs (Swarm Improvement Proposals)](https://github.com/ethersphere/SWIPs/pulls), highlighting the shift to a more decentralised, community-driven development process.
 
 
 ## New Developments in Bee 2.0
 
-The new developments being introduced in Bee 2.0 fall into four broad categories alongside other minor changes. These include the introduction of the new erasure coding feature, widespread improvements to the Bee client's localstore, the transition from the Goerli testnet to Sepolia, and an upgrade to encrypted uploads. For a comprehensive breakdown of all the changes included in the 2.0 release, please refer to the [2.0 release notes on the releases page for the bee repo](https://github.com/ethersphere/bee/releases). Below, we take a closer look at each of these developments and their significance:
+The new developments being introduced in Bee 2.0 fall into four broad categories alongside other minor changes. These include the introduction of the new erasure coding feature, widespread improvements to the Bee client's localstore, the transition from the Goerli testnet to Sepolia, and fixing a vulnerability in encrypted uploads. For a comprehensive breakdown of all the changes included in the 2.0 release, please refer to the [2.0 release notes on the releases page for the bee repo](https://github.com/ethersphere/bee/releases). Below, we take a closer look at each of these developments and their significance:
 
 ### **1. Erasure Coding for Swarm Uploads**
 
-Erasure coding is a data protection approach which ensures high data retrievability at a fraction of the cost of full data replication. It guarantees that data uploaded to Swarm is retrievable even if some chunks are lost, providing a robust solution for data retrievability.
+Erasure coding is a data protection approach which ensures high data retrievability at a fraction of the cost of full data replication. It guarantees that data uploaded to Swarm is retrievable even if some chunks are lost, providing a robust solution for data retrievability. The addition of this feature means that Swarm is now able to provide far higher levels of data protection than ever before.
 
 ### **2. Localstore Improvements**
 
-The localstore is a vital component of the Bee client which is responsible for managing the data stored by the Bee client. The 2.0 release includes improvements to chunk syncing which help to reduce freezes and ensure data consistency within neighbourhoods. Addressing previous issues affecting node operations, these improvements made to the localstore ensure a smoother and more reliable user experience for node operators.
+The localstore is a vital component which is responsible for managing the data stored by the Bee client. The 2.0 release includes improvements to chunk syncing which help to reduce freezes and ensure data consistency within neighbourhoods. These improvements made to the localstore ensure a smoother and more reliable user experience for node operators.
 
 ### **3. Transition from Goerli to Sepolia**
 
@@ -52,7 +52,7 @@ The fix involves a simple one-line change but is not backwards compatible. To mi
 
 ## Major Improvements to User Experience
 
-The Bee 2.0 release brings significant improvements not only in technical aspects but also in user experience for both node operators and data uploaders:
+The Bee 2.0 release brings significant improvements in user experience for both node operators and data uploaders:
 
 **1. Stability and Performance:** The localstore improvements and the introduction of erasure coding result in a more stable network with far stronger data retrieval guarantees and reduced latency for file retrieval.
 
@@ -60,7 +60,7 @@ The Bee 2.0 release brings significant improvements not only in technical aspect
 
 **3. Unparalleled Data Retrievability:** With erasure coding, Swarm ensures that files remain retrievable even in cases of severe data loss (the [specific level of protection can be adjusted](https://docs.ethswarm.org/docs/develop/access-the-swarm/erasure-coding#uploading-with-erasure-coding) to match the desired balance of cost vs data protection).
 
-**4. Improved Incentives for Node Operators:** Optimizations in the localstore component enhance chunk syncing performance, potentially reducing freezes and improving the user experience for node operators.
+**4. Smoother Experience for Node Operators:** Optimisations in the localstore component enhance chunk syncing performance, potentially reducing freezes and improving the user experience for node operators.
 
 
 ### Join the Swarm!
