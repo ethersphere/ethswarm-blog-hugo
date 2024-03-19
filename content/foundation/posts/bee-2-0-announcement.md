@@ -17,7 +17,7 @@ Bee 2.0 reinforces Swarm's position as a trailblazer in decentralised storage by
 
 ## The Journey So Far
 
-Bee 2.0 marks the culmination of months of significant technical advancements and the broader growth of the Swarm ecosystem. On the technical side, the development of the Bee client has undergone substantial refactoring to improve code maintainability and facilitate the development of new features. These efforts laid the foundation for the substantial upgrades introduced in the 2.0 release, including the new erasure coding feature serving as the cornerstone of this release. 
+Bee 2.0 marks the culmination of months of significant technical advancements and the broader growth of the Swarm ecosystem. On the technical side, the development of the Bee client has undergone substantial refactoring to improve code maintainability and facilitate the development of new features. These efforts laid the foundation for the substantial upgrades introduced in the 2.0 release, including the new erasure coding feature serving as its cornerstone.
 
 Parallel to the refactoring efforts, the rollout of the [postage stamp price oracle](https://blog.ethswarm.org/foundation/2023/oracle-overview/) has been underway. This feature enables dynamic pricing based on network usage, constituting a key component for Swarm's self-sustaining economic system. The release of the price oracle also marks the completion of [Swarm's storage incentives system](https://blog.ethswarm.org/foundation/2022/the-mechanics-of-swarm-networks-storage-incentives/).
 
@@ -44,7 +44,7 @@ As the Goerli testnet winds down, Swarm is shifting to the newer Sepolia testnet
 
 ### **4. Encryption Vulnerability Fix**
 
-A reported vulnerability concerning encrypted uploads allowed for 8 bytes of an encrypted chunk to be revealed. The 2.0 update includes a fix to ensure the entire chunk is securely encrypted. 
+A vulnerability reported through a bug bounty by developers in the process of implementing Swarm encryption allowed a particular stretch of 8 bytes of certain files to be revealed. The bug has already been present since the first time encryption was introduced in the Swarm client of the pre-Bee era.
 
 The fix involves a simple one-line change but is not backwards compatible. To mitigate this issue, uploaders of encrypted files prior to the 2.0 release should back up their uploaded files, allow the associated postage stamps to expire, and then perform another encrypted upload of the files using a post-2.0 client to guarantee the security of the uploaded data. 
 
