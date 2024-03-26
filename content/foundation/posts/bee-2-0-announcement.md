@@ -11,6 +11,9 @@ slug="announcing-bee-2.0-pioneering-next-gen-decentralised-storage"
 +++
 
 
+
+***UPDATE (26/03/24):** Bee 2.0 is now live! Make sure to read the [transition guide](https://blog.ethswarm.org/foundation/2024/bee-2-0-transition-guide/) and [update](https://docs.ethswarm.org/docs/bee/working-with-bee/upgrading-bee) your node to experience all the enhancements introduced in 2.0. As a next step, get started [learning about erasure coding](https://docs.ethswarm.org/docs/develop/access-the-swarm/erasure-coding) and how it can help protect your data. See the [release notes](https://github.com/ethersphere/bee/releases/tag/v2.0.0) for a detailed list of changes.*
+
 With just a week left until the launch of Bee 2.0 on March 26th, now is a time of great anticipation for the Swarm community and decentralised storage enthusiasts around the globe. **This release is not just an update**; it signifies a major leap forward in our journey towards creating a more fair, censorship-resistant, and user-driven internet. 
 
 Bee 2.0 reinforces Swarm's position as a trailblazer in decentralised storage by introducing world-class data retrievability through the incorporation of [erasure coding—a powerful and cost effective data protection technology](https://blog.ethswarm.org/foundation/2023/erasure-coding-supercharges-swarm/). Additionally, the 2.0 update enhances the user experience with comprehensive changes aimed at improving stability, security, and privacy across the board. 
