@@ -81,7 +81,7 @@ In summary, through practical experimentation and adaptation, Molecule has navig
 
 ### A market maker's view on bonding curves
 
-Christof Cloete focused on the implications of the bonding curve as a financial instrument from a market maker's viewpoint, illuminating the operational challenges and strategic limitations that bonding curves can impose, particularly in the dynamic and often volatile nature of cryptocurrency markets. He highlighted how the intrinsic design of bonding curves** impose certain operational constraints on market makers**. These constraints stem from the predefined mathematical relationship between the price and supply of tokens, which limits the flexibility market makers have in deploying various trading strategies to respond to market conditions.
+Christof Cloete focused on the implications of the bonding curve as a financial instrument from a market maker's viewpoint, illuminating the operational challenges and strategic limitations that bonding curves can impose, particularly in the dynamic and often volatile nature of cryptocurrency markets. He highlighted how the intrinsic design of bonding curves **impose certain operational constraints on market makers**. These constraints stem from the predefined mathematical relationship between the price and supply of tokens, which limits the flexibility market makers have in deploying various trading strategies to respond to market conditions.
 
 > *“The reliance on a predetermined formula to dictate trading conditions means market makers cannot easily adjust their strategies (...). This rigidity can be particularly challenging in the fast-paced and unpredictable crypto market, where adaptability is key to maintaining liquidity and stabilizing token prices"*
 
