@@ -48,7 +48,7 @@ Additionally, he also elaborated the open questions for collective exploration:
 
 **Risk Perception and Complexity**: Another significant question was whether the bonding curve improves or worsens the risk perception of Swarm's token. The complexity of bonding curves could deter  general understanding and participation, potentially affecting individuals’ willingness to engage with the token.
 
-**Success of Projects Using Bonding Curves: **Gregor sought insights into why there aren't more projects successfully utilising bonding curves and what can be learned from those who do. This question points towards a need for case studies and analyses to understand the conditions under which bonding curves thrive.
+**Success of Projects Using Bonding Curves:** Gregor sought insights into why there aren't more projects successfully utilising bonding curves and what can be learned from those who do. This question points towards a need for case studies and analyses to understand the conditions under which bonding curves thrive.
 
 In summary, Gregor highlighted the elements that voters should consider when analysing the benefits and drawbacks of the bonding curve in the upcoming vote. 
 
@@ -68,7 +68,7 @@ This led to a pivot in Molecule's approach, viewing bonding curves not as a one-
 
 Indeed, bonding curves were an innovative funding model that caught the attention of Molecule's team with their promise of a dynamic method for pricing and trading ownership in IP assets, potentially revolutionising the way early-stage biotech projects are funded.
 
-The appeal of bonding curves was partly due to their theoretical underpinnings, which suggested that they could accurately model the value inflection points inherent in the drug development process. This was seen as **a way to create a mathematical function that could represent the price of an IP asset **based on its development stage. However, despite the initial enthusiasm, they encountered significant challenges when applying bonding curves in practice; they found that the assumptions underlying the curves did not always hold true in the complex and unpredictable world of biotech funding. For example, one major lesson was that the market dynamics of IP assets, especially drugs, could shift dramatically as new information emerged during development. A drug initially developed for one condition might find applications in another, fundamentally altering its market potential and, by extension, its value.
+The appeal of bonding curves was partly due to their theoretical underpinnings, which suggested that they could accurately model the value inflection points inherent in the drug development process. This was seen as **a way to create a mathematical function that could represent the price of an IP asset** based on its development stage. However, despite the initial enthusiasm, they encountered significant challenges when applying bonding curves in practice; they found that the assumptions underlying the curves did not always hold true in the complex and unpredictable world of biotech funding. For example, one major lesson was that the market dynamics of IP assets, especially drugs, could shift dramatically as new information emerged during development. A drug initially developed for one condition might find applications in another, fundamentally altering its market potential and, by extension, its value.
 
 #### Pivot - Bonding curve as a tool for initial liquidity
 
