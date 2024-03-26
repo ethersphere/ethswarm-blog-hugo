@@ -2,7 +2,7 @@
 banner = "/uploads/bc11.png"
 images = [ "/uploads/bc11.png" ]
 categories = [ "Ecosystem" ]
-date = 2024-03-26T13:00:01.000Z
+date = 2024-03-26T00:00:01.000Z
 description = "In a recent webinar Rethinking Bonding Curves, hosted by the Crypto Oracle, participants delved into the complex world of bonding curves."
 references_and_footnotes = [ ]
 title = "Rethinking Bonding Curves"
