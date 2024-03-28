@@ -120,7 +120,7 @@ Further instructions will come on how to vote if you’re staking BZZ, so stay t
 
 *The Swarm Foundation invites the community to decide on the future of the bonding curve mechanism, as several community members expressed concerns about the current relevance of the Swarm bonding curve design.*
 
-*You can read more about the voting and the reasons behind it here.*
+*You can read more about the voting and the reasons behind it [here](https://blog.ethswarm.org/foundation/2024/swarms-community-governance-the-bonding-curve-vote/).*
 
 
 **What is the Bonding Curve?**
