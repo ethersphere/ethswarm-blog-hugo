@@ -155,7 +155,7 @@ Further instructions will come on how to vote if you’re staking BZZ, so stay t
 
 *You have 28 days to cast your vote, so if you have any questions regarding the bonding curve or Swarm tokenomics, or if you are unsure about how to cast your vote, there is no need to rush. Please take the time to make an informed decision.*  
 
-*In the case of unforeseen [black swan events](https://en.wikipedia.org/wiki/Black_swan_theory) that might detriment the integrity of the voting, the voting might be suspended.*
+*In the case of unforeseen black swan events that might detriment the integrity of the voting, the voting might be suspended.*
 
 
 
