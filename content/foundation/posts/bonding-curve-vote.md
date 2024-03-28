@@ -29,7 +29,7 @@ This blogpost will help you navigate the voting process, and contains informatio
 ## Summary of the voting
 The Swarm Foundation addressed concerns about the current relevance of the Swarm bonding curve design, and announced that the bonding curve’s existence would be put to a vote, offering the community the choice to either maintain or remove it.
 
-##### Important implications on the vote
+#### Important implications on the vote
 
 Please note that if the bonding curve gets voted down, the smart contract will be deactivated, and the DAI remaining in the smart contract will not be accessible. There will be no issuance of new tokens, the BZZ in circulation will remain, users will simply buy BZZ from CEXes and DEXes instead of from the bonding curve. 
 
@@ -48,7 +48,7 @@ Voting will be conducted on [Snapshot](https://snapshot.org/#/swarmfoundation.et
 * 28 March, 11:59 pm UTC: voting officially opens
 * 25 April, 11:59 pm UTC: voting closes
 
-##### Important considerations on the timeline
+#### Important considerations on the timeline
 
 You have 28 days to cast your vote, so if you have any questions regarding the bonding curve or Swarm tokenomics, or if you are unsure about how to cast your vote, there is no need to rush. Please take the time to make an informed decision. Below you can find further reading recommendations to cast your vote intentionally. 
 
@@ -167,7 +167,7 @@ If you need more information in order to cast your vote, in the past weeks, seve
 * “Rethinking Bonding Curves” an expert debate. Watch the YouTube video [here](https://www.youtube.com/watch?v=43x-GxCO9K8), or read the summary [here](https://blog.ethswarm.org/foundation/2024/rethinking-bonding-curves/). 
 * “Are Bonding Curves good or bad?” Twitter space with Web3 and DeFi experts, listen to it [here](https://twitter.com/i/spaces/1yNxaZdRdaDKj?s=20). 
 
- Also, please feel free to come to our [discord server](https://discord.gg/Ycpj8gstQP)’s channel #tokenomics to discuss the subject with other community members. 
+ Also, please feel free to come to our [discord server](https://discord.gg/Ycpj8gstQP)’s channel #bzz-tokenomics to discuss the subject with other community members. 
 
 
 ### In conclusion
