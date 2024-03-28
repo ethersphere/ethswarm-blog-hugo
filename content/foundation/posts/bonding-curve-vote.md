@@ -105,9 +105,9 @@ A vote is a BZZ token in a wallet that is eligible for voting.
 
 Further instructions will come on how to vote if you’re staking BZZ, so stay tuned. 
 
-<span style="color:grey">
+
     
-    ## Voting
+## Voting
 
     #### Question:
 
@@ -158,7 +158,7 @@ Further instructions will come on how to vote if you’re staking BZZ, so stay t
 
     In the case of unforeseen black swan events that might detriment the integrity of the voting, the voting might be suspended.
 
-</span>
+
 
 ## Further reading
 If you need more information in order to cast your vote, in the past weeks, several panels have taken place and materials have been disseminated, some of which you can find here: 
