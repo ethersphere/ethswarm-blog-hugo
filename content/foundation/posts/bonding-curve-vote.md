@@ -69,9 +69,7 @@ For _X_ BZZ held beyond the initial 10, your vote V is calculated as
 
 
 
-$$
-V = [\sqrt{X - 9}],
-$$
+![formula](/uploads/formula.png)
 
 where the square brackets [∙] denote the integral part; that is, the largest integer smaller than the value inside the brackets. The reason 9 is subtracted instead of 10 from _X_ under the square root is to ensure that someone with 10 BZZ gets a vote.
 
@@ -130,42 +128,39 @@ Further instructions will come on how to vote if you’re staking BZZ, so stay t
 *The bonding curve is a mathematical function designed to automatically adjust the token price based on its supply, offering a transparent and predictable pricing mechanism. Initially deployed to enhance resilience against price manipulation and establish a fair distribution system that discourages inflation, the bonding curve ensures token availability for purchase regardless of market supply and demand (more info [here](https://blog.ethswarm.org/foundation/2021/swarm-and-its-bzzaar-bonding-curve/)).*
 
 *However, after almost three years, it’s now time for the community of token holders to determine the direction they wish Swarm to pursue.*
-*
-More information can be found at these links:
-* Bonding curve description [blogpost](https://blog.ethswarm.org/foundation/2021/swarm-and-its-bzzaar-bonding-curve/). 
-* Voting announcement [blogpost](https://blog.ethswarm.org/foundation/2024/swarms-community-governance-the-bonding-curve-vote/). 
-* “Rethinking Bonding Curves” an expert debate. Watch the YouTube video [here](https://www.youtube.com/watch?v=43x-GxCO9K8), or read the summary [here](https://blog.ethswarm.org/foundation/2024/rethinking-bonding-curves/). 
-* “Are Bonding Curves good or bad?” Twitter space with Web3 and DeFi experts, listen to it [here](https://twitter.com/i/spaces/1yNxaZdRdaDKj?s=20). 
-*
+
+*More information can be found at these links:*
+* *Bonding curve description [blogpost](https://blog.ethswarm.org/foundation/2021/swarm-and-its-bzzaar-bonding-curve/).*
+* *Voting announcement [blogpost](https://blog.ethswarm.org/foundation/2024/swarms-community-governance-the-bonding-curve-vote/).*
+* *“Rethinking Bonding Curves” an expert debate. Watch the YouTube video [here](https://www.youtube.com/watch?v=43x-GxCO9K8), or read the summary [here](https://blog.ethswarm.org/foundation/2024/rethinking-bonding-curves/).* 
+* *“Are Bonding Curves good or bad?” Twitter space with Web3 and DeFi experts, listen to it [here](https://twitter.com/i/spaces/1yNxaZdRdaDKj?s=20).*
 
 **Voting options:**
 
-1. REMOVE: Select this option if you want to remove the bonding curve. A majority vote for this option means that the bonding curve will be shut down.
-2. MAINTAIN: Select this option if you want to keep the bonding curve in existence. A majority vote for this option means that the bonding curve will remain in place.
+1. *REMOVE: Select this option if you want to remove the bonding curve. A majority vote for this option means that the bonding curve will be shut down.*
+2. *MAINTAIN: Select this option if you want to keep the bonding curve in existence. A majority vote for this option means that the bonding curve will remain in place.*
 
-**Voting timeline:**
-* 28 February,12:00am UTC: snapshot taken for voting eligibility, at [ethereum block 19322320](https://etherscan.io/block/19322320) and [gnosis block 32668301](https://gnosisscan.io/block/32668301) 
-* 28 March, 11:59 pm UTC: voting officially opens
-* 25 April, 11:59 pm UTC: voting closes
-* 4 May, 12:00 pm UTC: if  the quorum is met and “REMOVE” won, the bonding curve will be shut down. 
+**Voting timeline:** 
+* *28 February,12:00am UTC: snapshot taken for voting eligibility, at [ethereum block 19322320](https://etherscan.io/block/19322320) and [gnosis block 32668301](https://gnosisscan.io/block/32668301)* 
+* *28 March, 11:59 pm UTC: voting officially opens*
+* *25 April, 11:59 pm UTC: voting closes*
+* *4 May, 12:00 pm UTC: if  the quorum is met and “REMOVE” won, the bonding curve will be shut down.* 
 
 **Important implications on the vote**
 
-Please note that if the bonding curve gets voted down, the smart contract will be killed, and the BZZ and the DAI remaining in the smart contract will be lost. There will be no issuance of new tokens, the BZZ in circulation will remain, users will simply buy BZZ from CEXes and DEXes instead of from the bonding curve. 
+*Please note that if the bonding curve gets voted down, the smart contract will be killed, and the BZZ and the DAI remaining in the smart contract will be lost. There will be no issuance of new tokens, the BZZ in circulation will remain, users will simply buy BZZ from CEXes and DEXes instead of from the bonding curve.* 
 
 
 **Important considerations**
 
-You have 28 days to cast your vote, so if you have any questions regarding the bonding curve or Swarm tokenomics, or if you are unsure about how to cast your vote, there is no need to rush. Please take the time to make an informed decision.  
+*You have 28 days to cast your vote, so if you have any questions regarding the bonding curve or Swarm tokenomics, or if you are unsure about how to cast your vote, there is no need to rush. Please take the time to make an informed decision.*  
 
-In the case of unforeseen black swan events that might detriment the integrity of the voting, the voting might be suspended. *
+*In the case of unforeseen black swan events that might detriment the integrity of the voting, the voting might be suspended.*
 
 
 
 ## Further reading
 If you need more information in order to cast your vote, in the past weeks, several panels have taken place and materials have been disseminated, some of which you can find here: 
-
-
 
 * Bonding curve description [blogpost](https://blog.ethswarm.org/foundation/2021/swarm-and-its-bzzaar-bonding-curve/). 
 * Voting announcement [blogpost](https://blog.ethswarm.org/foundation/2024/swarms-community-governance-the-bonding-curve-vote/). 
