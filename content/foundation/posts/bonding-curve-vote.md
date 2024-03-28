@@ -2,7 +2,7 @@
 banner = "/uploads/bc111.png"
 images = [ "/uploads/bc111.png" ]
 categories = [ "Ecosystem" ]
-date = 2024-03-28T15:00:01.000Z
+date = 2024-03-28T00:00:01.000Z
 description = "The Swarm protocol is at a pivotal moment with an upcoming vote on the future of the bonding curve mechanism."
 references_and_footnotes = [ ]
 title = "How to Participate in the Bonding Curve Vote"
