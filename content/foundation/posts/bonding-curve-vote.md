@@ -48,7 +48,7 @@ Voting will be conducted on [Snapshot](https://snapshot.org/#/swarmfoundation.et
 * 28 March, 11:59 pm UTC: voting officially opens
 * 25 April, 11:59 pm UTC: voting closes
 
-*Important considerations on the timeline*
+**Important considerations on the timeline**
 
 You have 28 days to cast your vote, so if you have any questions regarding the bonding curve or Swarm tokenomics, or if you are unsure about how to cast your vote, there is no need to rush. Please take the time to make an informed decision. Below you can find further reading recommendations to cast your vote intentionally. 
 
