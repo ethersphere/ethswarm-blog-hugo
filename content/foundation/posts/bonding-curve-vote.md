@@ -30,6 +30,7 @@ This blogpost will help you navigate the voting process, and contains informatio
 The Swarm Foundation addressed concerns about the current relevance of the Swarm bonding curve design, and announced that the bonding curve’s existence would be put to a vote, offering the community the choice to either maintain or remove it.
 
 **Important implications on the vote**
+
 Please note that if the bonding curve gets voted down, the smart contract will be deactivated, and the DAI remaining in the smart contract will not be accessible. There will be no issuance of new tokens, the BZZ in circulation will remain, users will simply buy BZZ from CEXes and DEXes instead of from the bonding curve. 
 
 
