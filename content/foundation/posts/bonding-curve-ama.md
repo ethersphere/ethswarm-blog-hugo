@@ -14,11 +14,11 @@ As the voting on the bonding curve is ongoing until April 25th 2024, many questi
 
 ## Market Impact and Tokenomics
 
-1. **What is a bonding curve?**
+### What is a bonding curve?**
 A bonding curve is a mathematical formula of the price of a token and its supply. A bonding curve smart contract acts as an automated vending machine where one can acquire tokens or return them in exchange for some DAI that the smart contract holds in its reserve, as in the case of the Swarm bonding curve (also called “Bzzaar”). You can read more about the Swarm bonding curve [here](https://blog.ethswarm.org/foundation/2021/swarm-and-its-bzzaar-bonding-curve/).
 
 
-2. **How does the Bzzaar's bonding curve work?**
+#### How does the Bzzaar's bonding curve work?**
 The Bzzaar's bonding curve automatically adjusts the price of BZZ tokens based on the current supply. When tokens are acquired from the bonding curve, new ones are minted, increasing the supply and the cost per token. Conversely, when tokens are sold back to the bonding curve, they are burnt, reducing the supply and lowering the price per token. You can read more about the Swarm bonding curve [here](https://blog.ethswarm.org/foundation/2021/swarm-and-its-bzzaar-bonding-curve/).
 
 
