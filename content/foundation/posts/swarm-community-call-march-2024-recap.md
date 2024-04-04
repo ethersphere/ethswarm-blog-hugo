@@ -70,4 +70,4 @@ Sandor Nagy, Solarpunk CEO, will appear at this year’s NFT: NYC conference. He
 
 Last but not least, a **New Grant wave** has opened. Please follow the link below to find out more and apply: [https://grants.ethswarm.org/](https://grants.ethswarm.org/).
 
-**The next Community Call will be on 25 April**, with the results from the bonding curve vote coming in, so do [join us live](https://www.addevent.com/event/fx21028312) on Discord then! 
+**The next Community Call will be on 25 April**, with the results from the bonding curve vote coming in, so do [join us live](https://www.addevent.com/event/fx21028312) on Discord then!
