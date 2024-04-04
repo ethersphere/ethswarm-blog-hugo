@@ -5,7 +5,7 @@ banner = "/uploads/bc.png"
 images = [ "/uploads/bc.png" ]
 categories = [ "Development updates" ]
 date = 2024-04-03T00:00:00.000Z
-description = "In the March edition of our 'State of the Network' series, we provide an in-depth look at the Swarm network's metrics and the notable changes they have undergone. This month's report captures a dynamic period for the network, characterized by significant variations in rewards, participation, and geographical distribution of nodes. Through this analysis, stakeholders can gain insights into the evolving landscape of the Swarm network, marked by shifts in monthly rewards, win values, average earnings per node, and the global distribution of active nodes." 
+description = "In the March edition of our 'State of the Network series, we provide an in-depth look at the Swarm network's metrics and the notable changes they have undergone. This month's report captures a dynamic period for the network, characterized by significant variations in rewards, participation, and geographical distribution of nodes. Through this analysis, stakeholders can gain insights into the evolving landscape of the Swarm network, marked by shifts in monthly rewards, win values, average earnings per node, and the global distribution of active nodes." 
 references_and_footnotes = [ ]
 title = "State of the Network: March"
 _template = "post"
@@ -76,7 +76,7 @@ This metric shows the average monthly earnings for an active staking node (defin
 | December  | 12.40                              |
 | January   | 13.89                              |
 | February  | 13.21                              |
-| March     | 7.71                               |
+| March     | 7.711                              |
 
 ![chart-Avg-Total-Earnings-per-Node](/uploads/chart-Avg-Total-Earnings-per-Node-March.png)
 
@@ -132,7 +132,7 @@ This metric shows the total number of active staking nodes across the top four c
 
 ![Total Staking Nodes by Country.png](/uploads/Total-Active-Staking-Nodes-by-Country-March.png)
 
-The geographic distribution of active staking nodes in March showed notable changes, with increases in nodes from China, Finland, and "Other" countries, while the "Unknown" category saw a substantial decrease. 
+The geographic distribution of active staking nodes in March showed notable changes, with increases in nodes from China, Finland, and "Other" countries, while the "Unknown" category saw a substantial increase. 
 
 ## Conclusion
 
