@@ -30,7 +30,7 @@ This metric shows the total rewards paid out across the entire network for each 
 
 ![chart-Total-Network-Monthly-Rewards](/uploads/chart-Total-Network-Monthly-Rewards-March.png)
 
-In March, total network rewards saw a notable decrease to 104,657 xBZZ, marking the lowest payout in the recent months, underscoring a change in network reward allocation.
+In March, total network rewards saw a notable decrease to 104,657 xBZZ, marking the lowest payout in the recent months, underscoring a change in network utilisation.
 
 ## Monthly Median Win Values
 
