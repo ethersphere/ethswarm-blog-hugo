@@ -41,7 +41,7 @@ The section details cost implications of different erasure codes redundancy leve
 Besides the cost calculator, the newly added section also features an in-depth look at neighbourhoods and doubling and there’s also a troubleshooting section for node operators. In addition, Noah highlighted updates to the [API reference documentation](https://docs.ethswarm.org/docs/api-reference/), which is now inclusive of all new endpoints, and the introduction of meta tags for improved sharing visuals. 
 
 
-## Community Talks: Streaming on Swarm (Solarpunk) & Storing Ethereum’s history on Swarm (Blobscan) 
+## Community Talks: Streaming on Swarm (Solarpunk) & Storing Ethereum’s Blobs on Swarm (Blobscan) 
 
 Levente Kiss from Solarpunk presented a browser-based video streaming application that leverages Swarm for both uploading and downloading video content. 
 
