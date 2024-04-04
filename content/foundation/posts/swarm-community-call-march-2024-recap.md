@@ -58,7 +58,7 @@ Currently, Blobscan stores blobs from the Ethereum mainnet and testnet, but they
 
 ## Announcing
 
-## To sum up the Recap, the following announcements were made during the March Community Call: 
+To sum up the Recap, the following announcements were made during the March Community Call: 
 
 The annual **Swarm Summit** will be held IN REAL LIFE this year again, first time after Covid hit back in 2020. From **20–21 June**, the team will gather in **Ljubljana, Slovenia**, and you are welcome to join them in person. The Summit will, of course, be streamed live online as well, but there’s nothing quite like a physical experience. The call for papers is out – [https://summit.ethswarm.org/swarm-summit-2024/cfp](https://summit.ethswarm.org/swarm-summit-2024/cfp), you are kindly invited to apply. 
 
