@@ -76,7 +76,7 @@ This metric shows the average monthly earnings for an active staking node (defin
 | December  | 12.40                              |
 | January   | 13.89                              |
 | February  | 13.21                              |
-| March     | 7.711                              |
+| March     | 7.71                              |
 
 ![chart-Avg-Total-Earnings-per-Node](/uploads/chart-Avg-Total-Earnings-per-Node-March.png)
 
