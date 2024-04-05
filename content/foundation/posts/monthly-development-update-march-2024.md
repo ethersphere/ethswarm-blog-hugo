@@ -2,10 +2,10 @@
 banner = "/uploads/dev-update-march.png"
 images = [ "/uploads/dev-update-march.png" ]
 categories = [ "Development updates" ]
-date = 2024-03-05T00:00:00.000Z
-description = "In February, the Bee Track team focused on preparing for the imminent Swarm 2.0 release, which promises substantial enhancements, including best-in-class redundancy via erasure codes."
+date = 2024-04-05T00:00:00.000Z
+description = "March was a big month for Swarm. Bee 2.0 is out and 2.1 is already being drafted. Version 2.0 brought with it erasure codes, a new testing environment on Sepolia and a host of localstore fixes. "
 references_and_footnotes = [ ]
-title = "Monthly Development Update – February 2024"
+title = "Monthly Development Update – March 2024"
 _template = "post"
 +++
 
