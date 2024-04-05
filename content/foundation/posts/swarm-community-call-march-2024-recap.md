@@ -62,7 +62,7 @@ To sum up the Recap, the following announcements were made during the March Comm
 
 The annual **Swarm Summit** will be held IN REAL LIFE this year again, first time after Covid hit back in 2020. From **20–21 June**, the team will gather in **Ljubljana, Slovenia**, and you are welcome to join them in person. The Summit will, of course, be streamed live online as well, but there’s nothing quite like a physical experience. The call for papers is out – [https://summit.ethswarm.org/swarm-summit-2024/cfp](https://summit.ethswarm.org/swarm-summit-2024/cfp), you are kindly invited to apply. 
 
-Swarm Foundation will be present at the upcoming [Ethereum Zürich](https://ethereumzuri.ch/) conference, with Costanza Gallo speaking on “How Swarm makes crypto cyberpunk again” on Saturday, 6 April, 14:35, at Surge Stage. 
+Swarm Foundation will be present at the upcoming [Ethereum Zürich](https://ethereumzuri.ch/) conference, with Costanza Gallo speaking on “How Swarm makes crypto cyberpunk again” on Saturday, 6 April, 14:35, at Surge Stage.
 
 Three Swarm Foundation team members have embarked on a “China Tour” and will be visiting Shanghai, Shenzhen and Hong Kong for the Web3 festival in the coming days. If you are around, drop us a line!
 
@@ -70,4 +70,4 @@ Sandor Nagy, Solarpunk CEO, will appear at this year’s NFT: NYC conference. He
 
 Last but not least, a **New Grant wave** has opened. Please follow the link below to find out more and apply: [https://grants.ethswarm.org/](https://grants.ethswarm.org/).
 
-**The next Community Call will be on 25 April**, with the results from the bonding curve vote coming in, so do [join us live](https://www.addevent.com/event/fx21028312) on Discord then! 
+**The next Community Call will be on 25 April**, with the results from the bonding curve vote coming in, so do [join us live](https://www.addevent.com/event/fx21028312) on Discord then!
