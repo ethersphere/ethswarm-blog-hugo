@@ -127,7 +127,7 @@ Don’t forget to join the April Swarm Community Call ([add to calendar](https:/
 
 
 ### Events:
-##### **Swarm Community Call – 28 March: **the monthly “stay up to date” event
+##### Swarm Community Call – 28 March: the monthly “stay up to date” event
 * With Bee 2.0 released on 26 March and the bonding curve put to community vote, the March Community Call was packed with information, on top of which it also featured two Community talks, one from the Blobscan team and another from Solarpunks on videostreaming on Swarm. Read the Recap [here](https://blog.ethswarm.org/foundation/2024/swarm-community-call-28-march-recap/)! 
 
 
