@@ -174,4 +174,6 @@ If you need more information in order to cast your vote, in the past weeks, seve
 
 This vote is more than a decision on a financial mechanism; it is a testament to our commitment to democratic governance and community empowerment. Ensure your voice is heard by participating in this crucial vote. Your participation shapes the future of Swarm.
 
+Your participation shapes the future of Swarm. **Cast your vote on [Snapshot](https://snapshot.org/#/swarmfoundation.eth) now**
+
 For any questions or further assistance, join the discussion on our community channels. Together, let's make an informed decision for the future of Swarm.
