@@ -91,6 +91,8 @@ Voting closes on April-25-2024, at 11:59 PM UTC.
 
 Please [watch this demo](https://youtu.be/vzWweyUmh7Q) developed by a community member to learn how to cast your vote.
 
+[![youtube](https://img.youtube.com/vi/video-id/0.jpg)](https://youtu.be/vzWweyUmh7Q)
+
 ### Node operators
 
 If you are a node operator, [here](https://www.npmjs.com/package/swarm-vote) you can find instructions on how to vote. 
