@@ -93,6 +93,9 @@ Please [watch this demo](https://youtu.be/vzWweyUmh7Q) developed by a community 
 
 [![youtube](/uploads/video-bodning-curve.png)](https://youtu.be/vzWweyUmh7Q)
 
+<iframe width="560" height="315" src="https://youtu.be/vzWweyUmh7Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 ### Node operators
 
