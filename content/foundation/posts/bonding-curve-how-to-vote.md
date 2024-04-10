@@ -1,6 +1,6 @@
 +++
-banner = "/uploads/bc111.png"
-images = [ "/uploads/bc111.png" ]
+banner = "/uploads/bc1111.png"
+images = [ "/uploads/bc1111.png" ]
 categories = [ "Ecosystem" ]
 date = 2024-04-10T00:00:01.000Z
 description = "This guide will walk you through the steps to cast your vote on the latest proposal using Snapshot."
@@ -9,8 +9,6 @@ title = "Your Voice Matters: How to Vote in the Swarm Bonding Curve Community Vo
 _template = "post"
 +++
 
-
-# Your Voice Matters: How to Vote in the Swarm Bonding Curve Community Vote
 
 The Swarm protocol is at a pivotal moment with an upcoming vote on the future of the bonding curve mechanism. Here’s everything you need to know to cast your vote. 
 
@@ -98,7 +96,7 @@ Please [watch this demo](https://youtu.be/vzWweyUmh7Q) developed by a community 
 If you are a node operator, [here](https://www.npmjs.com/package/swarm-vote) you can find instructions on how to vote. 
 
 
-### Helpful tips
+## Helpful tips
 
 Here are some blogposts that will give further details about the bonding curve and the vote.Please join the discussion on [Discord](https://discord.ethswarm.org/) where you can ask all your questions and connect with other community members.
 
