@@ -91,9 +91,9 @@ Voting closes on April-25-2024, at 11:59 PM UTC.
 
 Please [watch this demo](https://youtu.be/vzWweyUmh7Q) developed by a community member to learn how to cast your vote.
 
-[![youtube](/uploads/video-bodning-curve.png)](https://youtu.be/vzWweyUmh7Q)
+[![youtube](/uploads/video-bodning-curve.png)](https://youtu.be/vzWweyUmh7Q){:target="_blank"}
 
-<iframe width="560" height="315" src="https://youtu.be/vzWweyUmh7Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 
