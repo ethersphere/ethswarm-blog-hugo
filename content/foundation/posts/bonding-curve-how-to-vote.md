@@ -119,7 +119,7 @@ Here are some blogposts that will give further details about the bonding curve a
 5. Bonding Curve voting AMA \
 [https://blog.ethswarm.org/foundation/2024/bonding-curve-voting-ama/](https://blog.ethswarm.org/foundation/2024/bonding-curve-voting-ama/)
 
-There is still plenty of time to vote.Voting closes on April-25-2024, at 11:59 PM UTC.
+There is still plenty of time to vote. Voting closes on April-25-2024, at 11:59 PM UTC.
 
 Be cautious when connecting your wallet to online platforms. Ensure you are on the official Snapshot voting page for Swarm:
 
