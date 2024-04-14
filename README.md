@@ -71,7 +71,7 @@ npx pagefind --source "public" --force_language "en"
 ### Image
 
 ```markdown
-{{< image src="path/to/image.jpg" alt="Alt text" >}}
+{{< image src="path/to/image.jpg" alt="Alt text" caption="Caption" >}}
 ```
 
 ### Admonition
