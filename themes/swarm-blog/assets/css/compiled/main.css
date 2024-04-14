@@ -1769,6 +1769,60 @@ aside ul a:hover {
   border-radius: 9999px;
 }
 
+.border-l-8 {
+  border-left-width: 8px;
+}
+
+.border-admonition-danger-border {
+  --tw-border-opacity: 1;
+  border-color: rgb(255 0 122 / var(--tw-border-opacity));
+}
+
+.border-admonition-info-border {
+  --tw-border-opacity: 1;
+  border-color: rgb(23 0 255 / var(--tw-border-opacity));
+}
+
+.border-admonition-note-border {
+  --tw-border-opacity: 1;
+  border-color: rgb(221 221 221 / var(--tw-border-opacity));
+}
+
+.border-admonition-tip-border {
+  --tw-border-opacity: 1;
+  border-color: rgb(0 255 186 / var(--tw-border-opacity));
+}
+
+.border-admonition-warning-border {
+  --tw-border-opacity: 1;
+  border-color: rgb(255 107 0 / var(--tw-border-opacity));
+}
+
+.bg-admonition-danger {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 215 234 / var(--tw-bg-opacity));
+}
+
+.bg-admonition-info {
+  --tw-bg-opacity: 1;
+  background-color: rgb(229 227 255 / var(--tw-bg-opacity));
+}
+
+.bg-admonition-note {
+  --tw-bg-opacity: 1;
+  background-color: rgb(246 247 249 / var(--tw-bg-opacity));
+}
+
+.bg-admonition-tip {
+  --tw-bg-opacity: 1;
+  background-color: rgb(198 255 240 / var(--tw-bg-opacity));
+}
+
+.bg-admonition-warning {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 228 209 / var(--tw-bg-opacity));
+}
+
 .bg-black {
   --tw-bg-opacity: 1;
   background-color: rgb(0 0 0 / var(--tw-bg-opacity));
@@ -1920,6 +1974,10 @@ aside ul a:hover {
   text-align: left;
 }
 
+.font-serif {
+  font-family: "Source Serif 4 18pt", ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+}
+
 .text-2xl {
   font-size: 1.5rem;
   line-height: 2rem;
@@ -2067,6 +2125,10 @@ aside ul a:hover {
 .text-white {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
+}
+
+.text-opacity-80 {
+  --tw-text-opacity: 0.8;
 }
 
 .underline {
