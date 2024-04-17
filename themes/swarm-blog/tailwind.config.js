@@ -31,6 +31,18 @@ module.exports = {
           500: "#626262",
           900: "#111111",
         },
+        admonition: {
+          note: "#F6F7F9",
+          "note-border": "#DDDDDD",
+          tip: "#C6FFF0",
+          "tip-border": "#00FFBA",
+          info: "#E5E3FF",
+          "info-border": "#1700FF",
+          warning: "#FFE4D1",
+          "warning-border": "#FF6B00",
+          danger: "#FFD7EA",
+          "danger-border": "#FF007A",
+        },
         orange: "#FF7900",
       },
       fontFamily: {

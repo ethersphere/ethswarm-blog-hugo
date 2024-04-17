@@ -63,3 +63,26 @@ The index should be rebuilt every time the content changes.
 ```bash
 npx pagefind --source "public" --force_language "en"
 ```
+
+# Editing Content
+
+## Custom shortcodes
+
+### Image
+
+```markdown
+{{< image src="path/to/image.jpg" alt="Alt text" caption="Caption" >}}
+```
+
+### Admonition
+
+It can contain markdown content. Default type is `note`. We have `note`, `tip`, `info`, `warning` and `danger` to choose from. The type is the first argument.
+
+```markdown
+{{< admonition note >}}
+**bold**
+
+- list
+- item nr 2
+  {{< /admonition >}}
+```
