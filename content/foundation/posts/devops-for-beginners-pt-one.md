@@ -183,7 +183,7 @@ But if we pipe the results of the `/topology` endpoint into `jq`, it becomes muc
 
 ```bash
  curl http://localhost:1635/topology | jq
- ```
+```
 
 Then the results become far more readable:
 
@@ -244,7 +244,7 @@ curl http://localhost:1635/topology | jq '.' > output.json
 
 And we can confirm the contents of the file to confirm it has been saved using `cat`:
 
-```bash=
+```bash
 cat output.json
 ```
 And here we see the last few lines of the file:
@@ -291,13 +291,14 @@ When you run a command or a script with `nohup`, it ensures that the process con
 
 
 The basic syntax for using `nohup` is:
-```
+
+```bash
 nohup command [arguments] &
 ```
 
 Replace "command" with the name of the command or script you wish to run and include any necessary arguments. The trailing ampersand (&) tells the shell to run the command in the background. At this point, you receive the process ID, which you can stop with the kill command, for example:
 
-```
+```bash
 nohup command journalctl --lines=100 --follow --unit bee &
 [1] 12345
 ~ kill 12345
@@ -465,7 +466,6 @@ When following [the instructions for installing Bee](https://docs.ethswarm.org/d
 ### Linux Repositories
 
 - A repository in Linux is a storage location from which your system retrieves and installs software packages. Each repository contains a collection of software packages, along with information about these packages, such as their version and dependencies.
-
 - When you install a package using `apt-get`, Ubuntu searches the repositories listed in its sources. By default, Ubuntu is configured with its own repositories, but you can add third-party repositories to access additional software. Because the `bee` package is not part of any default repositories, you'll need to include the official repository maintained by the Swarm team when installing it.
 
 #### Adding a Repository:
@@ -483,9 +483,6 @@ When following [the instructions for installing Bee](https://docs.ethswarm.org/d
 #### Updating Package Lists and Installing Software
 - `sudo apt-get update` refreshes the list of available packages and their versions but does not install or upgrade any packages. It's essential to run this after adding a new repository to ensure that `apt-get` is aware of the new packages available.
 - `sudo apt-get install bee` then installs the Bee package from the newly added repository.
-
-
-
 
 
 {{< admonition danger >}}
@@ -592,6 +589,7 @@ When operating a Bee node, there are times you will need to access the contents 
 For example, to explore your Bee node's data folder at `/var/lib/bee` in order to export your private key, you would use these commands:
 
 Inspect data folder:
+
 ```bash
 sudo ls  /var/lib/bee/
 ```
@@ -637,7 +635,6 @@ sudo cat /var/lib/bee/keys/swarm.key | jq
   "version": 3,
   "id": "d92c2b71-41cf-4870-baac-ade128f9cbdb"
 }
-
 ```
 
 {{< admonition danger >}}
