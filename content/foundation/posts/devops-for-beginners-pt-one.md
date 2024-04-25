@@ -15,12 +15,13 @@ slug="devops-for-beginners-pt-one"
 ## DevOps for Beginners: Part One - Linux
 
 
-DevOps, short for Development and Operations, encompasses a comprehensive set of practices and tools for delivering web applications and services securely and efficiently. One major focus of DevOps is the hosting and management of web applications, including distributed nodes such as the Swarm Bee client. 
+DevOps, short for Development and Operations, amd one of its main focuses is the hosting and management of web applications, including distributed nodes such as the Swarm Bee client. 
 
-This guide serves as an entry point into DevOps for anyone interested in operating a Bee node. While it specifically addresses the needs of Bee node operators, the fundamentals covered are broadly applicable, making it a useful resource for aspiring node operators across many distributed p2p networks and blockchains.
+The main purpose of this guide is to make Bee and Swarm more accessible to a wider range of people by educating potential node operators who are interested in running a node but are lacking in knowledge of the required tools and concepts.
 
-This guide also serves as a companion to the [Bee installation instructions](https://docs.ethswarm.org/docs/bee/installation/install) on the official documentation website. One goal of this guide is provide you with all the background information needed to understand each step of the instructions. After completing this guide, you will be empowered to understand each step of the setup process rather than merely copy-pasting commands without understanding their purpose.
+It also serves as a general guide for anyone interested in operating nodes on decentralized networks, as most of the tools and concepts covered will apply to operating nodes on other networks as well.
 
+Furthermore the guide serves as a reference and companion for the Bee documentation, in particular the [Bee installation instructions](https://docs.ethswarm.org/docs/bee/installation/install). The Bee docs assume a lot of background knowledge, and this guide aims to get you up to speed with most of the devops tools and concepts mentioned in the docs.
 
 {{< admonition info >}}
 **ℹ️INFO:** If you're looking for a beginner-friendly guide to Linux that goes far more in-depth than this article, **[Linux Journey](https://linuxjourney.com/)** is an excellent starting point. The site offers **[open-source](https://github.com/cindyq/linuxjourney)** interactive tutorials covering a wide range of Linux topics.
