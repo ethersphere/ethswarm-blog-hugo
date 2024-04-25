@@ -15,7 +15,7 @@ slug="devops-for-beginners-pt-one"
 ## DevOps for Beginners: Part One - Linux
 
 
-DevOps, short for Development and Operations, amd one of its main focuses is the hosting and management of web applications, including distributed nodes such as the Swarm Bee client. 
+DevOps, short for Development and Operations, is a set of practices and tools for delivering web applications and services securely and efficiently. One of its main focuses is the hosting and management of web applications, including distributed nodes such as the Swarm Bee client. 
 
 The main purpose of this guide is to make Bee and Swarm more accessible to a wider range of people by educating potential node operators who are interested in running a node but are lacking in knowledge of the required tools and concepts.
 
