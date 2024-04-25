@@ -1245,6 +1245,11 @@ aside ul a:hover {
   margin-bottom: 1.5rem;
 }
 
+.content .admonition * {
+  margin-top: 0.375rem;
+  margin-bottom: 0.375rem;
+}
+
 .content > :where(:first-child) {
   margin-top: 0px !important;
 }

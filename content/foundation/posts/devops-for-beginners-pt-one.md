@@ -1,5 +1,3 @@
-
-
 +++
 banner = "/uploads/devops-for-beginners-pt-one.png"
 images = [ "/uploads/devops-for-beginners-pt-one.png" ]
@@ -14,7 +12,7 @@ slug="devops-for-beginners-pt-one"
 
 ## DevOps for Beginners: Part One - Linux
 
-This article is part one of a two part guide which introduces DevOps tools and concepts to beginner node operators. DevOps, short for Development and Operations, is a set of practices and tools for delivering web applications and services securely and efficiently. One of its main focuses is the hosting and management of web applications, including distributed nodes such as the Swarm Bee client. 
+This article is part one of a two part guide which introduces DevOps tools and concepts to beginner node operators. DevOps, short for Development and Operations, is a set of practices and tools for delivering web applications and services securely and efficiently. One of its main focuses is the hosting and management of web applications, including distributed nodes such as the Swarm Bee client.
 
 Part One of this guide focuses on Linux, while Part Two focuses on all other DevOps tools and concepts which are not explicitly part of Linux itself.
 
@@ -25,7 +23,9 @@ It also serves as a general guide for anyone interested in operating nodes on de
 Furthermore the guide serves as a reference and companion for the Bee documentation, in particular the [Bee installation instructions](https://docs.ethswarm.org/docs/bee/installation/install). The Bee docs assume a lot of background knowledge, and this guide aims to get you up to speed with most of the devops tools and concepts mentioned in the docs.
 
 {{< admonition info >}}
-**ℹ️ INFO:** If you're looking for a beginner-friendly guide to Linux that goes more in-depth than this article, **[Linux Journey](https://linuxjourney.com/)** is an excellent starting point. The site offers **[open-source](https://github.com/cindyq/linuxjourney)** interactive tutorials covering a wide range of Linux topics.
+**ℹ️ INFO:**
+
+If you're looking for a beginner-friendly guide to Linux that goes more in-depth than this article, **[Linux Journey](https://linuxjourney.com/)** is an excellent starting point. The site offers **[open-source](https://github.com/cindyq/linuxjourney)** interactive tutorials covering a wide range of Linux topics.
 {{< /admonition >}}
 
 {{< admonition tip >}}
@@ -34,13 +34,13 @@ Furthermore the guide serves as a reference and companion for the Bee documentat
 
 ## Target Audience for This Guide
 
-This guide is aimed at tech-savvy individuals who have already had some basic experience working with command lines and, potentially, some basic programming skills as well, but who lack in-depth experience with Linux and other DevOps tools. The guide aims to fill gaps in your knowledge and serve as a stepping-off point for further learning, with  external resources linked to in each section.
+This guide is aimed at tech-savvy individuals who have already had some basic experience working with command lines and, potentially, some basic programming skills as well, but who lack in-depth experience with Linux and other DevOps tools. The guide aims to fill gaps in your knowledge and serve as a stepping-off point for further learning, with external resources linked to in each section.
 
 ## **Linux**
 
 **What is Linux and why do we recommend it for running your node?**
 
-Linux is an open-source operating system, similar to macOS and Windows, but with some key differences. It is part of the Unix family of operating systems, which includes macOS but not Windows. 
+Linux is an open-source operating system, similar to macOS and Windows, but with some key differences. It is part of the Unix family of operating systems, which includes macOS but not Windows.
 
 Unlike macOS and Windows, Linux is available in many "flavours" or distributions, each with unique features and user interfaces. Known for its stability, security, and performance, Linux is the platform of choice for servers and development environments, owing to its reliability and flexibility.
 
@@ -64,9 +64,9 @@ Below we review several approaches for running Bee nodes, detailing the pros and
 **ℹ️ INFO:** This is our recommended method for beginner node operators looking to operate full Bee nodes to participate in staking. We cover getting started with a VPS in more detail in a dedicated section in part two of this article series.
 {{< /admonition >}}
 
-- **Ideal for:** Users seeking a remote, scalable, and manageable solution. 
+- **Ideal for:** Users seeking a remote, scalable, and manageable solution.
 - **Setup:** Rent a VPS and run Ubuntu on it. This approach is beneficial as it offloads hardware management and ensures consistent uptime.
-- **Instructions:** 
+- **Instructions:**
   - [Set up Ubuntu on a Digital Ocean Droplet](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-ubuntu-20-04-server-on-a-digitalocean-droplet)
   - [Set up Ubuntu on a Contabo VPS](https://webshanks.com/contabo-vps-setup/) (More cost-effective option)
 - **Pros:** No physical hardware management required, easy to scale, reliable uptime.
@@ -82,7 +82,7 @@ Below we review several approaches for running Bee nodes, detailing the pros and
 
 #### Ubuntu on WSL (Windows Subsystem for Linux)
 
-- **Ideal for:** Windows users who want to run Ubuntu alongside Windows without dual-booting. 
+- **Ideal for:** Windows users who want to run Ubuntu alongside Windows without dual-booting.
 - **Setup:** Install Ubuntu within Windows using WSL, which allows access to the Ubuntu terminal directly from Windows. This setup does not provide the Ubuntu Desktop GUI, but it is sufficient for Bee node operation.
 - **Instructions:** [Set up Ubuntu in WSL on Windows](https://learn.microsoft.com/en-us/windows/wsl/install)
 - **Pros:** Convenient for Windows users, no need for additional hardware.
@@ -96,54 +96,54 @@ Below we review several approaches for running Bee nodes, detailing the pros and
 - **Pros:** Portability - use your Ubuntu environment on any computer with a USB port.
 - **Cons:** Limited performance compared to a full installation, dependency on the USB drive speed.
 
-
 ### Terminal Navigation
 
-The terminal, also referred to as shell or command prompt (though these terms are technically distinct, they are commonly used interchangeably), provides you with a [CLI](https://en.wikipedia.org/wiki/Command-line_interface) that gives you direct and powerful access to your computer. The [bash shell](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) is the default shell on Ubuntu, but the commands covered in this guide work in many different shells.
+The terminal, also referred to as shell or command prompt (though these terms are technically distinct, they are commonly used interchangeably), provides you with a [CLI](https://en.wikipedia.org/wiki/Command-line_interface) that gives you direct and powerful access to your computer. The [bash shell](<https://en.wikipedia.org/wiki/Bash_(Unix_shell)>) is the default shell on Ubuntu, but the commands covered in this guide work in many different shells.
 
-Terminal navigation involves using command-line instructions to move through the filesystem. 
+Terminal navigation involves using command-line instructions to move through the filesystem.
 
 #### Key Concepts:
 
-  1. **Filesystem Structure:** Unix-like systems have a hierarchical directory structure, starting with the root directory (`/`). From there, directories branch out, containing subdirectories and files.
-  2. **Current Working Directory:** When you open a terminal, you are in a directory, known as the current working directory. You can perform operations relative to this directory.
-  3. **Pathnames:** There are two types of pathnames:
-    - **Absolute Pathnames:** Start from the root directory (e.g., `/usr/local/bin`)
-    - **Relative Pathnames:** Relative to the current directory (e.g., `./Documents`)
-  4. **Shell Scripting (Advanced):** Advanced shell users may learn how to write shell scripts which can be used to automate common tasks. While shell scripting is not covered in this guide, you can read more about it [here](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/). One important caution: shell scripting can be very powerful, so ***you should never run a shell script you don't understand from a source you don't trust 100%***. If you do need to run a shell script, make sure to get it from an official source (such as the [shell script for installing Bee](https://github.com/ethersphere/bee/blob/master/install.sh) from Swarm's official GitHub organisation.)
+1. **Filesystem Structure:** Unix-like systems have a hierarchical directory structure, starting with the root directory (`/`). From there, directories branch out, containing subdirectories and files.
+2. **Current Working Directory:** When you open a terminal, you are in a directory, known as the current working directory. You can perform operations relative to this directory.
+3. **Pathnames:** There are two types of pathnames:
+
+   - **Absolute Pathnames:** Start from the root directory (e.g., `/usr/local/bin`)
+   - **Relative Pathnames:** Relative to the current directory (e.g., `./Documents`)
+
+4. **Shell Scripting (Advanced):** Advanced shell users may learn how to write shell scripts which can be used to automate common tasks. While shell scripting is not covered in this guide, you can read more about it [here](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/). One important caution: shell scripting can be very powerful, so **_you should never run a shell script you don't understand from a source you don't trust 100%_**. If you do need to run a shell script, make sure to get it from an official source (such as the [shell script for installing Bee](https://github.com/ethersphere/bee/blob/master/install.sh) from Swarm's official GitHub organisation.)
 
 #### Bash commands cheat sheet:
 
 - `pwd`: Print Working Directory. Shows your current directory.
 - `ls`: List. Shows files and directories in the current directory.
-   - `ls -l`: Detailed list, showing permissions, owner, size, and modification date. 
-   - `ls -a`: Shows all files, including hidden ones (those starting with a dot).
+  - `ls -l`: Detailed list, showing permissions, owner, size, and modification date.
+  - `ls -a`: Shows all files, including hidden ones (those starting with a dot).
 - `cd`: Change Directory. Moves to another directory.
-   - `cd ~`: Move to the home directory.
-   - `cd ..`: Move up one directory.
-   - `cd /`: Move to the root directory.
-   - `cd -`: Move to the last directory you were in.
+  - `cd ~`: Move to the home directory.
+  - `cd ..`: Move up one directory.
+  - `cd /`: Move to the root directory.
+  - `cd -`: Move to the last directory you were in.
 - `mkdir`: Make Directory. Creates a new directory.
 - `rmdir`: Remove Directory. Deletes an empty directory.
 - `touch`: Creates a new empty file or updates the timestamp of an existing file.
 - `cp`: Copy. Copies files or directories.
-   - `cp file1 file2`: Copies file1 to file2.
-   - `cp -r dir1 dir2`: Recursively copy, for directories.
+  - `cp file1 file2`: Copies file1 to file2.
+  - `cp -r dir1 dir2`: Recursively copy, for directories.
 - `mv`: Move. Moves files or directories, or renames them.
 - `rm`: Remove. Deletes files or directories.
-   - `rm -r`: Recursively delete, for directories.
+  - `rm -r`: Recursively delete, for directories.
 - `find`: Searches for files and directories.
 - `locate`: Quickly find files (uses a database updated by `updatedb`).
 
-
 {{< admonition tip >}}
 **💡 TIP:** Note that the options (also sometimes called flags) that appear after the main commands can often be combined. For example, the `-l` and `-a` flags used with the `ls` command can be combined as `-la` to print details about all files, including hidden ones:
+
 ```
  ls -la
 ```
+
 {{< /admonition >}}
-
-
 
 {{< admonition danger >}}
 **🔥 DANGER:** The `-r` flag seen in the above commands stands for "recursive", and it allows a command to be recursively executed through all levels of a directory structure. This is essential when operating commands on directories (folders) that contain multiple levels of nested folders.
@@ -152,7 +152,6 @@ For example, when copying a folder with the `cp` command, you will need to use `
 
 This can, however, be dangerous to use with some commands, such as `rm`. It can be very destructive if used incorrectly, as it could inadvertently delete your entire filesystem with a single command.
 {{< /admonition >}}
-
 
 You can try [this interactive command line tutorial](https://linuxjourney.com/lesson/the-shell) for a quick and easy way to get up to speed with command line navigation.
 
@@ -166,20 +165,17 @@ Using `jq` with Piping: `jq` is a command-line JSON processor. You might use it 
 
 For example, the output from the `topology` endpoint is particularly difficult to read without `jq`:
 
-
 ```bash
  curl http://localhost:1635/topology
- ```
- 
- Without newlines or indentations, the output is difficult to parse visually:
- 
+```
 
+Without newlines or indentations, the output is difficult to parse visually:
 
 {{< admonition INFO >}}
 **ℹ️ INFO:** In each of the examples below, we have truncated the output as the complete output is too large to display here.
 {{< /admonition >}}
- 
- ```json
+
+```json
 {"baseAddr":"da7e5cc3ed9a46b6e7491d3bf738535d98112641380cbed2e9ddfe4cf4fc01c4","population":20559,"connected":175,"timestamp":"2024-02-07T17:13:51.960599746Z","nnLowWatermark":3,"depth":10,"reachability":"Public","networkAvailability":"Available","bins":{"bin_0":{"population":11247,"connected":20,"disconnectedPeers":[{"address":"77696ffe87fa2592355b1ba5b2d93b5f18b118427cb48c8e21c7f4f5088f8d49","metrics":{"lastSeenTimestamp":1707316706,"sessionConnectionRetry":5,"connectionTotalDuration":2418,"sessionConnectionDuration":1106,"sessionConnectionDirection":"outbound","latencyEWMA":19,"reachability":"Public","healthy":true}},{"address":"501267152efe6276947d2646be29cd7e0b1a488cb3eb12ca8a319aaf18fb7358","metrics":{"lastSeenTimestamp":1707323255,"sessionConnectionRetry":8,"connectionTotalDuration":55895,"sessionConnectionDuration":311,"sessionConnectionDirection":"outbound","latencyEWMA":518,"reachability":"Public","healthy":false}},{"address":"719731d3fec45195b76d3245840b1cf36ffa3080acceb3d232eb14ea4b80f6fa","metrics":{"lastSeenTimestamp":1707315006,"sessionConnectionRetry":1,"connectionTotalDuration":20326,"sessionConnectionDuration":68,"sessionConnectionDirection":"outbound","latencyEWMA":0,"reachability":"Public","healthy":false}},{"address":"67d546d6d0c9039268d5ddb234cedf59424d8d4f2c65a5b0a1f2f4dc39a1a7d9","metrics":{"lastSeenTimestamp":1707320453,"sessionConnectionRetry":2,"connectionTotalDuration":2025,"sessionConnectionDuration":397,"sessionConnectionDirection":"outbound","latencyEWMA":50,"reachability":"Public","healthy":false}},{"address":"7833dcfe9d0e6accfba2a06e3e21cac57a510d5da644799dab3020d17e5ecdf8","metrics":{"lastSeenTimestamp":1707318987,"sessionConnectionRetry":23,"connectionTotalDuration":35258,"sessionConnectionDuration":126,"sessionConnectionDirection":"outbound","latencyEWMA":21,"reachability":"Public","healthy":true}}...
 ```
 
@@ -251,7 +247,9 @@ And we can confirm the contents of the file to confirm it has been saved using `
 ```bash
 cat output.json
 ```
+
 And here we see the last few lines of the file:
+
 ```bash
     ...
     "bin_28": {
@@ -287,12 +285,12 @@ And here we see the last few lines of the file:
   }
 }
 ```
+
 ##### Using nohup to save output & send to the background
+
 `nohup` is a command used in Linux to execute a process that persists even after the user logs out or the terminal session ends. The term `nohup` stands for "no hang up," originating from the early days of Unix when users would physically disconnect from the system via a modem connection, which could terminate running processes.
 
 When you run a command or a script with `nohup`, it ensures that the process continues running in the background, detached from the current shell session. This is particularly useful for long-running tasks, where you do not want the process to terminate if the terminal session is closed or the connection is lost.
-
-
 
 The basic syntax for using `nohup` is:
 
@@ -307,6 +305,7 @@ nohup command journalctl --lines=100 --follow --unit bee &
 [1] 12345
 ~ kill 12345
 ```
+
 You can read the logs from the created "nohup.out" file.
 By default, `nohup` redirects both standard output (stdout) and standard error (stderr) to the said file. You can override this behavior by explicitly redirecting output using standard shell redirection operators (> for stdout, 2> for stderr).
 
@@ -325,19 +324,25 @@ For Bee node operators running their nodes on a Linux system, understanding how 
 `systemctl` is the command-line interface for interacting with `systemd`. Here's how you can use it to manage your Bee node service:
 
 #### Starting the Bee Service
+
 To start your Bee node as a service, use the command:
+
 ```bash
 sudo systemctl start bee
 ```
 
 #### Enabling Bee Service on Boot
+
 To ensure your Bee node starts automatically on system boot, enable it with:
+
 ```bash
 sudo systemctl enable bee
 ```
 
 #### Checking Service Status
+
 To check the status of your Bee node service, including whether it's active and running, use:
+
 ```bash
 sudo systemctl status bee
 ```
@@ -347,13 +352,17 @@ sudo systemctl status bee
 {{< /admonition >}}
 
 #### Stopping the Service
+
 If you need to stop your Bee node for any reason, you can do so with:
+
 ```bash
 sudo systemctl stop bee
 ```
 
 #### Restarting the Service
+
 To restart your Bee node service, which would be a good idea to do after making configuration changes, use:
+
 ```bash
 sudo systemctl restart bee
 ```
@@ -375,12 +384,10 @@ This command displays the logs generated by your Bee node service.
 **Filtering Logs by Time:**
 
 You can filter logs within a certain time frame, such as "since today", by adding the `--since` option:
+
 ```bash
 sudo journalctl -u bee --since today
 ```
-
-
-
 
 {{< admonition info >}}
 **ℹ️ INFO:** See the [**"FILTERING OPTIONS" from the official journalctl docs**](https://man7.org/linux/man-pages/man1/journalctl.1.html) for more details about using the `--since` option.
@@ -389,6 +396,7 @@ sudo journalctl -u bee --since today
 **Following Logs in Real Time:**
 
 To follow the logs as new entries are added, similar to `tail -f`, use the `-f` flag:
+
 ```bash
 sudo journalctl -u bee -f
 ```
@@ -401,10 +409,9 @@ sudo journalctl -u bee -f
 
 By mastering `systemd`, `systemctl`, and `journalctl`, you'll have robust tools at your disposal for managing and troubleshooting your Bee node. Regularly checking your Bee node's logs can help you stay ahead of issues and ensure your node operates smoothly within the Swarm network.
 
-
 ### Vim
 
-[Vim](https://en.wikipedia.org/wiki/Vim_(text_editor)), or "[Vi](https://en.wikipedia.org/wiki/Vi_(text_editor)) Improved," is a powerful text editor available on Unix systems like Ubuntu. It's known for its efficiency and flexibility, though it has a bit of a learning curve. Unlike GUI-based text editors that you may be familiar with, Vim is accessible directly from the command line. It is an indispensable tool for editing text files in environments without access to GUI text editors, such as when connecting to a remote VPS through SSH. We will primarily use it for editing config files (such as Bee's `bee.yaml`) from the command line. 
+[Vim](<https://en.wikipedia.org/wiki/Vim_(text_editor)>), or "[Vi](<https://en.wikipedia.org/wiki/Vi_(text_editor)>) Improved," is a powerful text editor available on Unix systems like Ubuntu. It's known for its efficiency and flexibility, though it has a bit of a learning curve. Unlike GUI-based text editors that you may be familiar with, Vim is accessible directly from the command line. It is an indispensable tool for editing text files in environments without access to GUI text editors, such as when connecting to a remote VPS through SSH. We will primarily use it for editing config files (such as Bee's `bee.yaml`) from the command line.
 
 Vim can be launched with the `vim` command:
 
@@ -412,7 +419,7 @@ Vim can be launched with the `vim` command:
 sudo vim config.yaml
 ```
 
-As navigation in Vim is done entirely from the keyboard (without a mouse), it takes a bit of time to get used to coming from a GUI-based text editor. You can quickly get up to speed with Vim by reviewing [this interactive tutorial](https://www.openvim.com/). Additionally, you can use [this handy Vim cheat sheet](https://vimsheet.com/), or [this one](https://vim.rtorr.com/), as references to help you remember all the Vim commands. 
+As navigation in Vim is done entirely from the keyboard (without a mouse), it takes a bit of time to get used to coming from a GUI-based text editor. You can quickly get up to speed with Vim by reviewing [this interactive tutorial](https://www.openvim.com/). Additionally, you can use [this handy Vim cheat sheet](https://vimsheet.com/), or [this one](https://vim.rtorr.com/), as references to help you remember all the Vim commands.
 
 #### Installation
 
@@ -424,15 +431,14 @@ sudo apt install vim
 ```
 
 To open Vim, simply type `vim` in your terminal. If you want to open or create a file with Vim, use:
+
 ```bash
 vim filename
 ```
 
-
 {{< admonition info >}}
 **ℹ️ INFO:** As an alternative to Vim you can use vi by simple replacing the `vim` command with `vi`. This may be a convenient option on systems which come with vi already installed but without Vim.
 {{< /admonition >}}
-
 
 #### Vim in Context of Running a Bee Node
 
@@ -441,12 +447,12 @@ We will use Vim whenever we need to modify our `config.yaml` configuration file.
 ```bash
 sudo vim /etc/bee/bee.yaml
 ```
-Vim has two main modes: `command` and `insert`. Vim starts in command mode by default. To edit the config file, simply press the `i` key. This action switches you to insert mode, allowing you to navigate through the file using the arrow keys or the letters `h`, `j`, `k`, `l`. After making the desired edits, you can exit insert mode and return to command mode by pressing the  `Escape` key on your keyboard. From there, you can save your changes and exit Vim with the `:wq` command, or exit without saving using the `:qa` command. And that's about as much of Vim as you need to know for working with Bee! There's a lot more you could learn about Vim, but it's not required for working with Bee.
 
+Vim has two main modes: `command` and `insert`. Vim starts in command mode by default. To edit the config file, simply press the `i` key. This action switches you to insert mode, allowing you to navigate through the file using the arrow keys or the letters `h`, `j`, `k`, `l`. After making the desired edits, you can exit insert mode and return to command mode by pressing the `Escape` key on your keyboard. From there, you can save your changes and exit Vim with the `:wq` command, or exit without saving using the `:qa` command. And that's about as much of Vim as you need to know for working with Bee! There's a lot more you could learn about Vim, but it's not required for working with Bee.
 
 ### Package Management
 
-Managing software on Ubuntu is handled by `apt-get`, a software management command-line tool. It handles the installation, updating, and removal of software packages. While there are other package mangers commonly used with different Linux distributions—such as `yum`, `rpm`, and others—in this guide, we will stick to `apt-get` as we are focusing on Ubuntu. 
+Managing software on Ubuntu is handled by `apt-get`, a software management command-line tool. It handles the installation, updating, and removal of software packages. While there are other package mangers commonly used with different Linux distributions—such as `yum`, `rpm`, and others—in this guide, we will stick to `apt-get` as we are focusing on Ubuntu.
 
 Note that packages for Ubuntu use the `.deb` filename extension, short for [Debian](https://www.debian.org/) (the family of Linux distributions of which Ubuntu is a member).
 
@@ -455,13 +461,12 @@ Note that packages for Ubuntu use the `.deb` filename extension, short for [Debi
 - **Installing Packages:** `sudo apt-get install [package_name]` installs new packages. For example, `sudo apt-get install bee` would install the Bee node software on your system.
 - **Updating Packages:** To update your software, use `sudo apt-get update` to refresh your package list and `sudo apt-get upgrade` to install the updates.
 - **Removing Packages:**
-   - The `sudo apt-get remove [package_name]` command removes a package but keeps configuration files and certain data intact. This is useful if you plan to reinstall the package later and want to retain your settings.
-   - The `sudo apt-get purge [package_name]` command, on the other hand, removes everything related to the package, including configuration files and data. 
+  - The `sudo apt-get remove [package_name]` command removes a package but keeps configuration files and certain data intact. This is useful if you plan to reinstall the package later and want to retain your settings.
+  - The `sudo apt-get purge [package_name]` command, on the other hand, removes everything related to the package, including configuration files and data.
 
 #### Important Note on Using `purge`
 
 Using `purge` with Bee can lead to the loss of key files and settings. It's crucial to understand that if you use `sudo apt-get purge bee`, it will permanently delete your Bee node's configuration files and keys. These keys are essential for accessing your node and its data. If you haven't backed them up, this data will be irrecoverable. Always ensure you have a backup of your keys and configurations before using the `purge` command.
-
 
 #### Package Versions and Sources
 
@@ -473,6 +478,7 @@ When following [the instructions for installing Bee](https://docs.ethswarm.org/d
 - When you install a package using `apt-get`, Ubuntu searches the repositories listed in its sources. By default, Ubuntu is configured with its own repositories, but you can add third-party repositories to access additional software. Because the `bee` package is not part of any default repositories, you'll need to include the official repository maintained by the Swarm team when installing it.
 
 #### Adding a Repository:
+
 - The command `echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/ethersphere-apt-keyring.gpg] https://repo.ethswarm.org/apt * *" | sudo tee /etc/apt/sources.list.d/ethersphere.list > /dev/null` adds the official Swarm repository to your list of sources.
 - Here, `deb` indicates a Debian package repository, and `$(dpkg --print-architecture)` automatically inserts your system's architecture (like amd64, i386, etc.).
 - The `signed-by` portion points to the GPG key that will be used to verify the authenticity of the packages in this repository.
@@ -480,17 +486,18 @@ When following [the instructions for installing Bee](https://docs.ethswarm.org/d
 - The command writes this line to a file named `ethersphere.list` under `/etc/apt/sources.list.d/`, which is the directory where Ubuntu looks for additional sources.
 
 #### GPG Keys and Their Importance
+
 - GPG (GNU Privacy Guard) keys are used to sign and verify software packages. This ensures that the packages you download and install are exactly as provided by the source and have not been tampered with.
 - By importing the GPG key (`curl -fsSL https://repo.ethswarm.org/apt/gpg.key | sudo gpg --dearmor -o /usr/share/keyrings/ethersphere-apt-keyring.gpg`), you are adding the public key of the repository maintainer (Swarm) to your system. This is used to verify that the packages you download from the repository are indeed from the Swarm organisation.
 - The `curl` command fetches the GPG key from the given URL, `gpg --dearmor` processes the key, and the output is saved in `/usr/share/keyrings/`, a standard location for such keys.
 
 #### Updating Package Lists and Installing Software
+
 - `sudo apt-get update` refreshes the list of available packages and their versions but does not install or upgrade any packages. It's essential to run this after adding a new repository to ensure that `apt-get` is aware of the new packages available.
 - `sudo apt-get install bee` then installs the Bee package from the newly added repository.
 
-
 {{< admonition danger >}}
-**🔥 DANGER:** Always use packages and repositories from trusted sources to minimise security risks. 
+**🔥 DANGER:** Always use packages and repositories from trusted sources to minimise security risks.
 {{< /admonition >}}
 
 ### File Ownership and `chmod`
@@ -509,17 +516,20 @@ The `chmod` command in Unix/Linux is used to change the access permissions of fi
   - **Execute (x):** Allows executing the file or entering the directory.
 
 #### Viewing Permissions
+
 - Use `ls -l` to view permissions.
 - Example: `-rw-r--r-- 1 user group 0 Jan  1 00:00 example.txt`
   - The permissions here are `-rw-r--r--`.
 
-#### Changing Permissions 
+#### Changing Permissions
+
 - Format: `chmod [who][+/-][permissions] filename`
   - `who`: u (user), g (group), o (others), a (all)
   - `+`: add a permission, `-`: remove a permission
 - Example: `chmod g+w example.txt` adds write permission for the group.
 
 #### Common Usage Examples:
+
 1. **Give execute permission to the owner:**
    - `chmod u+x example.txt`
 2. **Remove execute permission from group and others:**
@@ -527,7 +537,7 @@ The `chmod` command in Unix/Linux is used to change the access permissions of fi
 
 Check out [this article from freeCodeCamp](https://opensource.com/article/19/8/linux-chmod-command) for a more in-depth guide to `chmod`.
 
-### Sudo 
+### Sudo
 
 The `sudo` command in Unix-type systems stands for "superuser do" or "substitute user do." It allows authorised users to execute commands as the superuser (often referred to as "root") or as other authorised users.`sudo` provides a secure way to perform administrative tasks, as it requires users to authenticate themselves before executing privileged commands.
 
@@ -549,7 +559,7 @@ Example: `sudo apt update` will update the package list with root privileges.
 
 #### Authentication
 
-When you use `sudo`, you will be prompted to enter your own user password to verify your identity and authorisation. 
+When you use `sudo`, you will be prompted to enter your own user password to verify your identity and authorisation.
 
 After successful authentication, `sudo` grants temporary superuser privileges for the specific command.
 
@@ -601,7 +611,9 @@ sudo ls  /var/lib/bee/
 [sudo] password for noah:
 kademlia-metrics  keys  localstore  password  stamperstore  statestore
 ```
+
 Inspect keys folder:
+
 ```bash
  sudo ls /var/lib/bee/keys
 ```
@@ -646,6 +658,6 @@ sudo cat /var/lib/bee/keys/swarm.key | jq
 
 ## Stay Tuned for Part 2
 
-In Part 1, we covered a broad range of Linux tools and concepts relevant to node operators. The topics covered will assist you in your journey as a Bee node operator or as a node operator for other distributed networks. In Part, 2 we will explore a wide range of additional topics, including Docker, logging, JSON RPCs, and more. 
+In Part 1, we covered a broad range of Linux tools and concepts relevant to node operators. The topics covered will assist you in your journey as a Bee node operator or as a node operator for other distributed networks. In Part, 2 we will explore a wide range of additional topics, including Docker, logging, JSON RPCs, and more.
 
 If at any point you need additional help, feel free to pop into the [Swarm node-operators Discord channel](https://discord.com/channels/799027393297514537/811553590170353685).
