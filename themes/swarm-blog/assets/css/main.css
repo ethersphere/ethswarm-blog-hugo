@@ -141,7 +141,7 @@
     @apply my-0;
   }
 
-  .content * {
+  .content > * {
     @apply my-6;
   }
 
