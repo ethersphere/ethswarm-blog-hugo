@@ -25,7 +25,11 @@ It also serves as a general guide for anyone interested in operating nodes on de
 Furthermore the guide serves as a reference and companion for the Bee documentation, in particular the [Bee installation instructions](https://docs.ethswarm.org/docs/bee/installation/install). The Bee docs assume a lot of background knowledge, and this guide aims to get you up to speed with most of the devops tools and concepts mentioned in the docs.
 
 {{< admonition info >}}
-**ℹ️INFO:** If you're looking for a beginner-friendly guide to Linux that goes more in-depth than this article, **[Linux Journey](https://linuxjourney.com/)** is an excellent starting point. The site offers **[open-source](https://github.com/cindyq/linuxjourney)** interactive tutorials covering a wide range of Linux topics.
+**ℹ️ INFO:** If you're looking for a beginner-friendly guide to Linux that goes more in-depth than this article, **[Linux Journey](https://linuxjourney.com/)** is an excellent starting point. The site offers **[open-source](https://github.com/cindyq/linuxjourney)** interactive tutorials covering a wide range of Linux topics.
+{{< /admonition >}}
+
+{{< admonition tip >}}
+**💡 TIP:** This guide is not intended to be read through in a single sitting. Given the density of the information, the best way to use this guide is to go through it one section at a time, and to also explore the resources linked to in each section in order to deepen your understanding.
 {{< /admonition >}}
 
 ## Target Audience for This Guide
@@ -57,7 +61,7 @@ Below we review several approaches for running Bee nodes, detailing the pros and
 #### Ubuntu on a VPS (Virtual Private Server)
 
 {{< admonition info >}}
-**ℹ️INFO:** This is our recommended method for beginner node operators looking to operate full Bee nodes to participate in staking. We cover getting started with a VPS in more detail in a dedicated section in part two of this article series.
+**ℹ️ INFO:** This is our recommended method for beginner node operators looking to operate full Bee nodes to participate in staking. We cover getting started with a VPS in more detail in a dedicated section in part two of this article series.
 {{< /admonition >}}
 
 - **Ideal for:** Users seeking a remote, scalable, and manageable solution. 
@@ -141,10 +145,8 @@ Terminal navigation involves using command-line instructions to move through the
 
 
 
-
-
 {{< admonition danger >}}
-**🔥DANGER:** The `-r` flag seen in the above commands stands for "recursive", and it allows a command to be recursively executed through all levels of a directory structure. This is essential when operating commands on directories (folders) that contain multiple levels of nested folders.
+**🔥 DANGER:** The `-r` flag seen in the above commands stands for "recursive", and it allows a command to be recursively executed through all levels of a directory structure. This is essential when operating commands on directories (folders) that contain multiple levels of nested folders.
 
 For example, when copying a folder with the `cp` command, you will need to use `cp -r target_folder destination_folder` to ensure all nested folders within the target folder are copied.
 
@@ -174,7 +176,7 @@ For example, the output from the `topology` endpoint is particularly difficult t
 
 
 {{< admonition INFO >}}
-**ℹ️INFO:** In each of the examples below, we have truncated the output as the complete output is too large to display here.
+**ℹ️ INFO:** In each of the examples below, we have truncated the output as the complete output is too large to display here.
 {{< /admonition >}}
  
  ```json
@@ -341,7 +343,7 @@ sudo systemctl status bee
 ```
 
 {{< admonition info >}}
-**ℹ️INFO:** Use "q" to exit from the status review screen.
+**ℹ️ INFO:** Use "q" to exit from the status review screen.
 {{< /admonition >}}
 
 #### Stopping the Service
@@ -381,7 +383,7 @@ sudo journalctl -u bee --since today
 
 
 {{< admonition info >}}
-**ℹ️INFO:** See the [**"FILTERING OPTIONS" from the official journalctl docs**](https://man7.org/linux/man-pages/man1/journalctl.1.html) for more details about using the `--since` option.
+**ℹ️ INFO:** See the [**"FILTERING OPTIONS" from the official journalctl docs**](https://man7.org/linux/man-pages/man1/journalctl.1.html) for more details about using the `--since` option.
 {{< /admonition >}}
 
 **Following Logs in Real Time:**
@@ -428,7 +430,7 @@ vim filename
 
 
 {{< admonition info >}}
-**ℹ️INFO:** As an alternative to Vim you can use vi by simple replacing the `vim` command with `vi`. This may be a convenient option on systems which come with vi already installed but without Vim.
+**ℹ️ INFO:** As an alternative to Vim you can use vi by simple replacing the `vim` command with `vi`. This may be a convenient option on systems which come with vi already installed but without Vim.
 {{< /admonition >}}
 
 
@@ -488,7 +490,7 @@ When following [the instructions for installing Bee](https://docs.ethswarm.org/d
 
 
 {{< admonition danger >}}
-**🔥DANGER:** Always use packages and repositories from trusted sources to minimize security risks. 
+**🔥 DANGER:** Always use packages and repositories from trusted sources to minimize security risks. 
 {{< /admonition >}}
 
 ### File Ownership and `chmod`
@@ -530,7 +532,7 @@ Check out [this article from freeCodeCamp](https://opensource.com/article/19/8/l
 The `sudo` command in Unix-type systems stands for "superuser do" or "substitute user do." It allows authorized users to execute commands as the superuser (often referred to as "root") or as other authorized users.`sudo` provides a secure way to perform administrative tasks, as it requires users to authenticate themselves before executing privileged commands.
 
 {{< admonition danger >}}
-**🔥DANGER:** Never use `sudo` to run a command or shell script that you don't fully understand, especially if it comes from an untrusted source.
+**🔥 DANGER:** Never use `sudo` to run a command or shell script that you don't fully understand, especially if it comes from an untrusted source.
 {{< /admonition >}}
 
 #### Basic Syntax
@@ -639,7 +641,7 @@ sudo cat /var/lib/bee/keys/swarm.key | jq
 ```
 
 {{< admonition danger >}}
-**🔥DANGER:** Make sure never to share your private key with anyone or allow it to be exposed publicly as it allows full access to your node's blockchain account!
+**🔥 DANGER:** Make sure never to share your private key with anyone or allow it to be exposed publicly as it allows full access to your node's blockchain account!
 {{< /admonition >}}
 
 ## Stay Tuned for Part 2
