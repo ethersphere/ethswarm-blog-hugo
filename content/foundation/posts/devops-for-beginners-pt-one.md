@@ -494,11 +494,11 @@ When following [the instructions for installing Bee](https://docs.ethswarm.org/d
 The `chmod` command in Unix/Linux is used to change the access permissions of files and directories. Here's a simplified guide on how to use it.
 
 #### Understanding Permissions
+
 - **User Types:**
   - **User (u):** The owner of the file.
   - **Group (g):** Users in the file's group.
   - **Others (o):** Everyone else.
-
 - **Permission Types:**
   - **Read (r):** Allows reading the file.
   - **Write (w):** Allows modifying the file.
@@ -518,7 +518,6 @@ The `chmod` command in Unix/Linux is used to change the access permissions of fi
 #### Common Usage Examples:
 1. **Give execute permission to the owner:**
    - `chmod u+x example.txt`
-
 2. **Remove execute permission from group and others:**
    - `chmod go-x example.txt`
 
