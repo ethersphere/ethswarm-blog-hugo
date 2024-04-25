@@ -20,7 +20,7 @@ Part One of this guide focuses on Linux, while Part Two focuses on all other Dev
 
 The main purpose of this two part guide is to make Bee and Swarm more accessible to a wider range of people by educating potential node operators who are interested in running a node but are lacking in knowledge of the required tools and concepts.
 
-It also serves as a general guide for anyone interested in operating nodes on decentralized networks, as most of the tools and concepts covered will apply to operating nodes on other networks as well.
+It also serves as a general guide for anyone interested in operating nodes on decentralised networks, as most of the tools and concepts covered will apply to operating nodes on other networks as well.
 
 Furthermore the guide serves as a reference and companion for the Bee documentation, in particular the [Bee installation instructions](https://docs.ethswarm.org/docs/bee/installation/install). The Bee docs assume a lot of background knowledge, and this guide aims to get you up to speed with most of the devops tools and concepts mentioned in the docs.
 
@@ -90,7 +90,7 @@ Below we review several approaches for running Bee nodes, detailing the pros and
 
 #### Ubuntu on a portable USB Drive
 
-- **Ideal for:** Users who have spare computers with various hardware configurations, potentially running outdated operating systems, and wish to utilize them with a familiar UI.
+- **Ideal for:** Users who have spare computers with various hardware configurations, potentially running outdated operating systems, and wish to utilise them with a familiar UI.
 - **Setup:** Install Portable Ubuntu on a USB drive using [Rufus](https://rufus.ie/).
 - **Instructions:** [Create a bootable USB stick on macOS](https://ubuntu.com/tutorials/create-a-usb-stick-on-macos)
 - **Pros:** Portability - use your Ubuntu environment on any computer with a USB port.
@@ -110,7 +110,7 @@ Terminal navigation involves using command-line instructions to move through the
   3. **Pathnames:** There are two types of pathnames:
     - **Absolute Pathnames:** Start from the root directory (e.g., `/usr/local/bin`)
     - **Relative Pathnames:** Relative to the current directory (e.g., `./Documents`)
-  4. **Shell Scripting (Advanced):** Advanced shell users may learn how to write shell scripts which can be used to automate common tasks. While shell scripting is not covered in this guide, you can read more about it [here](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/). One important caution: shell scripting can be very powerful, so ***you should never run a shell script you don't understand from a source you don't trust 100%***. If you do need to run a shell script, make sure to get it from an official source (such as the [shell script for installing Bee](https://github.com/ethersphere/bee/blob/master/install.sh) from Swarm's official GitHub organization.)
+  4. **Shell Scripting (Advanced):** Advanced shell users may learn how to write shell scripts which can be used to automate common tasks. While shell scripting is not covered in this guide, you can read more about it [here](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/). One important caution: shell scripting can be very powerful, so ***you should never run a shell script you don't understand from a source you don't trust 100%***. If you do need to run a shell script, make sure to get it from an official source (such as the [shell script for installing Bee](https://github.com/ethersphere/bee/blob/master/install.sh) from Swarm's official GitHub organisation.)
 
 #### Bash commands cheat sheet:
 
@@ -395,8 +395,8 @@ sudo journalctl -u bee -f
 
 ### Practical Tips
 
-- **Customizing Log Output**: `journalctl` offers various options to customize the output, such as `-o verbose` for more detailed logs or `-o json` for JSON-formatted logs.
-- **Maintaining System Security**: Always use `sudo` with care, especially when operating in production environments. Limit access to your Bee node's logs and configuration to authorized users only.
+- **Customising Log Output**: `journalctl` offers various options to customise the output, such as `-o verbose` for more detailed logs or `-o json` for JSON-formatted logs.
+- **Maintaining System Security**: Always use `sudo` with care, especially when operating in production environments. Limit access to your Bee node's logs and configuration to authorised users only.
 - **Automating Monitoring**: Consider setting up monitoring scripts that use `journalctl` to alert you of critical errors or unusual activities in your Bee node logs.
 
 By mastering `systemd`, `systemctl`, and `journalctl`, you'll have robust tools at your disposal for managing and troubleshooting your Bee node. Regularly checking your Bee node's logs can help you stay ahead of issues and ensure your node operates smoothly within the Swarm network.
@@ -481,7 +481,7 @@ When following [the instructions for installing Bee](https://docs.ethswarm.org/d
 
 #### GPG Keys and Their Importance
 - GPG (GNU Privacy Guard) keys are used to sign and verify software packages. This ensures that the packages you download and install are exactly as provided by the source and have not been tampered with.
-- By importing the GPG key (`curl -fsSL https://repo.ethswarm.org/apt/gpg.key | sudo gpg --dearmor -o /usr/share/keyrings/ethersphere-apt-keyring.gpg`), you are adding the public key of the repository maintainer (Swarm) to your system. This is used to verify that the packages you download from the repository are indeed from the Swarm organization.
+- By importing the GPG key (`curl -fsSL https://repo.ethswarm.org/apt/gpg.key | sudo gpg --dearmor -o /usr/share/keyrings/ethersphere-apt-keyring.gpg`), you are adding the public key of the repository maintainer (Swarm) to your system. This is used to verify that the packages you download from the repository are indeed from the Swarm organisation.
 - The `curl` command fetches the GPG key from the given URL, `gpg --dearmor` processes the key, and the output is saved in `/usr/share/keyrings/`, a standard location for such keys.
 
 #### Updating Package Lists and Installing Software
@@ -490,7 +490,7 @@ When following [the instructions for installing Bee](https://docs.ethswarm.org/d
 
 
 {{< admonition danger >}}
-**🔥 DANGER:** Always use packages and repositories from trusted sources to minimize security risks. 
+**🔥 DANGER:** Always use packages and repositories from trusted sources to minimise security risks. 
 {{< /admonition >}}
 
 ### File Ownership and `chmod`
@@ -529,7 +529,7 @@ Check out [this article from freeCodeCamp](https://opensource.com/article/19/8/l
 
 ### Sudo 
 
-The `sudo` command in Unix-type systems stands for "superuser do" or "substitute user do." It allows authorized users to execute commands as the superuser (often referred to as "root") or as other authorized users.`sudo` provides a secure way to perform administrative tasks, as it requires users to authenticate themselves before executing privileged commands.
+The `sudo` command in Unix-type systems stands for "superuser do" or "substitute user do." It allows authorised users to execute commands as the superuser (often referred to as "root") or as other authorised users.`sudo` provides a secure way to perform administrative tasks, as it requires users to authenticate themselves before executing privileged commands.
 
 {{< admonition danger >}}
 **🔥 DANGER:** Never use `sudo` to run a command or shell script that you don't fully understand, especially if it comes from an untrusted source.
@@ -549,7 +549,7 @@ Example: `sudo apt update` will update the package list with root privileges.
 
 #### Authentication
 
-When you use `sudo`, you will be prompted to enter your own user password to verify your identity and authorization. 
+When you use `sudo`, you will be prompted to enter your own user password to verify your identity and authorisation. 
 
 After successful authentication, `sudo` grants temporary superuser privileges for the specific command.
 
@@ -577,7 +577,7 @@ Example: `username ALL=(ALL:ALL) ALL` grants full `sudo` access to the user name
 
 #### Best Practices
 
-- Use `sudo` sparingly and only when necessary to minimize the risk of accidental system changes.
+- Use `sudo` sparingly and only when necessary to minimise the risk of accidental system changes.
 - Avoid running graphical applications with `sudo` unless required, as it can cause permission issues.
 - Always double-check the commands you intend to run with `sudo` to avoid unintended consequences.
 
