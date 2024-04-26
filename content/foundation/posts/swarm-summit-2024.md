@@ -26,6 +26,6 @@ This won’t be just another event. The 2024 Swarm Summit coincides with the big
 
 If you’re itching to add your piece to this future, if you’d like to pick the brains of innovators, thinkers, and Swarm community builders, or if you’re simply looking to have a great time, the Swarm Summit is open to all. We’ll be there, making sure that the future is decentralised and better for everyone. 
 
-The Summit’s stage will feature boundary-pushing presentations and talks. Our speakers will deliver original keynotes that explore concepts and ideas on the future of web3. If you believe you could contribute to the program, we invite you to submit your talk or presentation through our **[Call for papers, open until 20 May](https://summit.ethswarm.org/swarm-summit-2024/cfp)**, or apply for special [hacker grants](https://forms.gle/FjhVfNoH5iYCv5188).    
+The Summit’s stage will feature boundary-pushing presentations and talks. Our speakers will deliver original keynotes that explore concepts and ideas on the future of web3. If you believe you could contribute to the program, we invite you to submit your talk or presentation through our **[Call for papers, open until 20 May](https://summit.ethswarm.org/swarm-summit-2024/cfp)**, or apply for special **[hacker grants](https://forms.gle/FjhVfNoH5iYCv5188)**.    
 
 After all, the best way to dismantle the status quo is to offer something better. You’ll want to be there when it happens, won’t you?
