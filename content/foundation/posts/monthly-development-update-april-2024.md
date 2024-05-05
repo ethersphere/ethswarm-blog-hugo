@@ -114,7 +114,7 @@ To wrap it all up, [Swarm Summit is almost around the corner](https://blog.ethsw
 
 
 
-### Events:
+### Events
 ##### **Swarm Community Call – 25 April:** the monthly “stay up to date” event
 * April’s Community Call took place on 25 April. The main focus was on the upcoming 2.1 release which was presented in detail, along with future plans for the merge of /bee and /debug APIs as part of the 2.2 release, and the Research team’s roadmap, and on the bonding curve community vote that has since been closed.
 
