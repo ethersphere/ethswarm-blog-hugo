@@ -2,7 +2,7 @@
 banner = "/uploads/dev-update-april.png"
 images = [ "/uploads/dev-update-april.png" ]
 categories = [ "Development updates" ]
-date = 2024-04-05T00:00:00.000Z
+date = 2024-05-05T00:00:00.000Z
 description = "April was packed with activity on all fronts in the Swarm ecosystem. The Bee Track released the latest version of libp2p that included the localstore changes package and the merge of the /bee and /debug APIs."
 references_and_footnotes = [ ]
 title = "Monthly Development Update – April 2024"
