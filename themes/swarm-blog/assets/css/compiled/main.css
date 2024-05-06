@@ -1245,6 +1245,62 @@ aside ul a:hover {
   margin-bottom: 1.5rem;
 }
 
+.content .admonition * {
+  margin-top: 0.375rem;
+  margin-bottom: 0.375rem;
+}
+
+.content .admonition code,
+  .content .admonition pre {
+  border-radius: 4px;
+  border-width: 1px;
+  font-weight: 400;
+}
+
+.content .admonition pre code {
+  border-color: transparent !important;
+}
+
+.content .admonition.bg-admonition-note code,
+  .content .admonition.bg-admonition-note pre {
+  --tw-border-opacity: 1;
+  border-color: rgb(210 213 218 / var(--tw-border-opacity));
+  --tw-bg-opacity: 1;
+  background-color: rgb(237 240 246 / var(--tw-bg-opacity));
+}
+
+.content .admonition.bg-admonition-tip code,
+  .content .admonition.bg-admonition-tip pre {
+  --tw-border-opacity: 1;
+  border-color: rgb(175 221 209 / var(--tw-border-opacity));
+  --tw-bg-opacity: 1;
+  background-color: rgb(185 244 228 / var(--tw-bg-opacity));
+}
+
+.content .admonition.bg-admonition-info code,
+  content .admonition.bg-admonition-info pre {
+  --tw-border-opacity: 1;
+  border-color: rgb(178 176 213 / var(--tw-border-opacity));
+  --tw-bg-opacity: 1;
+  background-color: rgb(218 216 246 / var(--tw-bg-opacity));
+}
+
+.content .admonition.bg-admonition-warning code,
+  .content .admonition.bg-admonition-warning pre {
+  --tw-border-opacity: 1;
+  border-color: rgb(216 188 168 / var(--tw-border-opacity));
+  --tw-bg-opacity: 1;
+  background-color: rgb(244 216 196 / var(--tw-bg-opacity));
+}
+
+.content .admonition.bg-admonition-danger code,
+  .content .admonition.bg-admonition-danger pre {
+  --tw-border-opacity: 1;
+  border-color: rgb(226 189 207 / var(--tw-border-opacity));
+  --tw-bg-opacity: 1;
+  background-color: rgb(244 203 222 / var(--tw-bg-opacity));
+}
+
 .content > :where(:first-child) {
   margin-top: 0px !important;
 }
@@ -1397,6 +1453,11 @@ aside ul a:hover {
   grid-column: span 8 / span 8;
 }
 
+.\!my-0 {
+  margin-top: 0px !important;
+  margin-bottom: 0px !important;
+}
+
 .mx-4 {
   margin-left: 1rem;
   margin-right: 1rem;
@@ -1415,6 +1476,14 @@ aside ul a:hover {
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
+}
+
+.\!mb-1 {
+  margin-bottom: 0.25rem !important;
+}
+
+.\!mb-1\.5 {
+  margin-bottom: 0.375rem !important;
 }
 
 .mb-12 {
@@ -1543,6 +1612,11 @@ aside ul a:hover {
   aspect-ratio: 16 / 9;
 }
 
+.size-6 {
+  width: 1.5rem;
+  height: 1.5rem;
+}
+
 .h-22 {
   height: 5.5rem;
 }
@@ -1657,6 +1731,14 @@ aside ul a:hover {
 
 .gap-14 {
   gap: 3.5rem;
+}
+
+.gap-2 {
+  gap: 0.5rem;
+}
+
+.gap-2\.5 {
+  gap: 0.625rem;
 }
 
 .gap-7 {
@@ -2097,6 +2179,11 @@ aside ul a:hover {
   letter-spacing: 0.05em;
 }
 
+.text-black {
+  --tw-text-opacity: 1;
+  color: rgb(0 0 0 / var(--tw-text-opacity));
+}
+
 .text-gray-100 {
   --tw-text-opacity: 1;
   color: rgb(244 244 244 / var(--tw-text-opacity));
@@ -2127,8 +2214,8 @@ aside ul a:hover {
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
-.text-opacity-80 {
-  --tw-text-opacity: 0.8;
+.text-opacity-70 {
+  --tw-text-opacity: 0.7;
 }
 
 .underline {

@@ -145,6 +145,44 @@
     @apply my-6;
   }
 
+  .content .admonition * {
+    @apply my-1.5;
+  }
+
+  .content .admonition code,
+  .content .admonition pre {
+    @apply rounded-[4px] border font-normal;
+  }
+
+  .content .admonition pre code {
+    @apply !border-transparent;
+  }
+
+  .content .admonition.bg-admonition-note code,
+  .content .admonition.bg-admonition-note pre {
+    @apply border-[#D2D5DA] bg-[#EDF0F6];
+  }
+
+  .content .admonition.bg-admonition-tip code,
+  .content .admonition.bg-admonition-tip pre {
+    @apply border-[#AFDDD1] bg-[#B9F4E4];
+  }
+
+  .content .admonition.bg-admonition-info code,
+  content .admonition.bg-admonition-info pre {
+    @apply border-[#B2B0D5] bg-[#DAD8F6];
+  }
+
+  .content .admonition.bg-admonition-warning code,
+  .content .admonition.bg-admonition-warning pre {
+    @apply border-[#D8BCA8] bg-[#F4D8C4];
+  }
+
+  .content .admonition.bg-admonition-danger code,
+  .content .admonition.bg-admonition-danger pre {
+    @apply border-[#E2BDCF] bg-[#F4CBDE];
+  }
+
   .content > :where(:first-child) {
     @apply mt-0 !important;
   }
