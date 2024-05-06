@@ -151,36 +151,40 @@
 
   .content .admonition code,
   .content .admonition pre {
-    @apply rounded-[4px] border font-normal;
+    @apply rounded-[4px] border border-black border-opacity-10 font-normal;
+  }
+
+  .content .admonition code {
+    @apply whitespace-pre;
   }
 
   .content .admonition pre code {
-    @apply !border-transparent;
+    @apply !border-transparent !bg-transparent;
   }
 
   .content .admonition.bg-admonition-note code,
   .content .admonition.bg-admonition-note pre {
-    @apply border-[#D2D5DA] bg-[#EDF0F6];
+    @apply bg-[#8080801A];
   }
 
   .content .admonition.bg-admonition-tip code,
   .content .admonition.bg-admonition-tip pre {
-    @apply border-[#AFDDD1] bg-[#B9F4E4];
+    @apply bg-[#0095331A];
   }
 
   .content .admonition.bg-admonition-info code,
   content .admonition.bg-admonition-info pre {
-    @apply border-[#B2B0D5] bg-[#DAD8F6];
+    @apply bg-[#00278D1A];
   }
 
   .content .admonition.bg-admonition-warning code,
   .content .admonition.bg-admonition-warning pre {
-    @apply border-[#D8BCA8] bg-[#F4D8C4];
+    @apply bg-[#893A001A];
   }
 
   .content .admonition.bg-admonition-danger code,
   .content .admonition.bg-admonition-danger pre {
-    @apply border-[#E2BDCF] bg-[#F4CBDE];
+    @apply bg-[#9000001A];
   }
 
   .content > :where(:first-child) {
