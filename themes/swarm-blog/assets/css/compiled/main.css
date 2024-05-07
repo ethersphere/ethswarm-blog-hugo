@@ -1260,7 +1260,7 @@ aside ul a:hover {
 }
 
 .content .admonition code {
-  white-space: pre;
+  white-space: pre-wrap;
 }
 
 .content .admonition pre code {

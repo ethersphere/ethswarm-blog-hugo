@@ -155,7 +155,7 @@
   }
 
   .content .admonition code {
-    @apply whitespace-pre;
+    @apply whitespace-pre-wrap;
   }
 
   .content .admonition pre code {
