@@ -130,7 +130,7 @@ This metric shows the total number of active staking nodes across the top four c
 
 ![Total Staking Nodes by Country](/uploads/Total-Active-Staking-Nodes-by-Country-April.png)
 
-The geographic distribution of active staking nodes in April reflected similar trends as the previous month, with minor changes in node counts across different categories. China, Germany, and Other saw slight decreases while Finland slightly increased, and there was a notable increase in the Unknown category.
+The geographic distribution of active staking nodes in April reflected similar trends as the previous month, with minor changes in node counts across different categories. China, Germany, and Other saw slight decreases while Finland slightly increased, and there was a notable increase in the Unknown category, with United States having almost no change.
 
 ## Conclusion
 
