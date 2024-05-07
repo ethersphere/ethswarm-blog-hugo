@@ -24,6 +24,7 @@ This metric shows the total rewards paid out across the entire network for each 
 | February  | 152,974                      |
 | March     | 104,657                      |
 | April     | 76,024                       |
+
 ![chart-Total-Network-Monthly-Rewards](/uploads/chart-Total-Network-Monthly-Rewards-April.png)
 
 The total rewards paid out across the entire network decreased in April, amounting to 76,024 xBZZ. 
@@ -93,6 +94,7 @@ This metric shows the total active staking nodes by month.
 
 
 ![chart-Total-Active-Staking-Nodes](/uploads/chart-Total-Active-Staking-Nodes-April.png)
+
 The total number of active staking nodes remained relatively stable at 13,486 in April, indicating sustained participation in network staking activities.
 
 ## Total Winning Nodes by Month
