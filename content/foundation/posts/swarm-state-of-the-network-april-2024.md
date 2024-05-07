@@ -125,7 +125,8 @@ This metric shows the total number of active staking nodes across the top four c
 | February      | 6,787  | 1,958   | 1,952   | 688     | 116           | 75    |
 | March         | 7,785  | 1,953   | 2,232   | 1,408   | 91            | 102   |
 | April         | 7,249 |  1,912   | 2,291   | 1,851   | 92            | 91    |
-![Total Staking Nodes by Country.png](/uploads/Total-Active-Staking-Nodes-by-Country-April.png)
+
+![Total Staking Nodes by Country](/uploads/Total-Active-Staking-Nodes-by-Country-April.png)
 
 The geographic distribution of active staking nodes in April reflected similar trends as the previous month, with notable changes in node counts across different countries. China, Finland, and the "Other" category saw increases, while there was a notable rise in the "Unknown" category.
 
