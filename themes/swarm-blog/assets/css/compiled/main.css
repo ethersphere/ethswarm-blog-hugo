@@ -1254,51 +1254,43 @@ aside ul a:hover {
   .content .admonition pre {
   border-radius: 4px;
   border-width: 1px;
+  border-color: rgb(0 0 0 / var(--tw-border-opacity));
+  --tw-border-opacity: 0.1;
   font-weight: 400;
+}
+
+.content .admonition code {
+  white-space: pre-wrap;
 }
 
 .content .admonition pre code {
   border-color: transparent !important;
+  background-color: transparent !important;
 }
 
 .content .admonition.bg-admonition-note code,
   .content .admonition.bg-admonition-note pre {
-  --tw-border-opacity: 1;
-  border-color: rgb(210 213 218 / var(--tw-border-opacity));
-  --tw-bg-opacity: 1;
-  background-color: rgb(237 240 246 / var(--tw-bg-opacity));
+  background-color: #8080801A;
 }
 
 .content .admonition.bg-admonition-tip code,
   .content .admonition.bg-admonition-tip pre {
-  --tw-border-opacity: 1;
-  border-color: rgb(175 221 209 / var(--tw-border-opacity));
-  --tw-bg-opacity: 1;
-  background-color: rgb(185 244 228 / var(--tw-bg-opacity));
+  background-color: #0095331A;
 }
 
 .content .admonition.bg-admonition-info code,
   content .admonition.bg-admonition-info pre {
-  --tw-border-opacity: 1;
-  border-color: rgb(178 176 213 / var(--tw-border-opacity));
-  --tw-bg-opacity: 1;
-  background-color: rgb(218 216 246 / var(--tw-bg-opacity));
+  background-color: #00278D1A;
 }
 
 .content .admonition.bg-admonition-warning code,
   .content .admonition.bg-admonition-warning pre {
-  --tw-border-opacity: 1;
-  border-color: rgb(216 188 168 / var(--tw-border-opacity));
-  --tw-bg-opacity: 1;
-  background-color: rgb(244 216 196 / var(--tw-bg-opacity));
+  background-color: #893A001A;
 }
 
 .content .admonition.bg-admonition-danger code,
   .content .admonition.bg-admonition-danger pre {
-  --tw-border-opacity: 1;
-  border-color: rgb(226 189 207 / var(--tw-border-opacity));
-  --tw-bg-opacity: 1;
-  background-color: rgb(244 203 222 / var(--tw-bg-opacity));
+  background-color: #9000001A;
 }
 
 .content > :where(:first-child) {
@@ -1857,22 +1849,22 @@ aside ul a:hover {
 
 .border-admonition-danger-border {
   --tw-border-opacity: 1;
-  border-color: rgb(255 0 122 / var(--tw-border-opacity));
+  border-color: rgb(255 0 0 / var(--tw-border-opacity));
 }
 
 .border-admonition-info-border {
   --tw-border-opacity: 1;
-  border-color: rgb(23 0 255 / var(--tw-border-opacity));
+  border-color: rgb(0 71 255 / var(--tw-border-opacity));
 }
 
 .border-admonition-note-border {
   --tw-border-opacity: 1;
-  border-color: rgb(221 221 221 / var(--tw-border-opacity));
+  border-color: rgb(212 212 212 / var(--tw-border-opacity));
 }
 
 .border-admonition-tip-border {
   --tw-border-opacity: 1;
-  border-color: rgb(0 255 186 / var(--tw-border-opacity));
+  border-color: rgb(0 232 93 / var(--tw-border-opacity));
 }
 
 .border-admonition-warning-border {
@@ -1882,12 +1874,12 @@ aside ul a:hover {
 
 .bg-admonition-danger {
   --tw-bg-opacity: 1;
-  background-color: rgb(255 215 234 / var(--tw-bg-opacity));
+  background-color: rgb(255 213 213 / var(--tw-bg-opacity));
 }
 
 .bg-admonition-info {
   --tw-bg-opacity: 1;
-  background-color: rgb(229 227 255 / var(--tw-bg-opacity));
+  background-color: rgb(223 232 255 / var(--tw-bg-opacity));
 }
 
 .bg-admonition-note {
@@ -1897,7 +1889,7 @@ aside ul a:hover {
 
 .bg-admonition-tip {
   --tw-bg-opacity: 1;
-  background-color: rgb(198 255 240 / var(--tw-bg-opacity));
+  background-color: rgb(211 255 226 / var(--tw-bg-opacity));
 }
 
 .bg-admonition-warning {

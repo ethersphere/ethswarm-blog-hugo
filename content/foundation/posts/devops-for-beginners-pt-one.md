@@ -18,7 +18,7 @@ Part One of this guide focuses on Linux, while Part Two focuses on all other Dev
 
 The main purpose of this two part guide is to make Bee and Swarm more accessible to a wider range of people by educating potential node operators who are interested in running a node but are lacking in knowledge of the required tools and concepts.
 
-It also serves as a general guide for anyone interested in operating nodes on decentralised networks, as most of the tools and concepts covered will apply to operating nodes on other networks as well.
+It also serves as a general guide for anyone interested in operating nodes on decentralized networks, as most of the tools and concepts covered will apply to operating nodes on other networks as well.
 
 Furthermore the guide serves as a reference and companion for the Bee documentation, in particular the [Bee installation instructions](https://docs.ethswarm.org/docs/bee/installation/install). The Bee docs assume a lot of background knowledge, and this guide aims to get you up to speed with most of the devops tools and concepts mentioned in the docs.
 
