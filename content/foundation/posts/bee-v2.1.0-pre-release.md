@@ -1,6 +1,6 @@
 +++
-banner = "/uploads/general-graphic-4.jpg"
-images = [ "/uploads/general-graphic-4.jpg" ]
+banner = "/uploads/2-1-pre-release.png"
+images = [ "/uploads/2-1-pre-release.png" ]
 categories = [ "Development updates" ]
 date = 2024-05-13T00:00:00.000Z
 description = "The Bee 2.1 release is right around the corner, and is scheduled to go live in just two weeks. This release brings with it several changes aimed at improving node performance as well as changes aimed at making the Bee client more streamlined and easy to work with."
