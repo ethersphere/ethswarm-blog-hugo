@@ -25,7 +25,9 @@ Make sure to continue reading the rest of this article as it contains other step
 This release includes fixes to the localstore which prevent corrupted chunks from appearing in node reserves. However, these changes will not repair corrupted chunks which are currently present in a node's reserve. In order to repair corrupted chunks, the 2.1 release includes the new `db reserve-repair` command which will scan a node's reserves and fix any corrupted chunks. All node operators should make sure to run this command immediately following the 2.1 update on all their nodes. 
 
 {{< admonition warning >}}
-Make sure to run the `db reserve-repair` immediately following the 2.1 upgrade on all your nodes to repair any corrupted chunks. Also make sure to run the command one by one rather than concurrently for nodes which are running on the same physical disk, since running the command concurrently on multiple nodes could lead to drastic slowdowns.
+Make sure to run the `db reserve-repair` immediately following the 2.1 upgrade. Running the command will repair corrupted chunks in your nodes' reserves and is expected to reduce freeze rates.
+
+Also make sure to run the command one by one rather than concurrently for nodes which are running on the same physical disk, since running the command concurrently on multiple nodes could lead to drastic slowdowns.
 {{< /admonition >}}
 
 ## Phasing Out of the Debug API 
@@ -50,7 +52,11 @@ The removal of the Debug API will take part in two phases:
 Node operators and Swarm developers should use the period between the 2.1 and 2.2 to remove the Debug API from their setups and move over entirely to the Bee API in order to avoid any disruptions to their operations.
 {{< /admonition >}}
 
-### Changes to the `--restricted` Option 
+### Changes to the `--restricted` Option For Bee 2.1
+
+{{< admonition info >}}
+The `--restricted` option and API authentication feature will be removed entirely in Bee version 2.2.
+{{< /admonition >}}
 
 Along with the merging of the Debug API into the Bee API, changes are being made to the `--restricted` option. Currently the `--restricted` option is used together with the `/auth` endpoint to control access to [business related endpoints](https://docs.ethswarm.org/docs/bee/working-with-bee/security/) on the Bee API (it does not apply to the Debug API). The business related endpoints are not available by default without using the `--restricted` option and setting up authentication with the `/auth` endpoint.
 
@@ -107,7 +113,7 @@ Available by default, can be restricted and protected with basic authentication 
 All other endpoints have no restrictions and are always available.
 
 
-## Localstore Transaction Optimisation
+## Localstore Transaction Refactor
 
 The current implementation of localstore transactions (which are responsible for write operations to the chunkstore) is complex, prone to errors, and difficult to maintain. Therefore in 2.1 it is being replaced with LevelDB batch transactions. 
 
