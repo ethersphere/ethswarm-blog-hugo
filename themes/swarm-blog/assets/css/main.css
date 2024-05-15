@@ -105,7 +105,7 @@
   }
 
   .content a {
-    @apply underline;
+    @apply font-medium text-black underline;
   }
 
   .content a:hover {
@@ -130,7 +130,7 @@
   }
 
   .content blockquote {
-    @apply font-serif-quote text-2xl leading-normal;
+    @apply text-2xl leading-normal font-serif-quote;
   }
 
   .content blockquote * {
@@ -196,11 +196,11 @@
   }
 
   .content pre {
-    @apply overflow-x-auto rounded-md bg-gray-100 px-3 py-3 text-sm;
+    @apply px-3 py-3 overflow-x-auto text-sm bg-gray-100 rounded-md;
   }
 
   .content pre code {
-    @apply rounded-none bg-transparent p-0 px-0 py-0 font-normal;
+    @apply p-0 px-0 py-0 font-normal bg-transparent rounded-none;
   }
 
   .content code {
@@ -208,15 +208,15 @@
   }
 
   .content table {
-    @apply w-full table-auto text-base;
+    @apply w-full text-base table-auto;
   }
 
   .content table th {
-    @apply border border-gray-400 bg-gray-100 p-2 text-left font-bold;
+    @apply p-2 font-bold text-left bg-gray-100 border border-gray-400;
   }
 
   .content table td {
-    @apply border-gray-400/50 px-2 py-1;
+    @apply px-2 py-1 border-gray-400/50;
   }
 
   .footnotes ol {
@@ -231,7 +231,7 @@
 
 /* Pagefind UI */
 .pagefind-ui__search-input {
-  @apply relative w-full border border-gray-500 py-2 pl-12 pr-4 text-lg text-gray-900 outline-gray-900;
+  @apply relative w-full py-2 pl-12 pr-4 text-lg text-gray-900 border border-gray-500 outline-gray-900;
   background-image: url("data:image/svg+xml,%3Csvg width='32' height='32' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg' %3E%3Cpath d='m20.64 18.9-4.28-4.28a7.4 7.4 0 1 0-1.74 1.74l4.28 4.28a1.23 1.23 0 1 0 1.74-1.74ZM4.63 10.36a5.73 5.73 0 1 1 11.46 0 5.73 5.73 0 0 1-11.46 0Z' fill='%23626262' /%3E%3C/svg%3E");
   background-repeat: no-repeat;
   background-position: 8px center;
@@ -242,11 +242,11 @@
 }
 
 .pagefind-ui__results {
-  @apply md:mt-22 md:space-y-22 mb-10 mt-12 space-y-10 pl-0;
+  @apply pl-0 mt-12 mb-10 space-y-10 md:mt-22 md:space-y-22;
 }
 
 .pagefind-ui__result-image {
-  @apply aspect-video object-cover;
+  @apply object-cover aspect-video;
 }
 
 .pagefind-ui__result-inner {

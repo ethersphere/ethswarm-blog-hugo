@@ -1197,6 +1197,9 @@ aside ul a:hover {
 }
 
 .content a {
+  font-weight: 500;
+  --tw-text-opacity: 1;
+  color: rgb(0 0 0 / var(--tw-text-opacity));
   text-decoration-line: underline;
 }
 
@@ -2297,8 +2300,8 @@ aside ul a:hover {
 }
 
 .pagefind-ui__results {
-  margin-bottom: 2.5rem;
   margin-top: 3rem;
+  margin-bottom: 2.5rem;
 }
 
 .pagefind-ui__results > :not([hidden]) ~ :not([hidden]) {
