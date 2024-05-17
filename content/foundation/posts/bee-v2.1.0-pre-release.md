@@ -23,10 +23,10 @@ Make sure to continue reading the rest of this article as it contains other step
 
 ## Reserve Repair Command
 
-This release includes fixes to the localstore that prevent corrupted chunks from appearing in node reserves. However, these changes will not repair corrupted chunks already present in a node's reserve. To address this, the 2.1 release introduces the new `db reserve-repair` command, which will scan a node's reserves and fix any corrupted chunks. All node operators should make sure to run this command immediately following the 2.1 update on all their nodes. 
+This release includes fixes to the localstore that prevent corrupted chunks from appearing in node reserves. However, these changes will not repair corrupted chunks already present in a node's reserve. To address this, the 2.1 release introduces the new `db repair-reserve` command, which will scan a node's reserves and fix any corrupted chunks. All node operators should make sure to run this command immediately following the 2.1 update on all their nodes. 
 
 {{< admonition warning >}}
-Make sure to run the `db reserve-repair` immediately following the 2.1 upgrade. Running the command will repair corrupted chunks in your nodes' reserves and is expected to reduce freeze rates.
+Make sure to run the `db repair-reserve` immediately following the 2.1 upgrade. Running the command will repair corrupted chunks in your nodes' reserves and is expected to reduce freeze rates.
 
 Also make sure to run the command one by one rather than concurrently for nodes which are running on the same physical disk, since running the command concurrently on multiple nodes could lead to drastic slowdowns.
 {{< /admonition >}}
