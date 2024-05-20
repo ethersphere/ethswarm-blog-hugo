@@ -2,7 +2,7 @@
 banner = "/uploads/swarm-do.png"
 images = [ "/uploads/swarm-do.png" ]
 categories = [ "Ecosystem" ]
-date = 2024-05-20T13:00:01.000Z
+date = 2024-05-20T00:00:01.000Z
 description = "The Swarm Foundation is excited to announce an exciting new partnership with Digital Ocean, marking a significant milestone in its journey to simplify and enhance decentralised storage accessibility. "
 references_and_footnotes = [ ]
 title = "Swarm unveils a partnership with Digital Ocean"
