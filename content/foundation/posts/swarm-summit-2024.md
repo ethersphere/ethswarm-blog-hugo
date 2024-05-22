@@ -16,6 +16,7 @@ It's been quite a stretch since we last met in person for a Swarm Summit—five 
 
 This time, we're setting up in Central Europe’s hidden gem, Ljubljana, Slovenia. From **20 to 21 June** we’ll get together **at the local cultural powerhouse, [Kino Šiška](https://www.kinosiska.si/en/)**, with a roster of builders and believers who see beyond the horizon and understand that the future is being written in today’s code. 
 
+[RSVP NOW](https://www.meetup.com/ethereum-swarm/events/301034793/)
 
 ## Better than ever
 
