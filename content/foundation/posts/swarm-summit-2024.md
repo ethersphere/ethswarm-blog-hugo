@@ -31,6 +31,10 @@ The majority of the event will be brought to you [online as well](https://stream
     <a href="https://www.meetup.com/ethereum-swarm/events/301034793/" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #F7931A; text-align: center; text-decoration: none; border-radius: 5px;">RSVP Now</a>
 </div>
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=nTQUwghvy5Q" target="_blank">
+ <img src="http://img.youtube.com/vi/nTQUwghvy5Q/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
+</a>
+
 
 
 ## Swarm Summit 2024: Upload the Future — What to Expect & Beyond
