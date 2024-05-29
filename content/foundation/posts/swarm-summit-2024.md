@@ -84,7 +84,7 @@ On the last day, we will head to [Bled](https://en.wikipedia.org/wiki/Municipali
 
 
 
-![Bled](/uploads/bled.png)
+![Bled](/uploads/bled.jpg)
 Photo by Freepik
 
 This final day promises to be a laidback and enjoyable experience, perfect for unwinding and reflecting on the productive days of the Summit, enjoying the world famous “kremšnita” cake while breathing in the fresh alpine air. 

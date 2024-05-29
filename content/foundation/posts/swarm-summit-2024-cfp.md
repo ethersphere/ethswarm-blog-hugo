@@ -3,9 +3,9 @@ banner = "/uploads/Summit2024_general.png"
 images = [ "/uploads/Summit2024_general.png" ]
 categories = [ "Events" ]
 date = 2024-04-17T00:00:00.000Z
-description = "This time, we're setting up in Central Europe’s hidden gem, Ljubljana, Slovenia. From 20 to 21 June we’ll get together at the local cultural powerhouse, Kino Šiška, with a roster of builders and believers who see beyond the horizon and understand that the future is being written in today’s code."
+description = "It's been quite a stretch since we last met in person for a Swarm Summit—five whole years. Following last year’s virtual gathering, the Summit is returning live!"
 references_and_footnotes = [ ]
-title = "Swarm Summit 2024: Upload the future"
+title = "Swarm Summit 2024: Upload the Future. Call for Papers Open"
 _template = "post"
 +++
 
