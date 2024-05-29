@@ -25,7 +25,6 @@ The majority of the event will be brought to you [online as well](https://stream
 * 21 June, evening: Afterparty with [Modeselektor](https://www.youtube.com/watch?v=3Sp8Vhwts6U)
 * 22 June: Chill and relax in Bled
 
- **[RSVP Now](https://www.meetup.com/ethereum-swarm/events/301034793/)**
 
 
 <div style="text-align: center;">
@@ -45,6 +44,9 @@ The Summit will unfold with an afterparty featuring a live performance by [Modes
 The following day will take attendees to [Bled](https://en.wikipedia.org/wiki/Municipality_of_Bled) for a relaxing experience in beautiful surroundings.
 
 But before all of that, the Swarm Foundation team and community will gather in Ljubljana to kick off our adventure with two days of innovation, collaboration, idea sharing, and hacking at the Swarm Hackdays. 
+
+![Bled](/uploads/Ljubljana.jpg)
+Photo by Freepik
 
 
 ## Swarm Hackdays, 18–19 June
@@ -71,6 +73,7 @@ After the Summit concludes on Friday, there will be an afterparty at the same ve
 
  **Time to let loose and have fun**!
 
+[![Modeselektor](/uploads/modeselektor.png)](https://www.youtube.com/watch?v=ufcN7Xas2c0)
 
 
 Modeselektor are the legendary and heavily influential Berlin DJ duo that have been shaping the electronic music scene with their flamboyant DJ sets and genre-melding productions, shifting from IDM to glitch, electro house and hip-hop, topping the sets off with their cheeky, absurdist sense of humour. The authorities of modern electronica.
