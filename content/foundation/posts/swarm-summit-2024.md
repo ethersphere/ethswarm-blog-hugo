@@ -37,7 +37,7 @@ The majority of the event will be brought to you [online as well](https://stream
 
 
 
-## Swarm Summit 2024: Upload the Future — What to Expect & Beyond
+## Swarm Summit 2024: Upload the Future — Days to Remember
 
 Much has unfolded since last year’s virtual Summit, with the Swarm Foundation making significant progress. Highlights include the milestone release of Bee 2.0, positioning Swarm as the leading decentralised, permissionless and censorship-resistant storage solution, numerous events and the important governance vote that engaged the wider community. The Swarm Team is ready and excited to share the future prospects, already focusing on Swarm 3.0.
 
