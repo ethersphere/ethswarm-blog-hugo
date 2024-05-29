@@ -45,7 +45,7 @@ The following day will take attendees to [Bled](https://en.wikipedia.org/wiki/Mu
 
 But before all of that, the Swarm Foundation team and community will gather in Ljubljana to kick off our adventure with two days of innovation, collaboration, idea sharing, and hacking at the Swarm Hackdays. 
 
-![Bled](/uploads/Ljubljana.jpg)
+![Ljubljana](/uploads/Ljubljana.jpeg)
 Photo by Freepik
 
 
