@@ -47,3 +47,5 @@ name = "date"
 weight = 40
 [taxonomies]
 category = "categories"
+[markup.goldmark.renderer]
+unsafe = true
