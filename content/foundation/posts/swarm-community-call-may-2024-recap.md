@@ -2,7 +2,7 @@
 banner = "/uploads/scc-may-recap1.png"
 images = [ "/uploads/scc-may-recap1.png" ]
 categories = [ "Events" ]
-date = 2024-06-37T00:00:00.000Z
+date = 2024-06-3T00:00:00.000Z
 description = "With the recent release of Bee 2.1 came a refactored localstore that brings increased stability and performance and a lower level of chunk loss. "
 references_and_footnotes = [ ]
 title = "Swarm Community Call, 30 May – Recap"
@@ -10,7 +10,7 @@ _template = "post"
 +++
 
 
-## Better performing localstore
+## Better performing localstore 
 
 With the **recent release of Bee 2.1** came a refactored localstore that brings increased stability and performance and a lower level of chunk loss, Niki Papadatou explained. The new release also includes a new DB repairing reset command which will scan the nodes reserves and fix any corrupted chunks. Node operators should make sure to **run this command** **just following the upgrade to the new version**, for each node, one by one, on the same disk. 
 
