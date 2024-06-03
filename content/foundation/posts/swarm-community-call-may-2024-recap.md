@@ -1,6 +1,6 @@
 +++
-banner = "/uploads/scc-may-recap1.png"
-images = [ "/uploads/scc-may-recap1.png" ]
+banner = "/uploads/SCC-May-recap1.png"
+images = [ "/uploads/SCC-May-recap1.png" ]
 categories = [ "Events" ]
 date = 2024-06-03T00:00:00.000Z
 description = "With the recent release of Bee 2.1 came a refactored localstore that brings increased stability and performance and a lower level of chunk loss. "
