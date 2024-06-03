@@ -2,7 +2,7 @@
 banner = "/uploads/scc-may-recap1.png"
 images = [ "/uploads/scc-may-recap1.png" ]
 categories = [ "Events" ]
-date = 2024-06-3T00:00:00.000Z
+date = 2024-06-03T00:00:00.000Z
 description = "With the recent release of Bee 2.1 came a refactored localstore that brings increased stability and performance and a lower level of chunk loss. "
 references_and_footnotes = [ ]
 title = "Swarm Community Call, 30 May – Recap"
