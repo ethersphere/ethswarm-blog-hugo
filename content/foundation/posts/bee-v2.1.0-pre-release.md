@@ -10,6 +10,7 @@ _template = "post"
 slug="bee-2-1-pre-release"
 +++
 
+*Updated June 3rd, 2024 to include usage instructions for the `db repair-reserve` command.*
 
 ## Bee Version 2.1 Launches in Two Weeks
 
@@ -25,11 +26,25 @@ Make sure to continue reading the rest of this article as it contains other step
 
 This release includes fixes to the localstore that prevent corrupted chunks from appearing in node reserves. However, these changes will not repair corrupted chunks already present in a node's reserve. To address this, the 2.1 release introduces the new `db repair-reserve` command, which will scan a node's reserves and fix any corrupted chunks. All node operators should make sure to run this command immediately following the 2.1 update on all their nodes. 
 
+### How to Use the Command
+
 {{< admonition warning >}}
 Make sure to run the `db repair-reserve` immediately following the 2.1 upgrade. Running the command will repair corrupted chunks in your nodes' reserves and is expected to reduce freeze rates.
 
 Also make sure to run the command one by one rather than concurrently for nodes which are running on the same physical disk, since running the command concurrently on multiple nodes could lead to drastic slowdowns.
 {{< /admonition >}}
+
+When running the command, specify the data directory of your node using the `--data-dir` flag. 
+
+For example: 
+
+```bash
+bee db repair-reserve --data-dir=/home/bee/.bee
+```
+
+Make sure to replace `/home/bee/.bee` with your node's data directory if it differs from the one shown in the example. Make sure that the directory you specify is the root directory for your node's data files, not the localstore directory itself. This is the same directory specified using the `data-dir` option in your node's [configuration](https://docs.ethswarm.org/docs/bee/working-with-bee/configuration/).
+
+
 
 ## Phasing Out of the Debug API 
 
