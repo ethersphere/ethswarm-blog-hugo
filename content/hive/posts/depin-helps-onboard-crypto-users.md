@@ -22,10 +22,10 @@ Indeed, Swarm’s network of 15,000 storage nodes fits the definition of DePIN (
 
 ### Why DePINs Matter?
 
-So why will the DePIN trend become viral? This is a new way people can make money. Unlike other investments when people take out some money, put it somewhere, and wait for the asset/project to add value for them to be able to sell, DePIN is a simpler way: you already have the resources you can earn with, so you can earn money right away. There are a lot of people that have idle resources, physical and digital. They offer the resources, get rewards for it, spread the word, and increase the usage of DePIN. Crowdsourcing and decentralisation make wonders. The DePIN L1 network called peaq has a nice supporting visual:
+So why will the DePIN trend become viral? This is a new way people can make money. Unlike other investments when people take out some money, put it somewhere, and wait for the asset/project to add value for them to be able to sell, DePIN is a simpler way: you already have the resources you can earn with, so you can earn money right away. There are a lot of people that have idle resources, physical and digital. They offer the resources, get rewards for it, spread the word, and increase the usage of DePIN. Crowdsourcing and decentralisation make wonders. The DePIN L1 network called [peaq](https://www.peaq.network/) has a nice supporting visual:
 
 ![Image 3](/uploads/depin3.png)
-*Source: peaq.network*  
+*Source: [peaq.network](https://www.peaq.network/)*  
 
 Generally speaking, the more people join DePINs, the better they get. They develop faster because there is no central governing body. To make an analogy, DePINs are better than traditional infrastructure the same way Uber is better than a local taxi service and AirBNB is better than a local hotel.
 
@@ -45,7 +45,7 @@ DePINs solve this problem with barter relations: first you provide some valuable
 
 *Average monthly earnings for an active staking node (a node which has submitted a commit transaction at least once in the month) on Swarm, 2024. Source: blog.ethswarm.org*  
 
-Now that IoT devices have come to many households, your smart TV, fridge or router can do this, too, let alone your smartphone. Just look at what IoTeX and peaq network do to have an understanding how easy and massive this thing is getting.
+Now that IoT devices have come to many households, your smart TV, fridge or router can do this, too, let alone your smartphone. Just look at what [IoTeX](https://iotex.io/) and [peaq network](https://www.peaq.network/) do to have an understanding how easy and massive this thing is getting.
 
 ![Image 6](/uploads/depin6.png)
 *Source: Crypto Computer-Man on YouTube*  
