@@ -87,6 +87,6 @@ Swarm allows for upload and disappear, which means that any node can just upload
 
 This is how the great journey of Swarm started. By the way, this journey recently got [even more exciting](https://bitcoinworld.co.in): Swarm finalized its 2.0 roadmap, shut down the bonding curve mechanism after a community governance vote, and introduced erasure coding and a self-sufficient price oracle. This move opens a new chapter for the project’s growth.
 
-![Swarm community X account](/uploads/og11.png)
+![Swarm community X account](/uploads/og12.png)
 
 If you wish to share this journey with Swarm, follow the community-run [announcement channel](https://t.me) to get notifications about new articles and all the Swarm updates. Also follow [Beelon Musk](https://twitter.com) on X to get a taste of that bee humor. See you soon!
