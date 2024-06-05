@@ -1,6 +1,6 @@
 +++
-banner = "/uploads/full-moon.png"
-images = [ "/uploads/full-moon.png" ]
+banner = "/uploads/danis-blog.jpeg"
+images = [ "/uploads/danis-blog.jpeg" ]
 categories = [ "Development updates" ]
 date = 2024-06-04T00:00:00.000Z
 description = "The May state of the network report continues to depict the evolving dynamics within the Swarm network, reflecting adjustments and shifts in various metrics."
