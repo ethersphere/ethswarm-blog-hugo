@@ -28,7 +28,7 @@ To wrap it all up, Swarm Summit is coming on 20 June, but the action will actual
     * Localstore transactions refactor to bring increased stability and performance gains. The same leveldb transaction is now used for both indexstore and chunkstore writes. Also, now when the reserve capacity is reached, the number of chunks that are evicted is just enough to fall below the capacity. Previously, all the chunks belonging to a batch would be evicted, and we now expect that we will notice a reduction in the loss of chunks.
     * The research team has introduced a new redistribution contract which introduces a limit to the number of freezes per round.
     * Merge of the /debug under the /bee API is introduced in this release. At the moment, both the previous and the new solutions are available in different ports, but the Debug API will be removed entirely in the next release (v2.2.0). All nodes should be prepared accordingly.
-* All node operators are called to upgrade their nodes to the latest version. A new **`_db repair-reserve_`** command has been introduced  which will scan the node’s reserve and fix any corrupted chunks.  **Very important notice: All node operators should make sure to run this command immediately following the upgrade to the new version!!** This command should be run for one by one node on the same disk! 
+* All node operators are called to upgrade their nodes to the latest version. A new **`db repair-reserve`** command has been introduced  which will scan the node’s reserve and fix any corrupted chunks.  **Very important notice: All node operators should make sure to run this command immediately following the upgrade to the new version!!** This command should be run for one by one node on the same disk! 
 
 
 ### Research Track
@@ -41,7 +41,7 @@ To wrap it all up, Swarm Summit is coming on 20 June, but the action will actual
 
 
 #### [Bee-JS](https://github.com/ethersphere/bee-js/)
-* Released [v7](https://github.com/ethersphere/bee-js/releases/tag/v7.0.0)
+* Released [v7](https://github.com/ethersphere/bee-js/releases/tag/v7.0.0/)
     * Debug API has been merged to :1633. All functions are available on the Bee class.
     * Attempting to create a postage batch with a low amount (TTL) will now throw an error. Bee requires TTL to be at least 1 day. This affects the createPostageBatch method in the Bee class.
     * ESModules (import syntax) and Deno are now supported. If your project’s import style or bundler do not work with Bee-JS, please [open an issue](https://github.com/ethersphere/bee-js/issues).
@@ -61,7 +61,6 @@ To wrap it all up, Swarm Summit is coming on 20 June, but the action will actual
 * Released [v0.41](https://github.com/ethersphere/swarm-desktop/releases/tag/v0.41.1)
     * The new version should automatically update your Bee node to version 2.1.
 
-ssss
 
 ### DevOps 
 * Deployed Bee [2.1.](https://github.com/ethersphere/bee/releases/tag/v2.0.1)0 to testnet and mainnet.
@@ -109,13 +108,13 @@ ssss
 
 
 ### Events
-##### **Swarm Community Call – 30 May: **the monthly “stay up to date” event
+##### **Swarm Community Call – 30 May:** the monthly “stay up to date” event
 * May’s Community Call provided insights on the latest release of Bee 2.1 and what’s coming next, a more detailed look into what to expect at the [Swarm Summit](https://blog.ethswarm.org/foundation/2024/swarm-summit-2024-upload-the-future/), and a demo of the [bmt-js library wrapped up in a new Python package](https://github.com/aviksaikat/bmt-py), courtesy of community member Avik Saikat. You are welcome to read the full recap [here](https://blog.ethswarm.org/foundation/2024/swarm-community-call-30-may-recap/).
 * Next Swarm Community Call: 25 July!
 
 
 ### Upcoming events
-##### **Swarm Hackdays and Summit 2024 **
+##### **Swarm Hackdays and Summit 2024**
 
 Swarm Summit returns in an in-person format after five years, setting up a stage in the vibrant city of Ljubljana, Slovenia!
 
@@ -128,6 +127,8 @@ The majority of the event will be brought to you [online as well](https://stream
 * 21 June, evening: Afterparty with [Modeselektor](https://www.youtube.com/watch?v=3Sp8Vhwts6U)
 * 22 June: Chill in Bled
 
-[RSVP Now](https://www.meetup.com/ethereum-swarm/events/301034793/)
+<div style="text-align: center;">
+    <a href="https://www.meetup.com/ethereum-swarm/events/301034793/" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #F7931A; text-align: center; text-decoration: none; border-radius: 5px;">RSVP Now</a>
+</div>
 
 You can read more about the Summit and Hackdays in [this blog ](https://blog.ethswarm.org/foundation/2024/swarm-summit-2024-upload-the-future/)and stay alert for posts revealing the full schedule in the coming days.
