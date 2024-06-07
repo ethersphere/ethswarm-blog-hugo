@@ -142,7 +142,7 @@ This metric shows the total number of active staking nodes across the top four c
 
 In May, the number of active staking nodes declined across all categories. 
 
-*In previous months there was an unintentional overcount of active nodes, primarily in the number of Unknown nodes. Its correction in this month is what accounts for the large decline in Unknown nodes*.
+*In previous months there was an unintentional overcount of active nodes, primarily in the number of Unknown nodes. Its correction in this month is what accounts for the apparent large decline in Unknown nodes*.
 
 ## Conclusion
 
