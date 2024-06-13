@@ -1,5 +1,6 @@
 +++
 banner = "/uploads/iotex.png"
+images = [ "/uploads/iotex.png" ]
 categories = [ "Ecosystem" ]
 date = 2024-06-11T13:00:01.000Z
 description = "The Swarm Foundation is excited to announce a new partnership with IoTeX, integrating with DePINscan to elevate the transparency and real-time tracking of the Swarm network and joining their DePIN liquidity pools."
