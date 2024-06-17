@@ -31,6 +31,10 @@ The majority of the event will be brought to you [online as well](https://stream
     <a href="https://www.meetup.com/ethereum-swarm/events/301034793/" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #F7931A; text-align: center; text-decoration: none; border-radius: 5px;">RSVP Now</a>
 </div>
 
+## Swarm Summit Agenda
+
+- 20 June:  https://summit.ethswarm.org/swarm-summit-2024/schedule/#2024-06-20
+- 21 June: https://summit.ethswarm.org/swarm-summit-2024/schedule/#2024-06-21
 
 
 ## Swarm Summit 2024: Upload the Future — Days to Remember
