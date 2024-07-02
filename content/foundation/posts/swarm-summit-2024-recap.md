@@ -30,7 +30,7 @@ This end-of-June cypherpunk wave raised by Swarm Summit has not settled down yet
 ## Multichain Support: Use Swarm from Any Chain, with Any Token
 
 
-![alt_text](/uploads/image2.png)
+![alt_text](/uploads/image1.png)
 
 
 One of the most exciting announcements was Swarm’s upcoming [multi-chain support](https://hackmd.io/@zelig/BJNilHQGR). Imagine accessing the Swarm storage from any blockchain, using any token. Whether you’re on Solana, Cardano, or maybe even Bitcoin, Swarm will seamlessly integrate, making decentralised storage more accessible and interoperable than ever before. At the same time, the reach and demand of Swarm will grow. While users won’t need $BZZ directly, the conversion to $BZZ and bridging to the base chain will happen under the hood.
