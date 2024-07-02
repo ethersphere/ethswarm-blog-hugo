@@ -55,7 +55,7 @@ Swarm is uniquely positioned to support decentralised AI applications. With stro
 Watch the full talk [here](https://streameth.org/swarm/watch?session=667448d507f92b086c435718)
 
 
-![alt_text](/uploads/image4.png)
+![alt_text](/uploads/image7.png)
 
 
 Tadej Fius, CTO of the Slovenia-based [Datafund](https://datafund.io/), a protocol for guarding personal data, safe storage, and ethical data exchange, talked about immutable data provenance and leveraging Swarm for secure tracing. Blockchain + Swarm can be used as a synergetic solution where Swarm stores immutable data while blockchain stores references and time stamps. Thus, transparency, integrity, and tamper-proof records are ensured. Tadej also presented Hubee Registry, a public decentralised registry for AI models, datasets, and resources that is integrated with Swarm for live, on-chain accessibility.
@@ -72,18 +72,18 @@ Since the 2010s, instructions on how to set up your Bee Node, honey lemonade rec
 On 17–19 June, at the Swarm Hackdays side event at the Ljubljana [Computer History Museum](https://www.racunalniski-muzej.si/en/home-english/) that preceded the summit, participants built a hack that created [a transcoding service for video from Swarm](https://github.com/Solar-Punk-Ltd/hackdays-livepeer), meaning you can stream at a lower quality than the original directly from the network — if you need to.
 
 
-![alt_text](/uploads/image5.png)
+![alt_text](/uploads/image9.png)
 
 
 
-![alt_text](/uploads/image6.png)
+![alt_text](/uploads/image18.png)
 
 
 [Levente Kiss](https://www.linkedin.com/in/levente-kiss-956a7022a/) of [SolarPunk](https://x.com/SolarPunk_buzz) showed [how to stream audio and video in a decentralised way](https://streameth.org/swarm/watch?session=6674242807f92b086c420015) on Swarm in a functional PoC client-side application. In segmented streaming, Swarm can replace the transcoder, origin server, caching/edge servers, and a VOD archive for AVC, HEVC, VP9, and AV1 video codecs and MP3, AAC, and AC-3 audio codecs in MP4, HLS, and MPEG-DASH streaming. Levente tried it right at the summit; and it worked flawlessly.
 
 Watch the full talk [here](https://streameth.org/swarm/watch?session=6674242807f92b086c420015)
 
-![alt_text](/uploads/image7.jpg)
+![alt_text](/uploads/image15.jpg)
 
 
 Pablo Voorvaart of the full-stack video platform [StreamETH](https://www.streameth.org/index.html) (it streamed two most recent editions of Swarm Summit) presented their Video as a Service solution that can livestream to VOD in seconds and manage all your videos (including those stored on Livepeer, IPFS, and Swarm) from one place.
@@ -93,7 +93,7 @@ Sergio Marchese of the independent decentralised video platform [Etherna](https:
 
 Watch the full talk [here](https://streameth.org/swarm/watch?session=6674270207f92b086c420740)
 
-![alt_text](/uploads/image8.png)
+![alt_text](/uploads/image19.png)
 
 
 And by the way, the upcoming Ethereum Developer Conference, Southeast Asia [DevCon7](https://devcon.org/en/), will host its videos [on Swarm](https://x.com/EFDevcon/status/1804152357674193207).
@@ -106,7 +106,7 @@ Swarm’s ecosystem is expanding rapidly with new partnerships and collaboration
 
 
 
-![alt_text](/uploads/image9.jpg)
+![alt_text](/uploads/image13.jpg)
 
 
 SolarPunk Tech Lead András Arányi explored content access control on Swarm. With the future addition of Access Control Trie, Swarm will be the best solution for gated community content, confidential data, and paid content management. The Swarm ecosystem member SolarPunk has partnered with [Galaxis](https://x.com/Galaxisxyz), a web3 platform to build and grow sustainable decentralised communities without third-party interference, to implement ACT into their product.
@@ -115,7 +115,7 @@ SolarPunk Tech Lead András Arányi explored content access control on Swarm. Wi
 Watch the full talk [here](https://streameth.org/swarm/watch?session=667422b007f92b086c41fb65)
 
 
-![alt_text](/uploads/image10.png)
+![alt_text](/uploads/image2.png)
 
 
 [Philippe Schommers](https://x.com/filoozom), Head of Infrastructure at [Gnosis](https://x.com/GnosisChain) who previously worked at Swarm, presented the vision for Gnosis 3.0 and announced that Gnosis has started to store L2 data on Swarm, ensuring the long-term preservation of it. L2 data in Gnosis, coming from financial applications like Gnosis Pay, will exponentially grow and require a private, secure, and permissionless enclave to be stored. Swarm is excited to welcome more web3 services willing to store their data in its decentralised storage and contribute to the self-sustainability of the web3 ecosystem — like [Lastic](https://x.com/lastic_xyz), a protocol-agnostic blockspace marketplace on Polkadot that can serve as DA as a Service for app developers so that they can choose the solution that suits the best case. Since Data Availability is something all scaling solutions need, Lastic allows scaling solutions to be subsidised for their Data Availability usage.
@@ -125,7 +125,7 @@ Watch the full talk [here](https://streameth.org/swarm/watch?session=6674511507f
 
 
 
-![alt_text](/uploads/image11.png)
+![alt_text](/uploads/image5.png)
 
 
 Swarm continues to push the vision of cypherpunk into the masses. [Alexis Roussel](https://x.com/alexis_roussel), a member of the Swarm Foundation and COO of [NYM](https://x.com/nymproject), spoke on digital integrity, its legal concept, legal implications for data protection, and adoption. Digital integrity is a new fundamental human right to protect a person’s digital life and autonomy. This right was adopted in the Constitution of Geneva with a 94% approval rate in 2023.
@@ -139,7 +139,7 @@ Swarm is fostering innovation through fellowships focused on Data Availability, 
 
 
 
-![alt_text](/uploads/image12.png)
+![alt_text](/uploads/image10.png)
 
 
 At the summit, Swarm announced a new fellowship to create a DA layer, offering the primitives needed for any DA challenge. It will require a new Swarm Data Layer that will submit an attestation that the data is indeed available, and will be able to do it for different blockchains. The Swarm Data Layer testnet and launch are expected later this year.
@@ -149,7 +149,7 @@ At the summit, Swarm announced a new fellowship to create a DA layer, offering t
 
 
 
-![alt_text](/uploads/image13.png)
+![alt_text](/uploads/image4.png)
 
 
 Migrating from IPFS to Swarm is a breeze, offering better performance and more robust features. Swarm’s seamless integration with existing systems and enhanced data handling capabilities make it a superior choice for decentralised storage, ensuring your data is always accessible and secure.
@@ -160,7 +160,7 @@ Looking at download times for existing downloads (the IPFS server with content w
 
 
 
-![alt_text](/uploads/image14.jpg)
+![alt_text](/uploads/image11.jpg)
 
 
 Swarm DevRel officer [Ramesh Pallikara](https://www.linkedin.com/in/ramesh-pallikara-b1182b2/) presented what everyone needs to know about IPFS and Swarm, highlighted the pros and cons, and showed a guide on how to migrate data from IPFS and use Swarm instead.
@@ -168,14 +168,14 @@ Swarm DevRel officer [Ramesh Pallikara](https://www.linkedin.com/in/ramesh-palli
 Watch the full talk [here](https://streameth.org/swarm/watch?session=667540970d49d6570f10f457)
 
 
-![alt_text](/uploads/image15.png)
+![alt_text](/uploads/image17.png)
 
 
 Viktor Trón also presented the unique features of Swarm compared to BitTorrent and IPFS. In order to be sustainable, P2P storage networks need to have an adequate system of incentives. Unlike the above two projects, Swarm implements 8-component incentives: Proof of Replication, Redundancy, Responsibility, Relevance, Retention, Recency, Retrievability, and Resources, and adds a significant deflationary force.
 
 Watch the full talk [here](https://streameth.org/swarm/watch?session=6674441c07f92b086c4332ee)
 
-![alt_text](/uploads/image16.jpg)
+![alt_text](/uploads/image14.jpg)
 
 
 In “Practical Use Cases of Swarm That You Can Do Today,” Aron S. of Swarm provided a complete guide to starting on Swarm, including setting up, uploading/downloading, blogging, and setting up access to web2. All it takes is a computer with internet access, a Bee node, NodeJS 18+, and some xBZZ + xDAI on the Gnosis network. You can find all the needed tools on [howtoswarm.com](https://howtoswarm.com).
@@ -188,7 +188,7 @@ Watch the full talk [here](https://streameth.org/swarm/watch?session=667543590d4
 ## Running Swarm in the Browser: Unstoppable, Data-Rich dApps in Your Browser
 
 
-![alt_text](/uploads/image17.png)
+![alt_text](/uploads/image8.png)
 
 
 One of the most groundbreaking developments is the ability to run Swarm in the browser. This innovation makes it possible to run fully functional, _data-rich_ dApps directly in the browser, significantly lowering the web3 entry barrier for web2 users and developers alike and making connecting to the network more convenient. Imagine, for example, having contacts from Safe stored securely and encrypted on Swarm.
@@ -200,7 +200,7 @@ Running a Bee node has never been more profitable. With the launch of Swarm 2.0,
 
 
 
-![alt_text](/uploads/image18.jpg)
+![alt_text](/uploads/image12.jpg)
 
 
 Swarm web3 cloud expert Črt Ahlin and Swarm Foundation researchers Callum Toner and Gyuri Barabas held the panel “Optimizing Node Operations in Swarm: Economic and Technical Insights”. They discussed the roles and interactions of node operators within the Swarm network who serve as both storage providers and stakeholders in the ecosystem, the economic interdependencies between storage providers, data providers, and data users, and the incentives and costs associated with running a Swarm node. Going forward, the Swarm landscape will evolve through improvements and challenges discussed publicly in Swarm Improvement Proposals.
@@ -212,7 +212,7 @@ Watch the full talk [here](https://streameth.org/swarm/watch?session=667401c407f
 
 
 
-![alt_text](/uploads/image19.jpg)
+![alt_text](/uploads/image6.jpg)
 
 
 Elad Verbin: “Where is the hard drive?”
