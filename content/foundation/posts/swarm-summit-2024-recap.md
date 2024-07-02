@@ -13,21 +13,21 @@ _template = "post"
 
 NOTE: This article was originally published in [Hackernoon](https://hackernoon.com/swarm-summit-2024-recap)
 
-# TL;DR
+## TL;DR
 
 Swarm is becoming a critical part of the web3 infrastructure. Today, video streaming on Swarm is blazingly fast and migrating from IPFS is seamless. Node operators are seeing increased profitability. With Swarm 2.0, video and IPFS migration are leading the way. Thanks to Swarm’s high suitability for AI coupled with future developments such as multi-chain support, Swarm 3.0 is making the world computer real. The message is clear: decentralised storage is essential for web3; and Swarm is at the forefront. Dive into the future with Swarm and be part of the revolution.
 
 All Swarm Summit talks are available on [StreamETH](https://streameth.org/swarm)
 
 
-# Time for Growth: Swarm’s Ready Real-World Applications
+## Time for Growth: Swarm’s Ready Real-World Applications
 
 On 20-21 June 2024, the developer of decentralised data storage and distribution technology Swarm held its sixth annual summit which was also Swarm’s first IRL summit in five years. This time, the Swarm team came to the vibrant city of Ljubljana in Slovenia, the land of mountains and forests in southern Central Europe. Themed “Upload the Future,” the event showcased Swarm’s rapid evolution and real-world applications, proving that Swarm is ready and already making waves in decentralised data storage and distribution.
 
 This end-of-June cypherpunk wave raised by Swarm Summit has not settled down yet. It continues on 27 June at the webinar [“The Promise & Challenges of DePIN”](https://medium.com/quantum-economics/the-promise-challenges-of-depin-webinar-june-27th-12pm-1pm-est-85eadf30c1ae) with Swarm and prominent DePIN projects [Peaq](https://www.peaq.network/) and [IoTeX](https://iotex.io/) participating.
 
 
-# Multichain Support: Use Swarm from Any Chain, with Any Token
+## Multichain Support: Use Swarm from Any Chain, with Any Token
 
 
 ![alt_text](/uploads/image2.jpg)
@@ -40,7 +40,7 @@ The multi-chain move is set to bolster smooth interoperability between Swarm use
 Watch the full talk [here](https://streameth.org/swarm/watch?session=66756de10d49d6570f11fcae)
 
 
-# Swarm and AI: A Natural Fit for Decentralised Intelligence
+## Swarm and AI: A Natural Fit for Decentralised Intelligence
 
 Swarm is uniquely positioned to support decentralised AI applications. With strong compatibility with decentralised data structures in storage and beyond, Swarm is a perfect fit for AI-powered dApps. The combination of blockchain and Swarm ensures immutable data provenance, making Swarm an essential player in the AI landscape.
 
@@ -65,7 +65,7 @@ Watch the full talk [here](https://streameth.org/swarm/watch?session=667583300d4
 
 
 
-# Decentralised Video Streaming: The Ultimate Censorship-Resistant Solution
+## Decentralised Video Streaming: The Ultimate Censorship-Resistant Solution
 
 Since the 2010s, instructions on how to set up your Bee Node, honey lemonade recipes, personal diaries, conferences, educational resources, and even ads have all become videos. Music tracks that have no music videos have visualisers instead. Video content is [king](https://mediamakersmeet.com/over-82-of-internet-traffic-will-be-online-videos-by-2022-how-publishers-can-scale-their-content-production/); and Swarm is the ultimate solution for decentralised video streaming. At the summit, various projects demonstrated how Swarm can replace traditional video infrastructure components, offering censorship-resistant, decentralised streaming. From StreamETH’s Video as a Service to the seamless integration of Etherna, Swarm is proving itself as the go-to platform for video.
 
@@ -99,7 +99,7 @@ Watch the full talk [here](https://streameth.org/swarm/watch?session=6674270207f
 And by the way, the upcoming Ethereum Developer Conference, Southeast Asia [DevCon7](https://devcon.org/en/), will host its videos [on Swarm](https://x.com/EFDevcon/status/1804152357674193207).
 
 
-# Expanding Ecosystem: Value-Aligned Cypherpunks, New Partnerships and Collaborations
+## Expanding Ecosystem: Value-Aligned Cypherpunks, New Partnerships and Collaborations
 
 Swarm’s ecosystem is expanding rapidly with new partnerships and collaborations. Projects like [SolarPunk](https://x.com/SolarPunk_buzz), [StreamETH](https://www.streameth.org/index.html), and [Galaxis](https://x.com/Galaxisxyz) are leveraging Swarm’s capabilities to build decentralised communities and applications. These value-aligned cypherpunks are pushing the boundaries of what’s possible with decentralised technology.
 
@@ -133,7 +133,7 @@ Swarm continues to push the vision of cypherpunk into the masses. [Alexis Rousse
 Watch the full talk [here](https://streameth.org/swarm/watch?session=667922d50d49d6570f31fb4e)
 
 
-# Fellowships Driving Innovation: Data Availability, Provenance, and Video
+## Fellowships Driving Innovation: Data Availability, Provenance, and Video
 
 Swarm is fostering innovation through fellowships focused on Data Availability, data provenance in AI, and video technologies. These fellowships are crucial for developing the next generation of decentralised infrastructure, ensuring that Swarm stays at the cutting edge of technology.
 
@@ -145,7 +145,7 @@ Swarm is fostering innovation through fellowships focused on Data Availability, 
 At the summit, Swarm announced a new fellowship to create a DA layer, offering the primitives needed for any DA challenge. It will require a new Swarm Data Layer that will submit an attestation that the data is indeed available, and will be able to do it for different blockchains. The Swarm Data Layer testnet and launch are expected later this year.
 
 
-# Swarm vs. IPFS: Easy Migration for Better Performance
+## Swarm vs. IPFS: Easy Migration for Better Performance
 
 
 
@@ -185,7 +185,7 @@ Watch the full talk [here](https://streameth.org/swarm/watch?session=667543590d4
 
 
 
-# Running Swarm in the Browser: Unstoppable, Data-Rich dApps in Your Browser
+## Running Swarm in the Browser: Unstoppable, Data-Rich dApps in Your Browser
 
 
 ![alt_text](/uploads/image17.png)
@@ -194,7 +194,7 @@ Watch the full talk [here](https://streameth.org/swarm/watch?session=667543590d4
 One of the most groundbreaking developments is the ability to run Swarm in the browser. This innovation makes it possible to run fully functional, _data-rich_ dApps directly in the browser, significantly lowering the web3 entry barrier for web2 users and developers alike and making connecting to the network more convenient. Imagine, for example, having contacts from Safe stored securely and encrypted on Swarm.
 
 
-# Increased Profitability: Running a Bee Node
+## Increased Profitability: Running a Bee Node
 
 Running a Bee node has never been more profitable. With the launch of Swarm 2.0, node operators benefit from features like erasure coding, a storage price oracle, and enhanced incentives. These improvements ensure better earnings and make participating in the Swarm network more rewarding.
 
@@ -208,7 +208,7 @@ Swarm web3 cloud expert Črt Ahlin and Swarm Foundation researchers Callum Toner
 Watch the full talk [here](https://streameth.org/swarm/watch?session=667401c407f92b086c4158e6)
 
 
-# Swarm 3.0 is Making the World Computer Real
+## Swarm 3.0 is Making the World Computer Real
 
 
 
