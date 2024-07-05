@@ -10,8 +10,6 @@ _template = "post"
 +++
 
 
-# Monthly Development Update – June 2024
-
 
 The Swarm team had a great time gathering with the community and Swarm supporters at the [Swarm Summit](https://blog.ethswarm.org/foundation/2024/swarm-summit-2024-upload-the-future-recap/) held on June 20-21 in Ljubljana. 
 In case you missed it, all the talks and presentations from the Swarm Summit are fully accessible on [StreamETH](https://streameth.org/swarm), so make sure to check it out.
