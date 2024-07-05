@@ -2,7 +2,7 @@
 banner = "/uploads/ens_blog.jpeg"
 images = [ "/uploads/ens_blog.jpeg" ]
 categories = [ "Development updates" ]
-date = 2024-07-04T00:00:00.000Z
+date = 2024-07-08T00:00:00.000Z
 description = "This report provides a detailed analysis of various Swarm network metrics for June 2024, focusing on redistribution-related data. These metrics offer insights into total rewards, win values, earnings, node activity, and geographic distribution, helping to understand trends and performance variations over time."
 references_and_footnotes = [ ]
 title = "State of the Network: June"
