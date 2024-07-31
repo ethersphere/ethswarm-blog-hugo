@@ -5,7 +5,7 @@ categories = [ "Events" ]
 date = 2024-07-30T00:00:00.000Z
 description = "July’s Swarm Community Call brought exciting updates on node operator incentives and usability, multi-chain support plans and community-developed optimised chunk production for compact usage of postage buckets."
 references_and_footnotes = [ ]
-title = "Swarm Community Call, 25 June – Recap"
+title = "Swarm Community Call, 25 July – Recap"
 _template = "post"
 +++
 
