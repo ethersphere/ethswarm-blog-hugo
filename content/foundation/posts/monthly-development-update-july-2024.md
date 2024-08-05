@@ -43,7 +43,7 @@ To wrap it all up, the Swarm Community Call was back on the agenda after a brief
 * The Research team is now looking into other node operator improvements – drafting specifications for a 2.3 release potentially incentivising playing in other redistribution games, etc, as well as planning for other improvements. 
 
 
-### JS Track (Aron) 
+### JS Track 
 
 
 ####  
