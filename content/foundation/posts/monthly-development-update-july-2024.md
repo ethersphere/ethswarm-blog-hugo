@@ -2,7 +2,7 @@
 banner = "/uploads/DevUpdate-july.jpeg"
 images = [ "/uploads/DevUpdate-july.jpeg" ]
 categories = [ "Development updates" ]
-date = 2024-08-02T00:00:00.000Z
+date = 2024-08-05T00:00:00.000Z
 description = "In July, the Bee Track has been diligently preparing for the Bee 2.2 release, with Access Control (ACT) development completed and neighbourhood hopping with transferrable stake in final testing."
 references_and_footnotes = [ ]
 title = "Monthly Development Update – July 2024"
