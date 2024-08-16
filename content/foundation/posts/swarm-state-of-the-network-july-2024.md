@@ -161,7 +161,7 @@ This metric shows the total number of active staking nodes across the top four c
 
 ### Analysis
 
-China saw the largest increase in active nodes during July, further solidifying its dominant position within the network. Germany, Finland, and other regions also experienced growth, while the Unknown category shrank significantly (this was mainly due to improvements made to the scripts used for analysing network activity). The U.S. and Other categories remained relatively stable, with minor fluctuations.
+China saw the largest increase in active nodes during July, further solidifying its dominant position within the network. Germany, Finland, and other regions also experienced growth, while the Unknown category shrank significantly (this was mainly due to improvements made to the scripts used for analysing network activity). The United States and Other categories remained relatively stable, with minor fluctuations.
 
 ## Conclusion
 
