@@ -48,12 +48,12 @@ For those getting started, signing up for Swarmy is straightforward. After creat
 
 ### A Web3 cloud for the future
 
-This month's Community Talk showcased two projects. First up was **Latitude.sh**, a bare metal provider for Web3 companies that lets companies quickly deploy a node. In their demo, Cintia Megalhāes, Victor Chiea and Ricardo Bortolansa showed the audience how using their blueprints, which are just containers for images (in this case a Swarm image), they can deploy a Swarm node in a matter of seconds using only an SSH key. 
+This month's Community Talk showcased two projects. First up was **[Latitude.sh](http://latitude.sh/)**, a bare metal provider for Web3 companies that lets companies quickly deploy a node. In their demo, Cintia Megalhāes, Victor Chiea and Ricardo Bortolansa showed the audience how using their blueprints, which are just containers for images (in this case a Swarm image), they can deploy a Swarm node in a matter of seconds using only an SSH key. 
 
 
-### Solarpunks are taking Swarm seriously – impactful engineering and expanded capabilities 
+### Solar Punks are taking Swarm seriously – impactful engineering and expanded capabilities 
 
-The second to take the community stage was Sándor Nagy from **Solarpunks** to present his team’s work. One key success of the team is the establishment of a working partnership with an organisation currently building an application on top of Swarm.
+The second to take the community stage was Sándor Nagy from **[Solar Punk](https://x.com/SolarPunk_buzz)** to present his team’s work. One key success of the team is the establishment of a working partnership with an organisation currently building an application on top of Swarm.
 
 At the recent Swarm Summit, several of these Swarm-based applications were showcased. Among them was an indexing and searching tool that leverages Swarm to enable the search of NFT images. Another notable achievement is the development of a media streaming solution. It is currently in its final stages and will soon be publicly available, allowing anyone to perform live streaming on top of Swarm. The team also successfully tested live HD video streaming on Swarm, which was a significant milestone.
 
