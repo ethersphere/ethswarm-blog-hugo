@@ -12,7 +12,7 @@ _template = "post"
 
 ## Feature-packed Bee 2.2
 
-During the August call, Niki Papadatou took the audience through the new features that are packed in the upcoming Bee 2.2. These include:
+During the August call, Niki Papadatou took the audience through the new features that are packed in the upcoming [Bee 2.2](https://github.com/ethersphere/bee/releases). These include:
 
 
 1. **Access Control Tree**: This will give users greater control over the confidentiality of their content, ensuring that **only whitelisted nodes can access certain resources**. The flexibility of the system allows the whitelisted list to be updated as needed, providing dynamic control over access permissions. 
