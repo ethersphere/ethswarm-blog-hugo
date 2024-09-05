@@ -18,7 +18,7 @@ Bee version 2.2.0 launches in just *two weeks* on DATE, introducing significant 
 This article provides an overview of the major changes in Bee version 2.2. For a complete list of changes, refer to the [release notes](https://github.com/ethersphere/bee/releases) for 2.2 on GitHub.
 
 {{< admonition danger >}}
-**Node Operators:** Make sure to read the [Node Operator's Guide](https://hackmd.io/@swarm-devrel/B1xQ4yCoA) fully to avoid *loss of rewards* or compromising your nodes' security.
+**Node Operators:** Make sure to read the [Node Operator's Guide](https://blog.ethswarm.org/foundation/2024/bee-2-2-guide/) fully to avoid *loss of rewards* or compromising your nodes' security.
 {{< /admonition >}}
 
 ### Access Control Trie (ACT)  
@@ -31,11 +31,11 @@ You can find a [detailed usage guide for ACT](https://docs.ethswarm.org/docs/dev
 
 ### Neighborhood Hopping
  
-Previously, nodes were locked into the [neighborhood](https://docs.ethswarm.org/docs/learn/glossary#neighborhood) they started staking in, which could lead to low chances of winning rewards in overcrowded neighborhoods. The new neighborhood hopping feature allows node operators to move their nodes to underpopulated neighborhoods, improving their chances of winning rewards. Detailed instructions are available in the [Node Operator's Guide](https://hackmd.io/@swarm-devrel/B1xQ4yCoA).
+Previously, nodes were locked into the [neighborhood](https://docs.ethswarm.org/docs/learn/glossary#neighborhood) they started staking in, which could lead to low chances of winning rewards in overcrowded neighborhoods. The new neighborhood hopping feature allows node operators to move their nodes to underpopulated neighborhoods, improving their chances of winning rewards. Detailed instructions are available in the [Node Operator's Guide]https://blog.ethswarm.org/foundation/2024/bee-2-2-guide/).
 
 ### Partially Withdrawable Stake
 
-Previously, stake was non-withdrawable and set arbitrarily to 10 xBZZ. The new partial stake withdrawal feature allows operators to withdraw part of their stake, as long as the remaining stake meets the minimum requirement. See the [Node Operator's Guide](https://hackmd.io/@swarm-devrel/B1xQ4yCoA) for specific instructions.
+Previously, stake was non-withdrawable and set arbitrarily to 10 xBZZ. The new partial stake withdrawal feature allows operators to withdraw part of their stake, as long as the remaining stake meets the minimum requirement. See the [Node Operator's Guide](https://blog.ethswarm.org/foundation/2024/bee-2-2-guide/) for specific instructions.
 
 ### Bee Debug API Removal
 
@@ -44,7 +44,7 @@ With the 2.2.0 release, the Bee Debug API has been entirely removed, and its end
 This removal, announced with the 2.1.0 release, is now fully implemented in 2.2.0. It simplifies development of the Bee client and streamlines operations for node operators.
 
 {{< admonition danger >}}
-**Protect Your Bee API:** If you haven't done so, ensure your Bee API is protected. Follow the [Node Operator's Guide](https://hackmd.io/@swarm-devrel/B1xQ4yCoA) for specific instructions.
+**Protect Your Bee API:** If you haven't done so, ensure your Bee API is protected. Follow the [Node Operator's Guide](https://blog.ethswarm.org/foundation/2024/bee-2-2-guide/) for specific instructions.
 {{< /admonition >}}
 
 
@@ -54,7 +54,7 @@ Nodes will now connect with fewer peers, but these connections will be more stab
 
 ## Node Operator's Guide
 
-The official [Node Operator's Guide](https://hackmd.io/@swarm-devrel/B1xQ4yCoA) has been published alongside this announcement of the upcoming 2.2.0 release.
+The official [Node Operator's Guide](https://blog.ethswarm.org/foundation/2024/bee-2-2-guide/) has been published alongside this announcement of the upcoming 2.2.0 release.
 
 {{< admonition danger >}}
 **Important:** As a node operator, it is ***VERY IMPORTANT*** that you read and follow the instructions in the guide to avoid losing rewards or leaving your nodes in an insecure state.
@@ -66,5 +66,5 @@ Bee 2.2.0 introduces significant new features and improvements, with the Access 
 
 
 {{< admonition danger >}}
-**Final Reminder:** Node operators must read the [Node Operator's Guide](https://hackmd.io/@swarm-devrel/B1xQ4yCoA) fully to avoid *loss of rewards* or compromising your nodes' security.
+**Final Reminder:** Node operators must read the [Node Operator's Guide](https://blog.ethswarm.org/foundation/2024/bee-2-2-guide/) fully to avoid *loss of rewards* or compromising your nodes' security.
 {{< /admonition >}}

@@ -14,7 +14,7 @@ slug="bee-2-2-guide"
 
 ## Bee 2.2 Node Operator's Upgrade Guide 
 
-This node operator's guide contains step by step instructions for the requirements to upgrade your node to 2.2.0 as well as instructions for other new features such as neighborhood hopping and partial withdrawals. To learn more about all the new features included in the 2.2.0 release, check out the [two week announcement article](https://hackmd.io/@swarm-devrel/HyoUOsEjA).
+This node operator's guide contains step by step instructions for the requirements to upgrade your node to 2.2.0 as well as instructions for other new features such as neighborhood hopping and partial withdrawals. To learn more about all the new features included in the 2.2.0 release, check out the [two week announcement article](https://blog.ethswarm.org/foundation/2024/bee-2-2-pre-release/).
 
 
 ### Required 2.2.0 Upgrade Steps 
@@ -180,4 +180,4 @@ debug-api-enable: false
 
 ## Wrapping Up
 
-It's crucial for you to follow the instructions in this guide to maintain your node’s eligibility for rewards and ensuring optimal performance. We also encourage you to take advantage of the new features such as [ACT](https://docs.ethswarm.org/docs/develop/tools-and-features/act), neighborhood hopping (and the new staking strategies it enables), and partial withdrawals. 
+It's crucial for you to follow the instructions in this guide to maintain your node’s eligibility for rewards and ensuring optimal performance. We also encourage you to take advantage of the new features such as [ACT](https://docs.ethswarm.org/docs/develop/tools-and-features/act), neighborhood hopping (and the new staking strategies it enables), and partial withdrawals. To find out more general information about the 2.2 release, check out the [weeks notice article](https://blog.ethswarm.org/foundation/2024/bee-2-2-pre-release/).
