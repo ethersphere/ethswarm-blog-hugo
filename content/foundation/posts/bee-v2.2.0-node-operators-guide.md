@@ -5,13 +5,13 @@ categories = [ "Development updates" ]
 date = 2024-09-05T00:00:00.000Z
 description = "This node operator's guide contains step by step instructions for the requirements to upgrade your node to 2.2.0 as well as instructions for other new features such as neighborhood hopping and partial withdrawals. To learn more about all the new features included in the 2.2.0 release, check out the one week announcement article."
 references_and_footnotes = [ ]
-title = "Bee Version 2.2 - Node Operators' Guide"
+title = "Bee Version 2.2.0 - Node Operators' Guide"
 _template = "post"
 slug="bee-2-2-guide"
 +++
 
 
-## Bee 2.2 Node Operator's Upgrade Guide 
+## Bee 2.2.0 Node Operator's Upgrade Guide 
 
 {{< admonition danger >}}
 DO NOT UPGRADE TO 2.2.0 before completing this guide, allow your node to remain at version 2.1.0 until these steps are completed. All full staking nodes must follow the steps described below to continue to be eligible for rewards.
