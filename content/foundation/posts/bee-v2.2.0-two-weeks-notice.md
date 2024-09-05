@@ -3,22 +3,22 @@ banner = "/uploads/2-2-0-notice.png"
 images = [ "/uploads/2-2-0-notice.png" ]
 categories = [ "Development updates" ]
 date = 2024-09-05T00:00:00.000Z
-description = "Bee version 2.2.0 launches in just two weeks on DATE, introducing significant new features and improvements for both DAPP developers and node operators. These features unlock exciting new potential use cases for Swarm developers and come with important enhancements to the user experience and economics for node operators."
+description = "Bee version 2.2.0 launches in one week on Thursday, September 12th, introducing significant new features and improvements for both DAPP developers and node operators. These features unlock exciting new potential use cases for Swarm developers and come with important enhancements to the user experience and economics for node operators."
 references_and_footnotes = [ ]
-title = "Bee Version 2.2 - Two Weeks Notice"
+title = "Bee Version 2.2 - One Week Notice"
 _template = "post"
 slug="bee-2-2-pre-release"
 +++
 
 
-## Bee 2.2.0 Goes Live in Two Weeks!
+## Bee 2.2.0 Goes Live in A Week!
 
-Bee version 2.2.0 launches in just *two weeks* on DATE, introducing significant new features and improvements for both DAPP developers and node operators. These features unlock exciting new potential use cases for Swarm developers and come with important enhancements to the user experience and economics for node operators.
+Bee version 2.2.0 launches in one week on Thursday, September 12th, introducing significant new features and improvements for both DAPP developers and node operators. These features unlock exciting new potential use cases for Swarm developers and come with important enhancements to the user experience and economics for node operators.
 
-This article provides an overview of the major changes in Bee version 2.2. For a complete list of changes, refer to the [release notes](https://github.com/ethersphere/bee/releases) for 2.2 on GitHub.
+This article provides an overview of the major changes in Bee version 2.2.0 For a complete list of changes, refer to the [release notes](https://github.com/ethersphere/bee/releases) for 2.2 on GitHub.
 
 {{< admonition danger >}}
-**Node Operators:** Make sure to read the [Node Operator's Guide](https://blog.ethswarm.org/foundation/2024/bee-2-2-guide/) fully to avoid *loss of rewards* or compromising your nodes' security.
+**Node Operators:** Make sure to read the [Node Operator's Guide](https://blog.ethswarm.org/foundation/2024/bee-2-2-guide/) fully to avoid *loss of rewards* or compromising your nodes' security. Also make sure not to upgrade your node to 2.2.0 before fully reading the instructions, as there are steps you must take before upgrading.
 {{< /admonition >}}
 
 ### Access Control Trie (ACT)  
@@ -29,9 +29,9 @@ For example, a content creator could use ACT to grant access to subscribers of a
 
 You can find a [detailed usage guide for ACT](https://docs.ethswarm.org/docs/develop/tools-and-features/act) here, and you can read a high-level overview of the concepts and motivations for the ACT on the [ACT page](https://docs.ethswarm.org/docs/learn/technology/act) in the documentation.
 
-### Neighborhood Hopping
+### neighborhood Hopping
  
-Previously, nodes were locked into the [neighborhood](https://docs.ethswarm.org/docs/learn/glossary#neighborhood) they started staking in, which could lead to low chances of winning rewards in overcrowded neighborhoods. The new neighborhood hopping feature allows node operators to move their nodes to underpopulated neighborhoods, improving their chances of winning rewards. Detailed instructions are available in the [Node Operator's Guide]https://blog.ethswarm.org/foundation/2024/bee-2-2-guide/).
+Previously, nodes were locked into the [neighborhood](https://docs.ethswarm.org/docs/learn/glossary#neighborhood) they started staking in, which could lead to low chances of winning rewards in overcrowded neighborhoods. The new neighborhood hopping feature allows node operators to move their nodes to underpopulated neighborhood, improving their chances of winning rewards. Detailed instructions are available in the [Node Operator's Guide]https://blog.ethswarm.org/foundation/2024/bee-2-2-guide/).
 
 ### Partially Withdrawable Stake
 

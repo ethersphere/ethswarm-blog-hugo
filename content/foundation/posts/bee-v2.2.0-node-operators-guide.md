@@ -11,22 +11,18 @@ slug="bee-2-2-guide"
 +++
 
 
-
 ## Bee 2.2 Node Operator's Upgrade Guide 
+
+{{< admonition danger >}}
+DO NOT UPGRADE TO 2.2.0 before completing this guide, allow your node to remain at version 2.1.0 until these steps are completed. All full staking nodes must follow the steps described below to continue to be eligible for rewards.
+{{< /admonition >}}
 
 This node operator's guide contains step by step instructions for the requirements to upgrade your node to 2.2.0 as well as instructions for other new features such as neighborhood hopping and partial withdrawals. To learn more about all the new features included in the 2.2.0 release, check out the [two week announcement article](https://blog.ethswarm.org/foundation/2024/bee-2-2-pre-release/).
 
 
 ### Required 2.2.0 Upgrade Steps 
 
-{{< admonition danger >}}
-DO NOT UPGRADE TO 2.2.0 before completing these steps, allow your node to remain at version 2.1.0 until these steps are completed. All full staking nodes must follow the steps described below to continue to be eligible for rewards.
-{{< /admonition >}}
-
-
 One of the most significant and ***breaking*** aspects the 2.2.0 upgrade is the updated staking contract which allows for neighborhood hopping. Therefore, node operators must withdraw their stake from the previous staking contract ***(while their nodes are still operating on version 2.1.0)***, and then re-stake into the new contract designed for Bee 2.2.0, ***before*** updating their nodes to version 2.2.0:
-
-
 
 #### Step One:
 
