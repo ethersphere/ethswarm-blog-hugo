@@ -64,6 +64,10 @@ To round things off, the Swarm Community Call in August provided insights into t
 
 
 ### Ecosystem 
+#### Partnership
+* In partnership with Latitude.sh, a new blueprint has been developed that lets anyone instantly [launch a bee light node](https://www.latitude.sh/dashboard/tm/test-project/launchpad/models/create/1cnxvazdFwuBm5vWtab0Bg) (login required) in any of their 23 locations across five continents. The [docker image](https://hub.docker.com/r/ethersphere/latitudesh-bee-blueprint/) has been published on the docker hub.
+
+### DevRel 
 #### Documentation 
 * The documentation for the upcoming Bee client 2.2.0 is currently being drafted and will be published along with the new client release when it is ready.
 
