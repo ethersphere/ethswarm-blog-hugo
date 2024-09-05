@@ -78,7 +78,7 @@ To round things off, the Swarm Community Call in August provided insights into t
 ### Events 
 
 
-##### **Swarm Community Call – 29 August 2024**
+#### **Swarm Community Call – 29 August 2024**
 
 In August’s Community Call, we learned in detail about the upcoming Bee 2.2 release, as well as what improvements and features are planned for the following upgrade. A new service was presented, Swarmy, which enables uploading and downloading content to/from Swarm without having to install anything. In Community Talk, a 1-minute Bee set-up was demonstrated by Latitude.sh team members, and Solar Punk achievements and plans for the future were revealed. You are welcome to read the whole Recap [here](https://blog.ethswarm.org/foundation/2024/swarm-community-call-29-august-recap/). 
 
@@ -86,7 +86,7 @@ In August’s Community Call, we learned in detail about the upcoming Bee 2.2 re
 ### Upcoming events
 
 
-##### **Swarm Community Call – 26 September 2024**
+#### **Swarm Community Call – 26 September 2024**
 
 Swarm Community Calls, held every last Thursday of the month on Discord, are the best way to stay fully up to date with the current development, as well as to seize the opportunity to jump into a live discussion or ask the Swarm team a question! The next Community Call is on 26 September ([add to calendar](https://www.addevent.com/event/rS22652644)).
 
