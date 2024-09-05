@@ -10,7 +10,7 @@ _template = "post"
 +++
 
 
-In August, the Bee Track deployed the [Bee 2.2 release](https://github.com/ethersphere/bee/releases) on the public testnet. Expect a final release soon. It includes Access Control Trie (ACT) for managing the confidentiality of content, neighbourhood hopping with transferable stakes and the option to withdraw stakes. At the same time, preparations are underway for version 2.3 of the Bee client.
+In August, the Bee Track deployed the [Bee 2.2 release](https://github.com/ethersphere/bee/releases) on the public testnet. Expect a final release soon. It includes [Access Control Trie (ACT)](https://docs.ethswarm.org/docs/learn/technology/act) for managing the confidentiality of content, neighbourhood hopping with transferable stakes and the option to withdraw stakes. At the same time, preparations are underway for version 2.3 of the Bee client.
 
 Meanwhile, the Research Track has started developing the proof-of-concept for multichain support after finalising the specifications. It is also working on the contract updates for the price oracle and the specifications for the sister neighbourhood game.
 
