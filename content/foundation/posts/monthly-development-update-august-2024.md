@@ -45,8 +45,7 @@ To round things off, the Swarm Community Call in August provided insights into t
 ### JS Track 
 
 
-####  
-[Bee-JS](https://github.com/ethersphere/bee-js)
+#### [Bee-JS](https://github.com/ethersphere/bee-js)
 * V7.1.1 has been released with updated JSDocs. All functions now point to the correct and relevant documentation sections.
 
 
