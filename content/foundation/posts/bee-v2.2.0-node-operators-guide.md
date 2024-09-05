@@ -3,7 +3,7 @@ banner = "/uploads/2-2-0-guide.png"
 images = [ "/uploads/2-2-0-guide.png" ]
 categories = [ "Development updates" ]
 date = 2024-09-05T00:00:00.000Z
-description = "This node operator's guide contains step by step instructions for the requirements to upgrade your node to 2.2.0 as well as instructions for other new features such as neighborhood hopping and partial withdrawals. To learn more about all the new features included in the 2.2.0 release, check out the two week announcement article."
+description = "This node operator's guide contains step by step instructions for the requirements to upgrade your node to 2.2.0 as well as instructions for other new features such as neighborhood hopping and partial withdrawals. To learn more about all the new features included in the 2.2.0 release, check out the one week announcement article."
 references_and_footnotes = [ ]
 title = "Bee Version 2.2 - Node Operators' Guide"
 _template = "post"
@@ -17,7 +17,7 @@ slug="bee-2-2-guide"
 DO NOT UPGRADE TO 2.2.0 before completing this guide, allow your node to remain at version 2.1.0 until these steps are completed. All full staking nodes must follow the steps described below to continue to be eligible for rewards.
 {{< /admonition >}}
 
-This node operator's guide contains step by step instructions for the requirements to upgrade your node to 2.2.0 as well as instructions for other new features such as neighborhood hopping and partial withdrawals. To learn more about all the new features included in the 2.2.0 release, check out the [two week announcement article](https://blog.ethswarm.org/foundation/2024/bee-2-2-pre-release/).
+This node operator's guide contains step by step instructions for the requirements to upgrade your node to 2.2.0 as well as instructions for other new features such as neighborhood hopping and partial withdrawals. To learn more about all the new features included in the 2.2.0 release, check out the [one week announcement article](https://blog.ethswarm.org/foundation/2024/bee-2-2-pre-release/).
 
 
 ### Required 2.2.0 Upgrade Steps 
@@ -176,4 +176,4 @@ debug-api-enable: false
 
 ## Wrapping Up
 
-It's crucial for you to follow the instructions in this guide to maintain your node’s eligibility for rewards and ensuring optimal performance. We also encourage you to take advantage of the new features such as [ACT](https://docs.ethswarm.org/docs/develop/tools-and-features/act), neighborhood hopping (and the new staking strategies it enables), and partial withdrawals. To find out more general information about the 2.2 release, check out the [weeks notice article](https://blog.ethswarm.org/foundation/2024/bee-2-2-pre-release/).
+It's crucial for you to follow the instructions in this guide to maintain your node’s eligibility for rewards and ensuring optimal performance. We also encourage you to take advantage of the new features such as [ACT](https://docs.ethswarm.org/docs/develop/tools-and-features/act), neighborhood hopping (and the new staking strategies it enables), and partial withdrawals. To find out more general information about the 2.2 release, check out the [one week notice article](https://blog.ethswarm.org/foundation/2024/bee-2-2-pre-release/).
