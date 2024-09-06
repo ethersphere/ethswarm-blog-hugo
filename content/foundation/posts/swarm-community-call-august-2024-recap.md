@@ -51,7 +51,7 @@ For those getting started, signing up for Swarmy is straightforward. After creat
 This month's Community Talk showcased two projects. First up was **[Latitude.sh](http://latitude.sh/)**, a bare metal provider for Web3 companies that lets companies quickly deploy a node. In their demo, Cintia Megalhāes, Victor Chiea and Ricardo Bortolansa showed the audience how using their blueprints, which are just containers for images (in this case a Swarm image), they can deploy a Swarm node in a matter of seconds using only an SSH key. 
 
 
-### Solar Punks are taking Swarm seriously – impactful engineering and expanded capabilities 
+### Solar Punk takes Swarm seriously – impactful engineering and expanded 
 
 The second to take the community stage was Sándor Nagy from **[Solar Punk](https://x.com/SolarPunk_buzz)** to present his team’s work. One key success of the team is the establishment of a working partnership with an organisation currently building an application on top of Swarm.
 
@@ -59,7 +59,7 @@ At the recent Swarm Summit, several of these Swarm-based applications were showc
 
 A particularly groundbreaking development is the Bee node running in a browser, which could eliminate the need for any installation when using a light node. Additionally, the team has completed a proof-of-concept for a mobile application, demonstrating a working Bee node on a mobile device. The app, which allows file uploads and downloads, is available as an installable package for testing.
 
-Another important area of development is the above-mentioned Access Control (ACT). It represents Solarpunks' first major contribution to Swarm node and the wider network. ACT has the potential to open up significant opportunities for business development, as it addresses a critical need for access control—an aspect that is currently lacking in many decentralised systems.
+Another important area of development is the above-mentioned Access Control (ACT). It represents Solar Punk's first major contribution to Swarm node and the wider network. ACT has the potential to open up significant opportunities for business development, as it addresses a critical need for access control—an aspect that is currently lacking in many decentralised systems.
 
 Looking to the future, during Devcon they intend to release "Devcon.buzz," an app that will enable users to comment and chat based on the talks happening during the event. The team also plans to encourage users of the application to become node operators through a fun and engaging game. More details will be available in the coming months.
 
