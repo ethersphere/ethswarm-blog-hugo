@@ -7,7 +7,7 @@ description = "Bee version 2.2.0 launches in one week on Thursday, September 12t
 references_and_footnotes = [ ]
 title = "Bee Version 2.2.0 - One Week Notice"
 _template = "post"
-slug="bee-2-2-pre-release"
+slug="bee-2-2-one-week-pre-release"
 +++
 
 
