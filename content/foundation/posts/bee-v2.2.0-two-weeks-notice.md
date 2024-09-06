@@ -11,7 +11,7 @@ slug="bee-2-2-pre-release"
 +++
 
 
-## Bee 2.2.0 Goes Live in A Week!
+## Bee 2.2.0 Goes Live on Thursday, September 12th!
 
 Bee version 2.2.0 launches in one week on Thursday, September 12th, introducing significant new features and improvements for both DAPP developers and node operators. These features unlock exciting new potential use cases for Swarm developers and come with important enhancements to the user experience and economics for node operators.
 
@@ -29,9 +29,9 @@ For example, a content creator could use ACT to grant access to subscribers of a
 
 You can find a [detailed usage guide for ACT](https://docs.ethswarm.org/docs/develop/tools-and-features/act) here, and you can read a high-level overview of the concepts and motivations for the ACT on the [ACT page](https://docs.ethswarm.org/docs/learn/technology/act) in the documentation.
 
-### neighborhood Hopping
+### Neighborhood Hopping
  
-Previously, nodes were locked into the [neighborhood](https://docs.ethswarm.org/docs/learn/glossary#neighborhood) they started staking in, which could lead to low chances of winning rewards in overcrowded neighborhoods. The new neighborhood hopping feature allows node operators to move their nodes to underpopulated neighborhood, improving their chances of winning rewards. Detailed instructions are available in the [Node Operator's Guide]https://blog.ethswarm.org/foundation/2024/bee-2-2-guide/).
+Previously, nodes were locked into the [neighborhood](https://docs.ethswarm.org/docs/learn/glossary#neighborhood) they started staking in, which could lead to low chances of winning rewards in overcrowded neighborhoods. The new neighborhood hopping feature allows node operators to move their nodes to underpopulated neighborhood, improving their chances of winning rewards. Detailed instructions are available in the [Node Operator's Guide](https://blog.ethswarm.org/foundation/2024/bee-2-2-guide/).
 
 ### Partially Withdrawable Stake
 
