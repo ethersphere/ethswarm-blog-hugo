@@ -33,7 +33,7 @@ Once the full version of 2.2.0 is released on Github, the current staking contra
 Once the contract is disabled, withdraw all your stake by calling the `/stake` endpoint with the `DELETE` method (there is no time limit for moving your stake, however the longer you wait, the more potential rewards are lost):
 
     ```bash
-    curl DELETE http://localhost:1633/stake
+    curl -X DELETE http://localhost:1633/stake
     ```
 This command will withdraw all stake from your node to your node's Gnosis Chain address. 
 
@@ -160,8 +160,8 @@ Make sure that for your `p2p-addr:` option you DO NOT modify it to limit it to l
 p2p-addr: :1634
 ```
 
-{{< admonition info >}}
-While not strictly required, it's also good practice to remove any of the options from our configuration which are no longer supported due to the changes described above. To clean up your config file, remove these three options:
+{{< admonition warning >}}
+You must also remove these three options from your configuration which are no longer supported:
 
 ```yaml
 # bcrypt hash of the admin password to get the security token
