@@ -1,6 +1,6 @@
 +++
-banner = "/uploads/2-2-0-notice.png"
-images = [ "/uploads/2-2-0-notice.png" ]
+banner = "/uploads/2-2-0-one-week-notice.png"
+images = [ "/uploads/2-2-0-one-week-notice.png" ]
 categories = [ "Development updates" ]
 date = 2024-09-05T00:00:00.000Z
 description = "Bee version 2.2.0 launches in one week on Thursday, September 12th, introducing significant new features and improvements for both DAPP developers and node operators. These features unlock exciting new potential use cases for Swarm developers and come with important enhancements to the user experience and economics for node operators."

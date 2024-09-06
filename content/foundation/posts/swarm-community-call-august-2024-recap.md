@@ -61,7 +61,7 @@ A particularly groundbreaking development is the Bee node running in a browser, 
 
 Another important area of development is the above-mentioned Access Control (ACT). It represents Solarpunks' first major contribution to Swarm node and the wider network. ACT has the potential to open up significant opportunities for business development, as it addresses a critical need for access control—an aspect that is currently lacking in many decentralised systems.
 
-Looking to the future, during Devcon they intend to release "Devcon Pause," an app that will enable users to comment and chat based on the talks happening during the event. The team also plans to encourage users of the application to become node operators through a fun and engaging game. More details will be available in the coming months.
+Looking to the future, during Devcon they intend to release "Devcon.buzz," an app that will enable users to comment and chat based on the talks happening during the event. The team also plans to encourage users of the application to become node operators through a fun and engaging game. More details will be available in the coming months.
 
 
 ## Announcements: On the road to Devcon, but first – Bulgaria
