@@ -99,7 +99,7 @@ In this final step, upgrade your node to 2.2.0 using your preferred [installatio
 
 ### Localstore Migration Caution
 
-Before every Bee client upgrade, it is best practice to ALWAYS take a full backup of your node. How
+Before every Bee client upgrade, it is best practice to ALWAYS take a full backup of your node.
 
 The 2.2.0 upgrade includes a localstore migration which will take an extended time to complete (the exact time will vary based on your particular system specs). You can[ check your node's logs](https://docs.ethswarm.org/docs/bee/working-with-bee/logs-and-files) for messages related to the migration in order to check on the migration progress.
 
