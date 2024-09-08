@@ -13,105 +13,16 @@ slug="bee-2-2-guide"
 
 ## Bee 2.2.0 Node Operator's Upgrade Guide 
 
-{{< admonition danger >}}
-DO NOT UPGRADE TO 2.2.0 before completing this guide, allow your node to remain at version 2.1.0 until these steps are completed. All full staking nodes must follow the steps described below to continue to be eligible for rewards.
-{{< /admonition >}}
-
-This node operator's guide contains step by step instructions for the requirements to upgrade your node to 2.2.0 as well as instructions for other new features such as neighborhood hopping and partial withdrawals. To learn more about all the new features included in the 2.2.0 release, check out the [one week announcement article](https://blog.ethswarm.org/foundation/2024/bee-2-2-pre-release/).
-
-
-### Required 2.2.0 Upgrade Steps 
-
-One of the most significant and ***breaking*** aspects the 2.2.0 upgrade is the updated staking contract which allows for neighborhood hopping. Therefore, node operators must withdraw their stake from the previous staking contract ***(while their nodes are still operating on version 2.1.0)***, and then re-stake into the new contract designed for Bee 2.2.0, ***before*** updating their nodes to version 2.2.0:
-
-#### Step One:
-
-Once the full version of 2.2.0 is released on Github, the current staking contract will be disabled, and withdrawals will be enabled.
-
-#### Step Two:
-
-Once the contract is disabled, withdraw all your stake by calling the `/stake` endpoint with the `DELETE` method (there is no time limit for moving your stake, however the longer you wait, the more potential rewards are lost):
-
-    ```bash
-    curl -X DELETE http://localhost:1633/stake
-    ```
-This command will withdraw all stake from your node to your node's Gnosis Chain address. 
+*Edit: 9/8/2024*
 
 {{< admonition info >}}
-If you may have accidentally overstaked more xBZZ than is strategically required as has been observed with some nodes that have 100s or 1000s of xBZZ, this withdrawal offers you a one-time chance to recover any excess stake which you deposited unintentionally.  
+2.2.0 upgrade guide currently under review. Please refer back to this guide on Sept. 9, 2024 for the completed 2.2.0 upgrade guide.
 {{< /admonition >}}
 
-#### Step Three:
-
-Stop your node. This step will vary depending on your setup, but will likely look something like one of these commands depending on your install method:
-
-    ```bash
-    sudo systemctl stop bee
-    ```
-    
-    or 
-    
-    ```bash
-    docker compose down
-    ```
-    
-    or
-    
-    ```bash
-    docker stop <container_name_or_id>
-    ```
-
-#### Step Four:
-
-Update your node's configuration option `target-neighborhood`
-
-
-{{< admonition info >}}
-This step is not strictly required, as you may simply allow your node to use the default `neighborhood-suggester` option, which is set by default to an [endpoint from Swarmscan](https://api.swarmscan.io/v1/network/neighborhoods/suggestion) that returns an underpopulated neighborhood for your node to join. 
-{{< /admonition >}}
-
-
-
-To manually update the `target-neighborhood` option, simply set it to the string value of the binary representation of the neighborhood you wish to join. You can find a [list of underpopulated neighborhoods](https://swarmscan.io/neighborhoods) from Swarmscan:
-
-```bash=
-## bee.yaml
-target-neighborhood: "0010100001"
-```
-
-
-By using the `target-neighborhood` option your node will mine a new overlay address within the target neighborhood. From now on, your node will be able to change neighborhoods at will. As a general rule of thumb, the highest rewards can be statistically found in the least populated neighborhoods. 
-    
-{{< admonition info >}}
-Depending on your setup, you may need change the `target-neighborhood` option by updating your `bee.yaml` file, adding the `--target-neighborhood` command line flag, or edit a `.env` file, among several possible common options. 
-{{< /admonition >}}
-
-
-{{< admonition warning >}}
-While you may update your neighborhood as often as you wish, it takes significant time for a full staking node fully sync and become eligible for playing in the redistribution, so it is not advised to hop from neighborhood to neighborhood too frequently.
-{{< /admonition >}}
-
-#### Step Five:
-
-Upgrade to 2.2.0 
-
-In this final step, upgrade your node to 2.2.0 using your preferred [installation method](https://docs.ethswarm.org/docs/bee/installation/install).  
-
-### Localstore Migration Caution
-
-Before every Bee client upgrade, it is best practice to ALWAYS take a full backup of your node.
-
-The 2.2.0 upgrade includes a localstore migration which will take an extended time to complete (the exact time will vary based on your particular system specs). You can[ check your node's logs](https://docs.ethswarm.org/docs/bee/working-with-bee/logs-and-files) for messages related to the migration in order to check on the migration progress.
-
-
-
-{{< admonition danger >}}
-Do not turn off your node after you have started the 2.2.0 upgrade while the node is still in the process of the localstore migration, as it could cause your node to become corrupted! Wait until the migration is complete before stopping or restarting your node. ⚠️
-{{< /admonition >}}
 
 ### Partial Withdrawals
 
-As mentioned above, 2.2.0 will support the partial withdrawal of stake based on the price of xBZZ. In cases that the price of xBZZ rises so much that it is more than enough to act as collateral, a partial withdrawal will be allowed down to the minimum required stake (which, as mentioned in the section above, is no longer statically set, but depends dynamically on the price of xBZZ):
+2.2.0 will support the partial withdrawal of stake based on the price of xBZZ. In cases that the price of xBZZ rises so much that it is more than enough to act as collateral, a partial withdrawal will be allowed down to the minimum required stake (which, as mentioned in the section above, is no longer statically set, but depends dynamically on the price of xBZZ):
 
 #### Step One:
 
