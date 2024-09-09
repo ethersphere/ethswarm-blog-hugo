@@ -28,11 +28,9 @@ The basic upgrade process is as follows:
 
 **Step Two:** Stop your node
 
-**Step Three:** Update config with new neighborhood
+**Step Three:** Update to 2.2.0 & Restart Node
 
-**Step Four:** Update to 2.2.0 & Restart Node
-
-**Step Five:** Restake xBZZ
+**Step Four:** Restake xBZZ
 
 #### Step One: Unstake while on 2.1.0
 
@@ -50,6 +48,10 @@ If you may have accidentally overstaked more xBZZ than is strategically required
 {{< /admonition >}}
 
 #### Step Two: Stop your node
+
+{{< admonition info >}}
+Before turning off your node, you may wish to check whether or not your node is in an overpopulated neighborhood so you can decide whether or not to take advantage of 2.2.0's new neighborhood hopping feature. See the section below this one *"Neighborhood Hopping (Optional)"* in this blog post for instructions on how change your node's neighborhood. After turning off your node and before updating to 2.2.0, you can change the configuration as described in those instructions. 
+{{< /admonition >}}
 
 Stop your node. This step will vary depending on your setup, but will likely look something like one of these commands depending on your install method:
 
@@ -69,41 +71,36 @@ Stop your node. This step will vary depending on your setup, but will likely loo
     docker stop <container_name_or_id>
     ```
 
-#### Step Three: Update config with new neighborhood
+While your node is stopped, remove these three options from your node's configuration as they are no longer supported:
 
-Update your node's configuration option `target-neighborhood`
-
-
-{{< admonition info >}}
-This step is not strictly required, as you may simply allow your node to use the default `neighborhood-suggester` option, which is set by default to an [endpoint from Swarmscan](https://api.swarmscan.io/v1/network/neighborhoods/suggestion) that returns an underpopulated neighborhood for your node to join. 
-{{< /admonition >}}
-
-
-
-To manually update the `target-neighborhood` option, simply set it to the string value of the binary representation of the neighborhood you wish to join. You can find a [list of underpopulated neighborhoods](https://swarmscan.io/neighborhoods) from Swarmscan:
-
-```bash=
-## bee.yaml
-target-neighborhood: "0010100001"
+```yaml
+# bcrypt hash of the admin password to get the security token
+admin-password: ""
+# debug HTTP API listen address
+debug-api-addr: :1635
+# enable debug HTTP API
+debug-api-enable: false
 ```
 
+Read more about this and also other required steps for securing your node in the *"Removal of the Bee Debug API"* section further below in this article.
 
-By using the `target-neighborhood` option your node will mine a new overlay address within the target neighborhood. From now on, your node will be able to change neighborhoods at will. As a general rule of thumb, the highest rewards can be statistically found in the least populated neighborhoods. 
-    
-{{< admonition info >}}
-Depending on your setup, you may need change the `target-neighborhood` option by updating your `bee.yaml` file, adding the `--target-neighborhood` command line flag, or edit a `.env` file, among several possible common options. 
+#### Step Three: Update to 2.2.0 & Restart Node
+
+In this step, upgrade your node to 2.2.0 using your preferred [installation method](https://docs.ethswarm.org/docs/bee/installation/install), and restart your node.
+
+
+The specific restart command will depend on your installation method (Docker, install script, package installer, etc.) If you are unsure, check with the [node operator's Discord group](https://discord.gg/kHRyMNpw7t).   
+
+{{< admonition danger >}}
+Before every Bee client upgrade, it is best practice to ALWAYS take a full backup of your node.
+
+The 2.2.0 upgrade includes a localstore migration which will take an extended time to complete (the exact time will vary based on your particular system specs). You can[ check your node's logs](https://docs.ethswarm.org/docs/bee/working-with-bee/logs-and-files) for messages related to the migration in order to check on the migration progress. 
+
+Turning off your node before the migration is complete could cause your node to become corrupted! ⚠️
 {{< /admonition >}}
 
 
-{{< admonition warning >}}
-While you may update your neighborhood as often as you wish, it takes significant time for a full staking node fully sync and become eligible for playing in the redistribution, so it is not advised to hop from neighborhood to neighborhood too frequently.
-{{< /admonition >}}
-
-#### Step Four: Update to 2.2.0 & Restart Node
-
-In this step, upgrade your node to 2.2.0 using your preferred [installation method](https://docs.ethswarm.org/docs/bee/installation/install), and restart your node, which will cause the localstore migration to begin (this should not be interrupted, see section below for details). The specific restart command will depend on your installation method (Docker, install script, package installer, etc.) If you are unsure, check with the [node operator's Discord group](https://discord.gg/kHRyMNpw7t).   
-
-#### Step Five: Restake xBZZ
+#### Step Four: Restake xBZZ
 
 After upgrading to 2.2.0 and restarting your node, restake your xBZZ. In order to stake the minimum required 10 xBZZ you can use the following command:
 
@@ -113,15 +110,65 @@ curl -XPOST localhost:1633/stake/100000000000000000
 
 Your upgrade to 2.2.0 is now complete. From here on, your node will continue to participate in the redistribution game as normal. 
 
-### Localstore Migration Caution
+### Neighborhood Hopping (Optional)
 
-Before every Bee client upgrade, it is best practice to ALWAYS take a full backup of your node.
+Following the 2.2.0 update, you now have the option to set your node to operate in any neighborhood of your choice. You can use the option `target-neighborhood` in order to switch your node over to a new neighborhood. If you do not set this option following the 2.2.0 upgrade, then your node will continue to operate in its current neighborhood. 
 
-The 2.2.0 upgrade includes a localstore migration which will take an extended time to complete (the exact time will vary based on your particular system specs). You can[ check your node's logs](https://docs.ethswarm.org/docs/bee/working-with-bee/logs-and-files) for messages related to the migration in order to check on the migration progress.
+{{< admonition info >}}
+Changing your node's neighborhood is not a required part of the upgrade to 2.2.0, and it is only suggested that you change to a new neighborhood if your node is in an overpopulated neighborhood. 
+{{< /admonition >}}
+
+#### Checking if in Overpopulated Neighborhood
+
+For a quick check of your node's neighborhood population, we can use the `/status` endpoint: 
+
+```bash
+curl -s http://localhost:1633/status | jq
+{
+  "peer": "e7b5c1aac67693268fdec98d097a8ccee1aabcf58e26c4512ea888256d0e6dff",
+  "proximity": 0,
+  "beeMode": "full",
+  "reserveSize": 1055543,
+  "reserveSizeWithinRadius": 1039749,
+  "pullsyncRate": 42.67013868148148,
+  "storageRadius": 11,
+  "connectedPeers": 140,
+  "neighborhoodSize": 6,
+  "batchCommitment": 74463051776,
+  "isReachable": false
+}
+```
+
+Here we can see that at the current storage depth/radius of 11, our node is in a neighborhood with size 6 from the `neighborhoodSize` value. Using the [Swarmscan neighborhoods tool](https://swarmscan.io/neighborhoods) we can see there are many neighborhoods with fewer nodes, so it would benefit us to move to less populated neighborhood:
+
+![](/uploads/swarmscan.png)
+ 
+While you might be tempted to simply pick one of these less populated neighborhoods, it is best practice to use the neighborhood suggester API instead, since it will help to prevent too many node operators rapidly moving to the same underpopulated neighborhoods, and also since the suggester takes a look at the next depth down to make sure that even in case of a neighborhood split, your node will end up in the smaller neighborhood. 
+
+```bash
+curl -s https://api.swarmscan.io/v1/network/neighborhoods/suggestion
+```
+
+Copy the binary number returned from the API:
+
+```bash
+{"neighborhood":"01100011110"}
+```
+
+Use the binary number you just copied and set it as a string value for the `target-neighborhood` option in your config. 
+
+```bash
+## bee.yaml
+target-neighborhood: "01100011110"
+```
+    
+{{< admonition info >}}
+Depending on your setup, you may need change the `target-neighborhood` option by updating your `bee.yaml` file, adding the `--target-neighborhood` command line flag, or edit a `.env` file, among several possible common options. 
+{{< /admonition >}}
 
 
-{{< admonition danger >}}
-Do not turn off your node after you have started the 2.2.0 upgrade while the node is still in the process of the localstore migration, as it could cause your node to become corrupted! Wait until the migration is complete before stopping or restarting your node. ⚠️
+{{< admonition warning >}}
+While you may update your neighborhood as often as you wish, it takes significant time for a full staking node fully sync and become eligible for playing in the redistribution, so it is not advised to hop from neighborhood to neighborhood too frequently.
 {{< /admonition >}}
 
 
@@ -177,7 +224,7 @@ p2p-addr: :1634
 ```
 
 {{< admonition warning >}}
-You must also remove these three options from your configuration which are no longer supported:
+You must also remove these three related options from your configuration which are no longer supported:
 
 ```yaml
 # bcrypt hash of the admin password to get the security token
