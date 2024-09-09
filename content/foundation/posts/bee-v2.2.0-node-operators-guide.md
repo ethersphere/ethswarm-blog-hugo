@@ -38,9 +38,9 @@ Once the full version of 2.2.0 is released on Github, the current staking contra
 
 Once the contract is disabled, withdraw all your stake by calling the `/stake` endpoint with the `DELETE` method (there is no time limit for moving your stake, however the longer you wait, the more potential rewards are lost):
 
-    ```bash
-    curl -X DELETE http://localhost:1633/stake
-    ```
+```bash
+curl -X DELETE http://localhost:1633/stake
+```
 This command will withdraw all stake from your node to your node's Gnosis Chain address. 
 
 {{< admonition info >}}
@@ -55,21 +55,21 @@ Before turning off your node, you may wish to check whether or not your node is 
 
 Stop your node. This step will vary depending on your setup, but will likely look something like one of these commands depending on your install method:
 
-    ```bash
-    sudo systemctl stop bee
-    ```
-    
-    or 
-    
-    ```bash
-    docker compose down
-    ```
-    
-    or
-    
-    ```bash
-    docker stop <container_name_or_id>
-    ```
+```bash
+sudo systemctl stop bee
+```
+
+or 
+
+```bash
+docker compose down
+```
+
+or
+
+```bash
+docker stop <container_name_or_id>
+```
 
 While your node is stopped, remove these three options from your node's configuration as they are no longer supported:
 
@@ -105,7 +105,7 @@ Turning off your node before the migration is complete could cause your node to 
 After upgrading to 2.2.0 and restarting your node, restake your xBZZ. In order to stake the minimum required 10 xBZZ you can use the following command:
 
 ```bash
-curl -XPOST localhost:1633/stake/100000000000000000
+curl -X POST localhost:1633/stake/100000000000000000
 ```
 
 Your upgrade to 2.2.0 is now complete. From here on, your node will continue to participate in the redistribution game as normal. 
@@ -211,7 +211,7 @@ With the removal of the basic auth `/auth` and `/refresh` endpoints, Bee client 
 
 While the use of a firewall or other security measures are recommended, one other practical solution is to simply make sure that the Bee API is bound to the localhost only by default in your node's configuration options. This is now the new default configuration for new nodes, but you must update it manually for any already existing nodes as simply upgrading to 2.2.0 will not modify your configuration options. Make sure to append the `localhost` address of `127.0.0.1` to each `api-addr:` port (`:1633` by default).
 
-```yaml=
+```yaml
 # HTTP API listen address
 api-addr:  127.0.0.1:1633
 ```
