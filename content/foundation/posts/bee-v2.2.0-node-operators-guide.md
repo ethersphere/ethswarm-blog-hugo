@@ -14,7 +14,7 @@ slug="bee-2-2-guide"
 ## Bee 2.2.0 Node Operator's Upgrade Guide 
 
 {{< admonition danger >}}
-DO NOT UPGRADE TO 2.2.0 immediately before reading this guide, there are some steps which must be taken before upgrading.
+DO NOT UPGRADE TO 2.2.0 before completely reading this guide, there are some steps which must be taken before upgrading.
 {{< /admonition >}}
 
 This node operator's guide contains step by step instructions for the requirements to upgrade your node to 2.2.0 as well as instructions for other new features such as neighborhood hopping and partial withdrawals. To learn more about all the new features included in the 2.2.0 release, check out the [one week announcement article](https://blog.ethswarm.org/foundation/2024/bee-2-2-pre-release/).
