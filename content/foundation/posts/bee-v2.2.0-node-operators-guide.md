@@ -94,7 +94,7 @@ The specific restart command will depend on your installation method (Docker, in
 {{< admonition danger >}}
 Before every Bee client upgrade, it is best practice to ALWAYS take a full backup of your node.
 
-The 2.2.0 upgrade includes a localstore migration which will take an extended time to complete (the exact time will vary based on your particular system specs). You can[ check your node's logs](https://docs.ethswarm.org/docs/bee/working-with-bee/logs-and-files) for messages related to the migration in order to check on the migration progress. 
+The 2.2.0 upgrade includes a localstore migration which will take an extended time to complete (the exact time will vary based on your particular system specs). You can [check your node's logs](https://docs.ethswarm.org/docs/bee/working-with-bee/logs-and-files) for messages related to the migration in order to check on the migration progress. 
 
 Turning off your node before the migration is complete could cause your node to become corrupted! ⚠️
 {{< /admonition >}}
