@@ -108,7 +108,7 @@ Your upgrade to 2.2.0 is now complete. From here on, your node will continue to 
 
 ### Neighborhood Hopping (Optional)
 
-Following the 2.2.0 update, you now have the option to set your node to operate in any neighborhood of your choice. You can use the option `target-neighborhood` in order to switch your node over to a new neighborhood. If you do not set this option following the 2.2.0 upgrade, then your node will continue to operate in its current neighborhood. 
+Following the 2.2.0 update, you now have the option to set your node to operate in any neighborhood of your choice. You can use the option `target-neighborhood` in order to switch your node over to a new neighborhood. There is no requirement to use this option, your node will simply continue to operate in its current neighborhood following the 2.2.0 upgrade. 
 
 {{< admonition info >}}
 Changing your node's neighborhood is not a required part of the upgrade to 2.2.0, and it is only suggested that you change to a new neighborhood if your node is in an overpopulated neighborhood. 
