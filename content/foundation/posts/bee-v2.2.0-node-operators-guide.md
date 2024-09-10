@@ -49,10 +49,6 @@ If you may have accidentally overstaked more xBZZ than is strategically required
 
 #### Step Two: Stop your node
 
-{{< admonition info >}}
-Before turning off your node, you may wish to check whether or not your node is in an overpopulated neighborhood so you can decide whether or not to take advantage of 2.2.0's new neighborhood hopping feature. See the section below this one *"Neighborhood Hopping (Optional)"* in this blog post for instructions on how change your node's neighborhood. After turning off your node and before updating to 2.2.0, you can change the configuration as described in those instructions. 
-{{< /admonition >}}
-
 Stop your node. This step will vary depending on your setup, but will likely look something like one of these commands depending on your install method:
 
 ```bash
