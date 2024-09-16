@@ -233,6 +233,8 @@ admin-password: ""
 debug-api-addr: :1635
 # enable debug HTTP API
 debug-api-enable: false
+# enable permission check on the http APIs
+restricted                               
 ```
 {{< /admonition >}}
 
