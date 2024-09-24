@@ -1,6 +1,6 @@
 +++
 description = 'Swarm news. An open-source, censorship-resistant blog hosted on [Swarm](https://www.ethswarm.org/ "Swarm").'
-featured = "posts/bee-v2.2.0-two-weeks-notice.md"
+featured = "posts/df-fellowship.md"
 featured_blog = "foundation"
 featured_secondary_first = "bee-v2.2.0-node-operators-guide.md"
 featured_secondary_first_blog = "foundation"
