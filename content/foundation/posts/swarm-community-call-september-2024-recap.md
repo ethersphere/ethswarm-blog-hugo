@@ -43,9 +43,10 @@ Such a decentralised approach ensures more efficient data management while maint
 
 The second part of the Community Talk was reserved for Aata from DeBoot. He presented their project for Litegrav, an Estonian startup focussing on microgravity research and creating low-cost laboratory equipment that can simulate microgravity for experiments on Earth.
 
-During the presentation, Aata explained how they modified Litegrav's stock machine, which uses a Raspberry Pi for data collection and storage. The machine was configured to perform a decentralised boot process at startup. In this setup, data collected during the experiments is securely stored on Swarm and is always available, making Swarm an integral part of Litegrav's research infrastructure.
+During the presentation, Aata explained how they modified Litegrav's stock machine, which uses a Raspberry Pi for data collection and storage. The machine was configured to perform a decentralised boot process at startup. In this setup, data collected during the experiments is securely stored on Swarm and is always available, making Swarm an integral part of their prototype for Litegrav's research infrastructure.
 
-In the future, the DeBoot team plan to make the system even more flexible so that any boot image can be used without the need for hand-crafted file systems. They want to achieve this by further decentralising and improving the boot process. This innovation has the potential to expand the scope of decentralised research and allow researchers to conduct experiments more efficiently while ensuring data integrity and accessibility.
+In the future, the DeBoot team plans to make the system even more flexible so that any boot image can be used without the need for hand-crafted file systems. They want to achieve this by further decentralising and improving the boot process. This innovation has the potential to expand the scope of decentralised research and allow researchers to conduct experiments more efficiently while ensuring data integrity and accessibility.
+
 
 
 ## Announcements
@@ -62,4 +63,4 @@ The toolkit aims to address growing concerns around data and model ownership, pa
 
 Tamás Hatházi wrapped up the call by sharing details about Swarm’s sponsorship of [EthSofia](https://www.ethsofia.com/#konferen), happening between 17 and 19 October in the Bulgarian capital, Sofia. Tamás invited everyone to join Áron’s 30-minute presentation on the 17th, and a side event later in the evening for a drink and a hack challenge with the Swarm team, at a bar called K.E.B.A. (or K.E.V.A. spelled in Latin letters). Meet you there if you’re in Sofia!
 
-**The next Swarm Community Call will be held on 31 October – **[add to calendar](https://www.addevent.com/event/Vz23167077). You are welcome to attend in Halloween costumes and post any silly or serious questions to the Team using this [online form](https://airtable.com/appNS3aNAw7rihPeg/shrBRyrMkXFsJvLS3) in the meantime; the questions received are answered live at the Calls. 
+**The next Swarm Community Call will be held on 31 October** - [add to calendar](https://www.addevent.com/event/Vz23167077). You are welcome to attend in Halloween costumes and post any silly or serious questions to the Team using this [online form](https://airtable.com/appNS3aNAw7rihPeg/shrBRyrMkXFsJvLS3) in the meantime; the questions received are answered live at the Calls. 
