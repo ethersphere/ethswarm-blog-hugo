@@ -2,7 +2,7 @@
 banner = "/uploads/devupdate-sep.png"
 images = [ "/uploads/devupdate-sep.png" ]
 categories = [ "Development updates" ]
-date = 2024-10-04T00:00:00.000Z
+date = 2024-10-05T00:00:00.000Z
 description = "September was an important month for Swarm. SWIP-21 has been finalised and now it's time for the Bee and Research Track to go into development and find a suitable technical solution for its implementation."
 references_and_footnotes = [ ]
 title = "Monthly Development Update – September 2024"
