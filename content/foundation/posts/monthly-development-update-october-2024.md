@@ -1,6 +1,6 @@
 +++
 banner = "/uploads/devupdate-oct.png"
-images = [ "/uploads/devupdate-sep.png" ]
+images = [ "/uploads/devupdate-oct.png" ]
 categories = [ "Development updates" ]
 date = 2024-11-05T00:01:00.000Z
 description = "The Swarm network is preparing for an important upgrade. SWIP-21 is already on the public testnet and once implemented, it will increase nodes’ reserve size."
