@@ -10,7 +10,7 @@ _template = "post"
 +++
 
 
-The Swarm network is preparing for an important upgrade. SWIP-21 is already on the public testnet and once implemented, it will increase nodes’ reserve size. This will make becoming a Swarm node operator much more economically viable. Another important update in the works is the multichain product, which is now in the completed MVP phase. 
+The Swarm network is preparing for an important upgrade. [SWIP-21](https://github.com/ethersphere/SWIPs/pull/56/files) is already on the public testnet and once implemented, it will increase nodes’ reserve size. This will make becoming a Swarm node operator much more economically viable. Another important update in the works is the multichain product, which is now in the completed MVP phase. 
 
 There are also new and improved versions of Bee-JS and Swarm CLI available, along with version 1.0.0 of Swarm Actions.
 
@@ -26,7 +26,7 @@ As Devcon approaches, the bulk of October’s Swarm Community Call was dedicated
 
 
 ### Research Track 
-* [Swip-21](https://github.com/ethersphere/SWIPs/pull/56/files) reserve size doubling is currently being tested and the redistribution game is now running with double reserves and is being observed and calibrated for performance. 
+* [SWIP-21](https://github.com/ethersphere/SWIPs/pull/56/files) reserve size doubling is currently being tested and the redistribution game is now running with double reserves and is being observed and calibrated for performance. 
 * Performance tests and benchmarks are being run for a second iteration to see performance benefits for multiple file sizes with the multiple erasure code levels. 
 * The multichain product MVP is now complete and being reviewed and tested for performance. 
 
