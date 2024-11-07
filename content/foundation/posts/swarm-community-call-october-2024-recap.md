@@ -1,6 +1,6 @@
 +++
-banner = "/uploads/SCC-oct-recap1.png"
-images = [ "/uploads/SCC-oct-recap1.png" ]
+banner = "/uploads/SCC-recap-oct.png"
+images = [ "/uploads/SCC-recap-oct.png" ]
 categories = [ "Events" ]
 date = 2024-10-01T00:00:00.000Z
 description = "The improved price oracle is now better at matching supply and demand, creating a fairer market value of the price of storage and will be included in the upcoming release."
