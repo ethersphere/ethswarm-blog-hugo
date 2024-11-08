@@ -35,4 +35,4 @@ At its core, this fellowship delivers censorship-resistant communication for tex
 
 The success of this fellowship will be evaluated by adoption among at least three external organisations, validating the libraries’ effectiveness and broadening Swarm’s impact. This fellowship aligns closely with the Swarm Foundation’s mission to expand network capabilities and attract developers, positioning Swarm as a vital enabler in the Web3 ecosystem.
 
-Solar Punk’s work in this area represents an important step toward a decentralised, censorship-resistant future for multimedia and social networking on Swarm.**
+Solar Punk’s work in this area represents an important step toward a decentralised, censorship-resistant future for multimedia and social networking on Swarm.
