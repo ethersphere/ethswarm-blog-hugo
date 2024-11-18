@@ -109,13 +109,13 @@ This metric counts the total number of unique full nodes that were reachable at 
 | July      | 20,898                     |
 | August    | 24,168                     |
 | September | 18,589                     |
-| October   | 17,450                     |
+| October   | 15,206                     |
 
 
 ![chart-Total-Reachable-Full-Nodes-Regardless-of-Active-Status](/uploads/chart-Total-Reachable-Full-Nodes-Regardless-of-Active-Status-October-2024.png)
 
 
-The total number of reachable full nodes decreased in October, dropping to 17,450 from September’s 18,589. This decline continues the trend of fluctuating reachable nodes, likely influenced by the changes in active node participation and network activity.
+The total number of reachable full nodes decreased in October, dropping to 15,206  from September’s 18,589. This decline continues the trend of fluctuating reachable nodes, likely influenced by the changes in active node participation and network activity.
 
 ## Total Winning Nodes by Month
 
@@ -128,11 +128,11 @@ This metric tracks the number of unique staking nodes that won the redistributio
 | July      | 2,622               |
 | August    | 2,769               |
 | September | 2,379               |
-| October   | 2,108               |
+| October   | 2,588               |
 
 ![chart-Number-of-Winning-Staking-Nodes-by-Month](/uploads/chart-Number-of-Winning-Staking-Nodes-by-Month-October-2024.png)
 
-The total number of winning nodes decreased further in October, falling to 2,108 from September’s 2,379.  
+The total number of winning nodes increased in October, rising to 2,588 from September’s 2,379.  
 
 ## Total Active Staking Nodes by Country
 
@@ -145,12 +145,12 @@ This section breaks down active staking nodes by country, providing insights int
 | July          | 8,539  | 1,828   | 2,395   | 1       | 83            | 25    |
 | August        | 5,406  | 886     | 1,157   | 1       | 40            | 16    |
 | September     | 3,440  | 655     | 1,503   | 3       | N/A           | 66    |
-| October       | 3,620  | 642     | 1,489   | 2       | N/A           | 81    |
+| October       | 4,819  | 621     | 1,776   | 10          | N/A           | 78    |
 
 ![Total Staking Nodes by Country.png](/uploads/Total-Active-Staking-Nodes-by-Country-October-2024.png)
 
-In October, the network saw a small increase in the number of active staking nodes from China, while other countries such as Germany and Finland saw very minor reductions in node counts. The United States continued to be absent from the top ranks, and countries like Spain and the Netherlands experienced increases in their participation, contributing to the "Other" category.
+In October, the network saw a significant increase in the number of active staking nodes from China, while Germany saw a minor reduction in node counts and Finland saw a moderate increase. The United States continued to be absent from the top ranks, and countries like Spain and the Netherlands experienced increases in their participation, contributing to the "Other" category.
 
 ## Conclusion
 
-In October 2024, the Swarm network exhibited both growth and contraction across various metrics. While rewards and average earnings per node showed signs of stability, the decrease in active staking nodes and reachable full nodes highlights the continued fluctuations in network participation. These trends suggest that the Swarm network’s reward distribution and economic mechanisms are functioning as intended, with nodes adjusting to shifting participation levels and rewards.
+In October 2024, the Swarm network exhibited growth in several key metrics. There was a moderate increase in the total numeb These trends suggest that the Swarm network’s reward distribution and economic mechanisms are functioning as intended, with nodes adjusting to shifting participation levels and rewards.
