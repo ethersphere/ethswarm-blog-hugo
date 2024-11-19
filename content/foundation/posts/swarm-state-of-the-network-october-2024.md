@@ -153,4 +153,4 @@ In October, the network saw a significant increase in the number of active staki
 
 ## Conclusion
 
-In October 2024, the Swarm network exhibited growth in several key metrics. There was a moderate increase in the total numeb These trends suggest that the Swarm network’s reward distribution and economic mechanisms are functioning as intended, with nodes adjusting to shifting participation levels and rewards.
+In October 2024, the Swarm network exhibited adjustments in several key metrics. There was a significant increase in the total number of nodes actively participating in redistribution, despite the slightly lower total rewards payout for the month. Globally, there has been renewed participation in nodes coming from China and Finland, with participation remaining stable in other regions. These trends suggest that the Swarm network’s reward distribution and economic mechanisms are functioning as intended, with nodes adjusting to shifting participation levels and rewards.
