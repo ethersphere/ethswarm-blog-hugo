@@ -29,7 +29,7 @@ The above technological developments have unfolded amidst rapid growth of the Sw
 
 ## New Developments in Bee 2.0
 
-The new developments being introduced in Bee 2.0 fall into four broad categories alongside other minor changes. These include the introduction of the new erasure coding feature, widespread improvements to the Bee client's localstore, the transition from the Goerli testnet to Sepolia, and fixing a vulnerability in encrypted uploads. For a comprehensive breakdown of all the changes included in the 2.0 release, please refer to the [2.0 release notes on the releases page for the bee repo](https://github.com/ethersphere/bee/releases). Below, we take a closer look at each of these developments and their significance:
+The new developments being introduced in Bee 2.0 fall into four broad categories alongside other minor changes. These include the introduction of the new  coding feature, widespread improvements to the Bee client's localstore, the transition from the Goerli testnet to Sepolia, and fixing a vulnerability in encrypted uploads. For a comprehensive breakdown of all the changes included in the 2.0 release, please refer to the [2.0 release notes on the releases page for the bee repo](https://github.com/ethersphere/bee/releases). Below, we take a closer look at each of these developments and their significance:
 
 ### **1. Erasure Coding for Swarm Uploads**
 
