@@ -21,10 +21,9 @@ The reserve doubling feature allows nodes to store chunks from a "sister" neighb
 
 While reserve doubling requires twice the disk space and will consume more bandwidth (double the bandwidth utilization for chunk syncing, no increase in bandwidth for chunk forwarding), its impact on CPU and RAM usage is minimal. This feature enables a single node to earn rewards as if it were two nodes operating in different neighborhoods, without the need for all the additional resources typically required to operate a second node. Reserve doubling gives node operators more flexibility in optimizing their nodes to maximize the ratio of rewards to resources used.
 
-:::info
+{{< admonition info >}}
 For a more in-depth explanation of the reserve doubling feature, refer to [Swarm Improvement Proposal 21 (SWIP 21)](https://github.com/ethersphere/SWIPs/pull/56/files).
-:::
-
+{{< /admonition >}}
 
 ### GSOC Enables New Dynamic Content on Swarm  
 
@@ -47,9 +46,9 @@ The Bee v2.3.0 guide is divided into two sections. Section 1 contains a detailed
 
 Since the v2.3.0 update includes a new staking contract, node operators must manually withdraw and re-stake their xBZZ before updating their nodes, [as they did for the v2.2.0  update](https://blog.ethswarm.org/foundation/2024/bee-2-2-guide/). 
 
-:::info
+{{< admonition info >}}
 Stake should be withdrawn ***before*** updating to 2.3.0.
-:::
+{{< /admonition >}}
 
 #### **Step 1.1**: Withdraw xBZZ 
 
@@ -104,6 +103,8 @@ The specific restart command will depend on your installation method (Docker, in
 Before every Bee client upgrade, it is best practice to ALWAYS take a full backup of your node.
 :::
 
+
+
 #### **Step 1.4**: Re-stake xBZZ
 
 
@@ -115,9 +116,9 @@ To stake the minimum required 10 xBZZ:
 curl -X POST localhost:1633/stake/100000000000000000
 ```
 
-:::info
+{{< admonition info >}}
 If using the reserve doubling feature, this is the point in the update process where additional stake can be added to meet the increased minimum stake requirement of 20 xBZZ. See next section for details.
-:::
+{{< /admonition >}}
 
 Confirm that the staking transaction was successful:
 
@@ -150,17 +151,17 @@ After updating your node to v2.3.0 and manually migrating your stake, you can en
 
 #### **Step 2.1**: Stake at least 20 xBZZ 
 
-:::info
+{{< admonition info >}}
 This step can also be done while manually restaking during [step 1.4](#Step-Four-Re-stake-xBZZ) of the v2.3.0 update process. See section above for details.
-:::
+{{< /admonition >}}
 
 The reserve doubling feature comes with an increase in the required minimum xBZZ stake from 10 xBZZ to 20 xBZZ. 
 
 For doubling the reserve of a node which already has 10 xBZZ staked, simply stake an additional 10 xBZZ for a total of 20 xBZZ stake:
 
-:::info
+{{< admonition info >}}
 As always, make sure that to properly convert the stake parameter to PLUR where 1 PLUR is equal to 1e-16 xBZZ. As in our example below, we have converted from 10 xBZZ to 100000000000000000  PLUR.
-:::
+{{< /admonition >}}
 
 ```bash
 curl -X POST localhost:1633/stake/100000000000000000
@@ -246,10 +247,9 @@ We can see that the `pullsyncRate` value is above zero, meaning that our node is
 - A doubling can be reversed by changing `reserve-capacity-doubling` back to `0` and restarting the node. There is then a two [round](https://docs.ethswarm.org/docs/concepts/incentives/redistribution-game/#redistribution-game-details) delay, after which the additional xBZZ over the minimum 10 xBZZ can then be withdrawn.
 - After doubling, there will be a delay of two rounds of the redistribution game until the node is able to participate in the game.
 
-
-:::warning
+{{< admonition warning >}}
 Reverting the `reserve-capacity-doubling` back to `0` from `1` after staking 20 xBZZ will NOT allow for the additional stake over 10 xBZZ to be withdrawn.
-:::
+{{< /admonition >}}
 
 ### How it Works 
 
@@ -275,9 +275,9 @@ A parent neighborhood is the neighborhood which at storage depth minus one conta
 
 When a node doubles its reserve, it  does so by taking on the responsibility of storing all chunks from its *parent neighborhood,* i.e., the node’s neighborhood of depth *d-1* where *d* is its original storage depth.
 
-:::info 
+{{< admonition info >}}
 [SWIP 21](https://github.com/ethersphere/SWIPs/pull/56/files) describes doubling more than once so that a node could store all chunks from the neighborhood at depths *d-2*, *d-3* in order to quadruple, octuple, or further double the original reserve. However, Bee v2.3.0 only supports a single doubling. 
-:::
+{{< /admonition >}}
 
 For example, for a neighborhood at storage depth 5 with an address with leading binary bits 01011, when it doubles its reserve, it will store all the chunks that fall into its parent neighborhood of 0101 at depth 4, which contains both the original neighborhood of 01011 and also its sister neighborhood of 01010.
 
