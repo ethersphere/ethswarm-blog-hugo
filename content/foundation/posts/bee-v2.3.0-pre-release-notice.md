@@ -13,7 +13,7 @@ slug="bee-2-3-pre-release"
 
 ## Bee Version 2.3.0 - Reserve Doubling
 
-We're thrilled to announce that Bee Version 2.3.0 is scheduled for release on November 4th, 2024! The newest version of the Bee client includes exciting new features and improvements to existing features. Among these changes are the new reserve doubling feature, the new GSOC feature, and enhancements to the price oracle.
+We're thrilled to announce that Bee Version 2.3.0 is scheduled for release on December 4th, 2024! The newest version of the Bee client includes exciting new features and improvements to existing features. Among these changes are the new reserve doubling feature, the new GSOC feature, and enhancements to the price oracle.
 
 ### Reserve Doubling for Optimized Node Rewards
 
