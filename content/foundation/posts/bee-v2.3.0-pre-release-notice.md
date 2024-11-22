@@ -3,7 +3,7 @@ banner = "/uploads/bee-2-3-0-pre-release.png"
 images = [ "/uploads/bee-2-3-0-pre-release.png" ]
 categories = [ "Development updates" ]
 date = 2024-11-21T00:00:00.000Z
-description = ""
+description = "We're thrilled to announce that Bee Version 2.3.0 is scheduled for release on December 4th, 2024! The newest version of the Bee client includes exciting new features and improvements to existing features. Among these changes are the new reserve doubling feature, the new GSOC feature, and enhancements to the price oracle."
 references_and_footnotes = [ ]
 title = "Bee Version 2.3.0 - Pre-release Notice"
 _template = "post"
@@ -13,7 +13,7 @@ slug="bee-2-3-pre-release"
 
 ## Bee Version 2.3.0 - Reserve Doubling
 
-We're thrilled to announce that Bee Version 2.3.0 is scheduled for release on December 4th, 2024! The newest version of the Bee client includes exciting new features and improvements to existing features. Among these changes are the new reserve doubling feature, the new GSOC feature, and enhancements to the price oracle.
+We're thrilled to announce that Bee Version 2.3.0 is scheduled for release on **December 4th**, 2024! The newest version of the Bee client includes exciting new features and improvements to existing features. Among these changes are the new reserve doubling feature, the new GSOC feature, and enhancements to the price oracle.
 
 ### Reserve Doubling for Optimized Node Rewards
 
