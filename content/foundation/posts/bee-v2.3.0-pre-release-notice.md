@@ -247,11 +247,6 @@ We can see that the `pullsyncRate` value is above zero, meaning that our node is
 - A doubling can be reversed by changing `reserve-capacity-doubling` back to `0` and restarting the node. There is then a two [round](https://docs.ethswarm.org/docs/concepts/incentives/redistribution-game/#redistribution-game-details) delay, after which the additional xBZZ over the minimum 10 xBZZ can then be withdrawn.
 - After doubling, there will be a delay of two rounds of the redistribution game until the node is able to participate in the game.
 
-{{< admonition warning >}}
-Reverting the `reserve-capacity-doubling` back to `0` from `1` after staking 20 xBZZ will NOT allow for the additional stake over 10 xBZZ to be withdrawn.
-{{< /admonition >}}
-
-
 ###  Section 3: Modification to `/rchash` endpoint
 
 The [`/rchash` endpoint](https://docs.ethswarm.org/docs/bee/working-with-bee/staking#run-sampler-process-to-benchmark-performance) can be used to generate a sample reserve hash and can be used for benchmarking a full node's processor speed. Previously, the endpoint would allow for random `anchor` parameters. In Bee v2.3.0, this has been modified to require that the `anchor` parameters match the prefix bits of the node up to the node's current storage depth. 
