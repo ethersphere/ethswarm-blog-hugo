@@ -251,40 +251,6 @@ We can see that the `pullsyncRate` value is above zero, meaning that our node is
 Reverting the `reserve-capacity-doubling` back to `0` from `1` after staking 20 xBZZ will NOT allow for the additional stake over 10 xBZZ to be withdrawn.
 {{< /admonition >}}
 
-### How it Works 
-
-To get into how reserve doubling works, we must first define some terms:
-
-**Proximity Order (PO)**
-The PO is a measure how close a node is to a particular chunk of data or other node. It is defined as the number of shared leading bits between two addresses. Proximity order plays a role in how neighborhoods are defined, as a node’s neighborhood extends up to its storage depth, covering all nodes within that proximity.
-
-
-**Storage depth:**
-"Storage depth" indicates which chunks a node is responsible for storing. Nodes are responsible for storing chunks whose address's leading binary bits match their own up to the storage depth. For example, at storage depth 5, a node with the leading bits of 01011 must store all chunks which have an address with the same leading binary bits of 01011.
-
-**Neighborhood**
-A neighborhood is a set of nodes in close proximity to each other based on their proximity order (PO). Each node in the network has a neighborhood determined by its storage depth, which defines the radius or boundary of responsibility for storing chunks. Each node in a neighborhood is responsible for interacting with other nodes within its neighborhood to store and replicate data chunks, ensuring data availability and redundancy. 
-
-**Sister neighborhood**
-A node's sister neighborhood is the neighborhood where the node address's last significant bit (the bit at the position equal to the current storage depth) has been flipped (from 0 to 1 or 1 to 0). For a neighborhood of depth 5 defined by the leading bits of 01011, its sister neighborhood would be 01010. 
- 
-**Parent neighborhood**
-A parent neighborhood is the neighborhood which at storage depth minus one contains both sibling neighborhoods. Taking our previous example of a neighborhood at storage depth 5 of 01011 and its sister neighborhood of 01010, their parent neighborhood is 0101 at depth 4. 
-
------
-
-When a node doubles its reserve, it  does so by taking on the responsibility of storing all chunks from its *parent neighborhood,* i.e., the node’s neighborhood of depth *d-1* where *d* is its original storage depth.
-
-{{< admonition info >}}
-[SWIP 21](https://github.com/ethersphere/SWIPs/pull/56/files) describes doubling more than once so that a node could store all chunks from the neighborhood at depths *d-2*, *d-3* in order to quadruple, octuple, or further double the original reserve. However, Bee v2.3.0 only supports a single doubling. 
-{{< /admonition >}}
-
-For example, for a neighborhood at storage depth 5 with an address with leading binary bits 01011, when it doubles its reserve, it will store all the chunks that fall into its parent neighborhood of 0101 at depth 4, which contains both the original neighborhood of 01011 and also its sister neighborhood of 01010.
-
-Now that the node is storing its sister neighborhood's chunks in addition to its own, it will be able to produce the reserve commitment hash (the hash taken from a random sampling of chunks in the node's reserve which is used to prove that the node is storing the chunks for which it is responsible) required to play the redistribution game whenever either its own neighborhood or its sister neighborhood is chosen to play, doubling its chances of participation in the redistribution game.
-
-Doubling a node's reserve also requires a corresponding increase in the minimum required stake needed for participating in the redistribution game, so that rather than the minimum of 10 xBZZ stake, the node now requires 20 xBZZ stake in order to participate in the redistribution game for both its own and its sister's neighborhood.  
-
 
 ###  Section 3: Modification to `/rchash` endpoint
 
