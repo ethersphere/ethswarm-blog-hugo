@@ -15,7 +15,7 @@ Imagine a decentralised Dropbox, where all your files, documents and application
 
 **Explore the Proof of Concept (POC) demo:**
 
-[![Swarm-FDS](/uploads/swarmFDP.png)](https://www.youtube.com/watch?v=_9bypBE5kOM)
+[![Swarm-FDS](/uploads/swarmFDP1.png)](https://www.youtube.com/watch?v=_9bypBE5kOM)
 
 
 ## Challenges of Traditional Data Storage Systems
@@ -48,7 +48,7 @@ Notes:
 * [Swarm Desktop App](https://desktop.ethswarm.org/): A one-click install application that allows you to run a Swarm light node and seamlessly access the network.
 * [Etherjot](https://www.etherjot.com/): Requires you to run a Swarm node, either light or full.
 
-[![Swarm-FDS](/uploads/swarmFDP.png)](https://www.youtube.com/watch?v=_9bypBE5kOM)
+[![Swarm-FDS](/uploads/swarmFDP1.png)](https://www.youtube.com/watch?v=_9bypBE5kOM)
 
 
 ## Join the Swarm Grant Programme: Shape the Future of Decentralised Data
