@@ -1,6 +1,6 @@
 +++
-banner = "/uploads/swarmFDP.png"
-images = [ "/uploads/swarmFDP.png" ]
+banner = "/uploads/swarmFDP2.png"
+images = [ "/uploads/swarmFDP2.png" ]
 categories = [ "Tutorials" ]
 date = 2024-11-28T00:00:00.000Z
 description = "Imagine a decentralised Dropbox, where all your files, documents and application data are stored securely and privately—only accessible to you"
@@ -13,7 +13,7 @@ _template = "post"
 
 Imagine a decentralised Dropbox, where all your files, documents and application data are stored securely and privately—only accessible to you or those you choose to share them with. **Swarm** and **Fair Data Protocol (FDP)** provide a decentralised, interoperable solution that builds on Swarm’s broader vision of the[ Web3 PC](https://blog.ethswarm.org/foundation/2022/swarm-networks-storage-rewards-go-live-as-it-moves-towards-a-web3-pc/#swarm-odyssey-the-first-web3-pc) and the Fair data society’s vision of a [fair data economy](https://fairdatasociety.org/blog/fair-data-economy/). This solution overcomes the limitations of traditional data silos, allowing users to retain full ownership of their data while ensuring seamless interoperability across dApps. For developers, FDP serves as a decentralised backend-as-a-service, allowing them to focus on building the dApp itself without the complexities of managing data storage.
 
-**Explore the Proof of Concept (POC) demo:**
+**Explore the demo:**
 
 [![Swarm-FDS](/uploads/swarmFDP1.png)](https://www.youtube.com/watch?v=_9bypBE5kOM)
 
@@ -55,6 +55,6 @@ Notes:
 
 Web3 is more than just infrastructure—it requires the right solutions to prevent recreating the flaws of Web2. **Fair Data Protocol (FDP)** enables developers to build data-rich dApps that function as seamlessly as local applications. FDP acts as a **decentralised backend-as-a-service**, so developers can focus on building the dApp itself without worrying about data storage. It simplifies the complexities of managing data privacy, **interoperability**, and **data sovereignty**, paving the way for more powerful and privacy-focused applications. 
 
-For developers eager to get started, explore this [FDP Tutorial](https://github.com/fairDataSociety/tutorials-fairdrive/blob/main/FDP-TUTORIAL.md) for a hands-on guide, and **[join our grantees programme](https://www.ethswarm.org/grants/swarm-grants-programme)** to help advance this proof of concept into a fully fledged production product.
+For developers eager to get started, explore this **[FDP Tutorial](https://github.com/fairDataSociety/tutorials-fairdrive/blob/main/FDP-TUTORIAL.md)** for a hands-on guide, and **[join our grantees programme](https://www.ethswarm.org/grants/swarm-grants-programme)** to help advance this proof of concept into a fully fledged production product.
 
 Let us proceed together apace.
