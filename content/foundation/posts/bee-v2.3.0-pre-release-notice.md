@@ -99,10 +99,9 @@ After withdrawing stake and stopping the node, update the node to v2.3.0. The [i
 
 The specific restart command will depend on your installation method (Docker, install script, package installer, etc.) 
 
-:::danger
+{{< admonition danger >}}
 Before every Bee client upgrade, it is best practice to ALWAYS take a full backup of your node.
-:::
-
+{{< /admonition >}}
 
 
 #### **Step 1.4**: Re-stake xBZZ
@@ -240,12 +239,59 @@ curl -s  http://localhost:1633/status | jq
 
 We can see that the `pullsyncRate` value is above zero, meaning that our node is currently syncing chunks, as expected.
 
-### Summary of Important Details
+
+#### Summary of Important Details
 
 - The new `reserve-capacity-doubling` Bee configuration option is used to double a node's reserve. The only valid values are `0` and `1`.
 - In order for a node to be able to participate in the redistribution game for both its own and its sister neighborhood, it must have a total of 20 xBZZ staked (10 xBZZ for each neighborhood). 
 - A doubling can be reversed by changing `reserve-capacity-doubling` back to `0` and restarting the node. There is then a two [round](https://docs.ethswarm.org/docs/concepts/incentives/redistribution-game/#redistribution-game-details) delay, after which the additional xBZZ over the minimum 10 xBZZ can then be withdrawn.
 - After doubling, there will be a delay of two rounds of the redistribution game until the node is able to participate in the game.
+
+### Section 2A: Reserve Doubling Reversing & Withdrawable Stake
+
+Due to certain [implementation details](https://github.com/ethersphere/storage-incentives/blob/20bf3c0e3fcf1e98dedcbf16cd82fb4d337fdaf7/src/Staking.sol#L136), the order in which a node's reserve is doubled and then reversed can have an impact on the amount of withdrawable stake.
+
+When doubling a node's reserve, stake should be added AFTER 
+setting `reserve-capacity-doubling` to 1. If instead, xBZZ is first staked with `reserve-capacity-doubling` set to 0, and the reserve is then doubled by increasing from 0 to 1 without the addition of more stake, this will prevent stake from being withdrawable when the doubling is reversed.  
+
+In order to maximize the amount of withdrawable stake after reversing a reserve doubling, follow these steps when doubling:
+
+{{< admonition warning >}}
+When performing the steps below, after a node has been restarted with a changed `reserve-capacity-doubling` value, make sure to wait for the reserve doubling related transactions to complete before moving to the next step.
+
+Look for a line in the logs which looks like this to confirm the transaction has completed: 
+```bash
+"time"="2024-11-27 06:55:48.319810" "level"="info" "logger"="node" "msg"="updated new reserve capacity doubling height in the staking contract" "transaction"="0x2040bc865444268c6683bbc74749f5efca9e9e7956f895476d648cb36e8df0d7" "new_height"=1
+```
+{{< /admonition >}}
+
+#### A. For a node that starts with zero stake:
+1. Set `reserve-capacity-doubling` to 1 and start node
+2. Stake 20 xBZZ
+3. When ready to reverse doubling, stop node, set `reserve-capacity-doubling` to 0, and restart node
+4. 10 xBZZ will now be withdrawable
+
+#### B. For a node that starts with 10 xBZZ stake:
+1. Set `reserve-capacity-doubling` to 1 and start node
+2. Stake 10 xBZZ (for a total of 20 xBZZ in stake)
+3. When ready to reverse doubling, stop node, set `reserve-capacity-doubling` to 0, and restart node
+4. 10 xBZZ will now be withdrawable
+
+
+#### How to free up withdrawable stake from a node with >= 20 xBZZ stake that currently has zero withdrawable stake
+
+In the case that a node with 20 xBZZ stake was doubled directly by increasing `reserve-capacity-doubling` from 0 to 1, the surplus xBZZ over the minimum required 10 xBZZ cannot be made withdrawable by simply reversing the `reserve-capacity-doubling` from 1 back to 0. 
+
+In this case, you will need to first send a very small staking transaction of a single PLUR while `reserve-capacity-doubling` is set to 1, and after that, change `reserve-capacity-doubling` from 1 to 0. This works because every time any amount of stake is added, it forces to staking contract to redo its calculations.  
+
+The detailed steps are:
+
+1. Issue a staking transaction for 1 PLUR while `reserve-capacity-doubling` is set to 1.
+    ```bash
+    curl -X POST localhost:1633/stake/1
+    ```
+2. Stop node and set `reserve-capacity-doubling` to 0.
+3. Restart node. The 10 xBZZ should now be withdrawable.
 
 ###  Section 3: Modification to `/rchash` endpoint
 
