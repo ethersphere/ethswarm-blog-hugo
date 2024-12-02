@@ -10,6 +10,7 @@ _template = "post"
 slug="bee-2-3-pre-release"
 +++
 
+*Updated December 12th, 2024 - [Bee v2.3.0 Guide: Section 2A](#section-2a-reserve-doubling-reversing--withdrawable-stake) was added to address the relation between reversing reserve doubling and withdrawable stake.*
 
 ## Bee Version 2.3.0 - Reserve Doubling
 
