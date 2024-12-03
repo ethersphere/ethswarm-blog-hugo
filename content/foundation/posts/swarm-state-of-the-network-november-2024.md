@@ -45,7 +45,7 @@ This metric is the median win amount for each win event, providing insight into 
 
 ![chart-Monthly-Median-Win-Values](/uploads/chart-Monthly-Median-Win-Values-November-2024.png)
 
-The median win value for November was 17.44 xBZZ, a significant decrease from October’s 27.70 xBZZ. This indicates lower typical rewards per event compared to previous months.
+The median win value for November was 17.44 xBZZ, a significant decrease from October’s 27.70 xBZZ. This indicates lower typical rewards per win event compared to previous months.
 
 ## Monthly Average Win Values
 
