@@ -145,6 +145,8 @@ This section breaks down active staking nodes by country, providing insights int
 
 ![Total Staking Nodes by Country.png](/uploads/Total-Active-Staking-Nodes-by-Country-November-2024.png)
 
+November saw a small to moderate rebalancing of the geographic distribution of nodes, with the general pattern of distribution remaining unchanged. China continued to lead the network with a modest increase in active nodes, growing from 4,819 in October to 5,492. Finland showed stability with a marginal rise in node count, while Germany saw a significant decline, dropping from 621 to 462. The United States has stayed out of the top five countries by node count since September, and in November, it was surpassed by Spain, the Netherlands, grouped in the "Other" category (along with the US itself and other smaller participants in the "Other" category).
 
 ## Conclusion
 
+November 2024 saw a decline in the Swarm network’s reward levels, with reductions in total rewards and average node earnings continuing a downward trend. Despite these economic pressures, the number of active staking nodes increased slightly to 7,830, reflecting a steady level of participation. This suggests that operators remain engaged with the network, even as reward dynamics shift.
