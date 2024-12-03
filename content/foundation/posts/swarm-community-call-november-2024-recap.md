@@ -25,7 +25,7 @@ This release is already available on the testnet, and initial tests have shown p
 ## Enhanced price oracle and multi-chain integration
 Research Track’s Callum Toner shared progress on Swarm’s efforts towards decentralisation, mentioning that the upcoming release also features an enhanced price oracle. This update aims to ensure a fairer, more responsive pricing mechanism that better reflects supply and demand for storage in the network.
 
-Additionally, Callum highlighted the ongoing work on multi-chain capabilities, which will simplify the use of Swarm by supporting transactions across different chains, making Swarm a far more accessible and versatile tool. This feature is currently being tested, with good results coming out, so the team will likely have a release date ready to be announced at the upcoming Winter Solstice event (see below).  
+Additionally, Callum highlighted the ongoing work on multi-chain capabilities, which will simplify the use of Swarm by supporting transactions across different chains, making Swarm a far more accessible and versatile tool. This feature is currently being tested, with good results coming out, so the team will likely have a release date ready to be announced at the upcoming [Winter Solstice event](https://www.addevent.com/event/yR24028303) (see below).  
 
 
 ## Updates to the Swarm documentation
