@@ -79,7 +79,7 @@ This metric shows the average monthly earnings for an active staking node, with 
 
 ![chart-Avg-Total-Earnings-per-Node](/uploads/chart-Avg-Total-Earnings-per-Node-November-2024.png)
 
-The average earnings per active staking node fell to 6.90 xBZZ in November, reflecting the impact of reduced network rewards on individual nodes.
+The average earnings per active staking node fell to 6.90 xBZZ in November, reflecting the impact of reduced total network rewards combined with a slight increase in the number of active staking nodes.
 
 ## Total Active Staking Nodes by Month
 
