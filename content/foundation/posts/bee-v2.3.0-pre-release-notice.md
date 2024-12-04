@@ -255,29 +255,7 @@ Due to certain [implementation details](https://github.com/ethersphere/storage-i
 When doubling a node's reserve, stake should be added AFTER 
 setting `reserve-capacity-doubling` to 1. If instead, xBZZ is first staked with `reserve-capacity-doubling` set to 0, and the reserve is then doubled by increasing from 0 to 1 without the addition of more stake, this will prevent stake from being withdrawable when the doubling is reversed.  
 
-In order to maximize the amount of withdrawable stake after reversing a reserve doubling, follow these steps when doubling:
-
-{{< admonition warning >}}
-When performing the steps below, after a node has been restarted with a changed `reserve-capacity-doubling` value, make sure to wait for the reserve doubling related transactions to complete before moving to the next step.
-
-Look for a line in the logs which looks like this to confirm the transaction has completed: 
-```bash
-"time"="2024-11-27 06:55:48.319810" "level"="info" "logger"="node" "msg"="updated new reserve capacity doubling height in the staking contract" "transaction"="0x2040bc865444268c6683bbc74749f5efca9e9e7956f895476d648cb36e8df0d7" "new_height"=1
-```
-{{< /admonition >}}
-
-#### A. For a node that starts with zero stake:
-1. Set `reserve-capacity-doubling` to 1 and start node
-2. Stake 20 xBZZ
-3. When ready to reverse doubling, stop node, set `reserve-capacity-doubling` to 0, and restart node
-4. 10 xBZZ will now be withdrawable
-
-#### B. For a node that starts with 10 xBZZ stake:
-1. Set `reserve-capacity-doubling` to 1 and start node
-2. Stake 10 xBZZ (for a total of 20 xBZZ in stake)
-3. When ready to reverse doubling, stop node, set `reserve-capacity-doubling` to 0, and restart node
-4. 10 xBZZ will now be withdrawable
-
+In order to maximize the amount of withdrawable stake after reversing a reserve doubling, make sure to follow the steps as described in the previous section in the same order as described.
 
 #### How to free up withdrawable stake from a node with >= 20 xBZZ stake that currently has zero withdrawable stake
 
