@@ -2,7 +2,7 @@
 banner = "/uploads/sotn-november-2024.png"
 images = [ "/uploads/sotn-november-2024.png" ]
 categories = [ "Development updates" ]
-date = 2024-12-03T00:00:00.000Z
+date = 2025-12-03T00:00:00.000Z
 description = "In this report, we analyze the Swarm network’s performance for November 2024. By examining key metrics such as total rewards, win values, average node earnings, and geographic distribution, we gain insights into the network's trends and dynamics."
 references_and_footnotes = [ ]
 title = "State of the Network: November"
