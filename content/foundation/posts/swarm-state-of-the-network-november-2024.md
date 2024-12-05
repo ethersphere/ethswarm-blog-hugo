@@ -136,8 +136,8 @@ This section breaks down active staking nodes by country, providing insights int
 
 | Country         | October | November |
 |-----------------|---------|----------|
-| China           | 4819    | 5492     |
-| Finland         | 1688    | 1802     |
+| China           | 4,819    | 5,492     |
+| Finland         | 1,688    | 1,802     |
 | Germany         | 736     | 462      |
 | Spain           | 26      | 21       |
 | The Netherlands | 15      | 18       |
@@ -159,7 +159,7 @@ This section breaks down active staking nodes by country, providing insights int
 | Denmark         | 0       | 0        |
 | Japan           | 0       | 0        |
 
-November saw a small to moderate rebalancing of the geographic distribution of nodes, with the general pattern of distribution remaining unchanged. China continued to lead the network with a modest increase in active nodes up to 5,492. Finland showed stability with a marginal rise in node count, while Germany saw a decline, dropping to 462. A handful of nodes were also observed across a number of countries, primarily in Europe and Asia.
+November saw a small to moderate rebalancing of the geographic distribution of nodes, with the general pattern of distribution remaining unchanged. China continued to lead the network with a modest increase in active nodes up to 5,492. Finland's node count rose to 1,802, while Germany saw a decline, dropping to 462. A handful of nodes were also observed across a number of countries, primarily in Europe and Asia.
 
 ## Conclusion
 
