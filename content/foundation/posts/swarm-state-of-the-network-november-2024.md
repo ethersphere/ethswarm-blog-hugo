@@ -2,7 +2,7 @@
 banner = "/uploads/sotn-november-2024.png"
 images = [ "/uploads/sotn-november-2024.png" ]
 categories = [ "Development updates" ]
-date = 2025-12-03T00:00:00.000Z
+date = 2024-12-03T00:00:00.000Z
 description = "In this report, we analyze the Swarm network’s performance for November 2024. By examining key metrics such as total rewards, win values, average node earnings, and geographic distribution, we gain insights into the network's trends and dynamics."
 references_and_footnotes = [ ]
 title = "State of the Network: November"
@@ -74,7 +74,7 @@ This metric shows the average monthly earnings for an active staking node, with 
 | July      | 8.22                               |
 | August    | 8.27                               |
 | September | 17.49                              |
-| October   | 12.22                              |
+| October   | 12.17                              |
 | November  | 6.90                                |
 
 ![chart-Avg-Total-Earnings-per-Node](/uploads/chart-Avg-Total-Earnings-per-Node-November-2024.png)
@@ -91,7 +91,7 @@ This metric shows the total number of active staking nodes, defined as nodes tha
 | July      | 12,871                     |
 | August    | 7,506                      |
 | September | 5,667                      |
-| October   | 7,304                      |
+| October   | 7,331                      |
 | November  | 7,830                      |
 
 ![chart-Total-Active-Staking-Nodes](/uploads/chart-Total-Active-Staking-Nodes-November-2024.png)
@@ -134,18 +134,32 @@ The total number of winning nodes remained stable at 2,588 in November, showing 
 
 This section breaks down active staking nodes by country, providing insights into the global distribution of the network.
 
-|               | China  | Germany | Finland | Unknown | United States | Other |
-|---------------|--------|---------|---------|---------|---------------|-------|
-| June          | 7,480  | 1,718   | 2,276   | 370     | 79            | 27    |
-| July          | 8,539  | 1,828   | 2,395   | 1       | 83            | 25    |
-| August        | 5,406  | 886     | 1,157   | 1       | 40            | 16    |
-| September     | 3,440  | 655     | 1,503   | 3       | N/A           | 66    |
-| October       | 4,819  | 621     | 1,776   | 10      | N/A           | 78    |
-| November      | 5,492  | 462     | 1,802   | 10      |  N/A          | 64    |
+| Country         | October | November |
+|-----------------|---------|----------|
+| China           | 4819    | 5492     |
+| Finland         | 1688    | 1802     |
+| Germany         | 736     | 462      |
+| Spain           | 26      | 21       |
+| The Netherlands | 15      | 18       |
+| United States   | 13      | 10       |
+| Italy           | 3       | 3        |
+| Vietnam         | 1       | 2        |
+| Unknown         | 10      | 10       |
+| Belarus         | 1       | 1        |
+| India           | 4       | 3        |
+| Thailand        | 1       | 1        |
+| Estonia         | 3       | 2        |
+| Lithuania       | 1       | 1        |
+| Singapore       | 1       | 1        |
+| Hungary         | 2       | 1        |
+| Slovenia        | 1       | 0        |
+| Russia          | 3       | 0        |
+| Switzerland     | 2       | 0        |
+| France          | 1       | 0        |
+| Denmark         | 0       | 0        |
+| Japan           | 0       | 0        |
 
-![Total Staking Nodes by Country.png](/uploads/Total-Active-Staking-Nodes-by-Country-November-2024.png)
-
-November saw a small to moderate rebalancing of the geographic distribution of nodes, with the general pattern of distribution remaining unchanged. China continued to lead the network with a modest increase in active nodes, growing from 4,819 in October to 5,492. Finland showed stability with a marginal rise in node count, while Germany saw a significant decline, dropping from 621 to 462. The United States has stayed out of the top five countries by node count since September, and in November, it was surpassed by Spain, the Netherlands, grouped in the "Other" category (along with the US itself and other smaller participants in the "Other" category).
+November saw a small to moderate rebalancing of the geographic distribution of nodes, with the general pattern of distribution remaining unchanged. China continued to lead the network with a modest increase in active nodes up to 5,492. Finland showed stability with a marginal rise in node count, while Germany saw a decline, dropping to 462. A handful of nodes were also observed across a number of countries, primarily in Europe and Asia.
 
 ## Conclusion
 

@@ -10,6 +10,7 @@ _template = "post"
 slug="state-of-the-network-october-2024"
 +++
 
+*Edit 12/05/24 - active node count, avg earnings, and country counts corrected for October*
 
 In this report, we analyze the Swarm network’s performance for October 2024, providing insights into various key metrics including total rewards, win values, node earnings, and geographic distribution. These metrics offer a comprehensive view of the network’s evolution over the month, allowing for a deeper understanding of how the economic and operational mechanisms of Swarm are functioning.
 
@@ -75,7 +76,7 @@ This metric shows the average monthly earnings for an active staking node, with 
 | July      | 8.22                               |
 | August    | 8.27                               |
 | September | 17.49                              |
-| October   | 12.22                              |
+| October   | 12.17                              |
 
 ![chart-Avg-Total-Earnings-per-Node](/uploads/chart-Avg-Total-Earnings-per-Node-October-2024.png)
 
@@ -92,7 +93,7 @@ This metric shows the total number of active staking nodes, defined as nodes tha
 | July      | 12,871                     |
 | August    | 7,506                      |
 | September | 5,667                      |
-| October   | 7,304                      |
+| October   | 7,331                      |
 
 ![chart-Total-Active-Staking-Nodes](/uploads/chart-Total-Active-Staking-Nodes-October-2024.png)
 
@@ -145,7 +146,7 @@ This section breaks down active staking nodes by country, providing insights int
 | July          | 8,539  | 1,828   | 2,395   | 1       | 83            | 25    |
 | August        | 5,406  | 886     | 1,157   | 1       | 40            | 16    |
 | September     | 3,440  | 655     | 1,503   | 3       | N/A           | 66    |
-| October       | 4,819  | 621     | 1,776   | 10          | N/A           | 78    |
+| October       | 4,819  | 736     | 1,688   | 10          | 13           | 65    |
 
 ![Total Staking Nodes by Country.png](/uploads/Total-Active-Staking-Nodes-by-Country-October-2024.png)
 
