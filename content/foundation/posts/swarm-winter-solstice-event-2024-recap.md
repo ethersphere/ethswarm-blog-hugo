@@ -36,9 +36,7 @@ Key priorities for 2025 include:
 * Enhanced node operator rewards through improved bandwidth incentives
 * Seamless availability of large datasets
 * Tools for tracking and recording data provenance
-* Decentralised decision-making through DAO implementation** \
- \
-**
+* Decentralised decision-making through DAO implementation** 
 
 
 ## **Tracking AI data and streaming on Swarm**
