@@ -12,7 +12,7 @@ slug="state-of-the-network-december-2024"
 
 ### **December 2024 Network Report**
 
-As 2024 came to an end, the network demonstrated a range of trends reflecting seasonal and structural shifts. December data shows notable declines across key metrics compared to November and earlier months, with some metrics stabilizing after sharper fluctuations earlier in the year. These insights provide a deeper understanding of network performance, participation, and reward distribution dynamics.
+As 2024 came to an end, the network demonstrated a range of trends reflecting seasonal and structural shifts. December data shows declines across key metrics compared to November and earlier months, with some metrics stabilizing after sharper fluctuations earlier in the year. These insights provide a deeper understanding of network performance, participation, and reward distribution dynamics.
 
 {{< admonition info >}}
 "Active nodes" are full nodes (identified by a unique Gnosis Chain address) with the required minimum staked xBZZ that have submitted a [commit](https://docs.ethswarm.org/docs/concepts/incentives/redistribution-game/#redistribution-game-details) transaction during the month. Although the statistical average gives each node a selection chance greater than one, a small minority may not have been selected within the month, slightly underestimating the true number.
@@ -34,7 +34,7 @@ This metric shows the total rewards paid out across the entire network for each 
 
 ![Total Network Rewards (xBZZ) vs. Month](/uploads/Total-Network-Rewards-xBZZ-vs-Month-December-2024.svg)
 
-In December, total network rewards declined to 36,521 xBZZ, a 32.4% decrease from November's 54,053 xBZZ. This continues a consistent downward trend observed since July, reflecting reduced reward distribution across the network.
+In December, total network rewards declined to 36,521 xBZZ, a 32.4% decrease from November's 54,053 xBZZ. This continues a downward trend observed since July, reflecting reduced reward distribution across the network.
 
 ---
 
@@ -44,8 +44,7 @@ This metric is the median win amount for each win event, providing insight into 
 
 ![Median Win Values (xBZZ) vs. Month](/uploads/Median-Win-Values-xBZZ-vs-Month-December-2024.svg)
 
-Median win values fell to 9.93 xBZZ in December, down 43.1% from 17.44 xBZZ in November. This sharp decline follows a similar trend seen in average win values and overall network rewards.
-
+Median win values fell to 9.93 xBZZ in December, down 43.1% from 17.44 xBZZ in November.
 ---
 
 ### **Monthly Average Win Values**
@@ -54,8 +53,7 @@ This metric shows the average win amount for each win event, offering an underst
 
 ![Average Win Values (xBZZ) vs. Month](/uploads/Average-Win-Values-xBZZ-vs-Month-December-2024.svg)
 
-In December, average win values dropped to 11.15 xBZZ, a 34.9% reduction from November's 17.13 xBZZ. This decrease aligns with the broader downward trend in network rewards and median win values.
-
+In December, average win values dropped to 11.15 xBZZ, a 34.9% reduction from November's 17.13 xBZZ.
 ---
 
 ### **Active Staking Node Monthly Average Earnings**
@@ -64,7 +62,7 @@ This metric shows the average monthly earnings for an active node.
 
 ![Avg Total Earnings per Node (xBZZ) vs. Month](/uploads/Avg-Total-Earnings-per-Node-xBZZ-vs-Month-December-2024.svg)
 
-Average monthly earnings per active staking node fell to 4.69 xBZZ in December, a 32% decline from November's 6.90 xBZZ. This reflects the broader decrease in network rewards and reduced opportunities for earnings.
+Average monthly earnings per active staking node fell to 4.69 xBZZ in December, a 32% decline from November's 6.90 xBZZ. 
 
 ---
 
