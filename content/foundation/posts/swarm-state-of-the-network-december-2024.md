@@ -50,7 +50,7 @@ Median win values fell to 9.93 xBZZ in December, marking a 43.1% drop from Novem
 
 ### **Monthly Average Win Values**
 
-This metric calculates the average reward amount for each win event, showing how rewards are distributed across the network.
+This metric calculates the average reward amount for each win event, showing the average amount of xBZZ distributed in a single win event. 
 
 ![Average Win Values (xBZZ) vs. Month](/uploads/Average-Win-Values-xBZZ-vs-Month-December-2024.svg)
 
