@@ -68,7 +68,7 @@ Solar Punk has released multimedia middleware libraries to facilitate the develo
 * [Monthly Development Update – December 2024](https://blog.ethswarm.org/foundation/2025/monthly-development-update-december-2024/)
 
 
-### Events 
+#### Events 
 
 ##### **Swarm Community Call – 30 January**
 The first Community Call of the year took place on 30 January. A week earlier, Bee 2.4.0 was released as a tribute to *ldeffenb*, a cherished member of the Swarm community, with his motto—*“Share the knowledge”*—now immortalized in the startup logs.
