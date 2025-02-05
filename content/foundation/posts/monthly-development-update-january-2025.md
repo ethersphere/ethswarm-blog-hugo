@@ -86,7 +86,7 @@ Swarm Community Calls are held on the last last Thursday of every month on Disco
 
 Community Calls are the best way to stay fully up to date with current developments.They also provide an opportunity to jump into live discussions,ask the Swarm team questions, and engage more! Prior to the Call, you are welcome to submit questions to the Team using this [online form](https://airtable.com/appNS3aNAw7rihPeg/shrBRyrMkXFsJvLS3), which will be answered live during the session.
 
-### People & Culture team:
+### People & Culture team
 
 * Join the team creating the future of decentralised storage and communication. The Swarm Foundation currently has several open positions. 
 * Find out more on our career page [https://www.ethswarm.org/jobs](https://www.ethswarm.org/jobs) or simply drop us a message: talent@ethswarm.org!
