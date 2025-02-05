@@ -10,15 +10,15 @@ _template = "post"
 +++
 
 
-This month, the focus was on improving upload and download speeds in Swarm, with teams working closely together to test bug fixes and benchmark results. Bee 2.4.0 was released in honour of ldeffenb, a valued member of the community, and his motto “Share the knowledge” was included in the startup logs.
+This month, the focus was on improving upload and download speeds in Swarm, with teams working closely together to test bug fixes and benchmark results. [Bee 2.4.0](https://github.com/ethersphere/bee/releases/tag/v2.4.0) was released in honour of ldeffenb, a valued member of the community, and his motto “Share the knowledge” was included in the startup logs.
 
 The multichain application is now 80% complete. Final product decisions are currently under review, and key performance testing continues to improve Swarm’s efficiency.
 
-There have been several updates to Bee-JS, including new types, improved streaming capabilities, and a new way to track upload progress.
+There have been several updates to [Bee-JS](https://github.com/ethersphere/swarm-cli), including new types, improved streaming capabilities, and a new way to track upload progress.
 
 Meanwhile, Solar Punk has released middleware libraries for decentralised multimedia and social networking applications that simplify media streaming and real-time interaction on Swarm.
 
-All of these new features were covered in more detail in this year’s first Community Call. If you want to stay up to date on all new developments in Swarm, join the next call on 27 February.
+All of these new features were covered in more detail in this year’s first Community Call. If you want to stay up to date on all new developments in Swarm, join the next call on [27 February](https://www.addevent.com/event/Ns24718088).
 
 
 ### Bee Track 
