@@ -129,6 +129,9 @@ This metric counts the total number of unique full nodes (as determined by uniqu
 | December  | 15,007                     |
 | January   | 12,240                     |
 
+![chart-Total-Active-Staking-Nodes](/uploads/chart-Total-Reachable-Full-Nodes-January-2025.png)
+
+
 Total reachable full nodes declined to **12,240**, an **18.4% drop** from December’s **15,007**. This marks the largest decrease since August, potentially indicating a shift in operator activity or infrastructure consolidation within the network.
 
 ### **Total Winning Nodes by Month**
