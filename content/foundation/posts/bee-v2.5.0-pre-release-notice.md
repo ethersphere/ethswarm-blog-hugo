@@ -15,13 +15,15 @@ slug="bee-2-5-0-pre-release"
 
 We're excited to announce that Bee v2.5.0 will be ***released in less than two weeks on March 11th***! This update focuses on improving Bee node performance, reducing operational costs, and enhancing network stability.  
 
-:::info  
-*Bee v2.5.0 follows the **[Bee v2.4.0](https://github.com/ethersphere/bee/releases/tag/v2.4.0)** release, which was primarily a commemorative update honoring the memory of ldeffenb—an irreplaceable pillar of the community who recently passed away. His personal motto, *"Share the knowledge,"* was added to the startup logs. Beyond this tribute, the release included only a minor bug fix.*  
-:::
 
-:::warning  
-While v2.5.0 introduces no breaking changes, it delivers substantial performance and stability improvements. We strongly recommend all node operators upgrade promptly to optimize both their node's performance and the overall network stability.  
-:::
+{{< admonition info >}}
+*Bee v2.5.0 follows the **[Bee v2.4.0](https://github.com/ethersphere/bee/releases/tag/v2.4.0)** release, which was primarily a commemorative update honoring the memory of ldeffenb—an irreplaceable pillar of the community who recently passed away. His personal motto, *"Share the knowledge,"* was added to the startup logs. Beyond this tribute, the release included only a minor bug fix.*  
+{{< /admonition >}}
+
+{{< admonition warning >}}
+While v2.5.0 introduces no breaking changes, it delivers substantial performance and stability improvements. We strongly recommend all node operators upgrade promptly to optimize both their node's performance and the overall network stability.  *  
+{{< /admonition >}}
+ 
 ### **Performance Enhancements**
 
 #### **Increased Concurrency in Chunk Pushing**
