@@ -33,7 +33,7 @@ The number of concurrent chunks that can be pushed at once has been increased fr
 Previously, full and computationally costly stamp validation was required for every chunk before pushing to the next node as part of the chunk routing process. This has now been optimized to check only whether the batch is still valid, leading to reduced CPU usage.
 
 #### **More Efficient Routing & Peer Management**
-- **Kademlia Optimization:** The peer selection process now first evaluates whether a peer should be excluded before assessing its proximity, leading to reduced computational load and improved network traversal efficiency.
+- **Kademlia Optimization:** The peer selection process has been optimized for reduced computational load and improved network traversal efficiency.
 - **Forwarder Nodes Optimization:** Forwarder nodes will no longer check for shallow receipts, reducing unnecessary processing and optimizing routing behavior.
 - **Shallow Receipt Tolerance for Reserve Doubling:** Chunks landing in the sister neighborhood of a node using the [reserve doubling](https://docs.ethswarm.org/docs/bee/working-with-bee/staking/#reserve-doubling) feature will no longer cause a "shallow receipt" error. Nodes will now apply extra tolerance to shallow receipts by a factor of the maximum allowed reserve doubling. This ensures that successful uploads do not return an irrelevant error.  
 
