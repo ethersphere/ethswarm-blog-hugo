@@ -42,7 +42,6 @@ A bug affecting pushsync multiplexing has been resolved, allowing nodes to push 
 
 ### **API & Configuration Improvements**
 - **Updated OpenAPI Specs**: The OpenAPI specifications for the `swarm-deferred-upload` value have been modified to the correct value of "`true`", and the relevant description was also updated.
-
 - **Updated `/addresses` API**: The `ethereum` field is being deprecated and replaced by `chain_address` in the `/addresses` response for a increasingly chain-agnostic approach.
 - **Improved `/pins` Endpoint**: This endpoint now returns an empty array instead of `null` when no content is pinned, ensuring better API consistency.
 
