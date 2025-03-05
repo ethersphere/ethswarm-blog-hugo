@@ -51,17 +51,17 @@ All of these new features were covered in more detail in the latest Swarm Commun
 
 
 ### Events 
-##### Swarm Community Call – 27 February
+##### **Swarm Community Call – 27 February**
 February’s Call highlighted key updates and community initiatives. The first section covered the upcoming Bee [2.5.0 release](https://blog.ethswarm.org/foundation/2025/bee-2-5-0-pre-release/), which focuses on improving network performance. Community Talks explored the growing importance of data provenance solutions in the AI era and how Swarm can contribute to this evolving landscape. Additionally, a discussion was held on improving the developer experience, particularly around stamp management, to make storage handling on Swarm more intuitive.
 
-You are welcome to read the full recap here. 
+You are welcome to read the full recap [here](https://blog.ethswarm.org/foundation/2025/swarm-community-call-27-february-recap/). 
 
 
 ### Upcoming events
 ##### **Swarm Community Call – 27 March**
 Swarm Community Calls are held on the last last Thursday of every month on Discord, at 17.00 CET. The next call is on 27 March - [add to calendar.](https://www.addevent.com/event/zb25028179) 
 
-Community Calls are the best way to stay fully up to date with current developments.They also provide an opportunity to jump into live discussions, ask the Swarm team questions, and engage more! Prior to the Call, you are welcome to submit questions to the Team using this [online form](https://airtable.com/appNS3aNAw7rihPeg/shrBRyrMkXFsJvLS3), which will be answered live during the session.
+Community Calls are the best way to stay fully up to date with current developments. They also provide an opportunity to jump into live discussions, ask the Swarm team questions, and engage more! Prior to the Call, you are welcome to submit questions to the Team using this [online form](https://airtable.com/appNS3aNAw7rihPeg/shrBRyrMkXFsJvLS3), which will be answered live during the session.
 
 
 ### People & Culture team:
