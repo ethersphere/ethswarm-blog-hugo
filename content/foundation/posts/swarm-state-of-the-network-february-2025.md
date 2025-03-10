@@ -2,7 +2,7 @@
 banner = "/uploads/sotn-feb-25.jpg"
 images = [ "/uploads/sotn-feb-25.jpg" ]
 categories = [ "Development updates" ]
-date = 2025-03-06T00:00:00.000Z
+date = 2025-03-09T00:00:00.000Z
 description = "With February now complete, network trends indicate continued stabilization. While total rewards declined slightly, the rate of decrease remained moderate, suggesting incentive dynamics are nearing equilibrium. Corresponding to the drop in active nodes, the average earnings per node saw a slight increase."
 references_and_footnotes = [ ]
 title = "State of the Network: February 2025"
