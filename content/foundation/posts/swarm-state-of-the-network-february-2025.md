@@ -12,12 +12,12 @@ slug="state-of-the-network-february-2025"
 
 ### **February 2025 State of the Network Report**
 
-With February now complete, network trends indicate continued stabilization. While total rewards declined slightly, the rate of decrease remained moderate, suggesting incentive dynamics are nearing equilibrium. Corresponding to the drop in active nodes, the average earnings per node saw a slight increase.
+With February now complete, network trends indicate continued stabilization. The metrics are largely in line with those of the previous month, suggesting incentive dynamics may be nearing equilibrium.  
 
-The number of reachable full nodes grew, hinting at continued interest in network participation, while winning nodes declined, indicating a drop in the number of nodes participating in the redistribution game. The geographic distribution of nodes remained stable, with China and Finland leading in activity.
+The number of total reachable full nodes grew, while the number of unique winning nodes declined, indicating increased general network participation combined with a drop in the number of nodes participating in the redistribution game. The geographic distribution of nodes remained stable, with China and Finland leading in activity.
 
 {{< admonition info >}}
-"***Active nodes***" are full nodes identified by a unique Gnosis Chain address with the required minimum staked xBZZ that have submitted a [commit](https://docs.ethswarm.org/docs/concepts/incentives/redistribution-game/#redistribution-game-details) transaction during the month. While the statistical average gives each node a selection chance greater than one, a minority of actively staking nodes may not have been selected for the chance to submit a commit transaction within the month. Therefore the "active nodes" metric likely slightly underestimating the true number of nodes actively staking and storing data for the network.
+"***Active nodes***" are full nodes identified by a unique Gnosis Chain address with the required minimum staked xBZZ that have submitted a [commit](https://docs.ethswarm.org/docs/concepts/incentives/redistribution-game/#redistribution-game-details) transaction during the month. While the statistical average gives each node a selection chance greater than one, a minority of actively staking nodes may not have been selected for the chance to submit a commit transaction within the month. Therefore the "active nodes" metric likely slightly underestimates the true number of nodes actively staking and storing data for the network.
 {{< /admonition >}}
 
 {{< admonition info >}}
@@ -43,7 +43,7 @@ This metric shows the total storage incentives rewards paid out across the entir
 
 ![chart-Total-Network-Monthly-Rewards](/uploads/chart-Total-Network-Monthly-Rewards-February-2025.png)
 
-Total network rewards for February stood at 27,350 xBZZ, representing an 8.7% decline from January’s 29,976 xBZZ. The steadying trend in the rate of decline suggests that the reward distribution dynamics are nearing a new balance.
+Total network rewards for February stood at 27,350 xBZZ, representing an 8.7% decrease from January’s 29,976 xBZZ. However with 28 days in February and 31 days in January, the average daily rewards are actually ***higher*** in February. 
 
 ## Monthly Median Win Values
 
@@ -94,7 +94,7 @@ This metric shows the average monthly earnings for an active staking node, with 
 
 ![chart-Avg-Total-Earnings-per-Node](/uploads/chart-Avg-Total-Earnings-per-Node-February-2025.png)
 
-The average earnings per active staking node increased to 4.19 xBZZ, a 2.2% rise from January’s 4.10 xBZZ. This minor increase further a stabilization in trends compared with the volatility of previous months.
+The average earnings per active staking node increased to 4.19 xBZZ, a 2.2% rise from January’s 4.10 xBZZ. This minor increase further indicates a stabilization in trends compared with the volatility of previous months.
 
 ## Total Active Staking Nodes by Month
 
@@ -126,7 +126,7 @@ This metric counts the total number of unique full nodes (as determined by uniqu
 | January   | 12,240                       |
 | February  | 12,858                       |
 
-![chart-Total-Active-Staking-Nodes](/uploads/chart-Total-Reachable-Full-Nodes-February-2025.png)
+![chart-Total-Reachable-Full-Nodes](/uploads/chart-Total-Reachable-Full-Nodes-February-2025.png)
 
 Total reachable full nodes increased to 12,858, marking a 5.1% increase from January’s 12,240. This growth may suggest renewed interest in network participation or improved node uptime and connectivity. When viewed alongside the drop in total active staking nodes, it suggests an increase in altruistic full node operators who are sharing their disk space without participating in the storage incentives system.
 
@@ -174,4 +174,4 @@ The geographic distribution of active nodes remained largely stable, with China 
 
 ## Conclusion
 
-February’s metrics indicate that the network is stabilizing after months of volatility. While total rewards and active nodes declined slightly, the rate of change across all metrics has slowed, and key indicators such as median and average win values saw modest increases. These signs suggest the network is finding a new equilibrium, providing a more predictable environment moving forward.
+February’s metrics indicate that the network is stabilizing after months of volatility. While total rewards and active nodes declined slightly, the rate of change across all metrics has slowed, and key indicators such as median and average win values saw modest increases. These signs suggest the network is approaching equilibrium, potentially leading to a more predictable environment going forward.
