@@ -84,7 +84,7 @@ Andrew from DeBoot/ Uncloud presented a novel use case for Swarm in the realm of
 
 ## Advancing Data Provenance on Swarm: A New Framework Proposal
 
-The last part of the call was dedicated to the latest updates on data provenance within Swarm, presented under the fellowship awarded to Datafund for developing a toolkit for data and model provenance in decentralised AI. 
+The last part of the call was dedicated to the latest updates on data provenance within Swarm, presented under the fellowship awarded to [Datafund](https://datafund.io/) for developing a toolkit for data and model provenance in decentralised AI. 
 
 The proposed framework is designed to provide a decentralised storage layer for provenance metadata and data, ensuring immutability and reliability. It supports various provenance standards without enforcing a specific format, offering users the flexibility to choose the most suitable standard, while supporting time-to-live tracking for stamps and top-up mechanisms. This ensures efficient data availability management and cost control, simplifying adoption for both developers and users and bridging the gap between decentralised technologies and mainstream use cases.
 
