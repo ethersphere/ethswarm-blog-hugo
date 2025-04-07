@@ -105,4 +105,4 @@ Community Calls are the best way to stay fully up to date with current developme
 
 ### People & Culture team:
 * Join the team shaping the future of decentralised storage and communication. The Swarm Foundation currently has several open positions. 
-* Find out more on our career page [https://www.ethswarm.org/jobs](https://www.ethswarm.org/jobs) or simply drop us a message: talent@ethswarm.org! \
+* Find out more on our career page [https://www.ethswarm.org/jobs](https://www.ethswarm.org/jobs) or simply drop us a message: talent@ethswarm.org!
