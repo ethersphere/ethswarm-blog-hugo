@@ -42,7 +42,7 @@ Version 9 of Bee-JS has been released! It includes a major overhaul of the libra
 * Swarm classes (Reference, Topic, Identifier, FeedIndex, etc.) for properly typed Swarm operations.
 * Client-side chunking with the MerkleTree class, which enables efficient chunk streaming in both the browser and Node.js.
 * Client-side stamping with the Stamper class, which enables pre-signed uploading via gateways.
-* Postage Batch developer experience improvements–estimate cost, create, and extend stamps without having to learn about the intricacies of``amount` of `depth`. New fields on postage batches, such as duration, size, and usage, make stamp handling more intuitive.
+* Postage Batch developer experience improvements–estimate cost, create, and extend stamps without having to learn about the intricacies of `amount` of `depth`. New fields on postage batches, such as duration, size, and usage, make stamp handling more intuitive.
 * Complete Manifest (a.k.a Mantaray) API to construct, manipulate, load, and save manifests on the client-side.
 * GSOC support via three methods: gsocMine, gsocSend, and gsocSubscribe.
 
