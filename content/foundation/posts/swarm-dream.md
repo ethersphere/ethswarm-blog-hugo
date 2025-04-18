@@ -7,6 +7,7 @@ description = "Swarm introduces an innovative solution called DREAM (Deletion by
 references_and_footnotes = [ ]
 title = "Feeling Cute. Might Delete It Later? The Challenge of Deletion and Swarm’s DREAM Solution"
 _template = "post"
+slug="swarm-dream"
 +++
 
 
