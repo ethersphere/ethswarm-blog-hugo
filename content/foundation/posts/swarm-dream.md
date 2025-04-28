@@ -34,7 +34,7 @@ Yet, decentralisation introduces its own problem: How do you genuinely delete da
 
 ## The DREAM Solution to Decentralised Deletion
 
-Swarm introduces an innovative solution called [DREAM](https://ethswarm.org/dream-1.pdf) (Deletion by Revoking Encryption Access for Mutable resources), which tackles deletion not by physically erasing data, but by ensuring data becomes completely inaccessible once deleted—effectively making it vanish.
+Swarm introduces an innovative solution called [DREAM](https://papers.ethswarm.org/p/dream/) (Deletion by Revoking Encryption Access for Mutable resources), which tackles deletion not by physically erasing data, but by ensuring data becomes completely inaccessible once deleted—effectively making it vanish.
 
 Intuitively, the idea behind DREAM is like handing out locked boxes (data chunks) that contain your valuable documents (private data). Only people with the correct key (encryption pads) can unlock them. When you want to revoke someone’s access, you don't try to physically destroy every box around the world. Instead, you change the locks by discarding the original keys and creating new ones. Without the original keys, even if someone still possesses the locked box, it’s useless, they can't open it or make sense of what's inside.
 
@@ -73,6 +73,6 @@ Swarm’s DREAM model solves the paradox of deleting data in decentralised syste
 
 So, the next time you worry about your sensitive data living online forever, remember: genuine deletion is possible, even in a decentralised world. DREAM gives you back what traditional systems can't: true control, genuine privacy, and real peace of mind.
 
-Swarm's DREAM is coming true—but if you'd like to contribute, check out our collaborative Overleaf project [here](https://overleaf.com/project/5efeadc275d71b00014b2ea8), and don't hesitate to leave a comment with your thoughts or questions!
+Swarm's DREAM is coming true—but if you'd like to contribute, check out our collaborative Overleaf project [here](https://www.overleaf.com/4677157878yvwrxwnzkbdt#df6abe), and don't hesitate to leave a comment with your thoughts or questions!
 
 *Disclaimer: DREAM is a proposed design concept and has not yet been implemented in the Swarm network.*
