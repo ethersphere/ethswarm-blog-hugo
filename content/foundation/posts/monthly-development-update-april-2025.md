@@ -12,11 +12,11 @@ _template = "post"
 
 In April 2025, the Bee Track focused on deeper network insight and faster node onboarding ahead of the 2.6 release. Swarmscan is now richer with new metrics that track upload/download performance, retrieval efficiency, and node responsiveness—giving a clearer picture of how the network behaves in real time. Meanwhile, new nodes now sync faster, handle postage more efficiently, and benefit from cleaner, more direct documentation.
 
-The Research Track launched the Multichain App in beta: you can now pay for storage with any EVM-compatible token, no setup required. Bridging and swapping happen automatically in the background. The team also introduced DREAM (Deletion by Revoking Encryption Access for Mutable resources), a new approach to Web3 data deletion that revokes encryption access rather than attempting full erasure.
+The Research Track launched the [Multichain App in beta](https://app.ethswarm.org/): you can now pay for storage with any EVM-compatible token, no setup required. Bridging and swapping happen automatically in the background. The team also introduced DREAM (Deletion by Revoking Encryption Access for Mutable resources), a new approach to Web3 data deletion that revokes encryption access rather than attempting full erasure.
 
 The JS Track shipped Bee-JS 9.1.0 and 9.1.1 with security fixes, Sepolia support, and improved documentation. Swarm-CLI added a command for creating external postage batches, and the new Swarm Gateway project now uses SQL-based rule management and includes moderation tools for safer operation.
 
-April’s Swarm Community Call covered all of this and more. You can [read the recap](https://blog.ethswarm.org/foundation/2025/swarm-community-call-27-march-recap/) or [watch the recording](https://x.com/i/broadcasts/1vOxwXQrXzgKB).
+April’s Swarm Community Call covered all of this and more. You can [read the recap](https://blog.ethswarm.org/foundation/2025/swarm-community-call-24-april-recap/) or [watch the recording](https://x.com/i/broadcasts/1vOxwXQrXzgKB).
 
 
 ### Bee Track 
@@ -31,10 +31,10 @@ As always, release notes will be available just before launch.
 ### Research Track  
 
 * Benchmarks are continuously collected and updated across Bee releases to monitor network performance.
-* The Multichain App beta is live—users can pay for storage using any EVM-compatible wallet and token, with automatic bridging and swapping. No node setup or postage stamps needed. Try it: https://app.ethswarm.org/
-* SWIPs are being reorganised and prioritised to align with upcoming development goals.
+* The [Multichain App beta](https://app.ethswarm.org/) is live—users can pay for storage using any EVM-compatible wallet and token, with automatic bridging and swapping. No node setup or postage stamps needed. Try it: https://app.ethswarm.org/
+* [SWIPs](https://github.com/ethersphere/SWIPs) are being reorganised and prioritised to align with upcoming development goals.
 * Proposed updates to enhance network stability are under review.
-* Introducing DREAM: Deletion in Decentralised Storage—Deletion by Revoking Encryption Access for Mutable resources, a design proposal tackling data deletion in Web3 by revoking access instead of removing data. \
+* Introducing DREAM: Deletion in Decentralised Storage—Deletion by Revoking Encryption Access for Mutable resources, a design proposal tackling data deletion in Web3 by revoking access instead of removing data.
     * Learn more: [https://blog.ethswarm.org/foundation/2025/swarm-dream/](https://blog.ethswarm.org/foundation/2025/swarm-dream/)
     * Read the paper: [https://papers.ethswarm.org/p/dream/](https://papers.ethswarm.org/p/dream/)
     * Contribute: https://www.overleaf.com/4677157878yvwrxwnzkbdt#df6abe
