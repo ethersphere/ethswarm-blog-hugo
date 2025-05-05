@@ -2,7 +2,7 @@
 banner = "/uploads/DevUpdate0425.png"
 images = [ "/uploads/DevUpdate0425.png" ]
 categories = [ "Development updates" ]
-date = 2025-04-05T00:01:00.000Z
+date = 2025-05-05T00:01:00.000Z
 description = "In April 2025, the Bee Track focused on deeper network insight and faster node onboarding ahead of the 2.6 release. Swarmscan is now richer with new metrics that track upload/download performance, retrieval efficiency, and node responsiveness—giving a clearer picture of how the network behaves in real time."
 references_and_footnotes = [ ]
 title = "Monthly Development Update – April 2025"
