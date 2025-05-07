@@ -10,7 +10,7 @@ _template = "post"
 slug="state-of-the-network-april-2025"
 +++
 
-April saw a decline in xBZZ-denominated rewards, however it must be understood in light of the near 100% increase in the [fiat price of xBZZ](https://coinmarketcap.com/currencies/ethereum-swarm/). Although rewards in xBZZ decreased, the real-world value distributed to node operators may have remained steady and likely increased for many. 
+April saw a decline in xBZZ-denominated rewards, however it must be understood in light of the increase in the [fiat price of xBZZ](https://coinmarketcap.com/currencies/ethereum-swarm/) over the month. Although rewards in xBZZ decreased, the real-world value distributed to node operators may have remained steady and likely increased for many. 
 
 ### **April 2025 State of the Network Report**
 
