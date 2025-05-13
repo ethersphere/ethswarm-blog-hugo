@@ -93,7 +93,7 @@ This metric shows the average monthly earnings for an active staking node, with 
 
 ![Avg Total Earnings per Node (xBZZ) vs. Month](/uploads/chart-Avg-Total-Earnings-per-Node-April-2025.png)
 
-Average earnings per active staking node fell to 4.80 xBZZ in April, down from 7.02 xBZZ in March — a 31.6% decline. However, when considered alongside the nearly 100% increase in the fiat price of BZZ, the actual economic impact may have been neutral or even likely positive for many node operators.
+Average earnings per active staking node fell to 4.88 xBZZ in April, down from 7.02 xBZZ in March — a 31.6% decline. However, when considered alongside the nearly 100% increase in the fiat price of BZZ, the actual economic impact may have been neutral or even likely positive for many node operators.
 
 ## Total Active Staking Nodes by Month
 
