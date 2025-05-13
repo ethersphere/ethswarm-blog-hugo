@@ -2,7 +2,7 @@
 banner = "/uploads/sotn-april-25.jpg"
 images = [ "/uploads/sotn-april-25.jpg" ]
 categories = [ "Development updates" ]
-date = 2025-05-013T00:00:00.000Z
+date = 2025-05-13T00:00:00.000Z
 description = "April saw a return to declining xBZZ-denominated rewards and node participation, reversing the brief rebound observed in March. However, it is important to note that this apparent downturn coincided with a near 100% increase in the fiat price of BZZ."
 references_and_footnotes = [ ]
 title = "State of the Network: April 2025"
