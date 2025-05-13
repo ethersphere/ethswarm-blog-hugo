@@ -36,7 +36,7 @@ This metric shows the total storage incentives rewards paid out across the entir
 | January   | 29,976                       |
 | February  | 27,350                       |
 | March     | 39,853                       |
-| April   |    24,441                   |
+| **April**   |    **24,441**                   |
 
 ![Total Network Rewards (xBZZ) vs. Month](/uploads/chart-Total-Network-Monthly-Rewards-April-2025.png)
 
@@ -53,7 +53,7 @@ This metric is the median win amount for each win event, providing insight into 
 | January   | 8.48                      |
 | February  | 8.54                      |
 | March     | 11.73                     |
-| April   |    7.21                    |
+| **April**   |    **7.21**                    |
 
 
 ![Median Win Values (xBZZ) vs. Month](/uploads/chart-Monthly-Median-Win-Values-April-2025.png)
@@ -71,7 +71,7 @@ This metric shows the average win amount for each win event, offering an underst
 | January   | 9.13                       |
 | February  | 9.39                       |
 | March     | 12.21                      |
-| April   |    7.51                    |
+| **April**   |    **7.51**                    |
 
 
 ![Average Win Values (xBZZ) vs. Month](/uploads/chart-Monthly-Average-Win-Values-April-2025.png)
@@ -89,7 +89,7 @@ This metric shows the average monthly earnings for an active staking node, with 
 | January   | 4.10                               |
 | February  | 4.19                               |
 | March     | 7.02                               |
-| April   |   4.88                    |
+| **April**   |   **4.88**                    |
 
 ![Avg Total Earnings per Node (xBZZ) vs. Month](/uploads/chart-Avg-Total-Earnings-per-Node-April-2025.png)
 
@@ -106,7 +106,7 @@ This metric shows the total number of active staking nodes, defined as full node
 | January   | 7,315                      |
 | February  | 6,532                      |
 | March     | 5,676                      |
-| April   |    5,008                  |
+| **April**   |    **5,008**                  |
 
 ![chart-Total-Active-Staking-Nodes](/uploads/chart-Total-Active-Staking-Nodes-April-2025.png)
 
@@ -123,7 +123,7 @@ This metric counts the total number of unique full nodes (as determined by uniqu
 | January   | 12,240                     |
 | February  | 12,858                     |
 | March     | 13,481                     |
-| April   |    12,054                   |
+| **April**   |    **12,054**                   |
 
 ![chart-Total-Reachable-Full-Nodes](/uploads/chart-Total-Reachable-Full-Nodes-April-2025.png)
 
@@ -140,7 +140,7 @@ This metric tracks the number of unique staking nodes that won the redistributio
 | January   | 2,547               |
 | February  | 2,203               |
 | March     | 2,253               |
-| April   |   2,197                    |
+| **April**   |   **2,197**                    |
 
 ![chart-Number-of-Winning-Staking-Nodes-by-Month](/uploads/chart-Number-of-Winning-Staking-Nodes-by-Month-April-2025.png)
 
