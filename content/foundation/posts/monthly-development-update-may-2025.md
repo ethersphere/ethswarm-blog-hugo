@@ -10,7 +10,7 @@ _template = "post"
 +++
 
 
-May’s Swarm Community Call covered all of this and more. You can [watch the recording](https://x.com/i/broadcasts/1vOxwXQrXzgKB).
+May’s Swarm Community Call covered all of this and more. You can [watch the recording](https://x.com/i/broadcasts/1vOxwXQrXzgKB). 
 
 Node onboarding became even faster—nodes now spin up in under 5 minutes thanks to improved warm-up logic and postage snapshot support. The in-browser node project kicked off, spearheaded by Pavel with the Bee team’s protocol-level support, initially focused on WebSocket integration and more.
 
