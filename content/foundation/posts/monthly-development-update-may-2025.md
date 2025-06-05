@@ -5,12 +5,12 @@ categories = [ "Development updates" ]
 date = 2025-05-05T00:01:00.000Z
 description = "Node onboarding became even faster—nodes now spin up in under 5 minutes thanks to improved warm-up logic and postage snapshot support. The in-browser node project kicked off, spearheaded by Pavel with the Bee team’s protocol-level support, initially focused on WebSocket integration and more."
 references_and_footnotes = [ ]
-title = "Monthly Development Update – April 2025"
+title = "Monthly Development Update – May 2025"
 _template = "post"
 +++
 
 
-May’s Swarm Community Call covered all of this and more. You can [read the recap](https://blog.ethswarm.org/foundation/2025/swarm-community-call-27-march-recap/) or [watch the recording](https://x.com/i/broadcasts/1vOxwXQrXzgKB).
+May’s Swarm Community Call covered all of this and more. You can [watch the recording](https://x.com/i/broadcasts/1vOxwXQrXzgKB).
 
 Node onboarding became even faster—nodes now spin up in under 5 minutes thanks to improved warm-up logic and postage snapshot support. The in-browser node project kicked off, spearheaded by Pavel with the Bee team’s protocol-level support, initially focused on WebSocket integration and more.
 
