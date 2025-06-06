@@ -30,7 +30,7 @@ He also touched on performance improvements underway in the protocol layer, incl
 
 ## Live from EthPrague: Hackathons, talks, and BChan
 
-Next up was Antonio,** **bringing the atmosphere and highlights straight from the ground. The Swarm team was present in force—from hosting a dedicated space in the workshop area, engaging with developers and hacktivists, connecting with value-aligned groups and initiatives, to answering technical questions from curious hackers throughout the event.
+Next up was Antonio, bringing the atmosphere and highlights straight from the ground. The Swarm team was present in force—from hosting a dedicated space in the workshop area, engaging with developers and hacktivists, connecting with value-aligned groups and initiatives, to answering technical questions from curious hackers throughout the event.
 
 **Viktor Trón** delivered **a talk on incentive design** in decentralised systems, exploring how aligned economic models underpin network sustainability. 
 
