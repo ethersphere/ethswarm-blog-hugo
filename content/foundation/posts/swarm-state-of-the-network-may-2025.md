@@ -2,7 +2,7 @@
 banner = "/uploads/sotn-may-25.jpg"
 images = [ "/uploads/sotn-may-25.jpg" ]
 categories = [ "Development updates" ]
-date = 2025-05-13T00:00:00.000Z
+date = 2025-06-09T00:00:00.000Z
 description = "May saw a modest rebound in xBZZ-denominated rewards and node participation compared to April. Although some metrics remained below their earlier peaks, the network demonstrated signs of stabilization."
 references_and_footnotes = [ ]
 title = "State of the Network: May 2025"
