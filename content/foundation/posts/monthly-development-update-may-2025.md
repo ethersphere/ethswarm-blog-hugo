@@ -2,7 +2,7 @@
 banner = "/uploads/DevUpdate0525.png"
 images = [ "/uploads/DevUpdate0525.png" ]
 categories = [ "Development updates" ]
-date = 2025-05-05T00:01:00.000Z
+date = 2025-06-05T00:01:00.000Z
 description = "Node onboarding became even faster—nodes now spin up in under 5 minutes thanks to improved warm-up logic and postage snapshot support. The in-browser node project kicked off, spearheaded by Pavel with the Bee team’s protocol-level support, initially focused on WebSocket integration and more."
 references_and_footnotes = [ ]
 title = "Monthly Development Update – May 2025"
