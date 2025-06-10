@@ -5,7 +5,7 @@ categories = [ "Development updates" ]
 date = 2025-06-10T00:00:00.000Z
 description = "Bee v2.6.0 brings faster than ever startup times (~10x faster!) so you can get busy uploading and downloading from Swarm in just a couple minutes."
 references_and_footnotes = [ ]
-title = "Bee Version 2.6.0"
+title = "Bee Version 2.6.0 Release Notice"
 _template = "post"
 slug="bee-2-6-0-release"
 +++
