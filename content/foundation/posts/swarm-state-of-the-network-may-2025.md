@@ -194,8 +194,6 @@ This metric shows the total number of active staking nodes globally for the mont
 | Egypt                      | 1                |
 
 
-![chart-Unique-txSenders-vs.-Country-May-2025.png](/uploads/chart-Unique-txSenders-vs.-Country-May-2025.png)
-
 The country-level distribution of active staking nodes in May remained stable, with China and Finland continuing to represent the largest share of the network.
 
 ## Conclusion
