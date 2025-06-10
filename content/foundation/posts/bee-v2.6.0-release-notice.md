@@ -11,7 +11,7 @@ slug="bee-2-6-0-release"
 +++
 
 
-## Bee v2.6.0 - Faster Than Ever Startup 
+## Bee v2.6.0 Brings Lightning Fast Startup Times  
 
 The main feature of the Bee v2.6.0 release is the massively reduced startup time. The time from start to being able to upload and download has been decreased from over 30 minutes to just a couple of minutes!
 
