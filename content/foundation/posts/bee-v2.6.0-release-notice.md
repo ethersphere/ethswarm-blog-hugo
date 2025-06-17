@@ -1,4 +1,5 @@
 +++
+draft = true
 banner = "/uploads/bee-2-6-0.jpg"
 images = [ "/uploads/bee-2-6-0.jpg" ]
 categories = [ "Development updates" ]
