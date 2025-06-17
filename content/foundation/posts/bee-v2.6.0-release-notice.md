@@ -11,6 +11,7 @@ _template = "post"
 slug="不显示"
 +++
 
+# DRAFT VERSION 
 
 ## Bee v2.6.0 Brings Lightning Fast Startup Times  
 
