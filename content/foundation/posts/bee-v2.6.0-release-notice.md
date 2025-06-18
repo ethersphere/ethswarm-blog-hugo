@@ -30,6 +30,12 @@ The postage snapshot is enabled by default for fresh installations. It applies o
 
 Startup times were also reduced by changing the way readiness is determined. Instead of waiting a fixed period, the node now monitors peer connections to decide when the node is ready - allowing it to start as soon as possible.
 
+### Gas Efficiency Upgrade
+
+Gas cost estimation in Bee v2.6.0 has been updated to fully support [EIP-1559](https://help.coinbase.com/en/coinbase/getting-started/crypto-education/eip-1559). Previously, Bee relied on the legacy `eth_gasPrice` method, which often resulted in inaccurate fee estimates. With this release, Bee now uses modern fee market mechanics to provide more reliable and up-to-date gas estimations.
+
+This change improves the accuracy of required gas funds and helps avoid both overpayment and underfunded transactions. Further optimizations to gas efficiency are planned for upcoming releases.
+
 ### New Monitoring Metrics
 
 New metrics have been added to help analyze upload and download speeds. These new metrics are primarily intended to help the Bee development team monitor network performance and plan future optimizations, and not intended for use by general Bee users.
