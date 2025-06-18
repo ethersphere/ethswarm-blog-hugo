@@ -38,7 +38,7 @@ This change improves the accuracy of required gas funds and helps avoid both ove
 
 ### New Monitoring Metrics
 
-New metrics have been added to help analyze upload and download speeds. These new metrics are primarily intended to help the Bee development team monitor network performance and plan future optimizations, and not intended for use by general Bee users.
+New metrics have been added to help analyze upload and download speeds. These new metrics are primarily intended to help the Bee development team monitor network performance and plan future optimizations.
 
 ### Legacy Feed Resolution
 
