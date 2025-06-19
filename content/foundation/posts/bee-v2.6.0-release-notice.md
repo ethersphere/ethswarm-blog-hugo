@@ -10,17 +10,18 @@ _template = "post"
 slug="bee-2-6-0-release"
 +++
 
+*Bee v2.6.0 is **NOW LIVE as of June 24, 2025**! **Node operators** - make sure to read warning note below and follow instructions for the update.*
 
-## Bee v2.6.0 Brings Lightning Fast Startup Times  
+{{< admonition warning >}}
+**Important:** It is required that **node operators** must migrate their stake to continue participating in the redistribution game. Without migrating, nodes will no longer be eligible for rewards after updating to v2.6.0.
+👉 [See the migration instructions here](https://docs.ethswarm.org/docs/bee/working-with-bee/staking/#stake-migration)
+{{< /admonition >}}
+
+## Bee v2.6.0 Brings Lightning Fast New-Node Startup Times  
 
 The main feature of the Bee v2.6.0 release is the massively reduced startup time. The time from start to being able to upload and download has been decreased from over 30 minutes to just a couple of minutes!
 
 Other changes in this update include the addition of new metrics, and providing support for legacy feed resolution.
-
-{{< admonition warning >}}
-**Important:** Node operators must migrate their stake to continue participating in the redistribution game. Without migrating, nodes will no longer be eligible for rewards after updating to v2.6.0.
-👉 [See the migration instructions here](https://docs.ethswarm.org/docs/bee/working-with-bee/staking/#stake-migration)
-{{< /admonition >}}
 
 ### Reduced Node Startup Time
 
