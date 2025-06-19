@@ -19,23 +19,23 @@ slug="bee-2-6-0-release"
 
 ## Bee v2.6.0 Brings Lightning Fast New-Node Startup Times  
 
-The main feature of the Bee v2.6.0 release is the massively reduced startup time. The time from start to being able to upload and download has been decreased from over 30 minutes to just a couple of minutes!
+The main feature of the Bee v2.6.0 release is the massively reduced startup time for newly started nodes. The time from startup to being able to upload and download has been decreased from over 30 minutes to just a couple of minutes!
 
 Other changes in this update include the addition of new metrics, and providing support for legacy feed resolution.
 
 ### Reduced Node Startup Time
 
-This release significantly decreases the time required for a node to become operational after installation. Previously, initializing a node and synchronizing postage batches could take over 30 minutes. With the addition of the postage snapshot feature, the startup time has been reduced to just a few minutes.
+The startup time for a newly initialized node to become operational has been massively increased by almost a factor of 10x. Previously, initializing a new node and synchronizing postage batches could take over 30 minutes. With the addition of the postage snapshot feature, the startup time fpr a new node has been reduced to just a few minutes.
 
-The postage snapshot is enabled by default for fresh installations. It applies only to newly started nodes and does not affect previously started nodes that are restarted (restarted nodes will start syncing from the last block before they were shut down). The feature can be disabled using the `--skip-postage-snapshot` flag.
+This increase in startup speed is due in large part to the introduction of a new postage snapshot feature. The feature is enabled by default for fresh installations. It applies only to newly started nodes and does not affect previously started nodes that are restarted after previously operating for some time (restarted nodes will start syncing from the last block before they were shut down). The feature can be disabled using the `--skip-postage-snapshot` flag.
 
-Startup times were also reduced by changing the way readiness is determined. Instead of waiting a fixed period, the node now monitors peer connections to decide when the node is ready - allowing it to start as soon as possible.
+Startup times were also further reduced by changing the way node readiness is determined. Instead of waiting a fixed period, the node now monitors peer connections to decide when the node is ready - allowing it to start as soon as possible.
 
-### Gas Efficiency Upgrade
+### Gas Efficiency Upgrade Brings Speedier Operation
 
-Gas cost estimation in Bee v2.6.0 has been updated to fully support [EIP-1559](https://help.coinbase.com/en/coinbase/getting-started/crypto-education/eip-1559). Previously, Bee relied on the legacy `eth_gasPrice` method, which often resulted in inaccurate fee estimates. With this release, Bee now uses modern fee market mechanics to provide more reliable and up-to-date gas estimations.
+Gas cost estimation in Bee v2.6.0 has been updated to fully support [EIP-1559](https://help.coinbase.com/en/coinbase/getting-started/crypto-education/eip-1559). Previously, Bee relied on the legacy `eth_gasPrice` method, which often resulted in inaccurate fee estimates. With this release, Bee now uses modern fee market mechanics to provide more reliable and up-to-date gas estimations. 
 
-This change improves the accuracy of required gas funds and helps avoid both overpayment and underfunded transactions. Further optimizations to gas efficiency are planned for upcoming releases.
+The primary benefit of this change is that it will result in consistently speedier node operation.
 
 ### New Monitoring Metrics
 
