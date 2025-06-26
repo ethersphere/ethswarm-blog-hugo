@@ -7,8 +7,9 @@ description = "Swarm Foundation is excited to announce its partnership with Shtu
 references_and_footnotes = [ ]
 title = "Programme announcement: Swarmonomics"
 _template = "post"
-slug="shtuka-partnership"
+slug = "shtuka-partnership"
 +++
+
 
 
 We're excited to announce that Shtuka Research will be partnering with Swarm Foundation as an external research contributor to map out the Swarm Network's economic landscape, optimise protocol parameters, and conduct fundamental research into new financial primitives.
