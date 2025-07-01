@@ -12,7 +12,7 @@ slug = "shtuka-partnership"
 
 
 
-Swarm Foundation is excited to announce that Shtuka Research is partnering with the organisation as an external research contributor to map out the economic landscape of the Swarm Network, optimise protocol parameters, and conduct foundational research into new financial primitives.
+Swarm Foundation is excited to announce that [Shtuka Research](https://shtuka.io/) is partnering with the organisation as an external research contributor to map out the economic landscape of the Swarm Network, optimise protocol parameters, and conduct foundational research into new financial primitives.
 
 With origins tracing back to the early days of Ethereum, the Swarm Protocol is a permissionless storage pool protocol in which users can acquire storage quotas across a pool of thousands of nodes by sending tokens to a smart contract, at prices comparable to those of traditional cloud storage. To the best of Swarm Foundation's knowledge, it is the only decentralised storage platform with these specific characteristics.
 
