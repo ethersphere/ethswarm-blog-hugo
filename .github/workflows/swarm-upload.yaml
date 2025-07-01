@@ -9,7 +9,7 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0
       - uses: actions/setup-node@v3
@@ -26,7 +26,7 @@ jobs:
           hugo -D --gc
           npx -y pagefind --source public
       - name: Upload to Swarm
-        uses: ethersphere/swarm-actions/upload-dir@v0
+        uses: ethersphere/swarm-actions/upload-dir@latest
         id: upload
         with:
           dir: ./public
@@ -37,7 +37,7 @@ jobs:
           headers: |
             authorization: ${{ secrets.PRIVATE_API_TOKEN }}
       - name: Setup feed
-        uses: ethersphere/swarm-actions/write-feed@v0
+        uses: ethersphere/swarm-actions/write-feed@latest
         id: feed
         with:
           reference: ${{ steps.upload.outputs.reference }}
@@ -47,7 +47,7 @@ jobs:
           signer: ${{ secrets.PRIVATE_SIGNER }}
           headers: |
             authorization: ${{ secrets.PRIVATE_API_TOKEN }}
-      - uses: ethersphere/swarm-actions/reference-to-cid@v0
+      - uses: ethersphere/swarm-actions/reference-to-cid@latest
         id: cid
         with:
           reference: ${{ steps.feed.outputs.manifest }}
