@@ -2,7 +2,7 @@
 banner = "/uploads/swarm-shtuka.png"
 images = [ "/uploads/swarm-shtuka.png" ]
 categories = [ "Ecosystem" ]
-date = 2025-06-26T00:00:01.000Z
+date = 2025-07-01T00:00:01.000Z
 description = "Swarm Foundation is excited to announce that Shtuka Research is partnering with the organisation as an external research contributor to map out the economic landscape of the Swarm Network"
 references_and_footnotes = [ ]
 title = "Programme announcement: Swarmonomics"
