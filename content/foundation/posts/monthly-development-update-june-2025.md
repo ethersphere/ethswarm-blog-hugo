@@ -2,7 +2,7 @@
 banner = "/uploads/DevUpdate-062025.png"
 images = [ "/uploads/DevUpdate-062025.png" ]
 categories = [ "Development updates" ]
-date = 2025-07-04T00:01:00.000Z
+date = 2025-07-05T00:01:00.000Z
 description = "In June 2025, the Bee Track took a pause to rethink its entire testing strategy after an unexpected delay to the 2.6 release. Meanwhile, the Bee and Research Tracks continued their collaborative work on the SWIP for pullsync protocol improvements and made notable progress on the in-browser node project."
 references_and_footnotes = [ ]
 title = "Monthly Development Update – June 2025"
@@ -18,7 +18,7 @@ The JS Track delivered notable releases: [Bee-JS v9.5.0](https://github.com/ethe
 
 Documentation now includes clear, dedicated [instructions for stake migration](https://docs.ethswarm.org/docs/bee/working-with-bee/staking/#stake-migration), making it easier for everyone to navigate staking contract upgrades smoothly.
 
-June’s Swarm Community Call provided clarity on the Bee 2.6.0 release delay, showcased the Multichain app launch plans, and introduced Shtuka Research’s new economic research programme. Etherna also shared valuable insights from their user experience innovations with [Bee.net](https://github.com/Etherna/bee-net) and [Beehive](https://github.com/Etherna/beehive). Catch all the highlights in the recap or watch the session [here](https://x.com/i/broadcasts/1vOxwXQrXzgKB).
+[June’s Swarm Community Call](https://x.com/i/broadcasts/1zqKVjEPByAKB) provided clarity on the Bee 2.6.0 release delay, showcased the Multichain app launch plans, and introduced Shtuka Research’s new economic research programme. Etherna also shared valuable insights from their user experience innovations with [Bee.net](https://github.com/Etherna/bee-net) and [Beehive](https://github.com/Etherna/beehive). Catch all the highlights in the recap or watch the session [here](https://x.com/i/broadcasts/1vOxwXQrXzgKB).
 
 
 ### Bee Track  
