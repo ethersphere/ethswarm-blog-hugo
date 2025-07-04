@@ -3,7 +3,7 @@ banner = "/uploads/DevUpdate-062025.png"
 images = [ "/uploads/DevUpdate-062025.png" ]
 categories = [ "Development updates" ]
 date = 2025-07-04T00:01:00.000Z
-description = "Node onboarding became even faster—nodes now spin up in under 5 minutes thanks to improved warm-up logic and postage snapshot support. The in-browser node project kicked off, spearheaded by Pavel with the Bee team’s protocol-level support, initially focused on WebSocket integration and more."
+description = "In June 2025, the Bee Track took a pause to rethink its entire testing strategy after an unexpected delay to the 2.6 release. Meanwhile, the Bee and Research Tracks continued their collaborative work on the SWIP for pullsync protocol improvements and made notable progress on the in-browser node project."
 references_and_footnotes = [ ]
 title = "Monthly Development Update – June 2025"
 _template = "post"
@@ -12,9 +12,9 @@ _template = "post"
 
 In June 2025, the Bee Track took a pause to rethink its entire testing strategy after an unexpected delay to the 2.6 release. Meanwhile, the Bee and Research Tracks continued their collaborative work on the SWIP for pullsync protocol improvements and made notable progress on the in-browser node project.
 
-The Research Track moved the Multichain product closer to its v1 launch, with a pending public release. Updated network benchmarks also showed significantly improved upload speeds.
+The Research Track moved the [Multichain product](app.ethswarm.org) closer to its v1 launch, with a pending public release. Updated network benchmarks also showed significantly improved upload speeds.
 
-The JS Track delivered notable releases: Bee-JS v9.5.0 brought new methods for withdrawable stakes and external wallet withdrawals, alongside buffer handling fixes. Swarm-CLI v2.31.0 added utility commands, status updates, and compatibility upgrades in anticipation of the next Bee release. 
+The JS Track delivered notable releases: [Bee-JS v9.5.0](https://github.com/ethersphere/bee-js/releases/tag/v9.5.0) brought new methods for withdrawable stakes and external wallet withdrawals, alongside buffer handling fixes. [Swarm-CLI v2.31.0](https://github.com/ethersphere/swarm-cli/releases/tag/v2.33.0) added utility commands, status updates, and compatibility upgrades in anticipation of the next Bee release. 
 
 Documentation now includes clear, dedicated instructions for stake migration, making it easier for everyone to navigate staking contract upgrades smoothly.
 
@@ -35,7 +35,7 @@ June’s Swarm Community Call provided clarity on the Bee 2.6.0 release delay, s
 
 
 ### JS Track  
-#### [Bee-JS](https://github.com/ethersphere/swarm-cli)
+#### [Bee-JS](https://github.com/ethersphere/bee-js)
 * Release v9.5.0
     * Add withdrawable stake-related methods
     * Add withdrawal to external wallets methods
