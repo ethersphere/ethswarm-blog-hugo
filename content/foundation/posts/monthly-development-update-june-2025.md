@@ -28,7 +28,7 @@ June’s Swarm Community Call provided clarity on the Bee 2.6.0 release delay, s
 
 
 ### Research Track  
-* The Multichain product is approaching its v1 finish line and is under embargo pending the optimal release timing 
+* The [Multichain product](app.ethswarm.org) is approaching its v1 finish line and is under embargo pending the optimal release timing 
 * Network performance speed tests have been repeated, showing even more improved upload speeds
 * The remaining Disperse Replica additions/PR is ready and offers full strategy coverage 
 * The SWIP library has been audited and prioritised, with the pullsync SWIP and soon-to-be-announced data-availability/insurance SWIP at the forefront. More on the SWIP library to come
