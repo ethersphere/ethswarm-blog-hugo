@@ -16,7 +16,7 @@ The Research Track moved the [Multichain product](app.ethswarm.org) closer to it
 
 The JS Track delivered notable releases: [Bee-JS v9.5.0](https://github.com/ethersphere/bee-js/releases/tag/v9.5.0) brought new methods for withdrawable stakes and external wallet withdrawals, alongside buffer handling fixes. [Swarm-CLI v2.31.0](https://github.com/ethersphere/swarm-cli/releases/tag/v2.33.0) added utility commands, status updates, and compatibility upgrades in anticipation of the next Bee release. 
 
-Documentation now includes clear, dedicated instructions for stake migration, making it easier for everyone to navigate staking contract upgrades smoothly.
+Documentation now includes clear, dedicated [instructions for stake migration](https://docs.ethswarm.org/docs/bee/working-with-bee/staking/#stake-migration), making it easier for everyone to navigate staking contract upgrades smoothly.
 
 June’s Swarm Community Call provided clarity on the Bee 2.6.0 release delay, showcased the Multichain app launch plans, and introduced Shtuka Research’s new economic research programme. Etherna also shared valuable insights from their user experience innovations with [Bee.net](https://github.com/Etherna/bee-net) and [Beehive](https://github.com/Etherna/beehive). Catch all the highlights in the recap or watch the session [here](https://x.com/i/broadcasts/1vOxwXQrXzgKB).
 
