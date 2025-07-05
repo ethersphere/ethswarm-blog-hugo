@@ -2,7 +2,7 @@
 banner = "/uploads/DevUpdate-062025.png"
 images = [ "/uploads/DevUpdate-062025.png" ]
 categories = [ "Development updates" ]
-date = 2025-07-05T00:01:01.000Z
+date = 2025-07-05T00:00:00.000Z
 description = "In June 2025, the Bee Track took a pause to rethink its entire testing strategy after an unexpected delay to the 2.6 release. Meanwhile, the Bee and Research Tracks continued their collaborative work on the SWIP for pullsync protocol improvements and made notable progress on the in-browser node project."
 references_and_footnotes = [ ]
 title = "Monthly Development Update – June 2025"
