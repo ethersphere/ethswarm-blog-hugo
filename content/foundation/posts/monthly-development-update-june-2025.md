@@ -12,7 +12,7 @@ _template = "post"
 
 In June 2025, the Bee Track took a pause to rethink its entire testing strategy after an unexpected delay to the 2.6 release. Meanwhile, the Bee and Research Tracks continued their collaborative work on the SWIP for pullsync protocol improvements and made notable progress on the in-browser node project.
 
-The Research Track moved the [Multichain product](app.ethswarm.org) closer to its v1 launch, with a pending public release. Updated network benchmarks also showed significantly improved upload speeds.
+The Research Track moved the [Multichain product](https://app.ethswarm.org/) closer to its v1 launch, with a pending public release. Updated network benchmarks also showed significantly improved upload speeds.
 
 The JS Track delivered notable releases: [Bee-JS v9.5.0](https://github.com/ethersphere/bee-js/releases/tag/v9.5.0) brought new methods for withdrawable stakes and external wallet withdrawals, alongside buffer handling fixes. [Swarm-CLI v2.31.0](https://github.com/ethersphere/swarm-cli/releases/tag/v2.33.0) added utility commands, status updates, and compatibility upgrades in anticipation of the next Bee release. 
 
@@ -28,7 +28,7 @@ Documentation now includes clear, dedicated [instructions for stake migration](h
 
 
 ### Research Track  
-* The [Multichain product](app.ethswarm.org) is approaching its v1 finish line and is under embargo pending the optimal release timing 
+* The [Multichain product](https://app.ethswarm.org/) is approaching its v1 finish line and is under embargo pending the optimal release timing 
 * Network performance speed tests have been repeated, showing even more improved upload speeds
 * The remaining Disperse Replica additions/PR is ready and offers full strategy coverage 
 * The SWIP library has been audited and prioritised, with the pullsync SWIP and soon-to-be-announced data-availability/insurance SWIP at the forefront. More on the SWIP library to come
