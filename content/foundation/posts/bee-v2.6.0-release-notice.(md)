@@ -12,7 +12,7 @@ slug="bee-2-6-0-release"
 
 # 🚀 Bee v2.6.0 Is Now Live!
 
-{{< admonition danger >}}
+{{< admonition warning >}}
 ⚠️ **Immediate Action Required for Node Operators**
 **Bee v2.6.0 introduces changes that require a stake migration.**
 To remain compatible with the network, you **must upgrade your node and migrate your stake**.
