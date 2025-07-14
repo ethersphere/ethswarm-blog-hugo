@@ -10,41 +10,49 @@ _template = "post"
 slug="bee-2-6-0-release"
 +++
 
-*Bee v2.6.0 is **NOW LIVE as of June 24, 2025**! **Node operators** - make sure to read warning note below and follow instructions for the update.*
+# 🚀 Bee v2.6.0 Is Now Live!
 
 {{< admonition warning >}}
-**Important:** It is required that **node operators** must migrate their stake to continue participating in the redistribution game. Without migrating, nodes will no longer be eligible for rewards after updating to v2.6.0.
-👉 [See the migration instructions here](https://docs.ethswarm.org/docs/bee/working-with-bee/staking/#stake-migration)
+⚠️ **Immediate Action Required for Node Operators**
+**Bee v2.6.0 introduces changes that require a stake migration.**
+To remain compatible with the network, you **must upgrade your node and migrate your stake**.
+🔗 [Follow the migration guide →](https://docs.ethswarm.org/docs/bee/working-with-bee/staking/#stake-migration)
 {{< /admonition >}}
 
-## Bee v2.6.0 Brings Lightning Fast New-Node Startup Times  
+We’re excited to announce that **Bee v2.6.0** has officially been released!
 
-The main feature of the Bee v2.6.0 release is the massively reduced startup time for newly started nodes. The time from startup to being able to upload and download has been decreased from over 30 minutes to just a couple of minutes!
+This update brings **faster node startup**, **new performance metrics**, and a series of **bug fixes and improvements**.
 
-Other changes in this update include the addition of new metrics, and providing support for legacy feed resolution.
 
-### Reduced Node Startup Time
 
-The startup time for a newly initialized node to become operational has been massively increased by almost a factor of 10x. Previously, initializing a new node and synchronizing postage batches could take over 30 minutes. With the addition of the postage snapshot feature, the startup time fpr a new node has been reduced to just a few minutes.
+## ⚡ Faster Startup
 
-This increase in startup speed is due in large part to the introduction of a new postage snapshot feature. The feature is enabled by default for fresh installations. It applies only to newly started nodes and does not affect previously started nodes that are restarted after previously operating for some time (restarted nodes will start syncing from the last block before they were shut down). The feature can be disabled using the `--skip-postage-snapshot` flag.
+Bee nodes now import postage batch data from a **snapshot file** by default, skipping the need to sync historical postage events. This results in significantly **faster startup times** for newly started nodes. 
 
-Startup times were also further reduced by changing the way node readiness is determined. Instead of waiting a fixed period, the node now monitors peer connections to decide when the node is ready - allowing it to start as soon as possible.
 
-### Gas Efficiency Upgrade Brings Speedier Operation
+{{< admonition information >}}
+The snapshot will NOT be used for a node which was previously shut down and then restarted.
+{{< /admonition >}}
 
-Gas cost estimation in Bee v2.6.0 has been updated to fully support [EIP-1559](https://help.coinbase.com/en/coinbase/getting-started/crypto-education/eip-1559). Previously, Bee relied on the legacy `eth_gasPrice` method, which often resulted in inaccurate fee estimates. With this release, Bee now uses modern fee market mechanics to provide more reliable and up-to-date gas estimations. 
+Additionally, protocol readiness is now determined dynamically based on **peer availability**, eliminating the need for a fixed startup delay.
 
-The primary benefit of this change is that it will result in consistently speedier node operation.
 
-### New Monitoring Metrics
+## 📊 Upload & Download Metrics
 
-New metrics have been added to help analyze upload and download speeds. These new metrics are primarily intended to help the Bee development team monitor network performance and plan future optimizations.
+This release adds new metrics for tracking **upload and download speeds** between your node and its peers. These metrics are part of the status protocol and provide the Bee dev team with valuable insights that will help to further improve performance.
 
-### Legacy Feed Resolution
 
-Support for legacy feed resolution has been added to address an edge case where legacy feeds do not resolve properly. It can be enabled with the `--legacy-feed-resolution` option. More details can be found in [GitHub issue #5027](https://github.com/ethersphere/bee/issues/5027).
+## 🐞 Bug Fixes & Maintenance
 
-For the complete list of changes, please refer to the [v2.6.0 release notes](https://github.com/ethersphere/bee/releases/tag/v2.6.0).
+This release fixes several node performance related bugs, cleans up deprecated options, and improves error reporting. It also includes updates to Go and go-ethereum versions, smart contracts, and API docs.
 
-If you have any questions or need support, please reach out on [Discord](https://discord.gg/kHRyMNpw7t).
+## 📘 Full Release Notes
+
+For a list of changes, see the v2.6.0 release notes:
+
+* 🔗 [v2.6.0 Release Notes](https://github.com/ethersphere/bee/releases/tag/v2.6.0)
+* 📊 [Compare with v2.5.0](https://github.com/ethersphere/bee/compare/v2.5.0...v2.6.0-rc3)
+
+## 🐝 Need Help?
+
+If you're a node operator looking for support, join the Swarm Discord [#node-operators channel](https://discord.com/channels/799027393297514537/811553590170353685) where you can get your questions answered.
