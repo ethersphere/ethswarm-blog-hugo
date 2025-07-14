@@ -148,7 +148,7 @@ The number of winning nodes declined to 2,052 in May, down 6.6% from April’s 2
 
 ## Total Active Staking Nodes by Country
 
-This metric shows the total number of active staking nodes globally for the month of April, 2025.
+This metric shows the total number of active staking nodes globally for the month of May, 2025.
 
 
 | Country                    | Unique txSenders |
