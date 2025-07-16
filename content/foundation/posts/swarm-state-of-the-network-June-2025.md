@@ -146,7 +146,7 @@ This metric tracks the number of unique staking nodes that won the redistributio
 
 ![chart-Number-of-Winning-Staking-Nodes-by-Month](/uploads/chart-Number-of-Winning-Staking-Nodes-by-Month-June-2025.png)
 
-
+ The number of winning nodes increased slightly from 2,052 in May to 2,197 in June.
 
 ## Total Active Staking Nodes by Country
 
@@ -184,7 +184,7 @@ This metric shows the total number of active staking nodes globally for the mont
 | Mauritius         | 1                |
 | El Salvador       | 1                |
 
-China and Finland continued to dominate in node count, with the top country totals remaining stable month-over-month; detailed per-country comparisons are not available for May.
+China and Finland continued to dominate in node count, with the top country totals remaining stable month-over-month.
 
 ## Conclusion
 
