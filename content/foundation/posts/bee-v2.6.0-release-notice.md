@@ -5,7 +5,7 @@ categories = [ "Development updates" ]
 date = 2025-07-22T00:00:00.000Z
 description = "Bee v2.6.0 brings faster than ever startup times (~10x faster!) so you can get busy uploading and downloading from Swarm in just a couple minutes."
 references_and_footnotes = [ ]
-title = "Bee Version 2.6.0 Goes Live"
+title = "Bee Version 2.6.0 Goes Live!"
 _template = "post"
 slug="bee-2-6-0-release"
 +++
@@ -17,8 +17,11 @@ slug="bee-2-6-0-release"
 
 {{< admonition warning >}}
 ⚠️ **Immediate Action Required for Node Operators**
+
 **Bee v2.6.0 introduces changes that require a stake migration.**
+
 For continued data availability and the ability to participate in the redistribution game, you must **upgrade your node** and **migrate your stake** ASAP.
+
 🔗 [Follow the migration guide →](https://docs.ethswarm.org/docs/bee/working-with-bee/staking/#stake-migration)
 {{< /admonition >}}
 
@@ -30,7 +33,7 @@ This update brings **faster node startup**, **protocol readiness improvements**,
 
 Bee nodes now import postage batch data from a **snapshot file** by default, allowing them to skip syncing historical postage events. This drastically improves **startup speed for new mainnet nodes**, streamlining node deployment and reducing time-to-readiness.
 
-{{< admonition information >}}
+{{< admonition info >}}
 📌 The snapshot import is only used for new mainnet nodes.
 If your node has previously run, it will continue syncing the usual way.
 {{< /admonition >}}
@@ -62,7 +65,7 @@ For developers maintaining integrations or using monitoring systems, these impro
 ## 📘 Full Release Notes
 
 For a complete list of changes, see the [v2.6.0 Release Notes](https://github.com/ethersphere/bee/releases/tag/v2.6.0).
-For technical details, view the [v2.6.0 diff on GitHub](https://github.com/ethersphere/bee/compare/v2.5.0...v2.6.0-rc3).
+For technical details, view the [v2.6.0 diff on GitHub](https://github.com/ethersphere/bee/compare/v2.5.0...v2.6.0).
 
 ## 🐝 Need Help?
 
