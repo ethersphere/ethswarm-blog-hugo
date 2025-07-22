@@ -1,5 +1,5 @@
 +++
-description = 'Swarm news. An open-source, censorship-resistant blog hosted on [Swarm](https://www.ethswarm.org/ "Swarm").'
+description = 'Swarm news. An open-source, censorship-resistant blog hosted on Swarm.'
 featured = "posts/bee-v2.6.0-release-notice.md"
 featured_blog = "foundation"
 featured_secondary_first = "posts/shtuka-partnership.md"
