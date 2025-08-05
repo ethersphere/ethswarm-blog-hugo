@@ -78,9 +78,6 @@ Swarm Desktop was updated to ensure compatibility with Bee 2.6.0.
 * Long, nested comment threads (like on Reddit) 
 * Updated UI examples
 
-View demo: [http://65.108.40.58:8081/](http://65.108.40.58:8081/) 
-
-
 
 #### Shtuka Research
 
