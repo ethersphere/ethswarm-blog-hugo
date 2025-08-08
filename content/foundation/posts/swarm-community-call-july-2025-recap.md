@@ -1,6 +1,6 @@
 +++
-banner = "/uploads/SCC-recap0625.png"
-images = [ "/uploads/SCC-recap0625.png" ]
+banner = "/uploads/SCC-recap0725.png"
+images = [ "/uploads/SCC-recap0725.png" ]
 categories = [ "Events" ]
 date = 2025-08-07T00:00:00.000Z
 description = "The July 2025 Swarm Community Call covered key updates in core development, introduced a new initiative connecting Swarm to decentralised AI, and wrapped up with a short community AMA."
