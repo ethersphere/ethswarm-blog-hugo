@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - 'main'
+  workflow_dispatch:
 
 jobs:
   deploy:
@@ -26,7 +27,7 @@ jobs:
           hugo -D --gc
           npx -y pagefind --source public
       - name: Upload to Swarm
-        uses: ethersphere/swarm-actions/upload-dir@latest
+        uses: ethersphere/swarm-actions/upload-dir-experimental@latest
         id: upload
         with:
           dir: ./public
