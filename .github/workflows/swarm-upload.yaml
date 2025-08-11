@@ -29,6 +29,8 @@ jobs:
       - name: Upload to Swarm
         uses: ethersphere/swarm-actions/upload-dir-experimental@latest
         id: upload
+        env:
+          DEBUG: bee-js:manifest
         with:
           dir: ./public
           index-document: index.html
