@@ -15,7 +15,7 @@ slug="state-of-the-network-July-2025"
 
 ### **July 2025 State of the Network Report**
 
-The July 2025 edition of the State of the Network report provides an overview of key activity and performance metrics across the Swarm network. These figures offer insight into node participation, reward distribution, and geographic trends during the month.
+July was a standout month for the Swarm network, delivering the highest increase in rewards we’ve seen in a long time. Total rewards, average payouts, and median wins all climbed sharply — and with fewer nodes actively staking, those who did participate enjoyed significantly larger individual payouts. For node operators, this meant a bigger share of the pie and stronger returns than in previous months. The network’s overall reach also grew, with more full nodes online than last month, strengthening Swarm’s resilience and capacity. Geographically, Finland and China remained strongholds, maintaining their lead in global distribution.
 
 {{< admonition info >}}
 "***Active nodes***" are full nodes identified by a unique Gnosis Chain address with the required minimum staked xBZZ that have submitted a [commit](https://docs.ethswarm.org/docs/concepts/incentives/redistribution-game/#redistribution-game-details) transaction during the month.
@@ -182,4 +182,4 @@ Finland and China remained the top two countries by active node count, with Finl
 
 ## Conclusion
 
-July 2025 marked a mixed month for the Swarm network. While total rewards, average payouts, and median win values all saw significant increases, the number of active staking nodes and winning nodes declined. This suggests that rewards were concentrated among fewer participants, leading to higher individual payouts. The overall network reach improved, as evidenced by the increase in total reachable full nodes. Geographically, node distribution remained heavily centered in Finland and China, continuing the trend observed in previous months.
+In summary, July 2025 saw rewards climb sharply, with total, median, and average win values all up — boosted in part by a drop in active staking nodes that left larger shares for those remaining. Reachable full nodes grew, strengthening network capacity, while Finland and China continued to dominate global distribution.
