@@ -1,11 +1,11 @@
 {{ define "header" }}
-  <header class="{{ partial "partials/color.html" . }}">
+  <header class="{{ partial "color.html" . }}">
     {{- partial "header.html" . -}}
   </header>
   {{ with .Site.GetPage "/" }}
     {{ .Scratch.Set "description" .Description }}
   {{ end }}
-  {{ partial "partials/header/subheader.html" . }}
+  {{ partial "header/subheader.html" . }}
 {{ end }}
 
 {{ define "main" }}
@@ -13,9 +13,9 @@
   {{ $lang := .Site.Language.Lang }}
 
   {{ if eq $lang "en" }}
-    {{ partial "partials/index/main.html" . }}
+    {{ partial "index/main.html" . }}
   {{ else }}
-    {{ partial "partials/index/sub.html" . }}
+    {{ partial "index/sub.html" . }}
   {{ end }}
 
 {{ end }}

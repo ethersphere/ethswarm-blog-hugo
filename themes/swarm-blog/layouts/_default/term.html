@@ -1,5 +1,5 @@
 {{ define "header" }}
-  <header class="{{ partial "partials/color.html" . }}">
+  <header class="{{ partial "color.html" . }}">
     {{- partial "header.html" . -}}
   </header>
 
@@ -10,7 +10,7 @@
   {{ end }}
 
   {{ .Scratch.Set "description" $description }}
-  {{ partial "partials/header/subheader.html" . }}
+  {{ partial "header/subheader.html" . }}
 {{ end }}
 
 {{ define "main" }}
@@ -36,7 +36,7 @@
           class="sm:gap-y-22 sm:gap-x-7.5 grid grid-cols-1 gap-14 sm:grid-cols-12"
         >
           {{ range $pages }}
-            {{ partial "partials/articles/default.html" . }}
+            {{ partial "articles/default.html" . }}
           {{ end }}
         </div>
       </div>
