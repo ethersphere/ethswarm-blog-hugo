@@ -15,7 +15,7 @@
       {{ if eq $featured_blog .Site.Language.Lang }}
         {{ with .Site.GetPage $featured_page }}
           {{ $featured = $featured | append . }}
-          {{ partial "partials/articles/featured.html" . }}
+          {{ partial "articles/featured.html" . }}
         {{ end }}
       {{ end }}
 
@@ -35,7 +35,7 @@
 
     <div class="mx-4 grid grid-cols-1 gap-14 sm:mx-6 sm:hidden sm:grid-cols-12">
       {{ range $featured }}
-        {{ partial "partials/articles/default.html" . }}
+        {{ partial "articles/default.html" . }}
       {{ end }}
     </div>
   </div>
@@ -62,7 +62,7 @@
         <!-- Fetch pages that are not in featured -->
 
         {{ range first 4 $other }}
-          {{ partial "partials/articles/default.html" . }}
+          {{ partial "articles/default.html" . }}
         {{ end }}
       </div>
 
@@ -71,13 +71,13 @@
         {{ range site.Home.AllTranslations }}
           {{ if eq $featured_sec_first_blog .Site.Language.Lang }}
             {{ with .Site.GetPage $featured_sec_first_page }}
-              {{ partial "partials/articles/large.html" . }}
+              {{ partial "articles/large.html" . }}
             {{ end }}
           {{ end }}
 
           {{ if eq $featured_sec_second_blog .Site.Language.Lang }}
             {{ with .Site.GetPage $featured_sec_second_page }}
-              {{ partial "partials/articles/large.html" . }}
+              {{ partial "articles/large.html" . }}
             {{ end }}
           {{ end }}
         {{ end }}
@@ -103,7 +103,7 @@
 
       <div class="sm:gap-7.5 mt-12 grid grid-cols-1 gap-14 sm:grid-cols-12">
         {{ range first 4 $development }}
-          {{ partial "partials/articles/text.html" . }}
+          {{ partial "articles/text.html" . }}
         {{ end }}
       </div>
     </div>
@@ -116,7 +116,7 @@
     <div class="gap-x-7.5 gap-y-22 grid grid-cols-1 sm:grid-cols-12">
       {{ range first 8 (after 4 $other) }}
         {{ partial
-          "partials/articles/default.html" .
+          "articles/default.html" .
         }}
       {{ end }}
     </div>

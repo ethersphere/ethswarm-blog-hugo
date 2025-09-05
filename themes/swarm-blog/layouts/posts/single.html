@@ -13,7 +13,7 @@
         </div>
         <div class="col-span-8 lg:col-span-6">
           <span class="text-sm font-medium text-gray-500">
-            {{ partial "partials/tag.html" . }}
+            {{ partial "tag.html" . }}
           </span>
           <h1
             class="mt-6 text-4xl font-bold tracking-[-2px] text-gray-900 md:text-[53px] md:leading-[60px]"
@@ -36,7 +36,7 @@
 
       <div class="gap-7.5 mt-22 grid grid-cols-1 sm:grid-cols-12">
         <aside class="relative sm:col-span-3" data-pagefind-ignore>
-          {{ partial "partials/aside.html" . }}
+          {{ partial "aside.html" . }}
         </aside>
         <article class="sm:col-span-8 lg:col-span-6">
           <div class="content">
@@ -56,7 +56,7 @@
             </div>
           {{ end }}
 
-          {{ partial "partials/social.html" . }}
+          {{ partial "social.html" . }}
         </article>
 
         <div class="mt-7.5 md:mt-22 sm:col-span-12" data-pagefind-ignore>
@@ -71,7 +71,7 @@
             class="md:gap-7.5 mt-7.5 grid grid-cols-1 gap-10 sm:grid-cols-12 md:mt-16"
           >
             {{ range $related }}
-              {{ partial "partials/articles/default.html" . }}
+              {{ partial "articles/default.html" . }}
             {{ end }}
           </div>
         </div>

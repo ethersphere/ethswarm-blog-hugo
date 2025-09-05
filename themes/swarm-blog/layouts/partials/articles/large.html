@@ -25,12 +25,12 @@
   <div class="mt-4 flex items-center space-x-3 text-xs text-gray-500">
     <span>{{ .Date.Format "Jan 2" }}</span>
 
-    {{ partial "partials/tag.html" . }}
+    {{ partial "tag.html" . }}
 
     {{ if isset .Params "categories" }}
       {{ $category := index (.Param "categories") 0 }}
 
-      {{ partial "partials/category.html" $category }}
+      {{ partial "category.html" $category }}
     {{ end }}
   </div>
 </div>
