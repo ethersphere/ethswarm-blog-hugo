@@ -97,7 +97,7 @@ The August [Swarm Community Call](https://x.com/i/broadcasts/1djGXVNypnLxZ) high
 
 The August's [Swarm Community Call](https://x.com/i/broadcasts/1djGXVNypnLxZ) highlighted major progress in core development and looked ahead to Bee 2.7. Updates also covered ecosystem projects including Swarmy, Beeport, and the Model Context Protocol (MCP). A broader discussion explored accessibility and usability improvements, such as global pinning and Swarm Desktop. The call concluded with a conversation with a special guest Lou Kerner, Founder of the CryptoMondays Collective, on the shifting Web3 landscape amid regulatory changes, privacy concerns, and the rise of decentralised AI.
 
-You are welcome to read the recap here or listen to the [recording here](https://x.com/i/broadcasts/1djGXVNypnLxZ). 
+You are welcome to listen the [recording here](https://x.com/i/broadcasts/1djGXVNypnLxZ). 
 
 
 ### Upcoming events
