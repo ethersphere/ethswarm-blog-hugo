@@ -173,4 +173,4 @@ Between July and August 2025, China more than doubled in unique txSenders (932 â
 
 ## Conclusion
 
-In summary, August 2025 set a new high for rewards this year, with both median and average win values strengthening payouts. Active node participation recovered slightly, though overall network reach contracted. The geographic landscape shifted dramatically: China overtook Finland as the largest hub of active staking nodes, marking the first time Finlandâ€™s long-standing lead was broken. 
+In summary, August 2025 set a new high for rewards this year, with both median and average win values strengthening payouts. Active node participation recovered slightly, though overall network reach contracted. The geographic landscape shifted dramatically, China overtook Finland as the largest hub of active staking nodes, while other smaller countries dropped off the list.
