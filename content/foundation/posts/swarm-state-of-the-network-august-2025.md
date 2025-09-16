@@ -13,7 +13,7 @@ slug="state-of-the-network-august-2025"
 
 ### **August 2025 State of the Network Report**
 
-August brought another month of strong performance for the Swarm network. Total rewards climbed to the highest level seen this year, and both median and average win values continued to rise, further improving payouts for node operators. Active node counts rebounded slightly from July’s sharp decline, though overall network reach dipped as fewer full nodes were online. The most striking change was geographical: China surged past Finland to become the leading hub of active nodes, signaling a significant shift in the network’s distribution.
+August brought another month of strong performance for the Swarm network. Total rewards climbed to the highest level seen this year, and both median and average win values continued to rise, further improving payouts for node operators. Active node counts rebounded slightly from July’s sharp decline, though overall network reach dipped as fewer full nodes were online. The most striking change was geographical: China overtook Finland to become the leading hub of active nodes, signaling a significant shift in the network’s distribution.
 
 {{< admonition info >}}
 "***Active nodes***" are full nodes identified by a unique Gnosis Chain address with the required minimum staked xBZZ that have submitted a [commit](https://docs.ethswarm.org/docs/concepts/incentives/redistribution-game/#redistribution-game-details) transaction during the month.
