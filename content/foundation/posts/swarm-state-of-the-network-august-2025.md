@@ -168,7 +168,7 @@ This metric shows the total number of active staking nodes globally for the mont
 | Lithuania     | 1                |
 | Norway        | 1                |
 
-Between July and August 2025, China more than doubled in unique txSenders (932 → 1,941) while Finland dropped sharply (2,239 → 1,668). Many smaller contributor countries from July (Germany, UK, Romania, etc.) disappeared, while August saw a concentration in just a few regions, with China and Finland dominating most of the activity.
+Between July and August 2025, active nodes in China more than doubled (932 → 1,941) while Finland's active node count dropped sharply (2,239 → 1,668). Many smaller contributor countries from July (Germany, UK, Romania, etc.) disappeared, while August saw a concentration in just a few regions, with China and Finland dominating most of the activity.
 
 
 ## Conclusion
