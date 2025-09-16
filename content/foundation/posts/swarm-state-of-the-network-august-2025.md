@@ -3,7 +3,7 @@ draft = true
 banner = "/uploads/sotn-august-25.jpg"
 images = [ "/uploads/sotn-august-25.jpg" ]
 categories = [ "Development updates" ]
-date = 2026-09-10T00:00:00.000Z
+date = 2025-09-15T00:00:00.000Z
 description = "August brought another month of strong performance for the Swarm network. Total rewards climbed to the highest level seen this year, and both median and average win values continued to rise, further improving payouts for node operators."
 references_and_footnotes = [ ]
 title = "State of the Network: August 2025"
@@ -168,9 +168,9 @@ This metric shows the total number of active staking nodes globally for the mont
 | Lithuania     | 1                |
 | Norway        | 1                |
 
-Between July and August 2025, China more than doubled in unique txSenders (932 → 1,941) while Finland dropped sharply (2,239 → 1,668). Many smaller contributor countries from July (Germany, UK, Romania, etc.) disappeared, while August saw a concentration in just a few regions, with China and Finland dominating most of the activity.
+Between July and August 2025, active nodes in China more than doubled (932 → 1,941) while Finland's active node count dropped sharply (2,239 → 1,668). Many smaller contributor countries from July (Germany, UK, Romania, etc.) disappeared, while August saw a concentration in just a few regions, with China and Finland dominating most of the activity.
 
 
 ## Conclusion
 
-In summary, August 2025 set a new high for rewards this year, with both median and average win values strengthening payouts. Active node participation recovered slightly, though overall network reach contracted. The geographic landscape shifted dramatically: China overtook Finland as the largest hub of active staking nodes, marking the first time Finland’s long-standing lead was broken. 
+In summary, August 2025 set a new high for rewards this year, with both median and average win values strengthening payouts. Active node participation recovered slightly, though overall network reach contracted. The geographic landscape shifted dramatically, China overtook Finland as the largest hub of active staking nodes, while other smaller countries dropped off the list.
