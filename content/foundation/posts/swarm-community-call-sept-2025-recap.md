@@ -1,6 +1,6 @@
 +++
-banner = "/uploads/SCC-recap-092025"
-images = [ "/uploads/SCC-recap-092025" ]
+banner = "/uploads/SCC-recap-092025.png"
+images = [ "/uploads/SCC-recap-092025.png" ]
 categories = [ "Events" ]
 date = 2025-10-01T00:00:00.000Z
 description = "The September Swarm Community Call highlighted major progress toward the upcoming Bee 2.7 release, an update on incentive system research, and ecosystem presentations ..."
@@ -43,7 +43,7 @@ Nidish Ramakrishnan presented the File Manager, a major UX leap forward develope
 * Spotlight search across all drives, including archived items. 
 * File actions including renaming, local downloading, and a “forget” function that hides a file from view without deleting it from the network. 
 
-Integration into Swarm Desktop is expected soon, once final reviews are completed.
+Integration into [Swarm Desktop](https://desktop.ethswarm.org/) is expected soon, once final reviews are completed.
 
 
 ## Community Talk: Towards InterPlanetary Swarm Hive
