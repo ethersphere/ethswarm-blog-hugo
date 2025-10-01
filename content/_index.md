@@ -1,6 +1,6 @@
 +++
 description = 'Swarm news. An open-source, censorship-resistant blog hosted on Swarm.'
-featured = "posts/bee-v2.6.0-release-notice.md"
+featured = "posts/swarm-community-call-sept-2025-recap.md"
 featured_blog = "foundation"
 featured_secondary_first = "posts/monthly-development-update-august-2025.md"
 featured_secondary_first_blog = "foundation"
