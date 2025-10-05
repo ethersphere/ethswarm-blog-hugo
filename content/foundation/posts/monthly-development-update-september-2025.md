@@ -37,7 +37,7 @@ Ecosystem partner Solar Punk hosted an interactive event at Budapest Blockchain 
 
 ### JS Track 
 
-#### Beeport dApp
+#### Beeport
 
 In the last stretch before the release, our focus areas have been directory uploads, stability, UX polish, FAQ/docs, ENS registration, and testing.
 
