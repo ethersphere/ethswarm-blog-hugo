@@ -40,24 +40,22 @@ Ecosystem partner Solar Punk hosted an interactive event at Budapest Blockchain 
 #### Beeport dApp
 
 In the last stretch before the release, our focus areas have been directory uploads, stability, UX polish, FAQ/docs, ENS registration, and testing.
-* Upload & History Improvements
+* **Upload & History Improvements**
     * Added support for folder uploads, including auto-generated directory indexes.
     * Fixed several issues with upload history entries and import/export.
     * Fixed an issue where filenames with foreign characters or unknown extensions would fail to upload with unclear error messages.
-* Stamps Improvements
+* **Stamps Improvements**
     * Improved the top-up flow with better explanatory texts and smoother redirects to the main view at the end.
     * Improved the stamp management UI, including warnings for stamps nearing expiry.
     * Fixed a rare issue where active stamps would be mistakenly marked as expired.
-* ENS Integration
+* **ENS Integration**
     * Added support for purchasing ENS domains within the app and linking them to Beeport uploads.
-* Other Updates
+* **Other Updates**
     * Integrated Formbricks for user feedback.
     * Added FAQ explanations for local storage and stamp persistence.
 
 
 ### Ecosystem 
-
-
 #### Solar Punk 
 * At Budapest Blockchain Week, Solar Punk hosted an interactive event exploring the future of decentralized AI. Participants became “AI Wranglers” and, through a hands-on mission, learned how Swarm enables censorship-resistant storage and communication for AI agents ([materials](https://drive.google.com/drive/u/0/folders/1T7nJewpQjNt4C7b3HLBQH-k6KRvioS25)). The day ended with a panel discussion featuring Hungarian professionals on the potential and challenges of building an open, autonomous AI ecosystem. Solar Punk also released a [decentralized chat application](http://bbw2025buzz.eth.link/) for the event.
 * A [Zero Knowledge Proofs Meetup](https://luma.com/wziwmseb) was organized in collaboration with [CryptoMondays](https://www.cryptomondays.io/).
