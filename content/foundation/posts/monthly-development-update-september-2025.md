@@ -40,19 +40,19 @@ Ecosystem partner Solar Punk hosted an interactive event at Budapest Blockchain 
 #### Beeport dApp
 
 In the last stretch before the release, our focus areas have been directory uploads, stability, UX polish, FAQ/docs, ENS registration, and testing.
-* **Upload & History Improvements**
-    * Added support for folder uploads, including auto-generated directory indexes.
-    * Fixed several issues with upload history entries and import/export.
-    * Fixed an issue where filenames with foreign characters or unknown extensions would fail to upload with unclear error messages.
-* **Stamps Improvements**
-    * Improved the top-up flow with better explanatory texts and smoother redirects to the main view at the end.
-    * Improved the stamp management UI, including warnings for stamps nearing expiry.
-    * Fixed a rare issue where active stamps would be mistakenly marked as expired.
-* **ENS Integration**
-    * Added support for purchasing ENS domains within the app and linking them to Beeport uploads.
-* **Other Updates**
-    * Integrated Formbricks for user feedback.
-    * Added FAQ explanations for local storage and stamp persistence.
+**Upload & History Improvements**
+* Added support for folder uploads, including auto-generated directory indexes.
+* Fixed several issues with upload history entries and import/export.
+* Fixed an issue where filenames with foreign characters or unknown extensions would fail to upload with unclear error messages.
+**Stamps Improvements**
+* Improved the top-up flow with better explanatory texts and smoother redirects to the main view at the end.
+* Improved the stamp management UI, including warnings for stamps nearing expiry.
+* Fixed a rare issue where active stamps would be mistakenly marked as expired.
+**ENS Integration**
+* Added support for purchasing ENS domains within the app and linking them to Beeport uploads.
+**Other Updates**
+* Integrated Formbricks for user feedback.
+* Added FAQ explanations for local storage and stamp persistence.
 
 
 ### Ecosystem 
