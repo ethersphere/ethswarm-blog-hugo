@@ -35,7 +35,7 @@ The August [Swarm Community Call](https://x.com/i/broadcasts/1djGXVNypnLxZ) high
 * There were also productive conversations around other major proposals, particularly the negative incentives and smart neighbourhood management SWIPs, which the team is eager to begin implementing.
 
 
-### JS Trackd
+### JS Track
 #### [Bee-JS](https://github.com/ethersphere/swarm-cli)
 * Released versions 9.7.0 .. 10.0.0
     * Features
