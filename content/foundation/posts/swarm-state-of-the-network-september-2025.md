@@ -54,7 +54,7 @@ This metric shows the median win amount for each win event, providing insight in
 | August    | 11.07                    |
 | September | 8.33                     |
 
-![Median Win Values (xBZZ) vs. Month](/uploads/chart-Monthly-Median-Win-Values-September-2025.png)
+![Median Win Values (xBZZ) vs. Month](/uploads/chart-Monthly-Median-Win-Values-September--2025.png)
 
 Median win values declined from August’s high, landing at **8.33 xBZZ**. This remains notably higher than earlier in the year, indicating more consistent per-win rewards compared to the spring months.
 
