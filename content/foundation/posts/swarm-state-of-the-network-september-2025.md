@@ -98,7 +98,7 @@ Average earnings per active node decreased to 7.73 xBZZ in September, but remain
 
 ## Total Active Staking Nodes by Month
 
-This metric shows the total number of active staking nodes, defined as full nodes that have issued at least one commit transaction during the month.
+This metric shows the total number of active staking nodes, defined as full nodes that have issued at least one commit transaction during the month. This is distinct from the "active node" [count on Swarmscan](https://swarmscan.io/) which includes all "nodes that can connect to and exchange protocol messages".
 
 | Month    | Total Active Staking Nodes |
 | -------- | -------------------------- |
@@ -116,7 +116,7 @@ Active staking node counts held steady at 3,643, almost unchanged from August. T
 
 ## Total Reachable Full Nodes Regardless of Active Status
 
-This metric counts the total number of unique full nodes (as determined by unique blockchain address) that were reachable at any point in the month, providing a broader picture of network activity beyond just active committers.
+This metric counts the total number of unique full nodes (as determined by unique blockchain address) that were reachable at any point in the month, providing a broader picture of network activity beyond just active committers. This is more in line with the "active node" count [found on Swarmscan](https://swarmscan.io/).
 
 | Month    | Total Reachable Full Nodes |
 | -------- | -------------------------- |
