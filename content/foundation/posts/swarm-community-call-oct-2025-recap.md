@@ -2,7 +2,7 @@
 banner = "/uploads/SCC-recap-1025.png"
 images = [ "/uploads/SCC-recap-1025.png" ]
 categories = [ "Events" ]
-date = 2025-11-01T04:00:00.000Z
+date = 2025-11-04T04:00:00.000Z
 description = "The October Swarm Community Call  delivered major updates on Bee v2.7, Devconnect plans, a live launch of Beeport, and a look at how AI can assist you in exploring and developing on top of Swarm."
 references_and_footnotes = [ ]
 title = "Swarm Community Call, 30 October – Recap" 
