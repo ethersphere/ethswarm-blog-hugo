@@ -27,9 +27,9 @@ With the release almost ready to ship, the team emphasized that v2.7 lays the fo
 
 ## Announcements: Preparing for Devconnect
 
-The conversation then shifted toward Swarm Foundation’s plans for [Devconnect Buenos Aires](https://devconnect.org/), where the team will be active throughout the event. Swarm members will first appear at the [Web3Privacy Now Cypherpunk Congress](https://congress.web3privacy.info/) on 16 November, followed by another promising side event hosted by [Solar Punk: Concept to Commit: Decentralized AI & Media](https://luma.com/8ewy3a20)* *at Club Lucero, 21 November.
+The conversation then shifted toward Swarm Foundation’s plans for [Devconnect Buenos Aires](https://devconnect.org/), where the team will be active throughout the event. Swarm members will first appear at the [Web3Privacy Now Cypherpunk Congress](https://congress.web3privacy.info/) on 16 November, followed by another promising side event hosted by [Solar Punk: Concept to Commit: Decentralized AI & Media](https://luma.com/8ewy3a20) at Club Lucero, 21 November.
 
-A collaborative discussion hosted by[ DAIAA](https://www.daiaa.org/) and moderated by Lou Kerner (CryptoMondays) will open the event at 15.00. The roundtable will explore key challenges, governance models, interoperability and opportunities for cross-project collaboration in building a truly open AI ecosystem.
+A collaborative discussion hosted by [DAIAA](https://www.daiaa.org/) and moderated by Lou Kerner (CryptoMondays) will open the event at 15.00. The roundtable will explore key challenges, governance models, interoperability and opportunities for cross-project collaboration in building a truly open AI ecosystem.
 
 Following the roundtable, there will be several hands-on workshops and live demos: *Launch Your Own AI Agent on Swarm, How to Decentralize Any Frontend?*, and *Multimedia Streaming on Swarm*. 
 
