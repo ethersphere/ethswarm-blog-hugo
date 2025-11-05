@@ -36,15 +36,15 @@ Finally, in the ecosystem track, the Solar Punk team continued advancing Swarmâ€
 ### JS Track 
 #### Apps
 
-##### Beeport 
+##### [Beeport](https://beeport.ethswarm.org/) 
 * After multiple hardening phases in October, we have officially launched the first version of Beeport. You can try it at [beeport.ethswarm.org](https://beeport.ethswarm.org/) to upload files, folders, or websites to the Swarm network without running a node.
 
 
-##### Bee-JS
+##### [Bee-JS](https://github.com/ethersphere/bee-js)
 * Released versions v10.1.0 and v10.1.1, which add the parseFromString method to the Duration and Size classes, as well as a new way of calculating effective storage for postage batches based on erasure coding and encryption preferences.
 
 
-##### Swarm-CLI
+##### [Swarm-CLI](https://github.com/ethersphere/swarm-cli)
 * Released version v2.36.0, which enriches the status command with a display of the current storage price of the network.
 
 
