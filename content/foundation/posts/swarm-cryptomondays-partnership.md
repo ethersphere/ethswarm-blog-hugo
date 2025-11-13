@@ -17,7 +17,7 @@ Swarm Foundation is proud to announce a new partnership with **[CryptoMondays](h
 This partnership formalizes a long-standing collaboration and signals a shared belief: that the next generation of the internet must be open, permissionless, and owned by its users.
 
 
-## Building the Future of Web3 Media, Together**
+## Building the Future of Web3 Media, Together
 
 Since its beginnings as a New York City meetup in 2018, **CryptoMondays** has grown into a truly global movement — a network of over **150,000 members**, spanning **56 active chapters in 18 countries**. Every Monday, founders, investors, developers, and creators gather in cities around the world to share knowledge, discuss ideas, and strengthen local crypto communities.
 
@@ -68,7 +68,7 @@ CryptoMondays has been building this reality in person, every week, in cities ar
 ## About CryptoMondays
 CryptoMondays is a global decentralized community that brings together individuals passionate about cryptocurrency and blockchain technology. Since its founding in 2018, it has grown into the largest IRL Web3 community, spanning 56 chapters across 18 countries. The organization supports builders, founders, and investors through its advisory network, accelerator, and token-foundry initiatives.
 
-| |  | 
+| Channel|  | Link | 
 | -------- | -------- | 
 | CryptoMondays Events   |https://luma.com/CryptoMondaysOfficial  |
 | Collective Linkedin  |https://www.linkedin.com/company/cryptomondays-collective/ |
