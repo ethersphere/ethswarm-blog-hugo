@@ -68,7 +68,7 @@ CryptoMondays has been building this reality in person, every week, in cities ar
 ## About CryptoMondays
 CryptoMondays is a global decentralized community that brings together individuals passionate about cryptocurrency and blockchain technology. Since its founding in 2018, it has grown into the largest IRL Web3 community, spanning 56 chapters across 18 countries. The organization supports builders, founders, and investors through its advisory network, accelerator, and token-foundry initiatives.
 
-| Channel|  | Link | 
+| Channel|Link  | 
 | -------- | -------- | 
 | CryptoMondays Events   |https://luma.com/CryptoMondaysOfficial  |
 | Collective Linkedin  |https://www.linkedin.com/company/cryptomondays-collective/ |
