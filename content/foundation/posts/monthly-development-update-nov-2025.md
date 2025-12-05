@@ -31,7 +31,7 @@ Mark **21 December** in your calendar, when a **[Solstice edition Community Call
 * Ongoing explorations of testnets on other chains. 
 
 
-### JS Track g
+### JS Track
 #### Apps
 
 ##### [Multichain Lilbrary](https://github.com/ethersphere/multichain-library) 
