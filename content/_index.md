@@ -9,5 +9,3 @@ featured_secondary_second_blog = "foundation"
 title = "Swarm home"
 _template = "home"
 +++
-
-
