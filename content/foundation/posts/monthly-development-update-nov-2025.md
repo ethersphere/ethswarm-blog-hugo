@@ -34,8 +34,8 @@ Mark **21 December** in your calendar, when a **[Solstice edition Community Call
 ### JS Track 
 #### Apps
 
-##### [Multichain Lilbrary]() 
-* We are developing a cross-environment library and an accompanying embeddable web widget that helps our users fund their Bee node with an improved user experience. While most cross-chain swap solutions only support a single token output, the Multichain Library project allows setting arbitrary xDAI and xBZZ values — the two essential currencies required to set up and operate a Bee node.
+##### [Multichain Lilbrary](https://github.com/ethersphere/multichain-library) 
+* We are developing a cross-environment library and an accompanying embeddable [web widget](https://github.com/ethersphere/multichain-widget) that helps our users fund their Bee node with an improved user experience. While most cross-chain swap solutions only support a single token output, the Multichain Library project allows setting arbitrary xDAI and xBZZ values — the two essential currencies required to set up and operate a Bee node.
 
 ##### [Swarm-CLI](https://github.com/ethersphere/swarm-cli)
 * Released version 2.36.1, which fixes a download issue where large files were not streamed to disk properly.
