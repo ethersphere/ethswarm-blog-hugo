@@ -5,7 +5,7 @@ categories = [ "Events" ]
 date = 2025-12-05T04:00:00.000Z
 description = "After opening with core development updates, the November Swarm Community Call focused on the fresh impressions from Devconnect Buenos Aires and a deep dive into Swarmonomics."
 references_and_footnotes = [ ]
-title = "Swarm Community Call, 30 November – Recap" 
+title = "Swarm Community Call, 27 November – Recap" 
 _template = "post"
 +++
 
