@@ -2,7 +2,7 @@
 banner = "/uploads/swarm2026.png"
 images = [ "/uploads/swarm2026.png" ]
 categories = [ "Development updates" ]
-date = 2025-21-05T00:00:00.000Z
+date = 2025-20-05T00:00:00.000Z
 description = "The strategic direction for 2026 is structured around five key themes that define where Swarm will concentrate research, core development, and ecosystem efforts over the year."
 references_and_footnotes = [ ]
 title = "Swarm Strategic Focus Framework (2026)"
