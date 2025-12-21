@@ -1,6 +1,6 @@
 +++
 description = 'Swarm news. An open-source, censorship-resistant blog hosted on Swarm.'
-featured = "posts/swarm-community-call-november-2025-recap.md"
+featured = "posts/swarm-strategic-focus-framework-2026.md"
 featured_blog = "foundation"
 featured_secondary_first = "posts/monthly-development-update-nov-2025.md"
 featured_secondary_first_blog = "foundation"
