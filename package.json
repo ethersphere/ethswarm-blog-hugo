@@ -1,19 +1,23 @@
 {
-  "name": "ethswarm-blog-hugo",
+  "name": "ethswarm-blog",
   "version": "1.0.0",
-  "description": "Multi blog blog for Swarm. Uses Multilanguage as a solution to host multiple blogs in one site.",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "tinacms dev -c \"hugo server -D\"",
-    "tina-build": "tinacms build && hugo",
-    "build": "hugo -D --gc && npx -y pagefind --source public",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "forestry:preview": "hugo server -F -D -E -w",
+    "dev": "tinacms server -c \"hugo server -D\"",
+    "build": "tinacms build && hugo"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@tinacms/cli": "^2.0.4",
-    "tinacms": "^2.10.0"
+    "tinacms": "^1.5.29"
+  },
+  "devDependencies": {
+    "@tinacms/cli": "^1.5.41",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.32",
+    "postcss-cli": "^11.0.0"
   }
 }
