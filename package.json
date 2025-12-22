@@ -11,11 +11,10 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "tinacms": "^1.5.29"
-  },
+  "dependencies": {},
   "devDependencies": {
-    "@tinacms/cli": "^1.5.41",
+    "@tinacms/cli": "^1.12.5",
+    "tinacms": "^3.1.2",
     "autoprefixer": "^10.4.16",
     "postcss": "^8.4.32",
     "postcss-cli": "^11.0.0"
