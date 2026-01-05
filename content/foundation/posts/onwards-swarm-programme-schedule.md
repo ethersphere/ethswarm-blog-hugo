@@ -16,7 +16,7 @@ Everything is ready for the [**Onwards, Swarm! event**](https://medium.com/ether
 
 **Special announcement: major stepping stone release!**
 
-Get ready for an exciting release that will make using the Swarm network as easy as 1, 2, 3 clicks. Use the opportunity to ask more technical questions right after the event on [Discord](https://mautic.int.ethswarm.org/r/0dd00088d3bfa5770f9a09908?ct=YTo1OntzOjY6InNvdXJjZSI7YToyOntpOjA7czo1OiJlbWFpbCI7aToxO2k6NTA7fXM6NToiZW1haWwiO2k6NTA7czo0OiJzdGF0IjtzOjIyOiI2MmEzMjE2OTU3MjkyMjc1NTI1NjA4IjtzOjQ6ImxlYWQiO3M6NToiMzMxMzAiO3M6NzoiY2hhbm5lbCI7YToxOntzOjU6ImVtYWlsIjtpOjUwO319&).
+Get ready for an exciting release that will make using the Swarm network as easy as 1, 2, 3 clicks. Use the opportunity to ask more technical questions right after the event on [Discord](https://mautic.ethswarm.org/r/0dd00088d3bfa5770f9a09908?ct=YTo1OntzOjY6InNvdXJjZSI7YToyOntpOjA7czo1OiJlbWFpbCI7aToxO2k6NTA7fXM6NToiZW1haWwiO2k6NTA7czo0OiJzdGF0IjtzOjIyOiI2MmEzMjE2OTU3MjkyMjc1NTI1NjA4IjtzOjQ6ImxlYWQiO3M6NToiMzMxMzAiO3M6NzoiY2hhbm5lbCI7YToxOntzOjU6ImVtYWlsIjtpOjUwO319&).
 
 **50k DAI (paid in BZZ) Wiki Prize and AMA announcement**
 
@@ -48,7 +48,7 @@ Members of the various Swarm Foundation and Association tracks will be hanging o
 
 16:50 — Outro
 
-17:00 — After-hours on [Discord](https://mautic.int.ethswarm.org/r/0dd00088d3bfa5770f9a09908?ct=YTo1OntzOjY6InNvdXJjZSI7YToyOntpOjA7czo1OiJlbWFpbCI7aToxO2k6NTA7fXM6NToiZW1haWwiO2k6NTA7czo0OiJzdGF0IjtzOjIyOiI2MmEzMjE2OTU3MjkyMjc1NTI1NjA4IjtzOjQ6ImxlYWQiO3M6NToiMzMxMzAiO3M6NzoiY2hhbm5lbCI7YToxOntzOjU6ImVtYWlsIjtpOjUwO319&)
+17:00 — After-hours on [Discord](https://mautic.ethswarm.org/r/0dd00088d3bfa5770f9a09908?ct=YTo1OntzOjY6InNvdXJjZSI7YToyOntpOjA7czo1OiJlbWFpbCI7aToxO2k6NTA7fXM6NToiZW1haWwiO2k6NTA7czo0OiJzdGF0IjtzOjIyOiI2MmEzMjE2OTU3MjkyMjc1NTI1NjA4IjtzOjQ6ImxlYWQiO3M6NToiMzMxMzAiO3M6NzoiY2hhbm5lbCI7YToxOntzOjU6ImVtYWlsIjtpOjUwO319&)
 
 See you at the event!
 
