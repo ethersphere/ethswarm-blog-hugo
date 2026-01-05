@@ -3,3 +3,5 @@ public/
 node_modules
 .env
 .DS_Store
+.gemini/
+gha-creds-*.json
