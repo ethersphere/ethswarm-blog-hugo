@@ -14,7 +14,7 @@
   "dependencies": {},
   "devDependencies": {
     "@tinacms/cli": "^2.0.5",
-    "tinacms": "^3.1.2",
+    "tinacms": "^3.3.1",
     "autoprefixer": "^10.4.16",
     "postcss": "^8.4.32",
     "postcss-cli": "^11.0.0"
