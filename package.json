@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "forestry:preview": "hugo server -F -D -E -w",
-    "dev": "tinacms server -c \"hugo server -D\"",
+    "dev": "tinacms dev -c \"hugo server -D\"",
     "build": "tinacms build && hugo"
   },
   "author": "",
