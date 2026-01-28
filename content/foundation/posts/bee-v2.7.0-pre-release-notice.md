@@ -2,7 +2,7 @@
 banner = "/uploads/bee-2-7-0.jpg"
 images = [ "/uploads/bee-2-7-0.jpg" ]
 categories = [ "Development updates" ]
-date = 2026-01-21T00:00:00.000Z
+date = 2027-01-21T00:00:00.000Z
 description = "A pre-release overview of Bee 2.7.0, covering upcoming changes including AutoTLS and WSS support, improved durability and reliability, new metrics, and other updates relevant to node operators and Swarm developers."
 references_and_footnotes = [ ]
 title = "Bee Version 2.7.0 "
