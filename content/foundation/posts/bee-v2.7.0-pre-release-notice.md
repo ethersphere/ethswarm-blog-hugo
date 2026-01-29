@@ -164,7 +164,7 @@ These changes significantly improve operational stability but do not require ope
 
 ## Need Help or Want to Prepare?
 
-If you’re a node operator or developer and want to prepare for the upgrade or ask questions about the release, join the **#node-operators** channel on Swarm Discord:
+If you’re a node operator or developer and want to prepare for the upgrade or ask questions about the release, join the [#node-operators channel](https://discord.gg/kHRyMNpw7t) on the official Swarm Discord.
 
-[https://discord.gg/kHRyMNpw7t](https://discord.gg/kHRyMNpw7t)
+
 
