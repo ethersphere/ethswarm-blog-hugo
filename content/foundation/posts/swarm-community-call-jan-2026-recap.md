@@ -18,16 +18,13 @@ The first [Swarm Community Call ](https://x.com/i/broadcasts/1vOxwdqaeAPKB)of 20
 
 #### Bee 2.7 focuses on three themes:
 * **Browser connectivity foundations:** **AutoTLS + secure WebSockets** enable Bees to obtain and manage TLS certificates and expose secure WebSocket endpoints themselves. The practical implication is laying groundwork for **standard browsers to connect to Bee without custom proxies or manual certificate setup**, supporting future **in-browser client implementations**.
-
 * **Network flexibility:** Support for **multiple underlay addresses** (opt-in) enables nodes to advertise and store more than one transport address, paving the way for smarter transport selection later (performance, reliability, and different connectivity environments).
-
 * **Improved durability & node stability:** Erasure coding improvements are aimed at real-world retrievability, alongside stability fixes (e.g., **pinned chunks no longer evict**, **ENS resolution failures no longer crash nodes**, and ultra-light nodes start correctly without relying on postage snapshots).
 
 
 One-line summary: Bee 2.7 is a meaningful step toward browser-native connectivity, more adaptable networking, and more robust retrievability.
 
 Research efforts are continuing to reinforce retrievability, syncing, and network behavior under change. Key threads mentioned:
-
 
 
 * **Pull-sync protocol work** (via SWIPs): targeting improvements in syncing generally, especially around **depth changes**, sample creation, and stability. 
@@ -45,9 +42,7 @@ At the end of last year, the **Swarm plugin was accepted into the Hashgraph repo
 During the Call, Andrei Mitrea demoed the next step: a **desktop integration** (pending review before PR) that brings Swarm functionality into the Hashgraph desktop app. A previously merged piece (from last year) covers the Conversation Agent integration; this demo focused specifically on desktop.
 
 What the demo showed in practice:
-
 * Enabling the **Swarm plug-in** and configuring it (local Bee URL vs. gateway limitations, feed key, auto-select postage batch, deferred uploads, etc.).
-
 * An example “AI gallery” workflow in which an agent:
     * Creates and extends **postage batches**.
     * Uploads images to Swarm and returns links and references.
@@ -69,8 +64,8 @@ How x402 works (high level):
 
 
 #### **Octal’s flow:**
-* A /**prepare** endpoint: the user selects a storage duration (1/7/14 days). Payment is verified, then the service purchases a stamp and returns an **upload token**.
-* An /**upload** endpoint: the user uploads files (currently up to ~100MB), supplies the token, and the content is client-side stamped and uploaded via a gateway; a shareable link is returned.
+* A `/prepare` endpoint: the user selects a storage duration (1/7/14 days). Payment is verified, then the service purchases a stamp and returns an **upload token**.
+* An `/upload` endpoint: the user uploads files (currently up to ~100MB), supplies the token, and the content is client-side stamped and uploaded via a gateway; a shareable link is returned.
 
 
 #### **Discussion highlights:**
