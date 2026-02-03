@@ -57,7 +57,7 @@ The key point: Swarm becomes persistence and “owned data” for Hedera-facing 
 
 Community member Octal presented a hackathon project that combines **x402** payments with Swarm uploads: **pay in USDC → upload → get a public link**.
 
-How x402 works (high level):
+#### How x402 works (high level):
 * The client hits an x402-enabled API endpoint.
 * The server responds with HTTP 402 and payment details (supported token/chain).
 * The client retries the request with a **signed payment**; a facilitator submits the transaction so users can pay without holding gas, as long as they have the token.
