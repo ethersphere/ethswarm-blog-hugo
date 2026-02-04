@@ -25,7 +25,7 @@ Bee 2.7 also includes many bug fixes and internal improvements that strengthen t
 
 This post is a **pre-release announcement** intended to explain what is coming in Bee 2.7.0, the significance of the changes included in the release, as well as everything that node operators and developers should be aware of prior to release.
 
-{{< admonition caution 2.7 >}}
+{{< admonition info 2.7 >}}
 Bee 2.7 is an almost entirely non-disruptive upgrade without any breaking changes. In almost all cases, no migrations or configuration changes are required, and all new functionality is opt-in. 
 
 There is one edge case regarding NAT related options - with 2.7, the existing `nat-addr` and newly added `nat-wss-addr` options will now be validated (validation was not included in previous Bee versions), so if these options are used, make sure they are set to valid host and port values.
