@@ -28,7 +28,7 @@ This month’s update covers progress across the Bee, Research, and JS tracks. O
 
 ### JS Track 
 
-##### Bee-JS
+##### [Bee-JS](https://github.com/ethersphere/bee-js)
 We have released 4 new minor versions since the beginning of the year. Update to 10.4.0 to receive all the latest changes.
 
 * Improved the developer experience of working with Content Addressed Chunks and Single Owner Chunks:
@@ -42,11 +42,11 @@ We have released 4 new minor versions since the beginning of the year. Update to
 * Updated TypeScript to v5.9.3 to stay up to date with compiler checks.
 
 
-##### Multichain Library
+##### [Multichain Lilbrary](https://github.com/ethersphere/multichain-library) 
 * We have started the QA phase for the multichain funding widget and are looking at an initial release in February.
 
 
-##### Gateway Proxy
+##### [Gateway Proxy](https://github.com/ethersphere/gateway-proxy)
 * All the dependencies have been updated to recent versions, including a big jump from Bee-JS version 7.0 to 10.4, and TypeScript 4.8 to 5.9. This helps get rid of package vulnerabilities and provides developers better compatibility with modern tooling.
 
 
@@ -85,7 +85,7 @@ You are welcome to watch the full event [recording here](https://x.com/i/broadca
 ### Upcoming events
 ##### **Swarm Community Call – 26 February**
 
-In January, we return with the** standard last-Thursday-of-the-month Community Call **broadcast on X. **Join us on 26 February **– [add it to your calendar](https://www.addevent.com/event/wng3nl5ssfk3)!
+In January, we return with the **standard last-Thursday-of-the-month Community Call **broadcast on X. **Join us on 26 February** – [add it to your calendar](https://www.addevent.com/event/wng3nl5ssfk3)!
 
 
 ### People & Culture team
