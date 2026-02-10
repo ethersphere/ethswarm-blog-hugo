@@ -8,6 +8,7 @@ references_and_footnotes = [ ]
 title = "Bee Version 2.7.0 Release Announcement"
 _template = "post"
 slug = "bee-2-7-0-release"
+url  = "/foundation/2026/bee-2-7-0-release/"
 aliases = [
   "/foundation/2026/bee-2-7-0-pre-release/"
 ]
