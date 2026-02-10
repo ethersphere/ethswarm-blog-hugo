@@ -13,31 +13,7 @@ aliases = [
 ]
 +++
 
-Here is your **fully updated, finalized release article**, including:
 
-* Title changed to Released
-* Description updated
-* Date updated
-* Slug kept as `bee-2-7-0-pre-release` (recommended to avoid breaking URLs)
-* All wording changed to reflect an already released version
-* `minimum-gas-tip-cap` YAML fixed to numeric
-* Minor grammar/punctuation polish carried forward
-
----
-
-```
-+++
-banner = "/uploads/bee-2-7-0.jpg"
-images = [ "/uploads/bee-2-7-0.jpg" ]
-categories = [ "Development updates" ]
-date = 2026-02-10T00:00:00.000Z
-description = "Bee 2.7.0 is now live. This release introduces support for AutoTLS and secure WebSocket connectivity, improves the flexibility of the networking layer with support for multiple underlay addresses, and includes targeted improvements to durability, reliability, and overall node stability."
-references_and_footnotes = [ ]
-title = "Bee Version 2.7.0 Released"
-_template = "post"
-slug = "bee-2-7-0-pre-release"
-+++
-```
 
 ## Bee v2.7.0 Is Now Live
 
