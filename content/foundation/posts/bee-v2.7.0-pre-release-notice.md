@@ -14,7 +14,9 @@ aliases = [
 ]
 +++
 
-{{< admonition info 2.7 >}}
+*Last edited February 10, 2026*
+
+{{< admonition tip 2.7 >}}
 For a full list of all changes and links to their associated PRs, please refer to the the [2.7.0 release page on GitHub](https://github.com/ethersphere/bee/releases/tag/v2.7.0).
 {{< /admonition >}}
 
