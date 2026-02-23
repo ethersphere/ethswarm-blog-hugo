@@ -1,7 +1,7 @@
 +++
 draft = true
-banner = "sotn-jan-26.jpg"
-images = [ "sotn-jan-26.jpg" ]
+banner = "/uploads/sotn-jan-26.jpg"
+images = [ "/uploads/sotn-jan-26.jpg" ]
 categories = [ "Development updates" ]
 date = 2026-02-22T00:00:00.000Z
 description = "This report provides an overview of the Swarm network's key metrics for January 2026, including rewards, participation levels, and node distribution, and places them in context with recent monthly trends."
@@ -38,7 +38,7 @@ This metric shows the total storage incentive rewards paid out across the networ
 | January   | **31,172**                   |
 
 
-![Total Network Rewards (xBZZ) vs. Month](/uploads/chart-Total-Network-Monthly-Rewards-December-2025.png)
+![Total Network Rewards (xBZZ) vs. Month](/uploads/chart-Total-Network-Monthly-Rewards-January-2026.png)
 
 Total network rewards in January were 31,172 xBZZ, down from 38,477 xBZZ in December.
 
@@ -55,7 +55,7 @@ Total network rewards in January were 31,172 xBZZ, down from 38,477 xBZZ in Dece
 | January   | **9.21**                 |
 
 
-![Median Win Values (xBZZ) vs. Month](/uploads/chart-Monthly-Median-Win-Values-December-2025.png)
+![Median Win Values (xBZZ) vs. Month](/uploads/chart-Monthly-Median-Win-Values-January-2026.png)
 
 
 
@@ -73,7 +73,7 @@ The median win value in January was 9.21 xBZZ, down from 11.53 xBZZ in December.
 | January   | **9.25**                  |
 
 
-![Average Win Values (xBZZ) vs. Month](/uploads/chart-Monthly-Average-Win-Values-December-2025.png)
+![Average Win Values (xBZZ) vs. Month](/uploads/chart-Monthly-Average-Win-Values-January-2026.png)
 
 Average win values decreased to 9.25 xBZZ in January from 11.68 xBZZ in December.
 
@@ -89,7 +89,7 @@ Average win values decreased to 9.25 xBZZ in January from 11.68 xBZZ in December
 | January   | **16.07**                        |
 
 
-![Avg Total Earnings per Node (xBZZ) vs. Month](/uploads/chart-Avg-Total-Earnings-per-Node-December-2025.png)
+![Avg Total Earnings per Node (xBZZ) vs. Month](/uploads/chart-Avg-Total-Earnings-per-Node-January-2026.png)
 
 Average earnings per active staking node in January were approximately 16.07 xBZZ, down from December's 18.68 xBZZ.
 
@@ -105,7 +105,7 @@ Average earnings per active staking node in January were approximately 16.07 xBZ
 | January   | **1,939**                  |
 
 
-![Total Active Staking Nodes (xBZZ) vs. Month](/uploads/chart-Total-Active-Staking-Nodes-December-2025.png)
+![Total Active Staking Nodes (xBZZ) vs. Month](/uploads/chart-Total-Active-Staking-Nodes-January-2026.png)
 
 The total number of active staking nodes decreased to 1,939 in January, down from 2,060 in December.
 
@@ -121,7 +121,7 @@ The total number of active staking nodes decreased to 1,939 in January, down fro
 | January   | **4,270**                  |
 
 
-![Total Reachable Full Nodes vs. Month](/uploads/chart-Total-Reachable-Full-Nodes-December-2025.png)
+![Total Reachable Full Nodes vs. Month](/uploads/chart-Total-Reachable-Full-Nodes-January-2026.png)
 
 Total reachable full nodes declined to 4,270 in January, down from 4,760 in December.
 
@@ -136,7 +136,7 @@ Total reachable full nodes declined to 4,270 in January, down from 4,760 in Dece
 | December  | 1,513               |
 | January   | **1,456**           |
 
-![Number of Winning Staking Nodes by Month](/uploads/chart-Number-of-Winning-Staking-Nodes-by-Month-December-2025.png)
+![Number of Winning Staking Nodes by Month](/uploads/chart-Number-of-Winning-Staking-Nodes-by-Month-January-2026.png)
 
 The number of winning nodes in January was 1,456, down from 1,513 in December.
 
