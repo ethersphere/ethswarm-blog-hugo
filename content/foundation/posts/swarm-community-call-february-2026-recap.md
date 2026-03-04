@@ -9,12 +9,12 @@ title = "Swarm Community Call, 26 February – Recap"
 _template = "post"
 +++
 
-[February’s Swarm Community Call ](https://x.com/i/broadcasts/1mrGmByzOLkJy)focused on three areas: a look back at the **Bee 2.7 release and what comes** next, a walkthrough of the** new** **“Building on Swarm”** developer guides, and a forward-looking community talk on **identity management** led by the Snaha team. While the Swarm Foundation remains focused on refining core infrastructure, we are also steadily reducing friction for both builders and end users.
+[February’s Swarm Community Call ](https://x.com/i/broadcasts/1mrGmByzOLkJy)focused on three areas: a look back at the **Bee 2.7 release and what comes** next, a walkthrough of the **new** **“Building on Swarm”** developer guides, and a forward-looking community talk on **identity management** led by the Snaha team. While the Swarm Foundation remains focused on refining core infrastructure, we are also steadily reducing friction for both builders and end users.
 
 
-### **Core Development Updates**
+### Core Development Updates
 
-The call opened with an update on **[Bee 2.7.0, released ](https://blog.ethswarm.org/foundation/2026/bee-2-7-0-release/)**on 11 February. The release was framed as a **safe drop-in upgrade**: no migrations, no required configuration changes, and all new features remaining opt-in. Bálint noted that adoption had already moved quickly, with **nearly 90% of nodes upgraded** by the time of the call.
+The call opened with an update on **[Bee 2.7.0, released ](https://blog.ethswarm.org/foundation/2026/bee-2-7-0-release/)** on 11 February. The release was framed as a **safe drop-in upgrade**: no migrations, no required configuration changes, and all new features remaining opt-in. Bálint noted that adoption had already moved quickly, with **nearly 90% of nodes upgraded** by the time of the call.
 
 The release itself introduced groundwork in **peer-to-peer connectivity**, especially around improving compatibility across different network setups. Browser nodes can now address peers more effectively, **TLS connections** are supported, and automatic, verifiable certificates are included. Alongside this, the release emphasized **stability and long-term predictability**.
 
@@ -43,27 +43,26 @@ The team is also running testnet experiments exploring multi-chain scenarios, in
 
 In parallel, internally reported bugs have been reviewed, discussed, and are being worked through as part of ongoing stabilization efforts.
 
-At the end of the Core development segment, a new series of practical workshops from the **Swarm DevRel team **was announced, beginning in **March**.
+At the end of the Core development segment, a new series of practical workshops from the **Swarm DevRel team** was announced, beginning in **March**.
 
 The first session, **How to Decentralize Any Front End**, is presented as a **hands-on, no-fluff workshop** aimed at beginner-to-intermediate users who want to host apps and websites on decentralized infrastructure without unnecessary complexity. Date and details are expected to drop this week. 
 
 
-### **In Focus — New Developer Guides**
+### In Focus — New Developer Guides
 
-Noah introduced the new **[“Building on Swarm” section in the documentation](https://docs.ethswarm.org/docs/develop/introduction/)**, designed as a clearer and more practical entry point for developers. The section presents **guides in a** **structured progression, **moving** **from basic workflows to more advanced use cases. Previously, much of this information existed across documentation, Discord threads, and community memory. The new structure aims to make that path clearer.
+Noah introduced the new **[“Building on Swarm” section in the documentation](https://docs.ethswarm.org/docs/develop/introduction/)**, designed as a clearer and more practical entry point for developers. The section presents **guides in a structured progression, moving** from basic workflows to more advanced use cases. Previously, much of this information existed across documentation, Discord threads, and community memory. The new structure aims to make that path clearer.
 
 Most of the guides include **working examples** with code snippets and explanations, allowing builders to move directly from concept to implementation.
 
 Among the guides highlighted on the call were:
 * **Working with a file system and routing**, focused on **Manifests** and how they map file names or paths to content on Swarm. This is essential for preserving directory structures, building virtual file systems, and supporting application routing.
-
 * **Running a gateway**, a guide for setting up **swarm-gateway**, which is intended to replace the soon-to-be-deprecated **Swarm proxy** tool. This guide focuses on infrastructure configuration, covering DNS setup and command-line deployment.
 
 
 Noah noted that the guides are still being refined. Current work includes a new guide on **using Feeds for dynamic content**, including “feeds of feeds.” Feedback, issues, and pull requests are welcome via the **BDOC repo** on the **ethersphere GitHub**.
 
 
-### **Community Talk — SwarmID: Identity Management for Swarm **
+### Community Talk — SwarmID: Identity Management for Swarm
 
 The final segment featured Attila from the Snaha team, introducing **SwarmID**: a proof-of-concept identity layer aimed at filling a long-recognized gap in the Swarm stack.
 
