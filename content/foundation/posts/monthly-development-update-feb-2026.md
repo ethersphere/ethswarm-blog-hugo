@@ -72,14 +72,14 @@ February was a strong month of steady execution across the stack: **Bee 2.7.0** 
 ### Events 
 ##### Swarm Community Call – 26 February
 
-[February’s Swarm Community Call ](https://x.com/i/broadcasts/1mrGmByzOLkJy)focused on three areas: a look back at the **Bee 2.7 release and what comes** next, a walkthrough of the** new** **“Building on Swarm”** developer guides, and a forward-looking community talk on **identity management** led by the Snaha team. While the Swarm Foundation remains focused on refining core infrastructure, we are also steadily reducing friction for both builders and end users.
+[February’s Swarm Community Call ](https://x.com/i/broadcasts/1mrGmByzOLkJy)focused on three areas: a look back at the **Bee 2.7 release and what comes** next, a walkthrough of the **new** **“Building on Swarm”** developer guides, and a forward-looking community talk on **identity management** led by the Snaha team. While the Swarm Foundation remains focused on refining core infrastructure, we are also steadily reducing friction for both builders and end users.
 
 You are welcome to watch the full event [recording here](https://x.com/i/broadcasts/1mrGmByzOLkJy). 
 
 
 ### Upcoming events
 ##### [Swarm Workshops](https://workshops.swarm.bzz.link/) 
-Introducing: **a new series of practical, no-fluff [workshops](https://workshops.swarm.bzz.link/).** First up in March is **How to Decentralize Any Frontend** – a beginner-to-intermediate session on hosting dApps and websites on decentralized infrastructure, without the usual friction. We’ll cover three routes depending on your knowledge and expectations: Beeport for *drag-drop-deploy simplicity*; the Swarm Desktop App for *direct control with no middleman*; and Bee light node + swarm-cli for *full terminal-based flexibility*. 
+Introducing: **a new series of practical, no-fluff [workshops](https://workshops.swarm.bzz.link/).** First up in March is **How to Decentralize Any Frontend** – a beginner-to-intermediate session on hosting dApps and websites on decentralized infrastructure, without the usual friction. We’ll cover three routes depending on your knowledge and expectations: Beeport for *drag-drop-deploy simplicity*; the Swarm Desktop App for* direct control with no middleman*; and Bee light node + swarm-cli for *full terminal-based flexibility*. 
 
 In a world where building a site is now trivial, the real question is whether you still need to hand it over to a platform. This workshop is about how not to.
 
