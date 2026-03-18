@@ -8,7 +8,6 @@ references_and_footnotes = [ ]
 title = "Bee Version 2.7.1 Pre-Release Notice"
 _template = "post"
 slug = "bee-2-7-1-pre-release"
-url  = "/foundation/2026/bee-2-7-1-pre-release/"
 +++
 
 ## Bee v2.7.1 Goes Live March 23rd
