@@ -40,12 +40,12 @@ Two additional improvements landed in the postage package:
 * Fixing a panic related to postage batch top-ups
 
 
-Looking ahead, the Bee team’s near-term focus remains **stability and performance**, including **reducing unnecessary RPC calls **(lower operational overhead for node operators) and **improving reserve sample** computation (proof-of-storage mechanics relevant for incentives). Ljubiša also noted internal work toward a faster release cadence with smaller, more targeted releases.
+Looking ahead, the Bee team’s near-term focus remains **stability and performance**, including **reducing unnecessary RPC calls** (lower operational overhead for node operators) and **improving reserve sample** computation (proof-of-storage mechanics relevant for incentives). Ljubiša also noted internal work toward a faster release cadence with smaller, more targeted releases.
 
-***“One-line summary: Bee 2.7.1 tightens the multi-transport networking foundations from 2.7.0 and improves real-world connectivity and operational stability, with the team pushing toward more frequent, focused performance and reliability updates.”***
+*“One-line summary: Bee 2.7.1 tightens the multi-transport networking foundations from 2.7.0 and improves real-world connectivity and operational stability, with the team pushing toward more frequent, focused performance and reliability updates.”*
 
 
-## **In Focus — Protocol Reshape **
+## In Focus — Protocol Reshape
 
 The “In Focus” segment unpacked why Swarm is establishing a **Protocol Team** now. There has been a long-running internal and community debate about when protocol changes are necessary versus when issues can be solved at the implementation layer. This also raises a practical question: how to address deeper protocol-level issues without drifting into slow, opaque processes.
 
@@ -56,7 +56,7 @@ Henning Dietrich, who will lead the newly formed team, emphasized a dual focus: 
 Both Andrew and Henning noted they will attend the **Swarm Accelerator Hackdays**, with further details expected to surface publicly in April.
 
 
-## **Community Talk — Mobile Node PoC**
+## Community Talk — Mobile Node PoC
 
 The Community Talk featured Nándor (Solar Punk) [demoing a proof of concept](https://solarpunk.buzz/swarm-mobile-web3-power-in-your-pocket/) for running **Bee client functionality on Android** as a **light or ultra-light node**. The framing was simple: if Swarm aims to become everyday infrastructure, it needs clients that live where users live — and mobile is a large part of that.
 
@@ -72,6 +72,6 @@ Nándor encouraged those interested to review the **[Solar Punk GitHub repositor
 
 The key takeaway wasn’t that this is finished. It was that this PoC establishes a reference implementation and a set of principles that other developers can build on — whether the next step is a more complete mobile client, new mobile-first applications, or experiments like a “node in your pocket” concept.
 
-**The next Swarm Community Call **will take place on **[30 April](https://scc.swarm.bzz.link/)**, as usual on the last Thursday of the month, at **17:00 CET**, with fresh updates expected from the Swarm Accelerator Hackdays.
+**The next Swarm Community Call** will take place on **[30 April](https://scc.swarm.bzz.link/)**, as usual on the last Thursday of the month, at **17:00 CET**, with fresh updates expected from the Swarm Accelerator Hackdays.
 
 As **[Discord](https://discord.gg/9EJTdUKa) remains the main space** for developer discussions, tech support, and connecting directly with the Swarm team, we encourage you to **post any follow-up questions there**, or to follow along in **the ongoing public threads**.
