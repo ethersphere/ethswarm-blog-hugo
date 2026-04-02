@@ -3,9 +3,9 @@ banner = "/uploads/scc-0326-recap.png"
 images = [ "/uploads/scc-0326-recap.png" ]
 categories = [ "Events" ]
 date = 2026-04-02T00:00:00.000Z
-description = "February’s Swarm Community Call focused on three areas: a look back at the Bee 2.7 release and what comes next, a walkthrough of the new “Building on Swarm” developer guides, and a forward-looking community talk on identity management."
+description = "March’s Swarm Community Call widened the lens beyond pure client updates: we introduced Koss as Swarm’s new Community Lead, shared a short preview of upcoming workshops and conference presence**, then moved into the Bee 2.7.1 patch release debrief..."
 references_and_footnotes = [ ]
-title = "Swarm Community Call, 26 February – Recap"
+title = "Swarm Community Call, 26 March – Recap"
 _template = "post"
 +++
 
