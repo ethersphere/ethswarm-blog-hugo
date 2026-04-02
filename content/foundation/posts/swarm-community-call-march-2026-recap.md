@@ -2,7 +2,7 @@
 banner = "/uploads/scc-0326-recap.png"
 images = [ "/uploads/scc-0326-recap.png" ]
 categories = [ "Events" ]
-date = 2026-04-04T00:00:00.000Z
+date = 2026-04-02T00:00:00.000Z
 description = "February’s Swarm Community Call focused on three areas: a look back at the Bee 2.7 release and what comes next, a walkthrough of the new “Building on Swarm” developer guides, and a forward-looking community talk on identity management."
 references_and_footnotes = [ ]
 title = "Swarm Community Call, 26 February – Recap"
