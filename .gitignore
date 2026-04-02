@@ -6,3 +6,4 @@ node_modules
 .gemini/
 gha-creds-*.json
 *.zip
+.claude/settings.local.json
