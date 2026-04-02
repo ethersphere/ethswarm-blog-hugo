@@ -3,16 +3,16 @@ banner = "/uploads/scc-0326-recap.png"
 images = [ "/uploads/scc-0326-recap.png" ]
 categories = [ "Events" ]
 date = 2026-04-02T00:00:00.000Z
-description = "February’s Swarm Community Call focused on three areas: a look back at the Bee 2.7 release and what comes next, a walkthrough of the new “Building on Swarm” developer guides, and a forward-looking community talk on identity management."
+description = "March’s Swarm Community Call widened the lens beyond pure client updates: we introduced Koss as Swarm’s new Community Lead, shared a short preview of upcoming workshops and conference presence**, then moved into the Bee 2.7.1 patch release debrief..."
 references_and_footnotes = [ ]
-title = "Swarm Community Call, 26 February – Recap"
+title = "Swarm Community Call, 26 March – Recap"
 _template = "post"
 +++
 
 [March’s Swarm Community Call ](https://www.youtube.com/live/bRkYQfXbawA)widened the lens beyond pure client updates: we introduced Koss as Swarm’s new Community Lead, shared a short preview of **upcoming** **workshops and conference presence**, then moved into the **Bee 2.7.1** patch release debrief, a first public look at the **new Protocol Team** formation, and a practical Community Talk demoing a **mobile light-node PoC** on Android. The call touched on tighter networking, tighter processes, and more ways to access Swarm without depending on third-party infrastructure.
 
 
-## **Community and Upcoming Activities**
+## Community and Upcoming Activities
 
 The call opened with an introduction to Koss, who will focus on community engagement and moderation – primarily on Discord, with increased presence on X as well. The goal is straightforward: The focus is on keeping feedback flowing from the community into the team, improving channel coordination, and supporting ecosystem monitoring and growth.
 
@@ -25,7 +25,7 @@ Koss also shared updates on the newly launched **[workshop series](workshops.swa
 We also took a quick look at near-term events: **EthCC (Cannes)** with [coffee hours on Swarm ](https://luma.com/fu90m321) planned for 1 April, **EthPrague (8–10 May)** where Swarm will be present as a sponsor with a booth, hackathon participation, [a talk and panel](https://ethprague.com/speakers), and a preview of **Swarm Accelerator Hackdays** (20–24 April), with a full report planned for April’s Community Call.
 
 
-## **Core Development Updates**
+## Core Development Updates
 
 Ljubiša walked through **Bee 2.7.1**, a patch release following 2.7.0, focused primarily on stabilizing and scaling the multi-transport work introduced with AutoTLS and secure WebSockets.
 
