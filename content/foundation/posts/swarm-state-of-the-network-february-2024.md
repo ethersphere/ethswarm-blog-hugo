@@ -1,5 +1,3 @@
-
-
 +++
 banner = "/uploads/state-of-network-graphic-7-24.png"
 images = [ "/uploads/state-of-network-graphic-7-24.png" ]
