@@ -78,7 +78,7 @@ You are welcome to watch the full event [recording here](https://www.youtube.com
 
 
 
-##### **[Swarm Workshops](https://workshops.swarm.bzz.link/)**
+##### **Swarm Workshops**
 
 Introducing: **a new series of practical, no-fluff [workshops](https://workshops.swarm.bzz.link/).** First one aired on 25 March — **Intro to Swarm**. This workshop explained in simple terms the basics of how Swarm works as a decentralized network: P2P topology, chunking, neighborhoods, proximity, postage, and incentives. If Swarm ever sounded interesting but too complicated, [start here](https://youtube.com/live/lkrNZJFCmOc) — and share it with anyone who should finally get what this stack is actually about.
 
