@@ -10,7 +10,7 @@ _template = "post"
 +++
 
 
-April's development work focused on tightening the foundations: better performance, cleaner tooling, stronger reliability, and smoother user flows across the Swarm stack.
+April's development work focused on tightening the foundations: better performance, cleaner tooling, stronger reliability, and smoother user flows across the Swarm stack. 
 
 The month was also shaped by the **Swarm Accelerator Hackweek**, where several teams stress-tested ideas in practice, produced working PoCs, and turned exploratory concepts into more concrete collaboration tracks.
 
