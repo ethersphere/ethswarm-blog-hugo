@@ -1,5 +1,5 @@
 +++
-banner = "/uploads/sSCCRecap0426.png"
+banner = "/uploads/SCCRecap0426.png"
 images = [ "/uploads/SCCRecap0426.png" ]
 categories = [ "Events" ]
 date = 2026-05-05T00:00:00.000Z
