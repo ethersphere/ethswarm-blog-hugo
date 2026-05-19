@@ -8,7 +8,7 @@ on:
 
 jobs:
   deploy:
-    runs-on: ubuntu-latest
+    runs-on: [self-hosted, Linux, bee]
     steps:
       - uses: actions/checkout@v6
         with:
@@ -21,7 +21,10 @@ jobs:
         with:
           hugo-version: '0.104.3'
       - name: Build
+        env:
+          HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
         run: |
+          mkdir -p "$HUGO_CACHEDIR"
           npm ci --prefix themes/swarm-blog
           npm run build --prefix themes/swarm-blog
           hugo -D --gc
