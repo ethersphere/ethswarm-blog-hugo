@@ -201,11 +201,4 @@ The Swarm Accelerator Hackdays exist to surface exactly this kind of work: pract
 
 Follow each project's repo for what comes next, and watch this space — several of these are heading toward production over the coming months.
 
----
 
-**Want to build on Swarm?**
-
-- Docs: https://docs.ethswarm.org/
-- GitHub: https://github.com/ethersphere
-- Discord: https://discord.com/invite/hyCr9BMX9U
-- X: https://x.com/ethswarm
