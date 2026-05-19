@@ -1,6 +1,6 @@
 +++
-banner = "/uploads/hackdays-2026-hero.png"
-images = [ "/uploads/hackdays-2026-hero.png" ]
+banner = "/uploads/hackdays-2026-hero.jpg"
+images = [ "/uploads/hackdays-2026-hero.jpg" ]
 categories = [ "Events" ]
 date = 2026-05-19T00:00:00.000Z
 description = "For five days in late April, eleven teams formed, built, and demoed projects on top of Swarm — spanning AI agents, decentralized data marketplaces, mobile browsers, food traceability, email bridges, and more. Here's what they built."
@@ -16,6 +16,8 @@ For five days in late April, the Swarm community came together for the **Swarm A
 The throughline across all of them: practical infrastructure that makes Swarm easier to use, more accessible, or solves a real problem for users and developers today.
 
 Here's what the teams built.
+
+![Hackdays discussion in progress](/uploads/hackdays-2026-discussion.jpg)
 
 ---
 
@@ -199,6 +201,8 @@ Here's what the teams built.
 ---
 
 ## Closing Thoughts
+
+![Hackdays closing demo session](/uploads/hackdays-2026-closing.jpg)
 
 Eleven teams. Five days. One decentralized stack.
 
