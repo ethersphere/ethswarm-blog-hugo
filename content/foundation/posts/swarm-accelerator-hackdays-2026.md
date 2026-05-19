@@ -23,7 +23,6 @@ Here's what the teams built.
 
 ## 1. Swarm AI Data Exchange
 
-**Team:** Andrei, Andras, Levi
 **Links:** [GitHub](https://github.com/Solar-Punk-Ltd/swarm-ai-data-exchange)
 
 ![Swarm AI Data Exchange demo screenshot](/uploads/hackdays-2026-ai-data-exchange.png)
@@ -40,7 +39,6 @@ Here's what the teams built.
 
 ## 2. Full Circle
 
-**Team:** Vojtech, David, Attila
 **Links:** [swarmblocks.eth.limo](https://swarmblocks.eth.limo/) · [GitHub](https://github.com/snaha/fullcircle-research)
 
 ![Full Circle block explorer prototype](/uploads/hackdays-2026-full-circle.png)
@@ -57,7 +55,6 @@ Here's what the teams built.
 
 ## 3. Swarm Collab
 
-**Team:** Nugaon, Bálint, Ekrem, Marios
 **Links:** [GitHub (Apiary Suite)](https://github.com/Apiary-Suite)
 
 ![Swarm Collab document editing demo](/uploads/hackdays-2026-swarm-collab.png)
@@ -74,7 +71,6 @@ Here's what the teams built.
 
 ## 4. Swarm Volumes API
 
-**Team:** Andrew, Pavel
 
 ![Swarm Volumes Sepolia demo](/uploads/hackdays-2026-swarm-volumes.png)
 
@@ -90,7 +86,6 @@ Here's what the teams built.
 
 ## 5. MCP Swarm Apps
 
-**Team:** Roland, Ferenc
 
 ![MCP Swarm Apps VS Code demo](/uploads/hackdays-2026-mcp-swarm-apps.png)
 
@@ -106,7 +101,6 @@ Here's what the teams built.
 
 ## 6. Mobile Freedom Browser
 
-**Team:** Meinhard, Florian
 **Links:** [freedombrowser.eth.limo](https://freedombrowser.eth.limo/) · [GitHub](https://github.com/solardev-xyz/freedom-browser)
 
 ![Freedom Browser iOS and Android demo](/uploads/hackdays-2026-mobile-freedom-browser.png)
@@ -123,7 +117,6 @@ Here's what the teams built.
 
 ## 7. Swarm Notify (Nook)
 
-**Team:** Marios, David, Gašper, Črt
 **Links:** [GitHub](https://github.com/GasperX93/swarm-notify)
 
 ![Nook redesigned UI with shared drives](/uploads/hackdays-2026-swarm-notify.png)
@@ -140,7 +133,6 @@ Here's what the teams built.
 
 ## 8. BDF Protocol — Food Traceability
 
-**Team:** Antonio, Ljubisa, Marcio
 
 ![BDF Protocol berry traceability demo](/uploads/hackdays-2026-bdf-protocol.png)
 
@@ -156,7 +148,6 @@ Here's what the teams built.
 
 ## 9. The Hive Node
 
-**Team:** Henry Bergström, Ramesh Pallikara, Mahyar (MetaProvide)
 
 ![Hive Node IPFS-to-Swarm migration demo](/uploads/hackdays-2026-hive-node.png)
 
@@ -172,7 +163,6 @@ Here's what the teams built.
 
 ## 10. Simaps (formerly Lazy PM)
 
-**Team:** Gergő Zsiák, Bálint Csorvási
 
 **The problem.** Project data is scattered across GitHub, Jira, and disjointed documentation sources — leaving project managers stitching context together by hand.
 
@@ -186,7 +176,6 @@ Here's what the teams built.
 
 ## 11. Dmail
 
-**Team:** Jarkko, Aata, Chris
 
 ![Dmail Thunderbird and Roundcube demo](/uploads/hackdays-2026-dmail.png)
 
