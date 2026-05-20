@@ -16,7 +16,7 @@
     "@tinacms/cli": "^2.0.5",
     "tinacms": "^3.1.2",
     "autoprefixer": "^10.4.16",
-    "postcss": "^8.4.32",
+    "postcss": "^8.5.8",
     "postcss-cli": "^11.0.0"
   }
 }
