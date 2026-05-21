@@ -9,7 +9,6 @@ title = "Swarm at ETHPrague 2026: booth, bounties, and nine winning projects"
 _template = "post"
 +++
 
-# Swarm at ETHPrague 2026: booth, bounties, and nine winning projects
 
 *May 8–10, 2026 · Municipal House, Prague*
 
