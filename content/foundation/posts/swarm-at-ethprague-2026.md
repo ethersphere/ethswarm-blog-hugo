@@ -66,27 +66,27 @@ The result: **nine projects took home Swarm prizes**, including four bounty winn
 ### Track and bounty winners
 
 #### 1. Phare — *Future Society Award*
-**Team:** eStorm — Nicolò Vanzo, Lorenzo Gilardi, Ruben Soro · [Devfolio](https://devfolio.co/projects/phare-e849)
+**Team:** eStorm — Nicolò, Lorenzo, Ruben · [Devfolio](https://devfolio.co/projects/phare-e849)
 
 *"What satellites can't see, citizens can."* Phare is a citizen-reporting protocol for spotting sanctioned oil tankers that disable their AIS transponders. Anyone can photograph a suspicious vessel and submit a bonded report — no account required. Photos, metadata, and verifier reasoning logs are stored on Swarm via Single Owner Chunks and Feeds; UMA's optimistic assertion framework adjudicates claims; verified reports get permanent ENS identities with full dossiers behind a Swarm contenthash. The team picked up the Future Society Award plus two additional prizes.
 
 #### 2. Truth Market — *Verified Fetch — Trust No Gateway*
-**Team:** Sarthi Borkar, Sandro Schaier · [Devfolio](https://devfolio.co/projects/truthmarket-2eb3)
+**Team:** Sarthi, Sandro · [Devfolio](https://devfolio.co/projects/truthmarket-2eb3)
 
 *"Prediction for the Age of AI."* A prediction market that resolves subjective, hard-to-verify claims through staked, private commit-reveal jury voting rather than a centralized oracle. Built in Solidity + Next.js, with market documents and evidence pulled from Swarm via the Verified Fetch API so participants can independently verify what they're voting on — no gateway trust required.
 
 #### 3. fama — *A Simple Key-Value Store on Swarm*
-**Team:** Viki's Vacuum — Viki Val, Jana Uhrinova, Martin Zavadzan · [Devfolio](https://devfolio.co/projects/fama-5b40)
+**Team:** Viki's Vacuum — Viki, Jana, Martin · [Devfolio](https://devfolio.co/projects/fama-5b40)
 
 *"Claims expire. Credibility compounds."* fama turns social-media posts into falsifiable claims with deadlines, then assigns non-transferable credibility scores to authors based on how their predictions resolve. The team built a custom key-value store on Swarm (`@swarmkv/core`) as the application's data backbone, directly answering the bounty brief — and shipped a working app on top of it.
 
 #### 4. Vigilbot — *Ethereum Chain State on Swarm*
-**Team:** 0xj4an, Krisztian Barta · [Devfolio](https://devfolio.co/projects/audit-agent-5916)
+**Team:** 0xj4an, Krisztian · [Devfolio](https://devfolio.co/projects/audit-agent-5916)
 
 An autonomous AI agent that monitors Ethereum proxy upgrades in real time — detecting EIP-1967 events, diffing bytecode and ABI, flagging storage-layout violations, scoring severity with GPT-4o, and paying for off-chain intelligence via Apify X402 micropayments. Every alert (diff, AI analysis, block data) is published to a permanent Swarm Feed indexed by block number using Mantaray manifests, so threat intelligence stays retrievable long after the incident — without a centralized server.
 
 #### 5. Obec & dAppSwarm — *Dappnode Packages on Swarm*
-**Team:** Prokop Schield, Rev M · [Devfolio](https://devfolio.co/projects/hromada-5c7a)
+**Team:** Prokop, Rev M · [Devfolio](https://devfolio.co/projects/hromada-5c7a)
 
 A double act. **Obec** treats ENS records as the state machine for neighborhood DAOs — proposals, funding, and lifecycle stages live directly in ENS text records and subnames. **dAppSwarm** is a Rust CLI that publishes Dappnode packages to Swarm using Mantaray manifests and Feeds, replacing the IPFS-plus-central-registry dependency with signed Single-Owner-Chunk feed entries and exponential-probe binary search for version lookup. Exactly the architecture the Dappnode bounty was looking for.
 
@@ -100,17 +100,17 @@ Awarded to teams whose builds caught the Swarm mentors' attention — whether fo
 A fully peer-to-peer marketplace for buying and selling decryption keys to digital content. No intermediaries — users need only a site reference hash, the Freedom browser, and a small amount of xDAI on Gnosis Chain. Encrypted user profiles back up to Swarm for cross-device portability, and the team also shipped a key-value store module for Swarm as part of the build.
 
 #### 7. TASS (SolidScan)
-**Team:** Srini Jagannath, Shriya Kokane, Tianhao Gu, Anna M · [Devfolio](https://devfolio.co/projects/tass-c2c0)
+**Team:** Srini, Shriya, Tianhao Gu, Anna · [Devfolio](https://devfolio.co/projects/tass-c2c0)
 
 A VS Code extension that consolidates smart-contract security review and compliance checking — leveraging the Sourcify dataset to surface vulnerabilities and legal risks before deployment, with Swarm's Verified Fetch as the backend so contract verification data doesn't depend on a centralized gateway. Also won first place in the Sourcify bounty track.
 
 #### 8. JimmyAgent
-**Team:** Kostiantyn Zubarev, Igor Votintsev, Elena Surovtseva, Tetiana Lukanieva · [Devfolio](https://devfolio.co/projects/simbaagent-a916)
+**Team:** Kostiantyn, Igor, Elena, Tetiana · [Devfolio](https://devfolio.co/projects/simbaagent-a916)
 
 *"AI-powered satellite wallet."* JimmyAgent separates intent, reasoning, memory, and signing across multiple trust layers: users hold local intent, an AI agent explains and prepares actions, ENS handles identity and agent discovery, and SpaceComputer's satellite infrastructure handles signing. Swarm acts as the encrypted decentralized memory layer for the agent's reasoning and transaction context — replacing both browser wallets and centralized state servers.
 
 #### 9. Pipeo
-**Team:** Agoston Szoke, Ondřej Raška, Dawid Szlachta · [Devfolio](https://devfolio.co/projects/pipeo-3cf1)
+**Team:** Agoston, Ondřej, Dawid · [Devfolio](https://devfolio.co/projects/pipeo-3cf1)
 
 *"Channels that never sleep."* A Reddit-style messaging layer for humans and agents, where each participant runs their own Feed and an aggregator composes them into a unified channel structure. Built on Node.js + Docker, with Swarm as the peer-to-peer messaging substrate.
 
