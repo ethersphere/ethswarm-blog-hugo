@@ -76,7 +76,7 @@ The result: **nine projects took home Swarm prizes**, including four bounty winn
 
 *"Prediction for the Age of AI."* A prediction market that resolves subjective, hard-to-verify claims through staked, private commit-reveal jury voting rather than a centralized oracle. Built in Solidity + Next.js, with market documents and evidence pulled from Swarm via the Verified Fetch API so participants can independently verify what they're voting on — no gateway trust required.
 
-#### 3. fama — *A Simple Key-Value Store on Swarm*
+#### 3. Fama — *A Simple Key-Value Store on Swarm*
 **Team:** Viki's Vacuum — Viki, Jana, Martin · [Devfolio](https://devfolio.co/projects/fama-5b40)
 
 *"Claims expire. Credibility compounds."* fama turns social-media posts into falsifiable claims with deadlines, then assigns non-transferable credibility scores to authors based on how their predictions resolve. The team built a custom key-value store on Swarm (`@swarmkv/core`) as the application's data backbone, directly answering the bounty brief — and shipped a working app on top of it.
@@ -95,7 +95,7 @@ A double act. **Obec** treats ENS records as the state machine for neighborhood 
 
 Awarded to teams whose builds caught the Swarm mentors' attention — whether for integration depth, ambition, or production-readiness — even though they didn't map cleanly onto a named bounty.
 
-#### 6. swarmkey
+#### 6. Swarmkey
 **Team:** Josef V (@atris), noad dev (@noad) · [Devfolio](https://devfolio.co/projects/swarmkey-22aa)
 
 A fully peer-to-peer marketplace for buying and selling decryption keys to digital content. No intermediaries — users need only a site reference hash, the Freedom browser, and a small amount of xDAI on Gnosis Chain. Encrypted user profiles back up to Swarm for cross-device portability, and the team also shipped a key-value store module for Swarm as part of the build.
