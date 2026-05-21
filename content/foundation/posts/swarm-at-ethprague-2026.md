@@ -5,7 +5,7 @@ categories = [ "Events" ]
 date = 2026-05-20T00:00:00.000Z
 description = "Swarm Foundation joined ETHPrague 2026 — running a booth, mentoring teams, giving talks, and backing nine hackathon projects across four named bounties, one track award, and four custom Swarm rewards."
 references_and_footnotes = [ ]
-title = "Swarm at ETHPrague 2026: booth, bounties, and nine winning projects"
+title = "Swarm at ETHPrague 2026: From booth conversations to stage time, and more hackathon wins than there were bounties"
 _template = "post"
 +++
 
@@ -20,7 +20,7 @@ Read the [official ETHPrague 2026 recap](https://ducttapeevents.notion.site/ETHP
 
 ## At the booth
 
-The Swarm booth at EthPrague was the place to meet the team, ask direct questions, and get a practical look at what we are building — from decentralized frontend hosting with Beeport to decentralized streaming, hackathon guidance, and early conversations around the upcoming ambassador program. Conversations moved from "what's the difference between Swarm and IPFS?" to deeper dives into postage stamps, Feeds, ACT, and what it actually takes to build on decentralized infrastructure. Some of the best chats happened over specialty coffee and local classic Marlenka honey nuggets in the café area — keeping hackers caffeinated. Good infrastructure and good espresso both deserve better defaults.
+Set up in the café area, the Swarm booth was the place to meet the team, ask direct questions, and get a practical look at what we are building — from decentralized frontend hosting with Beeport to decentralized streaming, hackathon guidance, and early conversations around the upcoming ambassador program. Uplifting conversations over specialty coffee and the local classic, Marlenka honey nuggets, moved from “what’s the difference between Swarm and IPFS?” to deeper dives into postage stamps, Feeds, ACT, and what it actually takes to build on decentralized infrastructure.
 
 ![The Swarm booth at ETHPrague 2026](/uploads/ethprague-2026-booth.jpg)
 
@@ -30,7 +30,7 @@ The Swarm booth at EthPrague was the place to meet the team, ask direct question
 
 ## Talks
 
-Three sessions on the program featured Swarm voices — one solo product talk, one solo cultural audit, and one cross-stack panel.
+Three sessions on the program featured Swarm voices — a product talk, a cultural audit, and a cross-stack panel.
 
 #### From Free to Fast: Product Tiers of Decentralised Storage
 **Speaker:** Viktor Trón (Swarm Foundation)  ·  **9 May, 11:15 · Sladkovský Stage**  ·  [Watch](https://www.youtube.com/watch?v=YoXNfdwSZ4k)
