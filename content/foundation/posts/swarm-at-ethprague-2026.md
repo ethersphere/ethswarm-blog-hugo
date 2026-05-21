@@ -31,7 +31,7 @@ Set up in the café area, the Swarm booth was the place to meet the team, ask di
 
 ## Talks
 
-Three sessions on the program featured Swarm voices — a product talk, a cultural audit, and a cross-stack panel.
+Three sessions on the program featured Swarm voices — a foundational protocol talk, a cultural audit, and a cross-stack panel.
 
 #### From Free to Fast: Product Tiers of Decentralised Storage
 **Speaker:** Viktor Trón (Swarm Foundation)  ·  **9 May, 11:15 · Sladkovský Stage**  ·  [Watch](https://www.youtube.com/watch?v=YoXNfdwSZ4k)
