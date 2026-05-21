@@ -7,6 +7,7 @@ description = "Swarm Foundation joined ETHPrague 2026 — running a booth, mento
 references_and_footnotes = [ ]
 title = "Swarm at ETHPrague 2026: From booth conversations to stage time, and more hackathon wins than there were bounties"
 _template = "post"
+slug="swarm-at-ethprague-2026"
 +++
 
 
