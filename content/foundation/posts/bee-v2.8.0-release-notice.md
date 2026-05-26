@@ -16,7 +16,7 @@ aliases = [
 
 ## Bee v2.8.0 Released
 
-Bee v2.8.0 has been released.
+*Full [release notes](https://github.com/ethersphere/bee/releases/tag/v2.8.0) can be found on GitHub.*
 
 This release focuses on security hardening in Bee's p2p layer, with improvements around handshake validation, address record verification, underlay handling, signed timestamps, nonce validation, chequebook verification, and protocol compatibility.
 
