@@ -1,5 +1,8 @@
 # Swarm Blog Hugo
 
+> **Maintained by:** devrel team
+
+
 Multi blog blog for Swarm. Uses Multilanguage as a solution to host multiple blogs in one site.
 
 Content is hosted on Forestry.
