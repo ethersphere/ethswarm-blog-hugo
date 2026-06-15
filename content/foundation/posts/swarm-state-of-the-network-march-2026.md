@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 banner = "/uploads/sotn-mar-26.jpg"
 images = [ "/uploads/sotn-mar-26.jpg" ]
 categories = [ "Development updates" ]
