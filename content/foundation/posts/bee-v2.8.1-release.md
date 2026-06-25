@@ -2,7 +2,7 @@
 banner = "/uploads/bee-2-8-1.png"
 images = [ "/uploads/bee-2-8-1.png" ]
 categories = [ "Development updates" ]
-date = 2026-06-24T00:00:00.000Z
+date = 2026-06-30T00:00:00.000Z
 description = "Bee v2.8.1 is a non-disruptive release focused on performance, data durability, and developer experience, with some operational cleanup. It brings faster chunk hashing, crash-safe local storage, reduced blockchain RPC traffic, and a step toward browser-based uploads."
 references_and_footnotes = [ ]
 title = "Bee Version 2.8.1 Release Announcement"
@@ -16,7 +16,7 @@ aliases = [
 
 ## Bee v2.8.1 Released
 
-*Bee v2.8.1 is a non-disruptive release focused on performance, data durability, and developer experience, with some operational cleanup. It is scheduled for release on **July 1st, 2026**.*
+*Bee v2.8.1 is a non-disruptive release focused on performance, data durability, and developer experience, with some operational cleanup. It is scheduled for release on **July 7th, 2026**.*
 
 ## What Is Changing
 
@@ -150,4 +150,4 @@ If you're a node operator or developer with questions about upgrading or the new
 
 ---
 
-*Bee v2.8.1 is scheduled for release on **July 1st, 2026**. This post will be updated when it goes live. Start planning your upgrade now, especially if you use dev mode for local development or still run a Bee v2.6.0 node.*
+*Bee v2.8.1 is scheduled for release on **July 7th, 2026**. This post will be updated when it goes live. Start planning your upgrade now, especially if you use dev mode for local development or still run a Bee v2.6.0 node.*
