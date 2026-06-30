@@ -14,8 +14,6 @@ aliases = [
 ]
 +++
 
-## Bee v2.8.1 Released
-
 *Bee v2.8.1 is a non-disruptive release focused on performance, data durability, and developer experience, with some operational cleanup. It is scheduled for release on **July 7th, 2026**.*
 
 ## What Is Changing
