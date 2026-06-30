@@ -74,7 +74,13 @@ Bee v2.8.1 lets a client sign its own postage stamps and upload already-stamped 
 Together with the AutoTLS and secure WebSocket (WSS) support from v2.7.0, this is another step toward running Bee directly in the browser.
 
 {{< admonition tip >}}
-**For developers:** this is a feature update to the existing `/chunks/stream` WebSocket endpoint. To upload pre-signed (stamped) chunks, set the `Swarm-Postage-Batch-Id` header on the `/chunks/stream` request. Browsers, which can't set custom headers on a WebSocket connection, can pass the `swarm-tag` query parameter instead.
+**For developers:** the **`/chunks/stream` (WebSocket)** endpoint accepts pre-signed (client-stamped) chunks.
+
+Omit the `Swarm-Postage-Batch-Id` header on the connection to enter per-chunk-stamp mode. 
+Then, for each chunk, send the stamp envelope bytes (113 bytes) first, followed by the chunk data (span + payload). 
+With the batch-id header set instead, each message is treated as raw chunk data.
+
+Browsers, which can't set custom headers on a WebSocket connection, can pass the `swarm-tag` query parameter instead.
 {{< /admonition >}}
 
 ## Dev Mode Has Been Removed
