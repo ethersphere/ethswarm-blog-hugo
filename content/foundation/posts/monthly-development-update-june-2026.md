@@ -2,7 +2,7 @@
 banner = "/uploads/devupdate0626.png"
 images = [ "/uploads/devupdate0626.png" ]
 categories = [ "Development updates" ]
-date = 2026-07-05T00:00:00.000Z
+date = 2026-07-03T00:00:00.000Z
 description = "June was a month of stabilization and showing up in person: Bee v2.8.1 was locked in and announced for July 7, Swarm-CLI v3.3.0 redesigned ACT access control, Bee Factory and Gateway kept maturing as developer infrastructure, and Swarm spent a full week at Berlin Blockchain Week..."
 references_and_footnotes = [ ]
 title = "Monthly Development Update – June 2026"
