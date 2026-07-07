@@ -14,7 +14,7 @@ aliases = [
 ]
 +++
 
-*Bee v2.8.1 is a non-disruptive release focused on performance, data durability, and developer experience, with some operational cleanup. It is scheduled for release on **July 7th, 2026**.*
+*Bee v2.8.1 is a non-disruptive release focused on performance, data durability, and developer experience, with some operational cleanup. It was released on **July 7th, 2026**.*
 
 ## What Is Changing
 
@@ -112,7 +112,7 @@ Bee v2.8.1 fixes this: the node now signs its address record **once and reuses t
 The network's minimum supported version has been **v2.8.0** since the [v2.8.0 release](https://blog.ethswarm.org/foundation/2026/bee-2-8-release/#updated-p2p-protocol-compatibility), which introduced breaking p2p protocol changes. Bee v2.8.1 now removes the remaining v2.6.0 backward-compatibility code, so nodes still on v2.6.0 or earlier also lose the ability to upgrade directly to v2.8.1.
 
 {{< admonition warning >}}
-**If you are still running a Bee v2.6.0 (or older) node:** upgrade to **v2.8.0 now**, then to **v2.8.1** once it is released, or re-install the node fresh on **v2.8.1**.
+**If you are still running a Bee v2.6.0 (or older) node:** upgrade to **v2.8.0** first, then to **v2.8.1**, or re-install the node fresh on **v2.8.1**.
 {{< /admonition >}}
 
 ## API & Developer Changes
@@ -146,7 +146,7 @@ On the maintenance side: the Docker Compose environment variables were updated t
 
 ## Full Changelog
 
-For the complete list of changes, see the [Bee v2.8.1 release changelog](https://github.com/ethersphere/bee/releases/tag/v2.8.1) on GitHub (live on release day).
+For the complete list of changes, see the [Bee v2.8.1 release changelog](https://github.com/ethersphere/bee/releases/tag/v2.8.1) on GitHub.
 
 ## Need Help?
 
@@ -154,4 +154,4 @@ If you're a node operator or developer with questions about upgrading or the new
 
 ---
 
-*Bee v2.8.1 is scheduled for release on **July 7th, 2026**. This post will be updated when it goes live. Start planning your upgrade now, especially if you use dev mode for local development or still run a Bee v2.6.0 node.*
+*Bee v2.8.1 was released on **July 7th, 2026**. Plan your upgrade now, especially if you use dev mode for local development or still run a Bee v2.6.0 node.*
