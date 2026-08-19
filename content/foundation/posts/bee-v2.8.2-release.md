@@ -3,7 +3,7 @@ banner = "/uploads/bee-2-8-2.png"
 images = [ "/uploads/bee-2-8-2.png" ]
 categories = [ "Development updates" ]
 date = 2026-08-18T00:00:00.000Z
-description = "Bee v2.8.2 is scheduled for release on August 27th, 2026. This is a security-related release, and all node operators are asked to upgrade as soon as the new version becomes available."
+description = "Bee v2.8.2 is scheduled for release on August 26th, 2026. This is a security-related release, and all node operators are asked to upgrade as soon as the new version becomes available."
 references_and_footnotes = [ ]
 title = "Bee Version 2.8.2 Release Announcement"
 _template = "post"
@@ -14,11 +14,11 @@ aliases = [
 ]
 +++
 
-*Bee v2.8.2 is scheduled for release on **August 27th, 2026**. This is a security-related release, and all node operators are asked to upgrade as soon as the new version becomes available.*
+*Bee v2.8.2 is scheduled for release on **August 26th, 2026**. This is a security-related release, and all node operators are asked to upgrade as soon as the new version becomes available.*
 
-## Bee v2.8.2 Is Scheduled for August 27th
+## Bee v2.8.2 Is Scheduled for August 26th
 
-Bee v2.8.2 is scheduled for release on **August 27th, 2026**. This announcement comes a week ahead of that date so operators can plan the upgrade.
+Bee v2.8.2 is scheduled for release on **August 26th, 2026**. This announcement comes a week ahead of that date so operators can plan the upgrade.
 
 {{< admonition warning >}}
 **This is a security-related release.** All node operators are asked to upgrade to v2.8.2 as soon as the new version becomes available.
@@ -46,4 +46,4 @@ If you're a node operator with questions about upgrading, join the [#node-operat
 
 ---
 
-*Bee v2.8.2 is scheduled for release on **August 27th, 2026**. Please plan to upgrade as soon as the release is published.*
+*Bee v2.8.2 is scheduled for release on **August 26th, 2026**. Please plan to upgrade as soon as the release is published.*
