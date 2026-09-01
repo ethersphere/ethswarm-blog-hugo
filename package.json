@@ -7,16 +7,20 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "forestry:preview": "hugo server -F -D -E -w",
     "dev": "tinacms dev -c \"hugo server -D\"",
-    "build": "tinacms build && hugo"
+    "build": "tinacms build && hugo",
+    "preview:local": "hugo-bin server -D",
+    "build:local": "hugo-bin"
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "hugo-bin": "^0.149.2"
+  },
   "devDependencies": {
     "@tinacms/cli": "^2.0.5",
-    "tinacms": "^3.1.2",
     "autoprefixer": "^10.4.16",
     "postcss": "^8.4.32",
-    "postcss-cli": "^11.0.0"
+    "postcss-cli": "^11.0.0",
+    "tinacms": "^3.1.2"
   }
 }
