@@ -1,0 +1,7 @@
+{{- $.Scratch.Add "index" slice -}}
+{{- range where .Site.RegularPages "Section" "in" (slice "foundation" "hive" "zh") -}}
+  {{- if in .File.Path "posts" -}}
+    {{- $.Scratch.Add "index" (dict "title" .Title "link" .Permalink "description" .Description "content" .Plain "date" .Date "author" .Params.author) -}}
+  {{- end -}}
+{{- end -}}
+{{- $.Scratch.Get "index" | jsonify -}}
