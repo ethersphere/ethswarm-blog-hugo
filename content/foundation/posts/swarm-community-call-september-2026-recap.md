@@ -1,6 +1,6 @@
 +++
-banner = "/uploads/SCC0926-recap.png"
-images = [ "/uploads/SCC0926-recap.png" ]
+banner = "/uploads/SCC0926-recap-v2.png"
+images = [ "/uploads/SCC0926-recap-v2.png" ]
 categories = [ "Events" ]
 date = 2026-09-29T00:00:00.000Z
 description = "September’s Swarm Community Call showed work moving from proposition into practice: Bee’s first PubSub implementation, a published paper on deletable content in immutable storage, SwarmID used by 14 projects at ETHRome, and a working demo of AI agents discovering data, paying for access and building verifiable reputation on Swarm."
