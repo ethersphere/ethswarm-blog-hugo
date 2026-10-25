@@ -1676,7 +1676,7 @@
       "permanent": true
     },
     {
-      "source": "/:path*",
+      "source": "/(.*)",
       "destination": "https://www.ethswarm.org/blog/",
       "permanent": true
     }
